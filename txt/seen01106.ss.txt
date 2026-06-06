@@ -58,7 +58,7 @@
 ○0000000021○I spot a familiar silhouette standing by the school gates.
 ●0000000021●
 
-○0000000022○Sizuru.
+○0000000022○Shizuru.
 ●0000000022●
 
 ○0000000023○静流
@@ -103,7 +103,7 @@
 ○0000000036○瑚太朗
 ●0000000036●
 
-○0000000037○"...Ms. Sizuru?"
+○0000000037○"...Ms. Shizuru?"
 ●0000000037●
 
 ○0000000038○静流
@@ -115,7 +115,7 @@
 ○0000000040○静流
 ●0000000040●
 
-○0000000041○"...!!"
+○0000000041○"...!"
 ●0000000041●
 
 ○0000000042○静流
@@ -127,7 +127,7 @@
 ○0000000044○静流
 ●0000000044●
 
-○0000000045○"Breakfast!!"
+○0000000045○"Breakfast!"
 ●0000000045●
 
 ○0000000046○静流
@@ -316,7 +316,7 @@
 ○0000000107○静流
 ●0000000107●
 
-○0000000108○"This 'の' character doesn't work."
+○0000000108○"The toe-crossing thing doesn't work."
 ●0000000108●
 
 ○0000000109○瑚太朗
@@ -343,7 +343,7 @@
 ○0000000116○"......"
 ●0000000116●
 
-○0000000117○Sizuru looks troubled.
+○0000000117○Shizuru looks troubled.
 ●0000000117●
 
 ○0000000118○瑚太朗
@@ -403,10 +403,10 @@
 ○0000000136○ルチア
 ●0000000136●
 
-○0000000137○"Haah!!"
+○0000000137○"Haah!"
 ●0000000137●
 
-○0000000138○Something is flying my way!!
+○0000000138○Something is flying my way!
 ●0000000138●
 
 ○0000000139○瑚太朗
@@ -451,7 +451,7 @@
 ○0000000152○ルチア
 ●0000000152●
 
-○0000000153○"How dare you touch Sizuru with your dirty paws this early! That's a capital offense, as far as I'm concerned!!"
+○0000000153○"How dare you touch Shizuru with your dirty paws this early! That's a capital offense, as far as I'm concerned!"
 ●0000000153●
 
 ○0000000154○瑚太朗
@@ -487,7 +487,7 @@
 ○0000000164○"Villainous?! You, of all people, call me a villain?!"
 ●0000000164●
 
-○0000000165○Lucia's right fist flashes towards me, piercing the wind.
+○0000000165○Lucia's right fist flashes toward me, piercing the wind.
 ●0000000165●
 
 ○0000000166○瑚太朗
@@ -502,7 +502,7 @@
 ○0000000169○ルチア
 ●0000000169●
 
-○0000000170○"Stop dodging! Stand still!!"
+○0000000170○"Stop dodging! Stand still!"
 ●0000000170●
 
 ○0000000171○瑚太朗
@@ -520,7 +520,7 @@
 ○0000000175○瑚太朗
 ●0000000175●
 
-○0000000176○"Keep your warped sense of justice away from me!!"
+○0000000176○"Keep your warped sense of justice away from me!"
 ●0000000176●
 
 ○0000000177○静流
@@ -541,7 +541,7 @@
 ○0000000182○"......"
 ●0000000182●
 
-○0000000183○A single word from Sizuru makes Lucia freeze.
+○0000000183○A single word from Shizuru makes Lucia freeze.
 ●0000000183●
 
 ○0000000184○静流
@@ -598,7 +598,7 @@
 ○0000000201○"......"
 ●0000000201●
 
-○0000000202○Sizuru lets out a sigh of relief.
+○0000000202○Shizuru lets out a sigh of relief.
 ●0000000202●
 
 ○0000000203○静流
@@ -655,7 +655,7 @@
 ○0000000220○"Bye."
 ●0000000220●
 
-○0000000221○Sizuru trots away.
+○0000000221○Shizuru trots away.
 ●0000000221●
 
 ○0000000222○瑚太朗
@@ -685,7 +685,7 @@
 ○0000000230○瑚太朗
 ●0000000230●
 
-○0000000231○"Now I can look forward to a lovely date with Sizuru after school."
+○0000000231○"Now I can look forward to a lovely date with Shizuru after school."
 ●0000000231●
 
 ○0000000232○ルチア
@@ -730,7 +730,7 @@
 ○0000000245○"Oh?"
 ●0000000245●
 
-○0000000246○I don't see Sizuru in the inner yard today.
+○0000000246○I don't see Shizuru in the inner yard today.
 ●0000000246●
 
 ○0000000247○瑚太朗
@@ -808,7 +808,7 @@
 ○0000000271○瑚太朗
 ●0000000271●
 
-○0000000272○"By the way, have you seen Sizuru today?"
+○0000000272○"By the way, have you seen Shizuru today?"
 ●0000000272●
 
 ○0000000273○西九条
@@ -847,7 +847,7 @@
 ○0000000284○瑚太朗
 ●0000000284●
 
-○0000000285○"Yep. Sizuru invited me this time, but I think I'll be more aggressive from now on."
+○0000000285○"Yep. Shizuru invited me this time, but I think I'll be more aggressive from now on."
 ●0000000285●
 
 ○0000000286○西九条
@@ -964,7 +964,7 @@
 ○0000000323○西九条
 ●0000000323●
 
-○0000000324○"O-Oh my!! I'll fall for you if you keep saying that!"
+○0000000324○"O-Oh my! I'll fall for you if you keep saying that!"
 ●0000000324●
 
 ○0000000325○She begins running in circles.
@@ -1003,13 +1003,13 @@
 ○0000000336○西九条
 ●0000000336●
 
-○0000000337○"In that case... Who's cuter, me or Sizuru?"
+○0000000337○"In that case... Who's cuter, me or Shizuru?"
 ●0000000337●
 
 ○0000000338○瑚太朗
 ●0000000338●
 
-○0000000339○"Sizuru."
+○0000000339○"Shizuru."
 ●0000000339●
 
 ○0000000340○西九条
@@ -1087,7 +1087,7 @@
 ○0000000364○西九条
 ●0000000364●
 
-○0000000365○"...being with Sizuru might not be easy for you."
+○0000000365○"...being with Shizuru might not be easy for you."
 ●0000000365●
 
 ○0000000366○瑚太朗
@@ -1162,7 +1162,7 @@
 ○0000000389○瑚太朗
 ●0000000389●
 
-○0000000390○"I'd love to go on a drive with Sizuru, but I don't have a driver's license."
+○0000000390○"I'd love to go on a drive with Shizuru, but I don't have a driver's license."
 ●0000000390●
 
 ○0000000391○西九条
@@ -1180,19 +1180,19 @@
 ○0000000395○西九条
 ●0000000395●
 
-○0000000396○"I'm sure Sizuru will appreciate it."
+○0000000396○"I'm sure Shizuru will appreciate it."
 ●0000000396●
 
 ○0000000397○瑚太朗
 ●0000000397●
 
-○0000000398○"Well, if Sizuru's fine with it..."
+○0000000398○"Well, if Shizuru's fine with it..."
 ●0000000398●
 
 ○0000000399○During lunch break...
 ●0000000399●
 
-○0000000400○Sizuru and I are filling ourselves up when Ms. Nishikujou suddenly appears.
+○0000000400○Shizuru and I are filling ourselves up when Ms. Nishikujou suddenly appears.
 ●0000000400●
 
 ○0000000401○西九条
@@ -1210,7 +1210,7 @@
 ○0000000405○西九条
 ●0000000405●
 
-○0000000406○"Ahh!! S-Sizuru looks so far away all of a sudden..."
+○0000000406○"Ahh! S-Shizuru looks so far away all of a sudden..."
 ●0000000406●
 
 ○0000000407○Ms. Nishikujou is rejected on the spot.
@@ -1222,7 +1222,7 @@
 ○0000000409○"I was planning to take the bus."
 ●0000000409●
 
-○0000000410○Sizuru pulls out two tickets from her pocket.
+○0000000410○Shizuru pulls out two tickets from her pocket.
 ●0000000410●
 
 ○0000000411○瑚太朗
@@ -1264,7 +1264,7 @@
 ○0000000423○瑚太朗
 ●0000000423●
 
-○0000000424○"Sizuru, Ms. Nishikujou is not moving."
+○0000000424○"Shizuru, Ms. Nishikujou is not moving."
 ●0000000424●
 
 ○0000000425○静流
@@ -1315,7 +1315,7 @@
 ○0000000440○瑚太朗
 ●0000000440●
 
-○0000000441○"You're so grown up, Sizuru."
+○0000000441○"You're so grown up, Shizuru."
 ●0000000441●
 
 ○0000000442○I think she's overestimating Ms. Nishikujou a little, though.
@@ -1477,7 +1477,7 @@
 ○0000000494○"Thought.com..."
 ●0000000494●
 
-○0000000495○Sizuru is surprisingly picky when it comes to details.
+○0000000495○Shizuru is surprisingly picky when it comes to details.
 ●0000000495●
 
 ○0000000496○瑚太朗
@@ -1522,7 +1522,7 @@
 ○0000000509○"Yup."
 ●0000000509●
 
-○0000000510○Sizuru nods.
+○0000000510○Shizuru nods.
 ●0000000510●
 
 ○0000000511○瑚太朗
@@ -1669,13 +1669,13 @@
 ○0000000559○"Here."
 ●0000000559●
 
-○0000000560○Sizuru points at the flowerbed.
+○0000000560○Shizuru points at the flowerbed.
 ●0000000560●
 
 ○0000000561○瑚太朗
 ●0000000561●
 
-○0000000562○"Oh my god! You're eating a weed!!"
+○0000000562○"Oh my god! You're eating a weed!"
 ●0000000562●
 
 ○0000000563○静流
@@ -1801,7 +1801,7 @@
 ○0000000603○But now I'm just simply...
 ●0000000603●
 
-○0000000604○...happy about the fact that Sizuru wanted to show me her secrets.
+○0000000604○...happy about the fact that Shizuru wanted to show me her secrets.
 ●0000000604●
 
 ○0000000605○瑚太朗
@@ -1873,13 +1873,13 @@
 ○0000000628○西九条
 ●0000000628●
 
-○0000000629○"Hehe. Cyber Ryo!"
+○0000000629○"Hehe. Saiba Ryo!"
 ●0000000629●
 
 ○0000000630○瑚太朗
 ●0000000630●
 
-○0000000631○"That's a manga character!!"
+○0000000631○"That's a manga character!"
 ●0000000631●
 
 ○0000000632○An undercover hunter in a big city.
@@ -1939,7 +1939,7 @@
 ○0000000650○"Huh?"
 ●0000000650●
 
-○0000000651○Ms. Nishikujou sits in the front passenger's seat, and Sizuru slips into the back.
+○0000000651○Ms. Nishikujou sits in the front passenger's seat, and Shizuru slips into the back.
 ●0000000651●
 
 ○0000000652○瑚太朗
@@ -2020,7 +2020,7 @@
 ○0000000677○"Mh..."
 ●0000000677●
 
-○0000000678○Sizuru pokes my nose too, but I didn't suffer unprecedented damage from that.
+○0000000678○Shizuru pokes my nose too, but I didn't suffer unprecedented damage from that.
 ●0000000678●
 
 ○0000000679○静流
@@ -2041,7 +2041,7 @@
 ○0000000684○静流
 ●0000000684●
 
-○0000000685○"...!!"
+○0000000685○"...!"
 ●0000000685●
 
 ○0000000686○She seems shocked.
@@ -2104,7 +2104,7 @@
 ○0000000705○"Kotarou."
 ●0000000705●
 
-○0000000706○Sizuru pats the back seat next to her.
+○0000000706○Shizuru pats the back seat next to her.
 ●0000000706●
 
 ○0000000707○瑚太朗
@@ -2185,7 +2185,7 @@
 ○0000000732○"......"
 ●0000000732●
 
-○0000000733○Sizuru seems to be having fun glued to the window. On the other hand, I can't really sing, either.
+○0000000733○Shizuru seems to be having fun glued to the window. On the other hand, I can't really sing, either.
 ●0000000733●
 
 ○0000000734○西九条
@@ -2428,7 +2428,7 @@
 ○0000000813○瑚太朗
 ●0000000813●
 
-○0000000814○"Ms. Sizuru, I'd appreciate if you didn't go around spreading information about me."
+○0000000814○"Ms. Shizuru, I'd appreciate if you didn't go around spreading information about me."
 ●0000000814●
 
 ○0000000815○静流
@@ -2560,7 +2560,7 @@
 ○0000000857○西九条
 ●0000000857●
 
-○0000000858○"We're going to the house where Sizuru was born and raised."
+○0000000858○"We're going to the house where Shizuru was born and raised."
 ●0000000858●
 
 ○0000000859○西九条
@@ -2602,7 +2602,7 @@
 ○0000000871○西九条
 ●0000000871●
 
-○0000000872○"But Sizuru only ever tells the truth."
+○0000000872○"But Shizuru only ever tells the truth."
 ●0000000872●
 
 ○0000000873○西九条
@@ -2713,7 +2713,7 @@
 ○0000000909○We continue down an unfamiliar road.
 ●0000000909●
 
-○0000000910○Sizuru leads the way without a single trace of hesitation in her steps.
+○0000000910○Shizuru leads the way without a single trace of hesitation in her steps.
 ●0000000910●
 
 ○0000000912○静流
@@ -2755,7 +2755,7 @@
 ○0000000924○"Mm."
 ●0000000924●
 
-○0000000925○Sizuru grasps my sleeve.
+○0000000925○Shizuru grasps my sleeve.
 ●0000000925●
 
 ○0000000926○瑚太朗
@@ -2773,7 +2773,7 @@
 ○0000000930○瑚太朗
 ●0000000930●
 
-○0000000931○"Um, Sizuru..."
+○0000000931○"Um, Shizuru..."
 ●0000000931●
 
 ○0000000932○静流
@@ -2785,7 +2785,7 @@
 ○0000000934○瑚太朗
 ●0000000934●
 
-○0000000935○"Ms. Sizuru?"
+○0000000935○"Ms. Shizuru?"
 ●0000000935●
 
 ○0000000936○静流
@@ -2833,7 +2833,7 @@
 ○0000000950○They said I'd understand once I saw it with my own eyes, so I might as well stop wasting time and hurry on.
 ●0000000950●
 
-○0000000951○However, Sizuru seems to be slowing down the closer we get to our destination.
+○0000000951○However, Shizuru seems to be slowing down the closer we get to our destination.
 ●0000000951●
 
 ○0000000952○静流
@@ -2857,7 +2857,7 @@
 ○0000000958○(We're going somewhere that she needs a lot of courage to show me. It's probably gonna be something mega serious.)
 ●0000000958●
 
-○0000000959○Sizuru stops.
+○0000000959○Shizuru stops.
 ●0000000959●
 
 ○0000000960○静流
@@ -2878,10 +2878,10 @@
 ○0000000965○"......"
 ●0000000965●
 
-○0000000966○Sizuru nods.
+○0000000966○Shizuru nods.
 ●0000000966●
 
-○0000000967○Sizuru's house.
+○0000000967○Shizuru's house.
 ●0000000967●
 
 ○0000000968○A small one-story building without much space for a yard.
@@ -2914,7 +2914,7 @@
 ○0000000977○"......"
 ●0000000977●
 
-○0000000978○Sizuru stares at the doors, as still as a statue.
+○0000000978○Shizuru stares at the doors, as still as a statue.
 ●0000000978●
 
 ○0000000979○瑚太朗
@@ -2953,7 +2953,7 @@
 ○0000000990○"......"
 ●0000000990●
 
-○0000000991○Sizuru doesn't move an inch.
+○0000000991○Shizuru doesn't move an inch.
 ●0000000991●
 
 ○0000000992○瑚太朗
@@ -2995,7 +2995,7 @@
 ○0000001004○"......"
 ●0000001004●
 
-○0000001005○Sizuru doesn't even flinch.
+○0000001005○Shizuru doesn't even flinch.
 ●0000001005●
 
 ○0000001006○瑚太朗
@@ -3037,7 +3037,7 @@
 ○0000001018○"......"
 ●0000001018●
 
-○0000001019○And neither has Sizuru.
+○0000001019○And neither has Shizuru.
 ●0000001019●
 
 ○0000001020○瑚太朗
@@ -3058,7 +3058,7 @@
 ○0000001025○"......"
 ●0000001025●
 
-○0000001026○But Sizuru still isn't moving.
+○0000001026○But Shizuru still isn't moving.
 ●0000001026●
 
 ○0000001027○......
@@ -3088,7 +3088,7 @@
 ○0000001035○I've at least been fidgeting and stretching my muscles this whole time, but...
 ●0000001035●
 
-○0000001036○...Sizuru has stood motionless for hours.
+○0000001036○...Shizuru has stood motionless for hours.
 ●0000001036●
 
 ○0000001037○Not to mention that she's staring at a single point.
@@ -3112,7 +3112,7 @@
 ○0000001043○瑚太朗
 ●0000001043●
 
-○0000001044○"Sizuru, I think there's actually someone inside."
+○0000001044○"Shizuru, I think there's actually someone inside."
 ●0000001044●
 
 ○0000001045○静流
@@ -3148,7 +3148,7 @@
 ○0000001055○...Ah.
 ●0000001055●
 
-○0000001056○Sizuru wasn't waiting.
+○0000001056○Shizuru wasn't waiting.
 ●0000001056●
 
 ○0000001057○瑚太朗
@@ -3214,7 +3214,7 @@
 ○0000001077○静流
 ●0000001077●
 
-○0000001078○"...!!"
+○0000001078○"...!"
 ●0000001078●
 
 ○0000001079○She's wearing a gentle expression on her face.
@@ -3229,7 +3229,7 @@
 ○0000001082○瑚太朗
 ●0000001082●
 
-○0000001083○(...She looks a lot like Sizuru.)
+○0000001083○(...She looks a lot like Shizuru.)
 ●0000001083●
 
 ○0000001084○If this is her family's house, then this is no doubt her mother.
@@ -3241,7 +3241,7 @@
 ○0000001086○"Is something the matter?"
 ●0000001086●
 
-○0000001087○She asks Sizuru with a friendly smile.
+○0000001087○She asks Shizuru with a friendly smile.
 ●0000001087●
 
 ○0000001088○静流
@@ -3250,7 +3250,7 @@
 ○0000001089○"......"
 ●0000001089●
 
-○0000001090○Sizuru says nothing.
+○0000001090○Shizuru says nothing.
 ●0000001090●
 
 ○0000001091○女性
@@ -3277,7 +3277,7 @@
 ○0000001098○"......"
 ●0000001098●
 
-○0000001099○Sizuru shakes her head.
+○0000001099○Shizuru shakes her head.
 ●0000001099●
 
 ○0000001100○瑚太朗
@@ -3379,7 +3379,7 @@
 ○0000001132○The woman talks with a gentle smile.
 ●0000001132●
 
-○0000001133○...But Sizuru's face is a mask of gloom.
+○0000001133○...But Shizuru's face is a mask of gloom.
 ●0000001133●
 
 ○0000001134○男性
@@ -3427,7 +3427,7 @@
 ○0000001148○"......"
 ●0000001148●
 
-○0000001149○Sizuru shakes her head again.
+○0000001149○Shizuru shakes her head again.
 ●0000001149●
 
 ○0000001150○男性
@@ -3448,7 +3448,7 @@
 ○0000001155○"Let's go."
 ●0000001155●
 
-○0000001156○Sizuru grasps my sleeve.
+○0000001156○Shizuru grasps my sleeve.
 ●0000001156●
 
 ○0000001157○瑚太朗
@@ -3469,7 +3469,7 @@
 ○0000001162○"......"
 ●0000001162●
 
-○0000001163○Sizuru makes a small bow.
+○0000001163○Shizuru makes a small bow.
 ●0000001163●
 
 ○0000001164○She then turns her back to her parents and walks off.
@@ -3490,7 +3490,7 @@
 ○0000001169○女性
 ●0000001169●
 
-○0000001170○"We're home! How was your day, Sizu?"
+○0000001170○"We're home! How was your day, Shizu?"
 ●0000001170●
 
 ○0000001171○子供
@@ -3502,7 +3502,7 @@
 ○0000001173○瑚太朗
 ●0000001173●
 
-○0000001174○"...!!"
+○0000001174○"...!"
 ●0000001174●
 
 ○0000001175○瑚太朗
@@ -3514,13 +3514,13 @@
 ○0000001177○男性
 ●0000001177●
 
-○0000001178○"You were home all alone, Sizuka? That's our big girl."
+○0000001178○"You were home all alone, Shizuka? That's our big girl."
 ●0000001178●
 
 ○0000001179○瑚太朗
 ●0000001179●
 
-○0000001180○"Sizu...?"
+○0000001180○"Shizu...?"
 ●0000001180●
 
 ○0000001181○静流
@@ -3610,7 +3610,7 @@
 ○0000001209○瑚太朗
 ●0000001209●
 
-○0000001210○"Um... It's Nakatsu Sizuru, isn't it?"
+○0000001210○"Um... It's Nakatsu Shizuru, isn't it?"
 ●0000001210●
 
 ○0000001211○瑚太朗
@@ -3706,13 +3706,13 @@
 ○0000001241○？？＿静流
 ●0000001241●
 
-○0000001242○"Nakatsu Sizuru."
+○0000001242○"Nakatsu Shizuru."
 ●0000001242●
 
 ○0000001243○瑚太朗
 ●0000001243●
 
-○0000001244○"Right, you're Sizuru!"
+○0000001244○"Right, you're Shizuru!"
 ●0000001244●
 
 ○0000001245○I understand the purpose of her demonstration.
@@ -3760,7 +3760,7 @@
 ○0000001259○"That's my power."
 ●0000001259●
 
-○0000001260○There's no way I would ever forget Sizuru's name.
+○0000001260○There's no way I would ever forget Shizuru's name.
 ●0000001260●
 
 ○0000001261○I have no idea what else could have caused something like that so conveniently.
@@ -3805,7 +3805,7 @@
 ○0000001274○I force my frozen legs to move.
 ●0000001274●
 
-○0000001275○Sizuru begins talking as we walk.
+○0000001275○Shizuru begins talking as we walk.
 ●0000001275●
 
 ○0000001277○Our household was no different from the rest at the beginning.
@@ -4369,7 +4369,7 @@
 ○0000001463○男＿ゲン
 ●0000001463●
 
-○0000001464○"Those bastards!!"
+○0000001464○"Those bastards!"
 ●0000001464●
 
 ○0000001465○男＿江坂
@@ -4381,7 +4381,7 @@
 ○0000001467○男
 ●0000001467●
 
-○0000001468○"Th-They're alive! All three of them!!"
+○0000001468○"Th-They're alive! All three of them!"
 ●0000001468●
 
 ○0000001469○男＿江坂
@@ -4393,7 +4393,7 @@
 ○0000001471○男＿ゲン
 ●0000001471●
 
-○0000001472○"All right, you're all rescue workers right now! Lives are our utmost priority! Save everyone, stray cats included! I'm not letting a single life go to waste today!!"
+○0000001472○"All right, you're all rescue workers right now! Lives are our utmost priority! Save everyone, stray cats included! I'm not letting a single life go to waste today!"
 ●0000001472●
 
 ○0000001473○男
@@ -4681,7 +4681,7 @@
 ○0000001567○"We were in a fire, right?" he asked.
 ●0000001567●
 
-○0000001568○"Yes", I answered.
+○0000001568○"Yes," I answered.
 ●0000001568●
 
 ○0000001569○"You healed me?"
@@ -4690,7 +4690,7 @@
 ○0000001570○"Yup."
 ●0000001570●
 
-○0000001571○"...I see. Thanks, Sizuru."
+○0000001571○"...I see. Thanks, Shizuru."
 ●0000001571●
 
 ○0000001572○He patted my head after thanking me.
@@ -4969,7 +4969,7 @@
 ○0000001663○He said I was already working, and it was only natural for me to earn money from that.
 ●0000001663●
 
-○0000001664○"You might save enough money to buy a house before me", he added with a chuckle.
+○0000001664○"You might save enough money to buy a house before me," he added with a chuckle.
 ●0000001664●
 
 ○0000001665○Could I buy a house if I lived in the new school?
@@ -5158,7 +5158,7 @@
 ○0000001727○"......"
 ●0000001727●
 
-○0000001728○Sizuru begins walking.
+○0000001728○Shizuru begins walking.
 ●0000001728●
 
 ○0000001729○静流
@@ -5197,10 +5197,10 @@
 ○0000001740○Orange gives way to purple, which in turn gives way to deep blue.
 ●0000001740●
 
-○0000001741○I was so taken in by Sizuru's story that I forgot all concepts of time.
+○0000001741○I was so taken in by Shizuru's story that I forgot all concepts of time.
 ●0000001741●
 
-○0000001742○Sizuru looks at me, with the west sky stretching far behind her.
+○0000001742○Shizuru looks at me, with the west sky stretching far behind her.
 ●0000001742●
 
 ○0000001743○...And nods.
@@ -5305,7 +5305,7 @@
 ○0000001777○"I'm not sure if I can call it a little when the sky's this dark."
 ●0000001777●
 
-○0000001778○Sizuru has already nodded off with her head against the back seat window.
+○0000001778○Shizuru has already nodded off with her head against the back seat window.
 ●0000001778●
 
 ○0000001779○西九条
@@ -5320,7 +5320,7 @@
 ○0000001782○"You could say it was quite an ordeal, in a sense."
 ●0000001782●
 
-○0000001783○I'd never seen Sizuru talk that much before.
+○0000001783○I'd never seen Shizuru talk that much before.
 ●0000001783●
 
 ○0000001784○西九条
@@ -5344,7 +5344,7 @@
 ○0000001790○瑚太朗
 ●0000001790●
 
-○0000001791○"...You're someone from the facility that Sizuru was transferred to."
+○0000001791○"...You're someone from the facility that Shizuru was transferred to."
 ●0000001791●
 
 ○0000001792○西九条
@@ -5395,7 +5395,7 @@
 ○0000001807○瑚太朗
 ●0000001807●
 
-○0000001808○"Was Sizuru born with these powers?"
+○0000001808○"Was Shizuru born with these powers?"
 ●0000001808●
 
 ○0000001809○西九条
@@ -5419,7 +5419,7 @@
 ○0000001815○It sounds like a fantastic power.
 ●0000001815●
 
-○0000001816○But in Sizuru's case...
+○0000001816○But in Shizuru's case...
 ●0000001816●
 
 ○0000001817○瑚太朗
@@ -5476,7 +5476,7 @@
 ○0000001834○瑚太朗
 ●0000001834●
 
-○0000001835○"Is there anyone in this world who wouldn't think of Sizuru as unhappy?"
+○0000001835○"Is there anyone in this world who wouldn't think of Shizuru as unhappy?"
 ●0000001835●
 
 ○0000001836○西九条
@@ -5488,7 +5488,7 @@
 ○0000001838○西九条
 ●0000001838●
 
-○0000001839○"Has Sizuru told you how much she has in her bank account?"
+○0000001839○"Has Shizuru told you how much she has in her bank account?"
 ●0000001839●
 
 ○0000001840○瑚太朗
@@ -5572,7 +5572,7 @@
 ○0000001866○Suddenly, it dawns on me.
 ●0000001866●
 
-○0000001867○Sizuru's dad said he wanted to buy a house.
+○0000001867○Shizuru's dad said he wanted to buy a house.
 ●0000001867●
 
 ○0000001868○However, her family is still living in that rental shack.
@@ -5587,7 +5587,7 @@
 ○0000001871○西九条
 ●0000001871●
 
-○0000001872○"I believe Sizuru's thinking that..."
+○0000001872○"I believe Shizuru's thinking that..."
 ●0000001872●
 
 ○0000001873○西九条
@@ -5701,7 +5701,7 @@
 ○0000001909○西九条
 ●0000001909●
 
-○0000001910○"Really? Are you confident you'll be able to treat Sizuru the same way from now on?"
+○0000001910○"Really? Are you confident you'll be able to treat Shizuru the same way from now on?"
 ●0000001910●
 
 ○0000001911○瑚太朗
@@ -5731,7 +5731,7 @@
 ○0000001919○瑚太朗
 ●0000001919●
 
-○0000001920○"...But it doesn't change who Sizuru is."
+○0000001920○"...But it doesn't change who Shizuru is."
 ●0000001920●
 
 ○0000001921○西九条
@@ -5749,19 +5749,19 @@
 ○0000001925○西九条
 ●0000001925●
 
-○0000001926○"One thing Sizuru doesn't lack is cuteness. I can totally understand."
+○0000001926○"One thing Shizuru doesn't lack is cuteness. I can totally understand."
 ●0000001926●
 
 ○0000001927○西九条
 ●0000001927●
 
-○0000001928○"Then, if you had to choose between me and Si―"
+○0000001928○"Then, if you had to choose between me and Shi―"
 ●0000001928●
 
 ○0000001929○瑚太朗
 ●0000001929●
 
-○0000001930○"Sizuru."
+○0000001930○"Shizuru."
 ●0000001930●
 
 ○0000001931○西九条
@@ -5806,7 +5806,7 @@
 ○0000001944○瑚太朗
 ●0000001944●
 
-○0000001945○"Well, I guess you'll have to curse the fate that brought Sizuru and me together. I'm sorry."
+○0000001945○"Well, I guess you'll have to curse the fate that brought Shizuru and me together. I'm sorry."
 ●0000001945●
 
 ○0000001946○西九条
@@ -5827,7 +5827,7 @@
 ○0000001952○瑚太朗
 ●0000001952●
 
-○0000001953○"Sizuru's still out cold, though."
+○0000001953○"Shizuru's still out cold, though."
 ●0000001953●
 
 ○0000001954○I'm already familiar with her sleeping habits.
@@ -5884,7 +5884,7 @@
 ○0000001971○瑚太朗
 ●0000001971●
 
-○0000001972○"...What's the matter, Ms. Sizuru?"
+○0000001972○"...What's the matter, Ms. Shizuru?"
 ●0000001972●
 
 ○0000001973○静流
@@ -5938,7 +5938,7 @@
 ○0000001989○静流
 ●0000001989●
 
-○0000001990○"...!!"
+○0000001990○"...!"
 ●0000001990●
 
 ○0000001991○*THUD*
@@ -5980,7 +5980,7 @@
 ○0000002003○瑚太朗
 ●0000002003●
 
-○0000002004○"I doubt Sizuru would enjoy hearing that about herself, but you're conveniently here to solve the problem."
+○0000002004○"I doubt Shizuru would enjoy hearing that about herself, but you're conveniently here to solve the problem."
 ●0000002004●
 
 ○0000002005○西九条
@@ -6016,7 +6016,7 @@
 ○0000002015○"Bye."
 ●0000002015●
 
-○0000002016○I poke Sizuru's cheek as a gesture of farewell.
+○0000002016○I poke Shizuru's cheek as a gesture of farewell.
 ●0000002016●
 
 ○0000002017○瑚太朗
@@ -6046,7 +6046,7 @@
 ○0000002025○瑚太朗
 ●0000002025●
 
-○0000002026○(I've got a bigger secret too, Sizuru...)
+○0000002026○(I've got a bigger secret too, Shizuru...)
 ●0000002026●
 
 ○0000002027○I, too, possess a power that normal people don't.
@@ -6208,7 +6208,7 @@
 ○0000002079○瑚太朗
 ●0000002079●
 
-○0000002080○(You shouldn't manage that!!)
+○0000002080○(You shouldn't manage that!)
 ●0000002080●
 
 ○0000002081○ルチア
@@ -6358,16 +6358,16 @@
 ○0000002129○朱音
 ●0000002129●
 
-○0000002130○"Someone is harboring disrespectful thoughts towards me."
+○0000002130○"Someone is harboring disrespectful thoughts toward me."
 ●0000002130●
 
-○0000002131○Have I been spotted?!
+○0000002131○Have I been found out?!
 ●0000002131●
 
 ○0000002132○朱音
 ●0000002132●
 
-○0000002133○"...Somewhere within a ten meter radius."
+○0000002133○"...Somewhere within a ten-meter radius."
 ●0000002133●
 
 ○0000002134○Just how accurate is that radar of hers?!
@@ -6409,7 +6409,7 @@
 ○0000002146○瑚太朗
 ●0000002146●
 
-○0000002147○"I studied on the Internet."
+○0000002147○"I studied on the internet."
 ●0000002147●
 
 ○0000002148○Letting my entire fate ride on the app on my phone is dangerous, so I tried learning about reading proper maps whenever I had free time.
@@ -6619,7 +6619,7 @@
 ○0000002216○"And you're dieting at the same time, too."
 ●0000002216●
 
-○0000002217○Sizuru and Lucia show no signs of exhaustion.
+○0000002217○Shizuru and Lucia show no signs of exhaustion.
 ●0000002217●
 
 ○0000002218○Chihaya doesn't really seem to be affected, either.
@@ -6766,7 +6766,7 @@
 ○0000002265○"Don't shout!"
 ●0000002265●
 
-○0000002266○Sizuru looks at us with a puzzled expression from further away.
+○0000002266○Shizuru looks at us with a puzzled expression from further away.
 ●0000002266●
 
 ○0000002267○瑚太朗
@@ -7132,7 +7132,7 @@
 ○0000002388○ルチア
 ●0000002388●
 
-○0000002389○"Sizuru has very keen senses when it comes to stuff like this, so I'd trust her opinion."
+○0000002389○"Shizuru has very keen senses when it comes to stuff like this, so I'd trust her opinion."
 ●0000002389●
 
 ○0000002390○ルチア
@@ -7192,7 +7192,7 @@
 ○0000002408○瑚太朗
 ●0000002408●
 
-○0000002409○"I've got no idea what any of that is supposed to be. I'll buy you a dictionary when we get back home, Sizuru."
+○0000002409○"I've got no idea what any of that is supposed to be. I'll buy you a dictionary when we get back home, Shizuru."
 ●0000002409●
 
 ○0000002410○静流
@@ -7201,7 +7201,7 @@
 ○0000002411○"......"
 ●0000002411●
 
-○0000002412○Sizuru's shoulders sag.
+○0000002412○Shizuru's shoulders sag.
 ●0000002412●
 
 ○0000002413○瑚太朗
@@ -7225,7 +7225,7 @@
 ○0000002419○瑚太朗
 ●0000002419●
 
-○0000002420○"Sizuru grows when you praise her."
+○0000002420○"Shizuru grows when you praise her."
 ●0000002420●
 
 ○0000002421○ちはや
@@ -7282,7 +7282,7 @@
 ○0000002438○瑚太朗
 ●0000002438●
 
-○0000002439○"Yeah, I think I can, too. Is this what you were talking about, Sizuru?"
+○0000002439○"Yeah, I think I can, too. Is this what you were talking about, Shizuru?"
 ●0000002439●
 
 ○0000002440○静流
@@ -7342,7 +7342,7 @@
 ○0000002458○静流
 ●0000002458●
 
-○0000002459○"...!!"
+○0000002459○"...!"
 ●0000002459●
 
 ○0000002460○小鳥
@@ -7354,7 +7354,7 @@
 ○0000002462○静流
 ●0000002462●
 
-○0000002463○"A monster!"
+○0000002463○"A familiar!"
 ●0000002463●
 
 ○0000002464○静流
@@ -7363,13 +7363,13 @@
 ○0000002465○"Orthrus has appeared!"
 ●0000002465●
 
-○0000002466○Sizuru breaks into a dash.
+○0000002466○Shizuru breaks into a dash.
 ●0000002466●
 
 ○0000002467○ルチア
 ●0000002467●
 
-○0000002468○"Wha― Wait! Sizuru!!"
+○0000002468○"Wha― Wait! Shizuru!"
 ●0000002468●
 
 ○0000002469○Lucia runs after her.
@@ -7381,7 +7381,7 @@
 ○0000002471○ちはや
 ●0000002471●
 
-○0000002472○"A-A monster?"
+○0000002472○"A-A familiar?"
 ●0000002472●
 
 ○0000002473○小鳥
@@ -7396,7 +7396,7 @@
 ○0000002476○"...I bet she spotted some animal."
 ●0000002476●
 
-○0000002477○That sounds very much like something Sizuru would do.
+○0000002477○That sounds very much like something Shizuru would do.
 ●0000002477●
 
 ○0000002478○朱音
@@ -7411,10 +7411,10 @@
 ○0000002481○"We've got to follow them!"
 ●0000002481●
 
-○0000002482○Sizuru and Lucia are fast as hell.
+○0000002482○Shizuru and Lucia are fast as hell.
 ●0000002482●
 
-○0000002483○I knew Sizuru could run, but this is getting kind of insane.
+○0000002483○I knew Shizuru could run, but this is getting kind of insane.
 ●0000002483●
 
 ○0000002484○瑚太朗
@@ -7474,7 +7474,7 @@
 ○0000002502○小鳥
 ●0000002502●
 
-○0000002503○"You're too fast!!"
+○0000002503○"You're too fast!"
 ●0000002503●
 
 ○0000002504○瑚太朗
@@ -7612,10 +7612,10 @@
 ○0000002548○ちはや
 ●0000002548●
 
-○0000002549○"Egh?"
+○0000002549○"Fiiine."
 ●0000002549●
 
-○0000002550○Waiting for Akane to recover ruined any chance we had to catch up with Sizuru.
+○0000002550○Waiting for Akane to recover ruined any chance we had to catch up with Shizuru.
 ●0000002550●
 
 ○0000002551○瑚太朗
@@ -7627,7 +7627,7 @@
 ○0000002553○ちはや
 ●0000002553●
 
-○0000002554○"Me, neither."
+○0000002554○"Me neither."
 ●0000002554●
 
 ○0000002555○小鳥
@@ -7654,10 +7654,10 @@
 ○0000002562○瑚太朗
 ●0000002562●
 
-○0000002563○"THOSE LITTLE TWERPS!! HOW DARE THEY MESS WITH MY TEAMWORK LIKE THAT!!"
+○0000002563○"THOSE LITTLE TWERPS! HOW DARE THEY MESS WITH MY TEAMWORK LIKE THAT!"
 ●0000002563●
 
-○0000002564○We can't catch a glimpse of Sizuru or Lucia no matter how long we walk.
+○0000002564○We can't catch a glimpse of Shizuru or Lucia no matter how long we walk.
 ●0000002564●
 
 ○0000002565○Every minute brings us closer to nightfall.
@@ -7762,7 +7762,7 @@
 ○0000002598○瑚太朗
 ●0000002598●
 
-○0000002599○"Don't be tricked by its cute demeanor ― this guy's a monster."
+○0000002599○"Don't be tricked by its cute demeanor―this guy's a monster."
 ●0000002599●
 
 ○0000002600○ちびもす
@@ -7990,10 +7990,10 @@
 ○0000002674○"Ah, these two little rascals are here!"
 ●0000002674●
 
-○0000002675○It's Sizuru and Lucia.
+○0000002675○It's Shizuru and Lucia.
 ●0000002675●
 
-○0000002676○Sizuru is crouching on the ground, observing something in her hands.
+○0000002676○Shizuru is crouching on the ground, observing something in her hands.
 ●0000002676●
 
 ○0000002677○Lucia is standing beside her with her head slightly bowed.
@@ -8029,7 +8029,7 @@
 ○0000002687○ちはや
 ●0000002687●
 
-○0000002688○"Eek!!"
+○0000002688○"Eek!"
 ●0000002688●
 
 ○0000002689○I hear screams from behind me.
@@ -8050,7 +8050,7 @@
 ○0000002694○瑚太朗
 ●0000002694●
 
-○0000002695○"CREEPY!!"
+○0000002695○"CREEPY!"
 ●0000002695●
 
 ○0000002696○I didn't notice it in the dark of the forest.
@@ -8071,7 +8071,7 @@
 ○0000002701○It was clear when we checked it a bit earlier upstream.
 ●0000002701●
 
-○0000002702○It was hard to see after that though, so anything is possible, but...
+○0000002702○It was hard to see after that, though, so anything is possible, but...
 ●0000002702●
 
 ○0000002703○How could it be this different just a short distance away?
@@ -8191,10 +8191,10 @@
 ○0000002741○瑚太朗
 ●0000002741●
 
-○0000002742○"Sizuru! Class Rep! Can you come here? We don't want to go over there."
+○0000002742○"Shizuru! Class Rep! Can you come here? We don't want to go over there."
 ●0000002742●
 
-○0000002743○Sizuru stands up, holding something in her hands.
+○0000002743○Shizuru stands up, holding something in her hands.
 ●0000002743●
 
 ○0000002744○It feels like it takes them forever to return.
@@ -8377,7 +8377,7 @@
 ○0000002803○"Kotarou, here..."
 ●0000002803●
 
-○0000002804○I almost choke when I finally see what Sizuru is holding in her hands.
+○0000002804○I almost choke when I finally see what Shizuru is holding in her hands.
 ●0000002804●
 
 ○0000002805○A silent inner scream reverberates in my skull.
@@ -8443,7 +8443,7 @@
 ○0000002825○"......"
 ●0000002825●
 
-○0000002826○Sizuru isn't holding a dead monster in her arms.
+○0000002826○What Shizuru's holding in her arms... isn't a dead familiar.
 ●0000002826●
 
 ○0000002827○It's just a starved-looking mouse.
@@ -8548,7 +8548,7 @@
 ○0000002860○ルチア
 ●0000002860●
 
-○0000002861○"It's what Sizuru appears to believe."
+○0000002861○"It's what Shizuru appears to believe."
 ●0000002861●
 
 ○0000002862○ルチア
@@ -8560,7 +8560,7 @@
 ○0000002864○小鳥
 ●0000002864●
 
-○0000002865○"I believe it, Sizu."
+○0000002865○"I believe it, Shizu."
 ●0000002865●
 
 ○0000002866○小鳥
@@ -8683,7 +8683,7 @@
 ○0000002905○朱音
 ●0000002905●
 
-○0000002906○"You can make an article out of this so-called monster. What will you do?"
+○0000002906○"You can make an article out of this so-called familiar. What will you do?"
 ●0000002906●
 
 ○0000002907○I pause to consider the suggestion.
@@ -8713,7 +8713,7 @@
 ○0000002915○瑚太朗
 ●0000002915●
 
-○0000002916○"As the local paragon of justice, I'd like to say I cannot condone this kind of environmental destruction and fight the government over it, but..."
+○0000002916○"As the local paragon of justice, I'd like to say I can't condone this kind of environmental destruction and fight the government over it, but..."
 ●0000002916●
 
 ○0000002917○瑚太朗
@@ -8755,7 +8755,7 @@
 ○0000002929○瑚太朗
 ●0000002929●
 
-○0000002930○"...And I'm sorry, Sizuru."
+○0000002930○"...And I'm sorry, Shizuru."
 ●0000002930●
 
 ○0000002931○静流
@@ -8863,7 +8863,7 @@
 ○0000002965○瑚太朗
 ●0000002965●
 
-○0000002966○"Are you satisfied, Sizuru?"
+○0000002966○"Are you satisfied, Shizuru?"
 ●0000002966●
 
 ○0000002967○静流
@@ -8878,7 +8878,7 @@
 ○0000002970○"I really hope so... Seriously..."
 ●0000002970●
 
-○0000002971○Sizuru makes the sign of the cross.
+○0000002971○Shizuru makes the sign of the cross.
 ●0000002971●
 
 ○0000002972○静流
@@ -9526,7 +9526,7 @@
 ○0000003186○朱音
 ●0000003186●
 
-○0000003187○"Would you like to use that for your conclusion?"
+○0000003187○"Sound good?"
 ●0000003187●
 
 ○0000003188○瑚太朗
@@ -9574,7 +9574,7 @@
 ○0000003202○And it's not like everything will end overnight, if we happen to cross it.
 ●0000003202●
 
-○0000003203○We'll have to spend our final days fighting each other for resources, bitterly aware that the end is inevitable.
+○0000003203○We'll have to spend our final days fighting each other for resources, bitterly aware that Destruction is inevitable.
 ●0000003203●
 
 ○0000003204○Lurk in the shadows.
@@ -9583,10 +9583,10 @@
 ○0000003205○Kill the weak.
 ●0000003205●
 
-○0000003206○Live your entire life obsessed with running out of resources.
+○0000003206○Live your life obsessed with the fear of running out of resources.
 ●0000003206●
 
-○0000003207○Calculating how many years you still have left.
+○0000003207○Calculating how many years we still have left.
 ●0000003207●
 
 ○0000003208○A future like that sounds like hell itself.
@@ -9643,7 +9643,7 @@
 ○0000003225○"......"
 ●0000003225●
 
-○0000003226○The point of no return ― the line after which you can no longer turn back.
+○0000003226○The point of no return―the line after which you can no longer turn back.
 ●0000003226●
 
 ○0000003227○Perhaps I already crossed it long ago.

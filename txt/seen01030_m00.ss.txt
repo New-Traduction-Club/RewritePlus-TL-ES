@@ -253,7 +253,7 @@
 ○0000000094○瑚太朗
 ●0000000094●
 
-○0000000095○"S! N! A! P! I AM SNAAAAAAAAAAAAAP!!!!"
+○0000000095○"S! N! A! P! I AM SNAAAAAAAAAAAAAP!"
 ●0000000095●
 
 ○0000000097○瑚太朗
@@ -400,13 +400,13 @@
 ○0000000151○瑚太朗
 ●0000000151●
 
-○0000000152○"Roger! I'll block it with this! I can protect the toilet now!"
+○0000000152○"Nice, thanks for the Benza Block! Time to block off that toilet seat!"
 ●0000000152●
 
 ○0000000153○瑚太朗
 ●0000000153●
 
-○0000000154○"THAT WON'T HELP ME IN MY PRESENT SITUATION!!!!"
+○0000000154○"NEVER MIND, THAT WON'T HELP ME IN MY PRESENT SITUATION!"
 ●0000000154●
 
 ○0000000156○*CRASH*
@@ -415,7 +415,7 @@
 ○0000000158○瑚太朗
 ●0000000158●
 
-○0000000159○"Cleaning tablets won't stop a toilet from crumbling apart."
+○0000000159○"It seems Benza Block can't block a toilet from physically falling apart."
 ●0000000159●
 
 ○0000000161○■マッピー／既読■　ID:
@@ -496,7 +496,7 @@
 ○0000000190○ルチア
 ●0000000190●
 
-○0000000191○"Sizuru? Did you find something over there?"
+○0000000191○"Shizuru? Did you find something over there?"
 ●0000000191●
 
 ○0000000192○瑚太朗
@@ -514,7 +514,7 @@
 ○0000000196○ルチア
 ●0000000196●
 
-○0000000197○"Wha...! Th-Throw it away!!"
+○0000000197○"Wha...! Th-Throw it away!"
 ●0000000197●
 
 ○0000000199○*crunch*
@@ -523,7 +523,7 @@
 ○0000000200○瑚太朗
 ●0000000200●
 
-○0000000201○"E-EROOOOHIIIIIIM!!"
+○0000000201○"E-EROOOOHIIIIIIM!"
 ●0000000201●
 
 ○0000000203○瑚太朗
@@ -676,7 +676,7 @@
 ○0000000257○小鳥
 ●0000000257●
 
-○0000000258○"It says 'good luck with business'."
+○0000000258○"It says 'good luck with business.'"
 ●0000000258●
 
 ○0000000259○瑚太朗
@@ -955,7 +955,7 @@
 ○0000000365○ルチア
 ●0000000365●
 
-○0000000366○"Eek! G-GROSS! GROSS! GROSS!!"
+○0000000366○"Eek! G-GROSS! GROSS! GROSS!"
 ●0000000366●
 
 ○0000000368○*WHAP*

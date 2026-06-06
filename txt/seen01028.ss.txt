@@ -100,7 +100,7 @@
 ○0000000035○瑚太朗
 ●0000000035●
 
-○0000000036○"Aaargh! Snap out of it already, everyone!!"
+○0000000036○"Aaargh! Snap out of it already, everyone!"
 ●0000000036●
 
 ○0000000037○咲夜
@@ -139,7 +139,7 @@
 ○0000000048○瑚太朗
 ●0000000048●
 
-○0000000049○"As you can see, over ninety percent came from the Internet, and I found the rest."
+○0000000049○"As you can see, over ninety percent came from the internet, and I found the rest."
 ●0000000049●
 
 ○0000000050○瑚太朗
@@ -565,7 +565,7 @@
 ○0000000190○瑚太朗
 ●0000000190●
 
-○0000000191○"You're just as bad as him!!"
+○0000000191○"You're just as bad as him!"
 ●0000000191●
 
 ○0000000192○咲夜
@@ -634,13 +634,13 @@
 ○0000000213○"......"
 ●0000000213●
 
-○0000000214○Sizuru pulls saury furikake out of her pocket.
+○0000000214○Shizuru pulls saury furikake out of her pocket.
 ●0000000214●
 
 ○0000000215○瑚太朗
 ●0000000215●
 
-○0000000216○"I'm sorry, Sizuru, but I doubt we'll attract many people with that."
+○0000000216○"I'm sorry, Shizuru, but I doubt we'll attract many people with that."
 ●0000000216●
 
 ○0000000217○静流
@@ -814,7 +814,7 @@
 ○0000000273○瑚太朗
 ●0000000273●
 
-○0000000274○"Wait! Hey!!"
+○0000000274○"Wait! Hey!"
 ●0000000274●
 
 ○0000000275○瑚太朗
@@ -1129,7 +1129,7 @@
 ○0000000379○ぱに
 ●0000000379●
 
-○0000000380○"No way!! The P in PC stands for Personal!! You can't show your computer to others lightly!!"
+○0000000380○"No way! The P in PC stands for Personal! You can't show your computer to others lightly!"
 ●0000000380●
 
 ○0000000381○瑚太朗
@@ -1141,7 +1141,7 @@
 ○0000000383○ぱに
 ●0000000383●
 
-○0000000384○"You can learn anything on the Internet these days."
+○0000000384○"You can learn anything on the internet these days."
 ●0000000384●
 
 ○0000000385○ぱに
@@ -1189,7 +1189,7 @@
 ○0000000399○ぎる
 ●0000000399●
 
-○0000000400○"Really?! Uhyooohh!! They're awesome!!"
+○0000000400○"Really?! Uhyooohh! They're awesome!"
 ●0000000400●
 
 ○0000000401○瑚太朗
@@ -1228,7 +1228,7 @@
 ○0000000412○ぎる
 ●0000000412●
 
-○0000000413○"You get it!!"
+○0000000413○"You get it!"
 ●0000000413●
 
 ○0000000414○瑚太朗
@@ -1240,7 +1240,7 @@
 ○0000000416○ぎる
 ●0000000416●
 
-○0000000417○"Uohh!! It's so cool!! I want to fly it!"
+○0000000417○"Uohh! It's so cool! I want to fly it!"
 ●0000000417●
 
 ○0000000418○ぱに
@@ -1270,7 +1270,7 @@
 ○0000000426○ぎる
 ●0000000426●
 
-○0000000427○"Darn... Those names on the wings are just too awesome!!"
+○0000000427○"Darn... Those names on the wings are just too awesome!"
 ●0000000427●
 
 ○0000000428○ぎる
@@ -1288,7 +1288,7 @@
 ○0000000432○ぎる
 ●0000000432●
 
-○0000000433○"Too bad, human! You neither have wings nor a tail!!"
+○0000000433○"Too bad, human! You neither have wings nor a tail!"
 ●0000000433●
 
 ○0000000434○瑚太朗
@@ -1303,7 +1303,7 @@
 ○0000000437○ぎる
 ●0000000437●
 
-○0000000438○"Gyahahaha!! If you lose the ability to do stuff, then you should call it devolution instead!!"
+○0000000438○"Gyahahaha! If you lose the ability to do stuff, then you should call it devolution instead!"
 ●0000000438●
 
 ○0000000439○瑚太朗
@@ -1360,13 +1360,13 @@
 ○0000000456○ぎる
 ●0000000456●
 
-○0000000457○"Then... write UNKNOWN!! Let's go with UNKNOWN!!"
+○0000000457○"Then... write UNKNOWN! Let's go with UNKNOWN!"
 ●0000000457●
 
 ○0000000458○ぎる
 ●0000000458●
 
-○0000000459○"Uoohh!! Doesn't it sound awesome?! I'm so cool now!!"
+○0000000459○"Uoohh! Doesn't it sound awesome?! I'm so cool now!"
 ●0000000459●
 
 ○0000000460○瑚太朗
@@ -1387,7 +1387,7 @@
 ○0000000465○ぎる
 ●0000000465●
 
-○0000000466○"Yaaay!! Hurray!!"
+○0000000466○"Yaaay! Hurray!"
 ●0000000466●
 
 ○0000000467○瑚太朗
@@ -1399,13 +1399,13 @@
 ○0000000469○ぎる
 ●0000000469●
 
-○0000000470○"Oh, that's awesome!! Super cool!!"
+○0000000470○"Oh, that's awesome! Super cool!"
 ●0000000470●
 
 ○0000000471○ぎる
 ●0000000471●
 
-○0000000472○"Look!! Don't it look awesome?!"
+○0000000472○"Look! Don't it look awesome?!"
 ●0000000472●
 
 ○0000000473○ぱに
@@ -1438,7 +1438,7 @@
 ○0000000482○ぎる
 ●0000000482●
 
-○0000000483○"That means shit!! It's calling me a SHITMAAAAAAN!!"
+○0000000483○"That means shit! It's calling me a SHITMAAAAAAN!"
 ●0000000483●
 
 ○0000000484○瑚太朗
@@ -1450,7 +1450,7 @@
 ○0000000486○ぎる
 ●0000000486●
 
-○0000000487○"Uaaahh!! Erase it!!"
+○0000000487○"Uaaahh! Erase it!"
 ●0000000487●
 
 ○0000000488○瑚太朗
@@ -1462,7 +1462,7 @@
 ○0000000490○ぎる
 ●0000000490●
 
-○0000000491○"It's not cool at all! It's calling me a shitman!!"
+○0000000491○"It's not cool at all! It's calling me a shitman!"
 ●0000000491●
 
 ○0000000492○瑚太朗
@@ -1495,7 +1495,7 @@
 ○0000000501○ぎる
 ●0000000501●
 
-○0000000502○"Uaaaahh!! You idiot!!"
+○0000000502○"Uaaaahh! You idiot!"
 ●0000000502●
 
 ○0000000503○ぱに
@@ -1519,7 +1519,7 @@
 ○0000000509○ぎる
 ●0000000509●
 
-○0000000510○"It won't happen!! It doesn't sound cool no matter how you spin it!! Uaaaaahh!!!"
+○0000000510○"It won't happen! It doesn't sound cool no matter how you spin it! Uaaaaahh!"
 ●0000000510●
 
 ○0000000511○And so, Gil spends the rest of the evening rinsing his wings.

@@ -298,16 +298,16 @@
 ○0000000176○Building
 ●0000000176●
 
-○0000000178○Inbetween Buildings
+○0000000178○In Between Buildings
 ●0000000178●
 
-○0000000180○Inbetween Buildings
+○0000000180○In Between Buildings
 ●0000000180●
 
-○0000000182○Inbetween Buildings
+○0000000182○In Between Buildings
 ●0000000182●
 
-○0000000184○Inbetween Buildings
+○0000000184○In Between Buildings
 ●0000000184●
 
 ○0000000186○dummy

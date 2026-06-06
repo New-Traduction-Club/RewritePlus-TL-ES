@@ -241,7 +241,7 @@
 ○0000000091○瑚太朗
 ●0000000091●
 
-○0000000092○"There's nothing like molten gold to soothe a man's thirst!"
+○0000000092○"There's nothing like a can of Real Gold to soothe a man's thirst!"
 ●0000000092●
 
 ○0000000094○瑚太朗
@@ -313,7 +313,7 @@
 ○0000000118○瑚太朗
 ●0000000118●
 
-○0000000119○"Pwhwhwhwh!!"
+○0000000119○"Pwhwhwhwh!"
 ●0000000119●
 
 ○0000000120○瑚太朗
@@ -364,7 +364,7 @@
 ○0000000138○瑚太朗
 ●0000000138●
 
-○0000000139○"Hey, don't look at me with pity in your eyes!!"
+○0000000139○"Hey, don't look at me with pity in your eyes!"
 ●0000000139●
 
 ○0000000141○■マッピー／既読■　ID:
@@ -403,7 +403,7 @@
 ○0000000153○瑚太朗
 ●0000000153●
 
-○0000000154○"Hey, don't look at me with pity in your eyes!!"
+○0000000154○"Hey, don't look at me with pity in your eyes!"
 ●0000000154●
 
 ○0000000156○■マッピー／既読■　ID:
@@ -442,7 +442,7 @@
 ○0000000168○瑚太朗
 ●0000000168●
 
-○0000000169○"Hey, don't look at me with pity in your eyes!! I'd prefer a human friend, too!"
+○0000000169○"Hey, don't look at me with pity in your eyes! I'd prefer a human friend, too!"
 ●0000000169●
 
 ○0000000171○■マッピー／既読■　ID:
@@ -481,7 +481,7 @@
 ○0000000183○瑚太朗
 ●0000000183●
 
-○0000000184○"Hey, don't look at me with pity in your eyes!! I'd prefer someone whose species I could identify, too! Particularly a human!"
+○0000000184○"Hey, don't look at me with pity in your eyes! I'd prefer someone whose species I could identify, too! Particularly a human!"
 ●0000000184●
 
 ○0000000186○■マッピー／既読■　ID:

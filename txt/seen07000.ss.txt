@@ -1,4 +1,4 @@
-○0000000000○Moonlit Walk
+○0000000000○A Moonlit Stroll
 ●0000000000●
 
 ○0000000001○瑚太朗＿必要
@@ -94,7 +94,7 @@
 ○0000000031○瑚太朗＿必要
 ●0000000031●
 
-○0000000032○The words "past" and "present" are too clunky.
+○0000000032○Words like "past" and "future" are too clunky.
 ●0000000032●
 
 ○0000000033○瑚太朗＿必要
@@ -130,43 +130,43 @@
 ○0000000043○瑚太朗＿必要
 ●0000000043●
 
-○0000000044○I feel detached from such things.
+○0000000044○I can't help but feel so distant from those concepts.
 ●0000000044●
 
 ○0000000045○瑚太朗＿必要
 ●0000000045●
 
-○0000000046○I'm in a time that is not now.
+○0000000046○Each and every time that isn't "now."
 ●0000000046●
 
 ○0000000047○瑚太朗＿必要
 ●0000000047●
 
-○0000000048○A place that is not here.
+○0000000048○Each and every place that isn't "here."
 ●0000000048●
 
 ○0000000049○瑚太朗＿必要
 ●0000000049●
 
-○0000000050○A time and place that exist only as "tonight".
+○0000000050○That must be what "tonight" is.
 ●0000000050●
 
 ○0000000051○瑚太朗＿必要
 ●0000000051●
 
-○0000000052○This is where I walk.
+○0000000052○That is where I walk. I'm sure of it.
 ●0000000052●
 
 ○0000000053○瑚太朗＿必要
 ●0000000053●
 
-○0000000054○There are no other words to describe it.
+○0000000054○There are no other words to describe it well enough.
 ●0000000054●
 
 ○0000000055○瑚太朗＿必要
 ●0000000055●
 
-○0000000056○All I can do is designate it as "tonight".
+○0000000056○All I can do is designate it as "tonight."
 ●0000000056●
 
 ○0000000057○瑚太朗
@@ -190,13 +190,13 @@
 ○0000000063○瑚太朗＿必要
 ●0000000063●
 
-○0000000064○It makes no sense?
+○0000000064○That doesn't make sense?
 ●0000000064●
 
 ○0000000065○瑚太朗＿必要
 ●0000000065●
 
-○0000000066○It doesn't to me, either.
+○0000000066○Makes no sense to me, either.
 ●0000000066●
 
 ○0000000067○瑚太朗
@@ -205,7 +205,7 @@
 ○0000000068○(Still, what a beautiful night it is.)
 ●0000000068●
 
-○0000000070○Although I opt to take the shortcut along a steep mountain trail, I find it easy going.
+○0000000070○Although I opt to take the shortcut along a steep mountain trail, I find it easygoing.
 ●0000000070●
 
 ○0000000071○I arrive at the summit without breaking a sweat.
@@ -253,7 +253,7 @@
 ○0000000085○At the crest of the hill.
 ●0000000085●
 
-○0000000086○There, scattered across the ground, is something like an unbelievably huge piece of paper.
+○0000000086○In a place with neither a desk nor chair, scattered across the ground, is something like an unbelievably huge piece of paper.
 ●0000000086●
 
 ○0000000087○It's spread out bigger than a picnic blanket.
@@ -271,7 +271,7 @@
 ○0000000091○"......"
 ●0000000091●
 
-○0000000092○An electric current jolts through my brain.
+○0000000092○An electric current jolts through my consciousness.
 ●0000000092●
 
 ○0000000093○I think I know her.
@@ -313,7 +313,7 @@
 ○0000000105○瑚太朗
 ●0000000105●
 
-○0000000106○(I am a shadow.)
+○0000000106○(...So I'm a shadow.)
 ●0000000106●
 
 ○0000000107○I understand.
@@ -322,16 +322,16 @@
 ○0000000108○This is it, for now.
 ●0000000108●
 
-○0000000109○"Kagari"
+○0000000109○The Girl, Kagari
 ●0000000109●
 
-○0000000110○…
+○0000000110○...
 ●0000000110●
 
-○0000000111○……
+○0000000111○......
 ●0000000111●
 
-○0000000112○………
+○0000000112○.........
 ●0000000112●
 
 ○0000000113○瑚太朗
@@ -412,7 +412,7 @@
 ○0000000138○I feel like I could fly.
 ●0000000138●
 
-○0000000139○When the stepping-stone roofs come to an end, I launch myself into the air.
+○0000000139○When the stepping-stone rooftops come to an end, I launch myself into the air.
 ●0000000139●
 
 ○0000000140○...I can't fly.
@@ -559,7 +559,7 @@
 ○0000000187○I don't even feel the friction.
 ●0000000187●
 
-○0000000188○It's as smooth as silk and water trickling over my skin.
+○0000000188○It's as smooth as silk and water mixed together.
 ●0000000188●
 
 ○0000000190○少女＿篝
@@ -619,7 +619,7 @@
 ○0000000208○A heavy silence settles over us.
 ●0000000208●
 
-○0000000209○The air solidifies, waxlike.
+○0000000209○The very air hangs off the curtain of night as if it were made of wax.
 ●0000000209●
 
 ○0000000210○My lungs struggle to pull in air.
@@ -628,7 +628,7 @@
 ○0000000211○I'm the first one to cave. I open my mouth, hoping to break the silence with a witty comment.
 ●0000000211●
 
-○0000000212○But before I can, the girl's mouth moves like a ventriloquist's dummy.
+○0000000212○But before I can, the girl's mouth moves like that of a mechanical doll.
 ●0000000212●
 
 ○0000000213○少女＿篝
@@ -637,1936 +637,1936 @@
 ○0000000214○"■"
 ●0000000214●
 
-○0000000215○It's the first time I've heard her voice. The bizarre sounds reverberate through my brain, incomprehensible.
+○0000000215○(Begone from here or else face extermination.)
 ●0000000215●
 
-○0000000216○Then, the next instant...
+○0000000216○It's the first time I've heard her voice. The bizarre sounds reverberate through my brain, incomprehensible.
 ●0000000216●
 
-○0000000217○瑚太朗
+○0000000217○Then, the next instant...
 ●0000000217●
 
-○0000000218○"......"
+○0000000218○瑚太朗
 ●0000000218●
 
-○0000000219○Pain lances through my skull.
+○0000000219○"......"
 ●0000000219●
 
-○0000000220○Unable to bear it, I desperately press my hands over my ears.
+○0000000220○Pain lances through my skull.
 ●0000000220●
 
-○0000000221○少女＿篝
+○0000000221○Unable to bear it, I desperately press my hands over my ears.
 ●0000000221●
 
-○0000000222○"■"
+○0000000222○少女＿篝
 ●0000000222●
 
-○0000000223○Again, the pain comes.
+○0000000223○"■"
 ●0000000223●
 
-○0000000224○Even with my ears covered, it doesn't abate.
+○0000000224○(Begone from here or else face extermination.)
 ●0000000224●
 
-○0000000225○Her words seem to come not through the air, but directly into my brain, injecting themselves like a fast-acting poison.
+○0000000225○Again, the pain comes.
 ●0000000225●
 
-○0000000226○瑚太朗
+○0000000226○Even with my ears covered, it doesn't abate.
 ●0000000226●
 
-○0000000227○"Stop... It hurts..."
+○0000000227○Her words seem to come not through the air, but directly into my brain, injecting themselves like a fast-acting poison.
 ●0000000227●
 
-○0000000228○少女＿篝
+○0000000228○瑚太朗
 ●0000000228●
 
-○0000000229○"■"
+○0000000229○"Stop... It hurts..."
 ●0000000229●
 
-○0000000230○瑚太朗
+○0000000230○少女＿篝
 ●0000000230●
 
-○0000000231○"...Guh!"
+○0000000231○"■"
 ●0000000231●
 
-○0000000232○Never before have I heard words with such power.
+○0000000232○(BEGONE FROM HERE OR ELSE FACE EXTERMINATION.)
 ●0000000232●
 
-○0000000233○The unfamiliar language is packed with information.
+○0000000233○瑚太朗
 ●0000000233●
 
-○0000000234○The secrets woven into it are like poison, too much for my untrained mind.
+○0000000234○"...Guh!"
 ●0000000234●
 
-○0000000235○I stagger on my feet, trying to run from the pain, but only end up moving closer to the girl.
+○0000000235○Never before have I heard words with such power.
 ●0000000235●
 
-○0000000236○Something flicks, like a switch.
+○0000000236○The unfamiliar language is packed with information.
 ●0000000236●
 
-○0000000237○Bam.
+○0000000237○The secrets woven into it are like poison, too much for my untrained mind.
 ●0000000237●
 
-○0000000238○瑚太朗
+○0000000238○I stagger on my feet, trying to run from the pain, but only end up moving closer to the girl.
 ●0000000238●
 
-○0000000239○"...?"
+○0000000239○Something flicks, like a switch.
 ●0000000239●
 
-○0000000240○The sky revolves.
+○0000000240○Bam.
 ●0000000240●
 
-○0000000241○Below me, I see a hill.
+○0000000241○瑚太朗
 ●0000000241●
 
-○0000000242○There, my body is splayed out on the ground.
+○0000000242○"...?"
 ●0000000242●
 
-○0000000243○My body has no head.
+○0000000243○The sky revolves.
 ●0000000243●
 
-○0000000244○It's been severed at the neck. A strange liquid, shimmering red and green, flows from the opening.
+○0000000244○Below me, I see a hill.
 ●0000000244●
 
-○0000000245○瑚太朗
+○0000000245○There, my body is splayed out on the ground.
 ●0000000245●
 
-○0000000246○(This can't be...)
+○0000000246○My body has no head.
 ●0000000246●
 
-○0000000247○I pass out before I hit the ground.
+○0000000247○It's been severed at the neck. A strange liquid, shimmering red and green, flows from the opening.
 ●0000000247●
 
-○0000000248○From my perspective, I awaken an instant later.
+○0000000248○瑚太朗
 ●0000000248●
 
-○0000000249○瑚太朗
+○0000000249○(This can't be...)
 ●0000000249●
 
-○0000000250○"......"
+○0000000250○I pass out before I hit the ground.
 ●0000000250●
 
-○0000000251○I reach up and massage my neck.
+○0000000251○From my perspective, I awaken an instant later.
 ●0000000251●
 
-○0000000252○There's no wound.
+○0000000252○瑚太朗
 ●0000000252●
 
-○0000000253○Of course there isn't; I dispersed and converged.
+○0000000253○"......"
 ●0000000253●
 
-○0000000254○Just as the moon's reflection restores itself after the water is disturbed.
+○0000000254○I reach up and massage my neck.
 ●0000000254●
 
-○0000000255○So long as the moon remains in the sky.
+○0000000255○There's no wound.
 ●0000000255●
 
-○0000000256○瑚太朗
+○0000000256○Of course there isn't; I dispersed and converged.
 ●0000000256●
 
-○0000000257○"Strange..."
+○0000000257○Just as the moon's reflection restores itself after the water is disturbed.
 ●0000000257●
 
-○0000000258○It is what it is. Perhaps there is no reason for it.
+○0000000258○So long as the moon remains in the sky.
 ●0000000258●
 
-○0000000259○My existence here is nothing more than a consequence of something else. I am a reflection.
+○0000000259○瑚太朗
 ●0000000259●
 
-○0000000260○I'm convinced of this.
+○0000000260○"Strange..."
 ●0000000260●
 
-○0000000261○Which means my fate is not mine to choose.
+○0000000261○It is what it is. Perhaps there is no reason for it.
 ●0000000261●
 
-○0000000262○Like the moon on the surface of a lake.
+○0000000262○My existence here is nothing more than a consequence of something else. I am a reflection.
 ●0000000262●
 
-○0000000263○It's cruel.
+○0000000263○I'm convinced of this.
 ●0000000263●
 
-○0000000264○For a reflection to have its own consciousness.
+○0000000264○Which means my fate is not mine to choose.
 ●0000000264●
 
-○0000000265○Or perhaps I only think I have my own thoughts, when in reality, they're following a predetermined pattern.
+○0000000265○Like the moon on the surface of a lake.
 ●0000000265●
 
-○0000000266○瑚太朗
+○0000000266○It's cruel.
 ●0000000266●
 
-○0000000267○(I could ruminate on it for an eternity without getting anywhere.)
+○0000000267○For a reflection to have its own consciousness.
 ●0000000267●
 
-○0000000268○Besides, there are things I need to do.
+○0000000268○Or perhaps I only think I have my own thoughts, when in reality, they're following a predetermined pattern.
 ●0000000268●
 
-○0000000269○When I ask myself what, I know at once.
+○0000000269○瑚太朗
 ●0000000269●
 
-○0000000270○I go to see her.
+○0000000270○(I could ruminate on it for an eternity without getting anywhere.)
 ●0000000270●
 
-○0000000271○It's my one and only fixation.
+○0000000271○Besides, there are things I need to do.
 ●0000000271●
 
-○0000000272○She's there, as always.
+○0000000272○When I ask myself what, I know at once.
 ●0000000272●
 
-○0000000273○Sensing my approach, she looks my way.
+○0000000273○I go to see her.
 ●0000000273●
 
-○0000000274○瑚太朗
+○0000000274○It's my one and only fixation.
 ●0000000274●
 
-○0000000275○"H-Hey..."
+○0000000275○She's there, as always.
 ●0000000275●
 
-○0000000276○少女＿篝
+○0000000276○Sensing my approach, she looks my way.
 ●0000000276●
 
-○0000000277○"......"
+○0000000277○瑚太朗
 ●0000000277●
 
-○0000000278○My greeting drops like a stone between us.
+○0000000278○"H-Hey..."
 ●0000000278●
 
-○0000000279○When I come to a stop a short distance from her, I notice the ribbons tied around her wrists fluttering.
+○0000000279○少女＿篝
 ●0000000279●
 
-○0000000280○But there's no breeze...
+○0000000280○"......"
 ●0000000280●
 
-○0000000281○The ribbons fill me with unease.
+○0000000281○My greeting drops like a stone between us.
 ●0000000281●
 
-○0000000282○There's about thirty meters between us.
+○0000000282○When I come to a stop a short distance from her, I notice the ribbons tied around her wrists fluttering.
 ●0000000282●
 
-○0000000283○I get the sense that if I try to move any closer, I'll regret it.
+○0000000283○But there's no breeze...
 ●0000000283●
 
-○0000000284○瑚太朗
+○0000000284○The ribbons fill me with unease.
 ●0000000284●
 
-○0000000285○(Are those ribbons... weapons?)
+○0000000285○There's about thirty meters between us.
 ●0000000285●
 
-○0000000286○She doesn't seem to have anything else on her that could serve as a weapon.
+○0000000286○I get the sense that if I try to move any closer, I'll regret it.
 ●0000000286●
 
-○0000000287○The ribbons billow menacingly in the air.
+○0000000287○瑚太朗
 ●0000000287●
 
-○0000000288○Like a threat.
+○0000000288○(Are those ribbons... weapons?)
 ●0000000288●
 
-○0000000289○They seem to multiply before my eyes.
+○0000000289○She doesn't seem to have anything else on her that could serve as a weapon.
 ●0000000289●
 
-○0000000290○Now there are dozens of them, each alive with their own individual movements.
+○0000000290○The ribbons billow menacingly in the air.
 ●0000000290●
 
-○0000000291○Their squirming, roiling mass is like a living thing. It fills me with disgust.
+○0000000291○Like a threat.
 ●0000000291●
 
-○0000000292○瑚太朗
+○0000000292○They seem to multiply before my eyes.
 ●0000000292●
 
-○0000000293○(What should I do?)
+○0000000293○Now there are dozens of them, each alive with their own individual movements.
 ●0000000293●
 
-○0000000294○Tentatively, I take a single step forward.
+○0000000294○Their squirming, roiling mass is like a living thing. It fills me with disgust.
 ●0000000294●
 
-○0000000295○All at once, the many ribbons come together to form a sharply pointed blade.
+○0000000295○瑚太朗
 ●0000000295●
 
-○0000000296○When I step back, they separate back into their original form.
+○0000000296○(What should I do?)
 ●0000000296●
 
-○0000000297○If I try to get any closer, I'll be sliced to ribbons myself.
+○0000000297○Tentatively, I take a single step forward.
 ●0000000297●
 
-○0000000298○I should probably flee now, for my own protection.
+○0000000298○All at once, the many ribbons come together to form a sharply pointed blade.
 ●0000000298●
 
-○0000000299○But there's nowhere worth running to.
+○0000000299○When I step back, they separate back into their original form.
 ●0000000299●
 
-○0000000300○The town is deserted.
+○0000000300○If I try to get any closer, I'll be sliced to ribbons myself.
 ●0000000300●
 
-○0000000301○I won't find anything new.
+○0000000301○I should probably flee now, for my own protection.
 ●0000000301●
 
-○0000000302○All I can do is come to this hill.
+○0000000302○But there's nowhere worth running to.
 ●0000000302●
 
-○0000000303○This one place with its unique quest.
+○0000000303○The town is deserted.
 ●0000000303●
 
-○0000000304○瑚太朗
+○0000000304○I won't find anything new.
 ●0000000304●
 
-○0000000305○(What would I usually do in this situation?)
+○0000000305○All I can do is come to this hill.
 ●0000000305●
 
-○0000000306○I cast my mind back over my own history.
+○0000000306○This one place with its unique quest.
 ●0000000306●
 
-○0000000307○Surprisingly, I seem to have what could be memories.
+○0000000307○瑚太朗
 ●0000000307●
 
-○0000000308○And a huge number of them.
+○0000000308○(What would I usually do in this situation?)
 ●0000000308●
 
-○0000000309○They're all old and faded, but I'm sure they're memories.
+○0000000309○I cast my mind back over my own history.
 ●0000000309●
 
-○0000000310○Among them, I remember that I was called Tennouji Kotarou, the warm world I was in, and the days I spent with so many other people.
+○0000000310○Surprisingly, I seem to have what could be memories.
 ●0000000310●
 
-○0000000311○And I remember what I'm supposed to do.
+○0000000311○And a huge number of them.
 ●0000000311●
 
-○0000000312○瑚太朗
+○0000000312○They're all old and faded, but I'm sure they're memories.
 ●0000000312●
 
-○0000000313○(Talk to her.)
+○0000000313○Among them, I remember that I was called Tennouji Kotarou, the warm world I was in, and the days I spent with so many other people.
 ●0000000313●
 
-○0000000314○A dialogue.
+○0000000314○And I remember what I'm supposed to do.
 ●0000000314●
 
-○0000000315○I have to understand her.
+○0000000315○瑚太朗
 ●0000000315●
 
-○0000000316○And at the same time, I need her to understand me.
+○0000000316○(Talk to her.)
 ●0000000316●
 
-○0000000317○I'll feel around for the thread between us.
+○0000000317○A dialogue.
 ●0000000317●
 
-○0000000318○And once I find it, people will have peace.
+○0000000318○I have to understand her.
 ●0000000318●
 
-○0000000319○And then I'll understand what I need to do next.
+○0000000319○And at the same time, I need her to understand me.
 ●0000000319●
 
-○0000000320○瑚太朗
+○0000000320○I'll feel around for the thread between us.
 ●0000000320●
 
-○0000000321○"Are you alone?"
+○0000000321○And once I find it, people will have peace.
 ●0000000321●
 
-○0000000322○少女＿篝
+○0000000322○And then I'll understand what I need to do next.
 ●0000000322●
 
-○0000000323○"......"
+○0000000323○瑚太朗
 ●0000000323●
 
-○0000000324○The girl gives no response.
+○0000000324○"Are you alone?"
 ●0000000324●
 
-○0000000325○There's no flicker of emotion on her face.
+○0000000325○少女＿篝
 ●0000000325●
 
-○0000000326○It's the mask of someone who knows neither joy nor anger.
+○0000000326○"......"
 ●0000000326●
 
-○0000000327○瑚太朗
+○0000000327○The girl gives no response.
 ●0000000327●
 
-○0000000328○"Aren't you lonely, out here by yourself?"
+○0000000328○There's no flicker of emotion on her face.
 ●0000000328●
 
-○0000000329○瑚太朗
+○0000000329○It's the mask of someone who knows neither joy nor anger.
 ●0000000329●
 
-○0000000330○"Don't you want company?"
+○0000000330○瑚太朗
 ●0000000330●
 
-○0000000331○瑚太朗
+○0000000331○"Aren't you lonely, out here by yourself?"
 ●0000000331●
 
-○0000000332○"Don't you feel like you wanna talk to someone?"
+○0000000332○瑚太朗
 ●0000000332●
 
-○0000000333○瑚太朗
+○0000000333○"Don't you want company?"
 ●0000000333●
 
-○0000000334○"C'mon..."
+○0000000334○瑚太朗
 ●0000000334●
 
-○0000000335○A single ribbon unfurls, floating towards me.
+○0000000335○"Don't you feel like you wanna talk to someone?"
 ●0000000335●
 
-○0000000336○Both the girl's wrists are tied with ribbons.
+○0000000336○瑚太朗
 ●0000000336●
 
-○0000000337○They look like handcuffs, but their elasticity means they can't serve as restraints.
+○0000000337○"C'mon..."
 ●0000000337●
 
-○0000000338○The ribbon brushes my cheek.
+○0000000338○A single ribbon unfurls, floating toward me.
 ●0000000338●
 
-○0000000339○Keeping as still as a statue, I go on.
+○0000000339○Both the girl's wrists are tied with ribbons.
 ●0000000339●
 
-○0000000340○瑚太朗
+○0000000340○They look like handcuffs, but their elasticity means they can't serve as restraints.
 ●0000000340●
 
-○0000000341○"I'm Tennouji Kotarou."
+○0000000341○The ribbon brushes my cheek.
 ●0000000341●
 
-○0000000342○瑚太朗
+○0000000342○Keeping as still as a statue, I go on.
 ●0000000342●
 
-○0000000343○"You can just call me Kotarou."
+○0000000343○瑚太朗
 ●0000000343●
 
-○0000000344○瑚太朗
+○0000000344○"I'm Tennouji Kotarou."
 ●0000000344●
 
-○0000000345○"I know we've only just met."
+○0000000345○瑚太朗
 ●0000000345●
 
-○0000000346○瑚太朗
+○0000000346○"You can just call me Kotarou."
 ●0000000346●
 
-○0000000347○"But I don't go for formalities. I prefer to keep it casual."
+○0000000347○瑚太朗
 ●0000000347●
 
-○0000000348○瑚太朗
+○0000000348○"I know we've only just met."
 ●0000000348●
 
-○0000000349○"So, what's your name?"
+○0000000349○瑚太朗
 ●0000000349●
 
-○0000000350○少女＿篝
+○0000000350○"But I don't go for formalities. I prefer to keep it casual."
 ●0000000350●
 
-○0000000351○"......"
+○0000000351○瑚太朗
 ●0000000351●
 
-○0000000352○Hovering in the air, the ribbon trails down my chest to my stomach.
+○0000000352○"So, what's your name?"
 ●0000000352●
 
-○0000000353○瑚太朗
+○0000000353○少女＿篝
 ●0000000353●
 
-○0000000354○"I just arrived here, so there's a lot I don't understand yet."
+○0000000354○"......"
 ●0000000354●
 
-○0000000355○瑚太朗
+○0000000355○Hovering in the air, the ribbon trails down my chest to my stomach.
 ●0000000355●
 
-○0000000356○"I'm not here to fight you."
+○0000000356○瑚太朗
 ●0000000356●
 
-○0000000357○瑚太朗
+○0000000357○"I just arrived here, so there's a lot I don't understand yet."
 ●0000000357●
 
-○0000000358○"So why not have a chat with me?"
+○0000000358○瑚太朗
 ●0000000358●
 
-○0000000359○瑚太朗
+○0000000359○"I'm not here to fight you."
 ●0000000359●
 
-○0000000360○"Since we're both here in this place together, we might as well be friends."
+○0000000360○瑚太朗
 ●0000000360●
 
-○0000000361○The ribbon splits apart in the middle, forming into an arrowhead.
+○0000000361○"So why not have a chat with me?"
 ●0000000361●
 
-○0000000362○And then it pierces my chest.
+○0000000362○瑚太朗
 ●0000000362●
 
-○0000000363○瑚太朗
+○0000000363○"Since we're both here in this place together, we might as well be friends."
 ●0000000363●
 
-○0000000364○"...?!"
+○0000000364○The ribbon splits apart in the middle, forming into an arrowhead.
 ●0000000364●
 
-○0000000365○It rotates like a drill, burrowing into me.
+○0000000365○And then it pierces my chest.
 ●0000000365●
 
-○0000000366○When it pulls back, it brings my heart with it.
+○0000000366○瑚太朗
 ●0000000366●
 
-○0000000367○The organ is still pulsing.
+○0000000367○"...?!"
 ●0000000367●
 
-○0000000368○It looks like one of those fake heart models you see in biology class.
+○0000000368○It rotates like a drill, burrowing into me.
 ●0000000368●
 
-○0000000369○Yet this is the real, beating organ that sustains me.
+○0000000369○When it pulls back, it brings my heart with it.
 ●0000000369●
 
-○0000000370○瑚太朗
+○0000000370○The organ is still pulsing.
 ●0000000370●
 
-○0000000371○"That's... mine..."
+○0000000371○It looks like one of those fake heart models you see in biology class.
 ●0000000371●
 
-○0000000372○I reach out for it.
+○0000000372○Yet this is the real, beating organ that sustains me.
 ●0000000372●
 
-○0000000373○The ribbon squeezes, and my heart bursts with a satisfying pop.
+○0000000373○瑚太朗
 ●0000000373●
 
-○0000000374○Everything tilts.
+○0000000374○"That's... mine..."
 ●0000000374●
 
-○0000000375○Dialogue
+○0000000375○I reach out for it.
 ●0000000375●
 
-○0000000376○My memories are clearest right before I awaken.
+○0000000376○The ribbon squeezes, and my heart bursts with a satisfying pop.
 ●0000000376●
 
-○0000000377○But as soon as I wake, they become hazy.
+○0000000377○Everything tilts.
 ●0000000377●
 
-○0000000378○It's like forgetting a nice dream as soon as I wake from it.
+○0000000378○Dialogue
 ●0000000378●
 
-○0000000379○I vanish and awaken again and again.
+○0000000379○My memories are clearest right before I awaken.
 ●0000000379●
 
-○0000000380○An endless cycle of dreams and night.
+○0000000380○But as soon as I wake, they become hazy.
 ●0000000380●
 
-○0000000381○An infinite loop of memory and unreality.
+○0000000381○It's like forgetting a nice dream as soon as I wake from it.
 ●0000000381●
 
-○0000000382○I try innumerable times to talk to her.
+○0000000382○I vanish and awaken again and again.
 ●0000000382●
 
-○0000000383○I can't claim she's an active participant.
+○0000000383○An endless cycle of dreams and night.
 ●0000000383●
 
-○0000000384○Oftentimes, she ignores me, indifferent to my attempts to chat.
+○0000000384○An infinite loop of memory and unreality.
 ●0000000384●
 
-○0000000385○My goal is mutual understanding.
+○0000000385○I try innumerable times to talk to her.
 ●0000000385●
 
-○0000000386○But can such a thing really grow between us?
+○0000000386○I can't claim she's an active participant.
 ●0000000386●
 
-○0000000387○As I wander, I come to recognize my own contradictions.
+○0000000387○Oftentimes, she ignores me, indifferent to my attempts to chat.
 ●0000000387●
 
-○0000000388○There is no consistency in the dreams, the myriad memories I see just before waking.
+○0000000388○My goal is mutual understanding.
 ●0000000388●
 
-○0000000389○Once, I had a house with Kotori.
+○0000000389○But can such a thing really grow between us?
 ●0000000389●
 
-○0000000390○We were married.
+○0000000390○As I wander, I come to recognize my own contradictions.
 ●0000000390●
 
-○0000000391○It was wonderful.
+○0000000391○There is no consistency in the dreams, the myriad memories I see just before waking.
 ●0000000391●
 
-○0000000392○That life I had with Kotori.
+○0000000392○Once, I had a house with Kotori.
 ●0000000392●
 
-○0000000393○Of course, it wasn't easy.
+○0000000393○We were married.
 ●0000000393●
 
-○0000000394○I worked really hard to make it a reality.
+○0000000394○It was wonderful.
 ●0000000394●
 
-○0000000395○However, in another memory...
+○0000000395○That life I had with Kotori.
 ●0000000395●
 
-○0000000396○I was married to an office worker named Hamada Michiko.
+○0000000396○Of course, it wasn't easy.
 ●0000000396●
 
-○0000000397○Who was she?
+○0000000397○I worked really hard to make it a reality.
 ●0000000397●
 
-○0000000398○I remember her as someone I met at work when I was around twenty-four years old.
+○0000000398○However, in another memory...
 ●0000000398●
 
-○0000000399○We hit it off talking about spiritual experiences and started hanging out.
+○0000000399○I was married to an office worker named Hamada Michiko.
 ●0000000399●
 
-○0000000400○She was seated next to me at a work party.
+○0000000400○Who was she?
 ●0000000400●
 
-○0000000401○We suddenly started dating after I jokingly asked her to be my girlfriend.
+○0000000401○I remember her as someone I met at work when I was around twenty-four years old.
 ●0000000401●
 
-○0000000402○I wasn't really being serious.
+○0000000402○We hit it off talking about spiritual experiences and started hanging out.
 ●0000000402●
 
-○0000000403○We decided to give it a go, although I figured we'd break up pretty quickly.
+○0000000403○She was seated next to me at a work party.
 ●0000000403●
 
-○0000000404○It didn't take long for it to get serious.
+○0000000404○We suddenly started dating after I jokingly asked her to be my girlfriend.
 ●0000000404●
 
-○0000000405○Love blossomed between us, and two years later, we were legally married.
+○0000000405○I wasn't really being serious.
 ●0000000405●
 
-○0000000406○We saved up money and held the ceremony a year later, along with our little boy.
+○0000000406○We decided to give it a go, although I figured we'd break up pretty quickly.
 ●0000000406●
 
-○0000000407○Lots of people attended.
+○0000000407○It didn't take long for it to get serious.
 ●0000000407●
 
-○0000000408○Our colleagues, bosses, friends, and relatives.
+○0000000408○Love blossomed between us, and two years later, we were legally married.
 ●0000000408●
 
-○0000000409○Our eyes were filled with tears of joy and gratitude.
+○0000000409○We saved up money and held the ceremony a year later, along with our little boy.
 ●0000000409●
 
-○0000000410○Something occurs to me.
+○0000000410○Lots of people attended.
 ●0000000410●
 
-○0000000411○When was I married to Kotori?
+○0000000411○Our colleagues, bosses, friends, and relatives.
 ●0000000411●
 
-○0000000412○It must have been around the same time.
+○0000000412○Our eyes were filled with tears of joy and gratitude.
 ●0000000412●
 
-○0000000413○Conflicting memories of the same period coexist in my mind.
+○0000000413○Something occurs to me.
 ●0000000413●
 
-○0000000414○And they aren't the only ones.
+○0000000414○When was I married to Kotori?
 ●0000000414●
 
-○0000000415○When I trace my way back through my mind, I find multiple memories.
+○0000000415○It must have been around the same time.
 ●0000000415●
 
-○0000000416○With Chihaya, Lucia, and many, many more.
+○0000000416○Conflicting memories of the same period coexist in my mind.
 ●0000000416●
 
-○0000000417○With Akane and Sizuru.
+○0000000417○And they aren't the only ones.
 ●0000000417●
 
-○0000000418○My lives with them seem somehow shorter, and it takes some time to follow these paths.
+○0000000418○When I trace my way back through my mind, I find multiple memories.
 ●0000000418●
 
-○0000000419○Sometimes I lived as an ordinary citizen.
+○0000000419○With Chihaya, Lucia, and many, many more.
 ●0000000419●
 
-○0000000420○Others, I was a warrior.
+○0000000420○With Akane and Shizuru.
 ●0000000420●
 
-○0000000421○A warrior?
+○0000000421○My lives with them seem somehow shorter, and it takes some time to follow these paths.
 ●0000000421●
 
-○0000000422○I have memories of myself with a gun in hand, battling monsters across a devastated land.
+○0000000422○Sometimes I lived as an ordinary citizen.
 ●0000000422●
 
-○0000000423○The fall of civilization. Remnants of Gaia. Familiars. Hunters.
+○0000000423○Others, I was a warrior.
 ●0000000423●
 
-○0000000424○In those worlds filled with fantastical terms, I did things that would put most light novel protagonists to shame.
+○0000000424○A warrior?
 ●0000000424●
 
-○0000000425○And I recall many other lives, as well.
+○0000000425○I have memories of myself with a gun in hand, battling monsters across a devastated land.
 ●0000000425●
 
-○0000000426○I recall them all not as fantasy or delusion, but as actual lived experiences.
+○0000000426○The fall of civilization. Remnants of Gaia. Familiars. Hunters.
 ●0000000426●
 
-○0000000427○I start to think that I must have been reborn again and again, living a different life each time.
+○0000000427○In those worlds filled with fantastical terms, I did things that would put most light novel protagonists to shame.
 ●0000000427●
 
-○0000000428○But that's absurd.
+○0000000428○And I recall many other lives, as well.
 ●0000000428●
 
-○0000000429○Yet I can't think of any other way to explain the inconsistencies.
+○0000000429○I recall them all not as fantasy or delusion, but as actual lived experiences.
 ●0000000429●
 
-○0000000430○So I decide to put it back on the shelf and focus on what's here before me right now.
+○0000000430○I start to think that I must have been reborn again and again, living a different life each time.
 ●0000000430●
 
-○0000000431○On my conversation with the girl who watches over the diagram.
+○0000000431○But that's absurd.
 ●0000000431●
 
-○0000000432○She's a formidable enemy.
+○0000000432○Yet I can't think of any other way to explain the inconsistencies.
 ●0000000432●
 
-○0000000433○I can't seem to get through to her, no matter what I say or do.
+○0000000433○So I decide to put it back on the shelf and focus on what's here before me right now.
 ●0000000433●
 
-○0000000434○Time and again, I've met my death at her hands.
+○0000000434○On my conversation with the girl who watches over the diagram.
 ●0000000434●
 
-○0000000435○I've tried every approach I can think of.
+○0000000435○She's a formidable enemy.
 ●0000000435●
 
-○0000000436○All have ended in vain. All have ended in death.
+○0000000436○I can't seem to get through to her, no matter what I say or do.
 ●0000000436●
 
-○0000000437○Yet every time, I come back.
+○0000000437○Time and again, I've met my death at her hands.
 ●0000000437●
 
-○0000000438○Humans crave interaction.
+○0000000438○I've tried every approach I can think of.
 ●0000000438●
 
-○0000000439○They strive for understanding with one another.
+○0000000439○All have ended in vain. All have ended in death.
 ●0000000439●
 
-○0000000440○But she's different.
+○0000000440○Yet every time, I come back.
 ●0000000440●
 
-○0000000441○She exists here in this uninhabited world, taking the form of a person, yet without truly being one.
+○0000000441○Humans crave interaction.
 ●0000000441●
 
-○0000000442○Humans grow through their contact with other people.
+○0000000442○They strive for understanding with one another.
 ●0000000442●
 
-○0000000443○There's only me here. It's going to take some time.
+○0000000443○But she's different.
 ●0000000443●
 
-○0000000444○I die, and die, and die again.
+○0000000444○She exists here in this uninhabited world, taking the form of a person, yet without truly being one.
 ●0000000444●
 
-○0000000445○Sometimes I wonder if it's all a dream.
+○0000000445○Humans grow through their contact with other people.
 ●0000000445●
 
-○0000000446○It's strange how my willpower never wanes.
+○0000000446○There's only me here. It's going to take some time.
 ●0000000446●
 
-○0000000447○There's clearly something wrong with my mental state.
+○0000000447○I die, and die, and die again.
 ●0000000447●
 
-○0000000448○I get the feeling I'm being controlled by something.
+○0000000448○Sometimes I wonder if it's all a dream.
 ●0000000448●
 
-○0000000449○Am I merely the echo of a past that's already happened?
+○0000000449○It's strange how my willpower never wanes.
 ●0000000449●
 
-○0000000450○The same as the reflection of the moon on water?
+○0000000450○There's clearly something wrong with my mental state.
 ●0000000450●
 
-○0000000451○No matter how many times the water is disturbed, it comes back; the moon carries on being reflected.
+○0000000451○I get the feeling I'm being controlled by something.
 ●0000000451●
 
-○0000000452○Then doesn't that make everything futile?
+○0000000452○Am I merely the echo of a past that's already happened?
 ●0000000452●
 
-○0000000453○瑚太朗
+○0000000453○The same as the reflection of the moon on water?
 ●0000000453●
 
-○0000000454○(Might as well try something more drastic, then.)
+○0000000454○No matter how many times the water is disturbed, it comes back; the moon carries on being reflected.
 ●0000000454●
 
-○0000000455○There are still several things I haven't attempted yet.
+○0000000455○Then doesn't that make everything futile?
 ●0000000455●
 
-○0000000456○For example, a hostile approach.
+○0000000456○瑚太朗
 ●0000000456●
 
-○0000000457○I'm sure I can do it, if I so desire.
+○0000000457○(Might as well try something more drastic, then.)
 ●0000000457●
 
-○0000000458○I focus my mind. A slit opens across my right wrist, and several glowing vines snake their way from it.
+○0000000458○There are still several things I haven't attempted yet.
 ●0000000458●
 
-○0000000459○They intertwine, wrapping around the back of my hand, and then solidify into three orderly blades.
+○0000000459○For example, a hostile approach.
 ●0000000459●
 
-○0000000460○Am I going to fight?
+○0000000460○I'm sure I can do it, if I so desire.
 ●0000000460●
 
-○0000000461○Am I going to attack the mysterious girl with these overwrought weapons?
+○0000000461○I focus my mind. A slit opens across my right wrist, and several glowing vines snake their way from it.
 ●0000000461●
 
-○0000000462○瑚太朗
+○0000000462○They intertwine, wrapping around the back of my hand, and then solidify into three orderly blades.
 ●0000000462●
 
-○0000000463○(What change will this cause?)
+○0000000463○Am I going to fight?
 ●0000000463●
 
-○0000000464○I relax.
+○0000000464○Am I going to attack the mysterious girl with these overwrought weapons?
 ●0000000464●
 
-○0000000465○The blades vaporize and disperse.
+○0000000465○瑚太朗
 ●0000000465●
 
-○0000000466○瑚太朗
+○0000000466○(What change will this cause?)
 ●0000000466●
 
-○0000000467○(If I'm doing it just to get her attention, it basically amounts to harassment.)
+○0000000467○I relax.
 ●0000000467●
 
-○0000000468○That's a discouraging thought.
+○0000000468○The blades vaporize and disperse.
 ●0000000468●
 
-○0000000469○Still, it's something I haven't yet attempted...
+○0000000469○瑚太朗
 ●0000000469●
 
-○0000000470○瑚太朗
+○0000000470○(If I'm doing it just to get her attention, it basically amounts to harassment.)
 ●0000000470●
 
-○0000000471○"Might as well try."
+○0000000471○That's a discouraging thought.
 ●0000000471●
 
-○0000000472○I'm fed up with this stasis.
+○0000000472○Still, it's something I haven't yet attempted...
 ●0000000472●
 
-○0000000473○I crank the gears in my brain, coaxing the rusted cogs back to life.
+○0000000473○瑚太朗
 ●0000000473●
 
-○0000000474○Now then, how should I go about this?
+○0000000474○"Might as well try."
 ●0000000474●
 
-○0000000475○I take out my cell phone.
+○0000000475○I'm fed up with this stasis.
 ●0000000475●
 
-○0000000476○電話相談室（偽）
+○0000000476○I crank the gears in my brain, coaxing the rusted cogs back to life.
 ●0000000476●
 
-○0000000477○"Hello. How can we help?"
+○0000000477○Now then, how should I go about this?
 ●0000000477●
 
-○0000000478○瑚太朗
+○0000000478○I take out my cell phone.
 ●0000000478●
 
-○0000000479○"I want to get the attention of a girl."
+○0000000479○電話相談室（偽）
 ●0000000479●
 
-○0000000480○電話相談室（偽）
+○0000000480○"Hello. How can we help?"
 ●0000000480●
 
-○0000000481○"Use smooth talk."
+○0000000481○瑚太朗
 ●0000000481●
 
-○0000000482○Smooth talk?
+○0000000482○"I want to get the attention of a girl."
 ●0000000482●
 
-○0000000483○I nod, understanding.
+○0000000483○電話相談室（偽）
 ●0000000483●
 
-○0000000484○People with good interpersonal skills know exactly how to use words to their advantage.
+○0000000484○"Use smooth talk."
 ●0000000484●
 
-○0000000485○きれいな人（偽）
+○0000000485○Smooth talk?
 ●0000000485●
 
-○0000000486○"Having your flaws pointed out to you is more useful than compliments, so I much prefer to receive constructive criticism."
+○0000000486○I nod, understanding.
 ●0000000486●
 
-○0000000487○Right, exactly.
+○0000000487○People with good interpersonal skills know exactly how to use words to their advantage.
 ●0000000487●
 
-○0000000488○Perfect.
+○0000000488○きれいな人（偽）
 ●0000000488●
 
-○0000000489○This is exactly what makes one a respectable human being.
+○0000000489○"Having your flaws pointed out to you is more useful than compliments, so I much prefer to receive constructive criticism."
 ●0000000489●
 
-○0000000490○きれいな人（偽）
+○0000000490○Right, exactly.
 ●0000000490●
 
-○0000000491○"I don't keep secrets from anyone."
+○0000000491○Perfect.
 ●0000000491●
 
-○0000000492○きれいな人（偽）
+○0000000492○This is exactly what makes one a respectable human being.
 ●0000000492●
 
-○0000000493○"I don't think there's any point to a relationship built on lies."
+○0000000493○きれいな人（偽）
 ●0000000493●
 
-○0000000494○きれいな人（偽）
+○0000000494○"I don't keep secrets from anyone."
 ●0000000494●
 
-○0000000495○"Your real friends are the ones who tell it like it is."
+○0000000495○きれいな人（偽）
 ●0000000495●
 
-○0000000496○Nice.
+○0000000496○"I don't think there's any point to a relationship built on lies."
 ●0000000496●
 
-○0000000497○That's perfect.
+○0000000497○きれいな人（偽）
 ●0000000497●
 
-○0000000498○And then the other person will think the following.
+○0000000498○"Your real friends are the ones who tell it like it is."
 ●0000000498●
 
-○0000000499○餌食
+○0000000499○Nice.
 ●0000000499●
 
-○0000000500○(This guy's a straight shooter with a heart of gold!)
+○0000000500○That's perfect.
 ●0000000500●
 
-○0000000501○Is it an act?
+○0000000501○And then the other person will think the following.
 ●0000000501●
 
-○0000000502○Maybe.
+○0000000502○餌食
 ●0000000502●
 
-○0000000503○But living according to instinct would make us no better than Neanderthals.
+○0000000503○(This guy's a straight shooter with a heart of gold!)
 ●0000000503●
 
-○0000000504○Isn't our ability to fake it proof of our civility?
+○0000000504○Is it an act?
 ●0000000504●
 
-○0000000505○This is all very useful.
+○0000000505○Maybe.
 ●0000000505●
 
-○0000000506○Now I'll try and come up with my own words that'll stir her heart.
+○0000000506○But living according to instinct would make us no better than Neanderthals.
 ●0000000506●
 
-○0000000507○I carefully fine-tune each word to ensure it'll ring true.
+○0000000507○Isn't our ability to fake it proof of our civility?
 ●0000000507●
 
-○0000000508○I'll tell the prettiest lies.
+○0000000508○This is all very useful.
 ●0000000508●
 
-○0000000509○I'll become someone else, from somewhere else.
+○0000000509○Now I'll try and come up with my own words that'll stir her heart.
 ●0000000509●
 
-○0000000510○And I'll make her heart mine.
+○0000000510○I carefully fine-tune each word to ensure it'll ring true.
 ●0000000510●
 
-○0000000511○瑚太朗
+○0000000511○I'll tell the prettiest lies.
 ●0000000511●
 
-○0000000512○"Listen up."
+○0000000512○I'll become someone else, from somewhere else.
 ●0000000512●
 
-○0000000513○I approach the girl.
+○0000000513○And I'll make her heart mine.
 ●0000000513●
 
-○0000000514○I flourish my jacket, twisting the ribbons up in it as they try to attack.
+○0000000514○瑚太朗
 ●0000000514●
 
-○0000000515○Success!
+○0000000515○"Listen up."
 ●0000000515●
 
-○0000000516○I get as close to her as I can before she can launch the next attack.
+○0000000516○I approach the girl.
 ●0000000516●
 
-○0000000517○When I get within around five meters of her, the ribbons coil around my body, restraining me.
+○0000000517○I flourish my jacket, twisting the ribbons up in it as they try to attack.
 ●0000000517●
 
-○0000000518○But I'm plenty close enough for my voice to reach her.
+○0000000518○Success!
 ●0000000518●
 
-○0000000519○瑚太朗
+○0000000519○I get as close to her as I can before she can launch the next attack.
 ●0000000519●
 
-○0000000520○"I'm desperate to get to know you."
+○0000000520○When I get within around five meters of her, the ribbons coil around my body, restraining me.
 ●0000000520●
 
-○0000000521○瑚太朗
+○0000000521○But I'm plenty close enough for my voice to reach her.
 ●0000000521●
 
-○0000000522○"Can't we be friends?"
+○0000000522○瑚太朗
 ●0000000522●
 
-○0000000523○少女＿篝
+○0000000523○"I'm desperate to get to know you."
 ●0000000523●
 
-○0000000524○"......"
+○0000000524○瑚太朗
 ●0000000524●
 
-○0000000525○Time seems to stop.
+○0000000525○"Can't we be friends?"
 ●0000000525●
 
-○0000000526○No... It's been standing still this whole time.
+○0000000526○少女＿篝
 ●0000000526●
 
-○0000000527○瑚太朗
+○0000000527○"......"
 ●0000000527●
 
-○0000000528○"Please tell me your name."
+○0000000528○Time seems to stop.
 ●0000000528●
 
-○0000000529○瑚太朗
+○0000000529○No... It's been standing still this whole time.
 ●0000000529●
 
-○0000000530○"I'm sure you and I will hit it off."
+○0000000530○瑚太朗
 ●0000000530●
 
-○0000000531○瑚太朗
+○0000000531○"Please tell me your name."
 ●0000000531●
 
-○0000000532○"We're very different people, but if you'll just talk to me, I know we can understand one another."
+○0000000532○瑚太朗
 ●0000000532●
 
-○0000000533○瑚太朗
+○0000000533○"I'm sure you and I will hit it off."
 ●0000000533●
 
-○0000000534○"So please don't be scared of me, baby."
+○0000000534○瑚太朗
 ●0000000534●
 
-○0000000535○瑚太朗
+○0000000535○"We're very different people, but if you'll just talk to me, I know we can understand one another."
 ●0000000535●
 
-○0000000536○(Crap. I got a bit carried away at the end there.)
+○0000000536○瑚太朗
 ●0000000536●
 
-○0000000537○少女＿篝
+○0000000537○"So please don't be scared of me, baby."
 ●0000000537●
 
-○0000000538○"......"
+○0000000538○瑚太朗
 ●0000000538●
 
-○0000000539○Well, I managed to get my speech out.
+○0000000539○(Oops. I got a bit carried away at the end there.)
 ●0000000539●
 
-○0000000540○But tension lingers in the air.
+○0000000540○少女＿篝
 ●0000000540●
 
-○0000000541○The world has frozen.
+○0000000541○"......"
 ●0000000541●
 
-○0000000542○There's no change in the girl.
+○0000000542○Well, I managed to get my speech out.
 ●0000000542●
 
-○0000000543○Did I bomb this?
+○0000000543○But tension lingers in the air.
 ●0000000543●
 
-○0000000544○I start to sweat from the pressure.
+○0000000544○The world has frozen.
 ●0000000544●
 
-○0000000545○What the hell possessed me to say something like that to a supernatural being?!
+○0000000545○There's no change in the girl.
 ●0000000545●
 
-○0000000546○Abruptly, the ribbons start to constrict around me.
+○0000000546○Did I bomb this?
 ●0000000546●
 
-○0000000547○瑚太朗
+○0000000547○I start to sweat from the pressure.
 ●0000000547●
 
-○0000000548○"Ngh..."
+○0000000548○What the hell possessed me to say something like that to a supernatural being?!
 ●0000000548●
 
-○0000000549○I can feel the incredible power coursing through the soft fabric.
+○0000000549○Abruptly, the ribbons start to constrict around me.
 ●0000000549●
 
-○0000000550○It feels like magma flowing beneath a thick crust.
+○0000000550○瑚太朗
 ●0000000550●
 
-○0000000551○Uh-oh.
+○0000000551○"Ngh..."
 ●0000000551●
 
-○0000000552○瑚太朗
+○0000000552○I can feel the incredible power coursing through the soft fabric.
 ●0000000552●
 
-○0000000553○"C-Calling you 'baby' was a step too far, wasn't it?!"
+○0000000553○It feels like magma flowing beneath a thick crust.
 ●0000000553●
 
-○0000000554○The ribbons tighten their grip.
+○0000000554○Uh-oh.
 ●0000000554●
 
-○0000000555○They're strangling me.
+○0000000555○瑚太朗
 ●0000000555●
 
-○0000000556○The ribbons lift me into the air, suspending me several meters above the ground.
+○0000000556○"C-Calling you 'baby' was a step too far, wasn't it?!"
 ●0000000556●
 
-○0000000557○瑚太朗
+○0000000557○The ribbons tighten their grip.
 ●0000000557●
 
-○0000000558○"Khh...!"
+○0000000558○They're strangling me.
 ●0000000558●
 
-○0000000559○少女＿篝
+○0000000559○The ribbons lift me into the air, suspending me several meters above the ground.
 ●0000000559●
 
-○0000000560○"......"
+○0000000560○瑚太朗
 ●0000000560●
 
-○0000000561○瑚太朗
+○0000000561○"Khh...!"
 ●0000000561●
 
-○0000000562○"Wai―"
+○0000000562○少女＿篝
 ●0000000562●
 
-○0000000563○*slice*
+○0000000563○"......"
 ●0000000563●
 
-○0000000564○Resistance is futile. My head is cleanly severed from my neck.
+○0000000564○瑚太朗
 ●0000000564●
 
-○0000000565○My limp, lifeless body thuds to the ground, landing in a crumpled heap.
+○0000000565○"Wai―"
 ●0000000565●
 
-○0000000566○My head joins it a moment later, rolling down the hill.
+○0000000566○*slice*
 ●0000000566●
 
-○0000000567○瑚太朗
+○0000000567○Resistance is futile. My head is cleanly severed from my neck.
 ●0000000567●
 
-○0000000568○(Dude, that's nasty...)
+○0000000568○My limp, lifeless body thuds to the ground, landing in a crumpled heap.
 ●0000000568●
 
-○0000000569○I'm used to death by now, but this is a particularly shitty one.
+○0000000569○My head joins it a moment later, rolling down the hill.
 ●0000000569●
 
-○0000000570○My consciousness is fading fast.
+○0000000570○瑚太朗
 ●0000000570●
 
-○0000000571○I just have to tell her how I feel.
+○0000000571○(Dude, that's nasty...)
 ●0000000571●
 
-○0000000572○No other approach has garnered a response.
+○0000000572○I'm used to death by now, but this is a particularly shitty one.
 ●0000000572●
 
-○0000000573○I decide to throw whatever pick-up lines I can think of at her.
+○0000000573○My consciousness is fading fast.
 ●0000000573●
 
-○0000000574○瑚太朗
+○0000000574○I just have to tell her how I feel.
 ●0000000574●
 
-○0000000575○"I've been super into you since last year, so, uh... Wanna go out?"
+○0000000575○No other approach has garnered a response.
 ●0000000575●
 
-○0000000576○Something casual, but with a sheen of inexperience.
+○0000000576○I decide to throw whatever pick-up lines I can think of at her.
 ●0000000576●
 
-○0000000577○That's the tone I go for first.
+○0000000577○瑚太朗
 ●0000000577●
 
-○0000000578○The result...
+○0000000578○"I've been super into you since last year, so, uh... Wanna go out?"
 ●0000000578●
 
-○0000000579○*slash*
+○0000000579○Something casual, but with a sheen of inexperience.
 ●0000000579●
 
-○0000000580○瑚太朗
+○0000000580○That's the tone I go for first.
 ●0000000580●
 
-○0000000581○"Gyaaaaaah!"
+○0000000581○The result...
 ●0000000581●
 
-○0000000582○I'm killed. Instantaneously.
+○0000000582○*slash*
 ●0000000582●
 
-○0000000583○This chick's built up some thick walls.
+○0000000583○瑚太朗
 ●0000000583●
 
-○0000000584○瑚太朗
+○0000000584○"Gyaaaaaah!"
 ●0000000584●
 
-○0000000585○"YOU CAN'T STOP MY LOOOOOOOOOOVE!"
+○0000000585○I'm killed. Instantaneously.
 ●0000000585●
 
-○0000000586○*snick*
+○0000000586○This chick's built up some thick walls.
 ●0000000586●
 
 ○0000000587○瑚太朗
 ●0000000587●
 
-○0000000588○"Uwaaaaaaah!"
+○0000000588○"YOU CAN'T STOP MY LOOOOOOOOOOVE!"
 ●0000000588●
 
-○0000000589○The hot-blooded approach: a total bloodbath.
+○0000000589○*snick*
 ●0000000589●
 
 ○0000000590○瑚太朗
 ●0000000590●
 
-○0000000591○"Je t'aime!"
+○0000000591○"Uwaaaaaaah!"
 ●0000000591●
 
-○0000000592○*swoosh*
+○0000000592○The hot-blooded approach: a total bloodbath.
 ●0000000592●
 
 ○0000000593○瑚太朗
 ●0000000593●
 
-○0000000594○"NOOOOOOOOOOOOON!"
+○0000000594○"Je t'aime!"
 ●0000000594●
 
-○0000000595○The international approach: no bueno.
+○0000000595○*swoosh*
 ●0000000595●
 
-○0000000596○Did I mess up the grammar?
+○0000000596○瑚太朗
 ●0000000596●
 
-○0000000597○瑚太朗
+○0000000597○"NOOOOOOOOOOOOON!"
 ●0000000597●
 
-○0000000598○"Play with fire and you're gonna get burned, darlin'!"
+○0000000598○The international approach: no bueno.
 ●0000000598●
 
-○0000000599○*boom*
+○0000000599○Did I mess up the grammar?
 ●0000000599●
 
 ○0000000600○瑚太朗
 ●0000000600●
 
-○0000000601○"MY LOINS ARE AFLAAAAME!"
+○0000000601○"Play with fire and you're gonna get burned, darlin'!"
 ●0000000601●
 
-○0000000602○The "I'm a MAN!" approach: obliterated.
+○0000000602○*boom*
 ●0000000602●
 
-○0000000603○Huh, something similar to magma erupted from the ribbons that time.
+○0000000603○瑚太朗
 ●0000000603●
 
-○0000000604○Each death is as pitiful as the last.
+○0000000604○"MY LOINS ARE AFLAAAAME!"
 ●0000000604●
 
-○0000000605○瑚太朗
+○0000000605○The "I'm a MAN!" approach: obliterated.
 ●0000000605●
 
-○0000000606○"Nothing's working!"
+○0000000606○Huh, something similar to magma erupted from the ribbons that time.
 ●0000000606●
 
-○0000000607○No matter what I try, it doesn't entice her into a conversation.
+○0000000607○Each death is as pitiful as the last.
 ●0000000607●
 
-○0000000608○Every time I get close, she automatically removes the unwanted intrusion.
+○0000000608○瑚太朗
 ●0000000608●
 
-○0000000609○It's the same as before.
+○0000000609○"Nothing's working!"
 ●0000000609●
 
-○0000000610○I don't even know what I'm doing wrong.
+○0000000610○No matter what I try, it doesn't entice her into a conversation.
 ●0000000610●
 
-○0000000611○瑚太朗
+○0000000611○Every time I get close, she automatically removes the unwanted intrusion.
 ●0000000611●
 
-○0000000612○"What now...?"
+○0000000612○It's the same as before.
 ●0000000612●
 
-○0000000613○I decide to do the only thing I can: watch and wait.
+○0000000613○I don't even know what I'm doing wrong.
 ●0000000613●
 
-○0000000614○You could say I'm out of other options.
+○0000000614○瑚太朗
 ●0000000614●
 
-○0000000615○瑚太朗
+○0000000615○"What now...?"
 ●0000000615●
 
-○0000000616○"......"
+○0000000616○I decide to do the only thing I can: watch and wait.
 ●0000000616●
 
-○0000000617○少女＿篝
+○0000000617○You could say I'm out of other options.
 ●0000000617●
 
-○0000000618○"......"
+○0000000618○瑚太朗
 ●0000000618●
 
-○0000000619○So long as I don't make any movement towards her, she won't attack.
+○0000000619○"......"
 ●0000000619●
 
-○0000000620○瑚太朗
+○0000000620○少女＿篝
 ●0000000620●
 
-○0000000621○(What is it I wanna do here?)
+○0000000621○"......"
 ●0000000621●
 
-○0000000622○Here in this deathless world, I stare endlessly into her face.
+○0000000622○So long as I don't make any movement toward her, she won't attack.
 ●0000000622●
 
-○0000000623○It's just the same as when we lived in the real world.
+○0000000623○瑚太朗
 ●0000000623●
 
-○0000000624○All the strength leaves my body.
+○0000000624○(What is it I wanna do here?)
 ●0000000624●
 
-○0000000625○I no longer trust myself to speak.
+○0000000625○Here in this deathless world, I stare endlessly into her face.
 ●0000000625●
 
-○0000000626○After all, it never ended well before.
+○0000000626○It's just the same as when we lived in the real world.
 ●0000000626●
 
-○0000000627○瑚太朗
+○0000000627○All the strength leaves my body.
 ●0000000627●
 
-○0000000628○"I'm just spinning my wheels."
+○0000000628○I no longer trust myself to speak.
 ●0000000628●
 
-○0000000629○I open my mouth and speak to no one in particular.
+○0000000629○After all, it never ended well before.
 ●0000000629●
 
 ○0000000630○瑚太朗
 ●0000000630●
 
-○0000000631○"If I'm being honest, all that stuff about love was a lie."
+○0000000631○"I'm just spinning my wheels."
 ●0000000631●
 
-○0000000632○瑚太朗
+○0000000632○I open my mouth and speak to no one in particular.
 ●0000000632●
 
-○0000000633○"I'm the kinda guy who always puts myself first."
+○0000000633○瑚太朗
 ●0000000633●
 
-○0000000634○瑚太朗
+○0000000634○"If I'm being honest, all that stuff about love was a lie."
 ●0000000634●
 
-○0000000635○"I think I'm pretty cute and important."
+○0000000635○瑚太朗
 ●0000000635●
 
-○0000000636○瑚太朗
+○0000000636○"I'm the kinda guy who always puts myself first."
 ●0000000636●
 
-○0000000637○"I help people. If I come across someone collapsed in the street, I help them up."
+○0000000637○瑚太朗
 ●0000000637●
 
-○0000000638○瑚太朗
+○0000000638○"I think I'm pretty cute and important."
 ●0000000638●
 
-○0000000639○"It makes me feel good."
+○0000000639○瑚太朗
 ●0000000639●
 
-○0000000640○瑚太朗
+○0000000640○"I help people. If I come across someone collapsed in the street, I help them up."
 ●0000000640●
 
-○0000000641○"I did a good thing, which makes me a good person."
+○0000000641○瑚太朗
 ●0000000641●
 
-○0000000642○瑚太朗
+○0000000642○"It makes me feel good."
 ●0000000642●
 
-○0000000643○"Helping people feels good."
+○0000000643○瑚太朗
 ●0000000643●
 
-○0000000644○瑚太朗
+○0000000644○"I did a good thing, which makes me a good person."
 ●0000000644●
 
-○0000000645○"But I don't actually care about the other person. It's not like I'm genuinely concerned for them."
+○0000000645○瑚太朗
 ●0000000645●
 
-○0000000646○瑚太朗
+○0000000646○"Helping people feels good."
 ●0000000646●
 
-○0000000647○"It's all about my own satisfaction."
+○0000000647○瑚太朗
 ●0000000647●
 
-○0000000648○瑚太朗
+○0000000648○"But I don't actually care about the other person. It's not like I'm genuinely concerned for them."
 ●0000000648●
 
-○0000000649○"They're selfish good deeds."
+○0000000649○瑚太朗
 ●0000000649●
 
-○0000000650○瑚太朗
+○0000000650○"It's all about my own satisfaction."
 ●0000000650●
 
-○0000000651○"I think there are a lot of people like me out there."
+○0000000651○瑚太朗
 ●0000000651●
 
-○0000000652○瑚太朗
+○0000000652○"They're selfish good deeds."
 ●0000000652●
 
-○0000000653○"In fact, I don't think there's anyone who'd help someone else without a sliver of their own pleasure."
+○0000000653○瑚太朗
 ●0000000653●
 
-○0000000654○瑚太朗
+○0000000654○"I think there are a lot of people like me out there."
 ●0000000654●
 
-○0000000655○"But that isn't a problem. Every living creature seeks to fulfill its own desires."
+○0000000655○瑚太朗
 ●0000000655●
 
-○0000000656○瑚太朗
+○0000000656○"In fact, I don't think there's anyone who'd help someone else without a sliver of their own pleasure."
 ●0000000656●
 
-○0000000657○"The prime goal of life is self-fulfillment."
+○0000000657○瑚太朗
 ●0000000657●
 
-○0000000658○瑚太朗
+○0000000658○"But that isn't a problem. Every living creature seeks to fulfill its own desires."
 ●0000000658●
 
-○0000000659○"Then why do the means toward self-fulfillment amount to nothing more than smooth talking?"
+○0000000659○瑚太朗
 ●0000000659●
 
-○0000000660○I work through the idea, turning the thoughts over in my mind, scrutinizing them closely.
+○0000000660○"The prime goal of life is self-fulfillment."
 ●0000000660●
 
-○0000000661○I send my words up to the sky, but they come back down and burrow inside me like an invisible hand.
+○0000000661○瑚太朗
 ●0000000661●
 
-○0000000662○瑚太朗
+○0000000662○"Then why do the means toward self-fulfillment amount to nothing more than smooth talking?"
 ●0000000662●
 
-○0000000663○"Because we want to be acknowledged by a community."
+○0000000663○I work through the idea, turning the thoughts over in my mind, scrutinizing them closely.
 ●0000000663●
 
-○0000000664○瑚太朗
+○0000000664○I send my words up to the sky, but they come back down and burrow inside me like an invisible hand.
 ●0000000664●
 
-○0000000665○"We want people to praise us, to like us."
+○0000000665○瑚太朗
 ●0000000665●
 
-○0000000666○瑚太朗
+○0000000666○"Because we want to be acknowledged by a community."
 ●0000000666●
 
-○0000000667○"We want to be popular, fussed over, and valued."
+○0000000667○瑚太朗
 ●0000000667●
 
-○0000000668○瑚太朗
+○0000000668○"We want people to praise us, to like us."
 ●0000000668●
 
-○0000000669○"We want to belong."
+○0000000669○瑚太朗
 ●0000000669●
 
-○0000000670○Huh.
+○0000000670○"We want to be popular, fussed over, and valued."
 ●0000000670●
 
-○0000000671○So that's how it is.
+○0000000671○瑚太朗
 ●0000000671●
 
-○0000000672○A bud blossoms in my chest.
+○0000000672○"We want to belong."
 ●0000000672●
 
-○0000000673○A foolish flower blooms.
+○0000000673○Huh.
 ●0000000673●
 
-○0000000674○A sad, yet comforting, confession. It feels like penitence.
+○0000000674○So that's how it is.
 ●0000000674●
 
-○0000000675○Tears spill from my eyes unbidden.
+○0000000675○A bud blossoms in my chest.
 ●0000000675●
 
-○0000000676○瑚太朗
+○0000000676○A foolish flower blooms.
 ●0000000676●
 
-○0000000677○"I wanted to make something of myself because I realized how lacking I was."
+○0000000677○A sad, yet comforting, confession. It feels like penitence.
 ●0000000677●
 
-○0000000678○瑚太朗
+○0000000678○Tears spill from my eyes unbidden.
 ●0000000678●
 
-○0000000679○"I was scared of losing everyone."
+○0000000679○瑚太朗
 ●0000000679●
 
-○0000000680○瑚太朗
+○0000000680○"I wanted to make something of myself because I realized how lacking I was."
 ●0000000680●
 
-○0000000681○"Scared of being left alone."
+○0000000681○瑚太朗
 ●0000000681●
 
-○0000000682○瑚太朗
+○0000000682○"I was scared of losing everyone."
 ●0000000682●
 
-○0000000683○"That's why I joined the Occult Research Society in the first place."
+○0000000683○瑚太朗
 ●0000000683●
 
-○0000000684○瑚太朗
+○0000000684○"Scared of being left alone."
 ●0000000684●
 
-○0000000685○"God, I'm such a loser."
+○0000000685○瑚太朗
 ●0000000685●
 
-○0000000686○瑚太朗
+○0000000686○"That's why I joined the Occult Research Society in the first place."
 ●0000000686●
 
-○0000000687○"I was just desperate to be liked."
+○0000000687○瑚太朗
 ●0000000687●
 
-○0000000688○瑚太朗
+○0000000688○"God, I'm such a loser."
 ●0000000688●
 
-○0000000689○"And when I found someone I liked and they liked me back, all those worries left me."
+○0000000689○瑚太朗
 ●0000000689●
 
-○0000000690○瑚太朗
+○0000000690○"I was just desperate to be liked."
 ●0000000690●
 
-○0000000691○"Then I melted into the world... but for some reason, it was the world itself that melted."
+○0000000691○瑚太朗
 ●0000000691●
 
-○0000000692○瑚太朗
+○0000000692○"And when I found someone I liked and they liked me back, all those worries left me."
 ●0000000692●
 
-○0000000693○"Maybe I was unhappy with my weak, pathetic little self."
+○0000000693○瑚太朗
 ●0000000693●
 
-○0000000694○瑚太朗
+○0000000694○"Then I melted into the world... but for some reason, it was the world itself that melted."
 ●0000000694●
 
-○0000000695○"But you know what? Now that I have made something of myself, I don't regret any of it."
+○0000000695○瑚太朗
 ●0000000695●
 
-○0000000696○瑚太朗
+○0000000696○"Maybe I was unhappy with my weak, pathetic little self."
 ●0000000696●
 
-○0000000697○"Once you've self-actualized, there are no regrets."
+○0000000697○瑚太朗
 ●0000000697●
 
-○0000000698○瑚太朗
+○0000000698○"But you know what? Now that I have made something of myself, I don't regret any of it."
 ●0000000698●
 
-○0000000699○"When it comes to the person you love, nothing else matters."
+○0000000699○瑚太朗
 ●0000000699●
 
-○0000000700○瑚太朗
+○0000000700○"Once you've self-actualized, there are no regrets."
 ●0000000700●
 
-○0000000701○"Not even the end of the world..."
+○0000000701○瑚太朗
 ●0000000701●
 
-○0000000702○瑚太朗
+○0000000702○"When it comes to the person you love, nothing else matters."
 ●0000000702●
 
-○0000000703○"......"
+○0000000703○瑚太朗
 ●0000000703●
 
-○0000000704○瑚太朗
+○0000000704○"Not even the end of the world..."
 ●0000000704●
 
-○0000000705○"What's wrong with that?"
+○0000000705○瑚太朗
 ●0000000705●
 
-○0000000706○瑚太朗
+○0000000706○"......"
 ●0000000706●
 
-○0000000707○"Everyone thinks the same way, right? Why am I the only one who's been dragged out here?"
+○0000000707○瑚太朗
 ●0000000707●
 
-○0000000708○瑚太朗
+○0000000708○"What's wrong with that?"
 ●0000000708●
 
-○0000000709○"Why am I... the only one... here?"
+○0000000709○瑚太朗
 ●0000000709●
 
-○0000000710○I grab a tuft of grass in my fist.
+○0000000710○"Everyone thinks the same way, right? Why am I the only one who's been dragged out here?"
 ●0000000710●
 
-○0000000711○I tear the blades and throw them into the air.
+○0000000711○瑚太朗
 ●0000000711●
 
-○0000000712○I feel as though I'm being blamed for something.
+○0000000712○"Why am I... the only one... here?"
 ●0000000712●
 
-○0000000713○I lived and died, struggling through my human life.
+○0000000713○I grab a tuft of grass in my fist.
 ●0000000713●
 
-○0000000714○Every version of me.
+○0000000714○I tear the blades and throw them into the air.
 ●0000000714●
 
-○0000000715○瑚太朗
+○0000000715○I feel as though I'm being blamed for something.
 ●0000000715●
 
-○0000000716○"I was just one tiny, insignificant human living my life. That's all."
+○0000000716○I lived and died, struggling through my human life.
 ●0000000716●
 
-○0000000717○瑚太朗
+○0000000717○Every version of me.
 ●0000000717●
 
-○0000000718○"I know I got involved in some crazy shit, but I was only ever playing a supporting role."
+○0000000718○瑚太朗
 ●0000000718●
 
-○0000000719○瑚太朗
+○0000000719○"I was just one tiny, insignificant human living my life. That's all."
 ●0000000719●
 
-○0000000720○"I was just one person."
+○0000000720○瑚太朗
 ●0000000720●
 
-○0000000721○瑚太朗
+○0000000721○"I know I got involved in some crazy shit, but I was only ever playing a supporting role."
 ●0000000721●
 
-○0000000722○"Why am I the only one who's been banished to this place?"
+○0000000722○瑚太朗
 ●0000000722●
 
-○0000000723○瑚太朗
+○0000000723○"I was just one person."
 ●0000000723●
 
-○0000000724○"What about Kotori? And Sizuru? And Akane? And Chihaya? And Lucia?"
+○0000000724○瑚太朗
 ●0000000724●
 
-○0000000725○瑚太朗
+○0000000725○"Why am I the only one who's been banished to this place?"
 ●0000000725●
 
-○0000000726○"What about Mr. Esaka? And that old bat, Kashima?"
+○0000000726○瑚太朗
 ●0000000726●
 
-○0000000727○瑚太朗
+○0000000727○"What about Kotori? And Shizuru? And Akane? And Chihaya? And Lucia?"
 ●0000000727●
 
-○0000000728○"They were all way more influential than me, weren't they?"
+○0000000728○瑚太朗
 ●0000000728●
 
-○0000000729○瑚太朗
+○0000000729○"What about Mr. Esaka? And that old bat, Kashima?"
 ●0000000729●
 
-○0000000730○"Why couldn't I be left out of it?"
+○0000000730○瑚太朗
 ●0000000730●
 
-○0000000731○I clutch my head in my hands.
+○0000000731○"They were all way more influential than me, weren't they?"
 ●0000000731●
 
-○0000000732○I'm pathetic.
+○0000000732○瑚太朗
 ●0000000732●
 
-○0000000733○But who gives a shit?
+○0000000733○"Why couldn't I be left out of it?"
 ●0000000733●
 
-○0000000734○There's no society here, no community.
+○0000000734○I clutch my head in my hands.
 ●0000000734●
 
-○0000000735○There's nothing to lose from baring my true self.
+○0000000735○I'm pathetic.
 ●0000000735●
 
-○0000000736○This is the real me.
+○0000000736○But who gives a shit?
 ●0000000736●
 
-○0000000737○A timid, cowardly speck of a soul, scared of what others might think of him.
+○0000000737○There's no society here, no community.
 ●0000000737●
 
-○0000000738○Yet I never asked for much.
+○0000000738○There's nothing to lose from baring my true self.
 ●0000000738●
 
-○0000000739○I hated myself.
+○0000000739○This is the real me.
 ●0000000739●
 
-○0000000740○I hated myself so much I could cry.
+○0000000740○A timid, cowardly speck of a soul, scared of what others might think of him.
 ●0000000740●
 
-○0000000741○I wanted to change. But I just stayed the same.
+○0000000741○Yet I never asked for much.
 ●0000000741●
 
-○0000000742○I wail.
+○0000000742○I hated myself.
 ●0000000742●
 
-○0000000743○I want to disappear.
+○0000000743○I hated myself so much I could cry.
 ●0000000743●
 
-○0000000744○I don't want to remember my many lives.
+○0000000744○I wanted to change. But I just stayed the same.
 ●0000000744●
 
-○0000000745○Those lives were nothing more than stopgaps, each one tiny, pathetic, and empty.
+○0000000745○I wail.
 ●0000000745●
 
-○0000000746○Suddenly, I realize that the girl is standing before me.
+○0000000746○I want to disappear.
 ●0000000746●
 
-○0000000747○少女＿篝
+○0000000747○I don't want to remember my many lives.
 ●0000000747●
 
-○0000000748○"......"
+○0000000748○Those lives were nothing more than stopgaps, each one tiny, pathetic, and empty.
 ●0000000748●
 
-○0000000749○瑚太朗
+○0000000749○Suddenly, I realize that the girl is standing before me.
 ●0000000749●
 
-○0000000750○"Hah. You wanna kill me again?"
+○0000000750○少女＿篝
 ●0000000750●
 
-○0000000751○瑚太朗
+○0000000751○"......"
 ●0000000751●
 
-○0000000752○"Go ahead. Kill me. Terminate me for good."
+○0000000752○瑚太朗
 ●0000000752●
 
-○0000000753○瑚太朗
+○0000000753○"Hah. You wanna kill me again?"
 ●0000000753●
 
-○0000000754○"Make it so I don't have to think anymore."
+○0000000754○瑚太朗
 ●0000000754●
 
-○0000000755○瑚太朗
+○0000000755○"Go ahead. Kill me. Terminate me for good."
 ●0000000755●
 
-○0000000756○"Send me back to nothingness."
+○0000000756○瑚太朗
 ●0000000756●
 
-○0000000757○瑚太朗
+○0000000757○"Make it so I don't have to think anymore."
 ●0000000757●
 
-○0000000758○"Please..."
+○0000000758○瑚太朗
 ●0000000758●
 
-○0000000759○少女＿篝
+○0000000759○"Send me back to nothingness."
 ●0000000759●
 
-○0000000760○"......"
+○0000000760○瑚太朗
 ●0000000760●
 
-○0000000761○The girl says nothing.
+○0000000761○"Please..."
 ●0000000761●
 
-○0000000762○She simply looks down on me with cold, unfeeling eyes.
+○0000000762○少女＿篝
 ●0000000762●
 
-○0000000763○There could be a hint of disdain in there.
+○0000000763○"......"
 ●0000000763●
 
-○0000000764○There's nothing left in me.
+○0000000764○The girl says nothing.
 ●0000000764●
 
-○0000000765○No fake smile, no manufactured words, no performative expressions of love.
+○0000000765○She simply looks down on me with cold, unfeeling eyes.
 ●0000000765●
 
-○0000000766○I've lost it all.
+○0000000766○There could be a hint of disdain in there.
 ●0000000766●
 
-○0000000767○瑚太朗
+○0000000767○There's nothing left in me.
 ●0000000767●
 
-○0000000768○"What the hell..."
+○0000000768○No fake smile, no manufactured words, no performative expressions of love.
 ●0000000768●
 
-○0000000769○瑚太朗
+○0000000769○I've lost it all.
 ●0000000769●
 
-○0000000770○"What the hell are you?!"
+○0000000770○瑚太朗
 ●0000000770●
 
-○0000000771○少女＿篝
+○0000000771○"What the hell..."
 ●0000000771●
 
-○0000000772○"■"
+○0000000772○瑚太朗
 ●0000000772●
 
-○0000000773○A clear sound.
+○0000000773○"What the hell are you?!"
 ●0000000773●
 
-○0000000774○Cracks appear across the fossilized surface of my brain as something new starts to sprout.
+○0000000774○少女＿篝
 ●0000000774●
 
-○0000000775○Flowers.
+○0000000775○"■"
 ●0000000775●
 
-○0000000776○Buds unfurl inside my skull.
+○0000000776○(Kagari)
 ●0000000776●
 
-○0000000777○Repulsive, disgusting blossoms.
+○0000000777○A clear sound.
 ●0000000777●
 
-○0000000778○Their petals undulate in nauseating waves.
+○0000000778○Cracks appear across the fossilized surface of my brain as something new starts to sprout.
 ●0000000778●
 
-○0000000779○I feel sick.
+○0000000779○Flowers.
 ●0000000779●
 
-○0000000780○Flowers and plants are gross. Animals and bugs and bacteria are weird and creepy.
+○0000000780○Buds unfurl inside my skull.
 ●0000000780●
 
-○0000000781○The Earth is dirty.
+○0000000781○Repulsive, disgusting blossoms.
 ●0000000781●
 
-○0000000782○Who the hell ever described it as beautiful?
+○0000000782○Their petals undulate in nauseating waves.
 ●0000000782●
 
-○0000000783○Open your eyes. It's not beautiful at all.
+○0000000783○I feel sick.
 ●0000000783●
 
-○0000000784○There isn't a single beautiful thing on it.
+○0000000784○Flowers and plants are gross. Animals and bugs and bacteria are weird and creepy.
 ●0000000784●
 
-○0000000785○Everything is self-serving.
+○0000000785○The Earth is filthy.
 ●0000000785●
 
-○0000000786○It's filled with hideous arthropods and disgusting, slimy annelids.
+○0000000786○Who the hell ever described it as beautiful?
 ●0000000786●
 
-○0000000787○And humans, at the apex; they're not beautiful.
+○0000000787○Open your eyes. It's not beautiful at all.
 ●0000000787●
 
-○0000000788○They can all wither and die, for all I care.
+○0000000788○There isn't a single beautiful thing on it.
 ●0000000788●
 
-○0000000789○瑚太朗
+○0000000789○Everything is self-serving.
 ●0000000789●
 
-○0000000790○"Ughhh!"
+○0000000790○It's filled with hideous arthropods and disgusting, slimy annelids.
 ●0000000790●
 
-○0000000791○My brain is transforming.
+○0000000791○And humans, at the apex; they're not beautiful.
 ●0000000791●
 
-○0000000792○The channels are reforming, creating a new bypass.
+○0000000792○They can all wither and die, for all I care.
 ●0000000792●
 
-○0000000793○My intelligence and comprehensive faculties are improving.
+○0000000793○瑚太朗
 ●0000000793●
 
-○0000000794○At these close quarters, I can finally see into her eyes.
+○0000000794○"Ughhh!"
 ●0000000794●
 
-○0000000795○The dark pupils are swirling vortices of tight concentric circles.
+○0000000795○My brain is transforming.
 ●0000000795●
 
-○0000000796○They clearly show she's something other than human.
+○0000000796○The channels are reforming, creating a new bypass.
 ●0000000796●
 
-○0000000797○瑚太朗
+○0000000797○My intelligence and comprehensive faculties are improving.
 ●0000000797●
 
-○0000000798○"Did you say your name was... Kagari?"
+○0000000798○At these close quarters, I can finally see into her eyes.
 ●0000000798●
 
-○0000000799○No.
+○0000000799○The dark pupils are swirling vortices of tight concentric circles.
 ●0000000799●
 
-○0000000800○She didn't say it.
+○0000000800○They clearly show she's something other than human.
 ●0000000800●
 
-○0000000801○She sounded it.
+○0000000801○瑚太朗
 ●0000000801●
 
-○0000000802○"Kagari" isn't the name of an individual.
+○0000000802○"Did you say your name was... Kagari?"
 ●0000000802●
 
-○0000000803○It's a resonance that denotes existence.
+○0000000803○No.
 ●0000000803●
 
-○0000000804○A sound effect?
+○0000000804○She didn't say it.
 ●0000000804●
 
-○0000000805○I don't know. It's impossible to explain via human language.
+○0000000805○She sounded it.
 ●0000000805●
 
-○0000000806○It's like naming a hurricane by the thunderous roar of its winds.
+○0000000806○"Kagari" isn't the name of an individual.
 ●0000000806●
 
-○0000000807○But there is nothing else for me to call her.
+○0000000807○It's a resonance that denotes existence.
 ●0000000807●
 
-○0000000808○The name of this phenomenon taking the form of a girl... is Kagari.
+○0000000808○A sound effect?
 ●0000000808●
 
-○0000000809○I wipe away my tears.
+○0000000809○I don't know. It's impossible to explain with human language.
 ●0000000809●
 
-○0000000810○Was it my words that spurred this? Or my behavior?
+○0000000810○It's like naming a hurricane by the thunderous roar of its winds.
 ●0000000810●
 
-○0000000811○After I abandoned any hope of having a conversation, did my expression of my true feelings spur this Kagari girl-thing to action?
+○0000000811○But there is nothing else for me to call her.
 ●0000000811●
 
-○0000000812○My brain has reached its limit.
+○0000000812○The name of this phenomenon taking the form of a girl... is Kagari.
 ●0000000812●
 
-○0000000813○Consciousness fading. Actions depleted.
+○0000000813○I wipe away my tears.
 ●0000000813●
 
-○0000000814○Kagari looks down on me expressionlessly.
+○0000000814○Was it my words that spurred this? Or my behavior?
 ●0000000814●
 
-○0000000815○The flowers carpeting the hill shudder mockingly.
+○0000000815○After I abandoned any hope of having a conversation, did my expression of my true feelings spur this Kagari girl-thing to action?
 ●0000000815●
 
-○0000000816○They're daisies.
+○0000000816○My brain has reached its limit.
 ●0000000816●
 
-○0000000817○A hill of black and white daisies...
+○0000000817○Consciousness fading. Actions depleted.
 ●0000000817●
 
-○0000000818○The girl... Kagari is there, as she always is.
+○0000000818○Kagari looks down on me expressionlessly.
 ●0000000818●
 
-○0000000819○Clinging to the huge piece of paper, running her fingers over it.
+○0000000819○The flowers carpeting the hill shudder mockingly.
 ●0000000819●
 
-○0000000820○瑚太朗
+○0000000820○They're daisies.
 ●0000000820●
 
-○0000000821○"Kagari?"
+○0000000821○A hill of black and white daisies...
 ●0000000821●
 
-○0000000822○篝
+○0000000822○The girl... Kagari is there, as she always is.
 ●0000000822●
 
-○0000000823○"......"
+○0000000823○Clinging to the huge piece of paper, running her fingers over it.
 ●0000000823●
 
-○0000000824○When I call her name, the girl raises her head.
+○0000000824○瑚太朗
 ●0000000824●
 
-○0000000825○My blood freezes in my veins.
+○0000000825○"Kagari?"
 ●0000000825●
 
-○0000000826○It feels as though her gaze is passing right through me.
+○0000000826○篝
 ●0000000826●
 
-○0000000827○Like she's looking into the very core of my being; into the electric impulses in my brain, the marrow of my bones, my genetic makeup.
+○0000000827○"......"
 ●0000000827●
 
-○0000000828○It's uncanny.
+○0000000828○When I call her name, the girl raises her head.
 ●0000000828●
 
-○0000000829○瑚太朗
+○0000000829○My blood freezes in my veins.
 ●0000000829●
 
-○0000000830○"Um, so, that chart at your feet..."
+○0000000830○It feels as though her gaze is passing right through me.
 ●0000000830●
 
-○0000000831○When I move closer, the ribbons multiply, each of them forming into a sharp point.
+○0000000831○Like she's looking into the very core of my being; into the electric impulses in my brain, the marrow of my bones, my genetic makeup.
 ●0000000831●
 
-○0000000832○瑚太朗
+○0000000832○It's uncanny.
 ●0000000832●
 
-○0000000833○"Wait! I'm not here to fight you... I just want to look."
+○0000000833○瑚太朗
 ●0000000833●
 
-○0000000834○With both arms raised placatingly, I drop my gaze to the paper.
+○0000000834○"Um, so, that chart at your feet..."
 ●0000000834●
 
-○0000000835○A tree...
+○0000000835○When I move closer, the ribbons multiply, each of them forming into a sharp point.
 ●0000000835●
 
 ○0000000836○瑚太朗
 ●0000000836●
 
-○0000000837○"Guh!"
+○0000000837○"Wait! I'm not here to fight you... I just want to look."
 ●0000000837●
 
-○0000000838○A flash of nausea rolls over me.
+○0000000838○With both arms raised placatingly, I drop my gaze to the paper.
 ●0000000838●
 
-○0000000839○That knowledge is dangerous.
+○0000000839○A tree...
 ●0000000839●
 
-○0000000840○It's poisonous!
+○0000000840○瑚太朗
 ●0000000840●
 
-○0000000841○Hurriedly, I scrunch my eyes shut.
+○0000000841○"Guh!"
 ●0000000841●
 
-○0000000842○This way, I can keep myself from dispersing.
+○0000000842○A flash of nausea rolls over me.
 ●0000000842●
 
-○0000000843○If I keep looking, my very being will be torn to shreds in a matter of seconds.
+○0000000843○That knowledge is dangerous.
 ●0000000843●
 
-○0000000844○Pain lances through my forehead. I press my fingers to my brow and take deep breaths.
+○0000000844○It's poisonous!
 ●0000000844●
 
-○0000000845○瑚太朗
+○0000000845○Hurriedly, I scrunch my eyes shut.
 ●0000000845●
 
-○0000000846○"This is a... theory?"
+○0000000846○This way, I can keep myself from dispersing.
 ●0000000846●
 
-○0000000847○That single particle of information that made its way through contained the teachings of many thousands of specialized textbooks.
+○0000000847○If I keep looking, my very being will be torn to shreds in a matter of seconds.
 ●0000000847●
 
-○0000000848○篝
+○0000000848○Pain lances through my forehead. I press my fingers to my brow and take deep breaths.
 ●0000000848●
 
-○0000000849○"......"
+○0000000849○瑚太朗
 ●0000000849●
 
-○0000000850○Losing interest in me, Kagari turns her attention back to the paper.
+○0000000850○"This is a... theory?"
 ●0000000850●
 
-○0000000851○As she traces her finger over it, the figure unfolds into straight lines that then cluster together again, forming a different pattern.
+○0000000851○That single particle of information that made its way through contained the teachings of many thousands of specialized textbooks.
 ●0000000851●
 
-○0000000852○She's rewriting it.
+○0000000852○篝
 ●0000000852●
 
-○0000000853○瑚太朗
+○0000000853○"......"
 ●0000000853●
 
-○0000000854○"Are you always alone?"
+○0000000854○Losing interest in me, Kagari turns her attention back to the paper.
 ●0000000854●
 
-○0000000855○篝
+○0000000855○As she traces her finger over it, the figure unfolds into straight lines that then cluster together again, forming a different pattern.
 ●0000000855●
 
-○0000000856○"......"
+○0000000856○She's rewriting it.
 ●0000000856●
 
 ○0000000857○瑚太朗
 ●0000000857●
 
-○0000000858○"Hey, Kagari."
+○0000000858○"Are you always alone?"
 ●0000000858●
 
 ○0000000859○篝
@@ -2575,1102 +2575,1102 @@
 ○0000000860○"......"
 ●0000000860●
 
-○0000000861○I sigh.
+○0000000861○瑚太朗
 ●0000000861●
 
-○0000000862○This is gonna be a long battle.
+○0000000862○"Hey, Kagari."
 ●0000000862●
 
-○0000000863○Sprawling out on my back, I stare up at the night sky.
+○0000000863○篝
 ●0000000863●
 
-○0000000864○The bright night could be a dark day.
+○0000000864○"......"
 ●0000000864●
 
-○0000000865○The warm night air resembles a cool afternoon.
+○0000000865○I sigh.
 ●0000000865●
 
-○0000000866○It's like everything has been averaged out.
+○0000000866○This is gonna be a long battle.
 ●0000000866●
 
-○0000000867○Gazing up at the moon, I start to feel drowsy.
+○0000000867○Sprawling out on my back, I stare up at the night sky.
 ●0000000867●
 
-○0000000868○As soon as I close my eyes, my self dissolves.
+○0000000868○The bright night could be a dark day.
 ●0000000868●
 
-○0000000869○Now I remember...
+○0000000869○The warm night air resembles a cool afternoon.
 ●0000000869●
 
-○0000000870○I met Kagari in the real world.
+○0000000870○It's like everything has been averaged out.
 ●0000000870●
 
-○0000000871○Not just once or twice.
+○0000000871○Gazing up at the moon, I start to feel drowsy.
 ●0000000871●
 
-○0000000872○Many times.
+○0000000872○As soon as I close my eyes, my self dissolves.
 ●0000000872●
 
-○0000000873○瑚太朗
+○0000000873○Now I remember...
 ●0000000873●
 
-○0000000874○(When?)
+○0000000874○I met Kagari in the real world.
 ●0000000874●
 
-○0000000875○I can't remember.
+○0000000875○Not just once or twice.
 ●0000000875●
 
-○0000000876○The truth is hidden somewhere deep in my hazy recollections.
+○0000000876○Many times.
 ●0000000876●
 
-○0000000877○Perhaps as recompense for being manifested here on this night, it all feels far away.
+○0000000877○瑚太朗
 ●0000000877●
 
-○0000000878○I am the moon reflected on water.
+○0000000878○(When?)
 ●0000000878●
 
-○0000000879○I'm certain we have a connection.
+○0000000879○I can't remember.
 ●0000000879●
 
-○0000000880○Conversing is difficult, but...
+○0000000880○The truth is hidden somewhere deep in my hazy recollections.
 ●0000000880●
 
-○0000000881○Bit by bit, she's softening.
+○0000000881○Perhaps as recompense for being manifested here on this night, it all feels far away.
 ●0000000881●
 
-○0000000882○Let's meet her halfway.
+○0000000882○I am the moon reflected on water.
 ●0000000882●
 
-○0000000883○Just as genes combine their information to compile the pattern of a new life.
+○0000000883○I'm certain we have a connection.
 ●0000000883●
 
-○0000000884○Fostering diversity and birthing possibility.
+○0000000884○Conversing is difficult, but...
 ●0000000884●
 
-○0000000885○篝
+○0000000885○Bit by bit, she's softening.
 ●0000000885●
 
-○0000000886○"......"
+○0000000886○Let's meet her halfway.
 ●0000000886●
 
-○0000000887○瑚太朗
+○0000000887○Just as genes combine their information to compile the pattern of a new life.
 ●0000000887●
 
-○0000000888○"...Yo."
+○0000000888○Fostering diversity and birthing possibility.
 ●0000000888●
 
-○0000000889○When I greet her, she sends a glance my way.
+○0000000889○篝
 ●0000000889●
 
-○0000000890○The ribbons twitch slightly, on the alert.
+○0000000890○"......"
 ●0000000890●
 
 ○0000000891○瑚太朗
 ●0000000891●
 
-○0000000892○(If I can get just two steps closer without her launching an attack...)
+○0000000892○"...Yo."
 ●0000000892●
 
-○0000000893○I can't touch or speak to her.
+○0000000893○When I greet her, she sends a glance my way.
 ●0000000893●
 
-○0000000894○Which means that all I can do right now is gather and analyze information.
+○0000000894○The ribbons twitch slightly, on the alert.
 ●0000000894●
 
-○0000000895○Information.
+○0000000895○瑚太朗
 ●0000000895●
 
-○0000000896○It's right there at her feet.
+○0000000896○(If I can get just two steps closer without her launching an attack...)
 ●0000000896●
 
-○0000000897○Complicated diagrams scrawled across the huge sheet of paper.
+○0000000897○I can't touch or speak to her.
 ●0000000897●
 
-○0000000898○Sequences and symbols, lines and arches.
+○0000000898○Which means that all I can do right now is gather and analyze information.
 ●0000000898●
 
-○0000000899○The dense accumulation of information forms one part of a further-compressed theory.
+○0000000899○Information.
 ●0000000899●
 
-○0000000900○The glyphs are beyond human comprehension. All I can really work out is that their entirety forms a flowchart.
+○0000000900○It's right there at her feet.
 ●0000000900●
 
-○0000000901○A flowchart...
+○0000000901○Complicated diagrams scrawled across the huge sheet of paper.
 ●0000000901●
 
-○0000000902○If I narrow my eyes, it kind of looks like a giant tree.
+○0000000902○Sequences and symbols, lines and arches.
 ●0000000902●
 
-○0000000903○One single trunk splits into overhanging branches that spread out like a fan.
+○0000000903○The dense accumulation of information forms one part of a further-compressed theory.
 ●0000000903●
 
-○0000000904○瑚太朗
+○0000000904○The glyphs are beyond human comprehension. All I can really work out is that their entirety forms a flowchart.
 ●0000000904●
 
-○0000000905○(I can't look.)
+○0000000905○A flowchart...
 ●0000000905●
 
-○0000000906○I close my eyes.
+○0000000906○If I narrow my eyes, it kind of looks like a giant tree.
 ●0000000906●
 
-○0000000907○I was almost drawn in.
+○0000000907○One single trunk splits into overhanging branches that spread out like a fan.
 ●0000000907●
 
-○0000000908○My brain is buried under a dense, weighty mass.
+○0000000908○瑚太朗
 ●0000000908●
 
-○0000000909○The information is compressed as hard and tightly packed as a hot coal.
+○0000000909○(Trying to look at it is driving me insane.)
 ●0000000909●
 
-○0000000910○My slight disturbance of the outermost surface sends accumulated, systematized knowledge that would take years to acquire flooding through me, bringing with it a sharp, irritating smell.
+○0000000910○I close my eyes.
 ●0000000910●
 
-○0000000911○I don't know how this uncompressed data relates to that tree-like image I just saw...
+○0000000911○I was almost drawn in.
 ●0000000911●
 
-○0000000912○瑚太朗
+○0000000912○My brain is buried under a dense, weighty mass.
 ●0000000912●
 
-○0000000913○"Ngh..."
+○0000000913○The information is compressed as hard and tightly packed as a hot coal.
 ●0000000913●
 
-○0000000914○An electric shock runs from the back of my nose right up to the top of my head.
+○0000000914○My slight disturbance of the outermost surface sends accumulated, systematized knowledge that would take years to acquire flooding through me, bringing with it a sharp, irritating smell.
 ●0000000914●
 
-○0000000915○The circuitry that connects my head to my limbs is on fire.
+○0000000915○I don't know how this uncompressed data relates to that tree-like image I just saw...
 ●0000000915●
 
-○0000000916○My knees hit the ground.
+○0000000916○瑚太朗
 ●0000000916●
 
-○0000000917○I can't move a finger.
+○0000000917○"Ngh..."
 ●0000000917●
 
-○0000000918○瑚太朗
+○0000000918○An electric shock runs from the back of my nose right up to the top of my head.
 ●0000000918●
 
-○0000000919○(Is this... the Theory of Life?)
+○0000000919○The circuitry that connects my head to my limbs is on fire.
 ●0000000919●
 
-○0000000920○With this realization, I shatter into pieces.
+○0000000920○My knees hit the ground.
 ●0000000920●
 
-○0000000921○Fragments of Fate
+○0000000921○I can't move a finger.
 ●0000000921●
 
-○0000000922○I try to recall the Key.
+○0000000922○瑚太朗
 ●0000000922●
 
-○0000000923○Everyone was after it.
+○0000000923○(Is this... the Theory of Life?)
 ●0000000923●
 
-○0000000924○Much blood was shed over that Key.
+○0000000924○With this realization, I shatter into pieces.
 ●0000000924●
 
-○0000000925○Sometimes, it was my blood.
+○0000000925○Fragments of Causality
 ●0000000925●
 
-○0000000926○The Key was invisible.
+○0000000926○I try to recall the Key.
 ●0000000926●
 
-○0000000927○It wasn't a tangible existence, but some people could perceive it.
+○0000000927○Everyone was after it.
 ●0000000927●
 
-○0000000928○Sometimes, I saw her for myself.
+○0000000928○Much blood was shed over that Key.
 ●0000000928●
 
-○0000000929○Occasionally, I would be able to perceive her alongside increases in my power or decreases in my stability.
+○0000000929○Sometimes, it was my blood.
 ●0000000929●
 
-○0000000930○The Key existed to destroy civilization.
+○0000000930○The Key was invisible.
 ●0000000930●
 
-○0000000931○There was a theory that she was an emissary of the Earth, sent to pass judgment on humanity's hubris.
+○0000000931○It wasn't a tangible existence, but some people could perceive it.
 ●0000000931●
 
-○0000000932○Another theory believed her to be akin to a vaccine designed to eradicate the harmful disease of humanity.
+○0000000932○Sometimes, I saw her for myself.
 ●0000000932●
 
-○0000000933○I even heard a theory that she came from the Hollow Earth.
+○0000000933○Occasionally, I would be able to perceive her alongside increases in my power or decreases in my stability.
 ●0000000933●
 
-○0000000934○Everyone died without ever learning the truth about the Key.
+○0000000934○The Key existed to destroy civilization.
 ●0000000934●
 
-○0000000935○Kagari has taken the form of the Key, and here in this empty night, she immerses herself in her account of life.
+○0000000935○There was a theory that she was an emissary of the Earth, sent to pass judgment on humanity's hubris.
 ●0000000935●
 
-○0000000936○瑚太朗
+○0000000936○Another theory believed her to be akin to a vaccine designed to eradicate the harmful disease of humanity.
 ●0000000936●
 
-○0000000937○"Your research..."
+○0000000937○I even heard a theory that she came from the Hollow Earth.
 ●0000000937●
 
-○0000000938○I try talking to her, even though I know I'll get no answer.
+○0000000938○Everyone died without ever learning the truth about the Key.
 ●0000000938●
 
-○0000000939○瑚太朗
+○0000000939○Kagari has taken the form of the Key, and here in this empty night, she immerses herself in her account of life.
 ●0000000939●
 
-○0000000940○"Is its aim to destroy the world?"
+○0000000940○瑚太朗
 ●0000000940●
 
-○0000000941○篝
+○0000000941○"Your research..."
 ●0000000941●
 
-○0000000942○"......"
+○0000000942○I try talking to her, even though I know I'll get no answer.
 ●0000000942●
 
 ○0000000943○瑚太朗
 ●0000000943●
 
-○0000000944○"Humans destroyed the natural world with pollution and global warming."
+○0000000944○"Is its aim to destroy the world?"
 ●0000000944●
 
-○0000000945○瑚太朗
+○0000000945○篝
 ●0000000945●
 
-○0000000946○"Is that why you want to destroy us?"
+○0000000946○"......"
 ●0000000946●
 
-○0000000947○篝
+○0000000947○瑚太朗
 ●0000000947●
 
-○0000000948○"......"
+○0000000948○"Humans destroyed the natural world with pollution and global warming."
 ●0000000948●
 
 ○0000000949○瑚太朗
 ●0000000949●
 
-○0000000950○"...Figures."
+○0000000950○"Is that why you want to destroy us?"
 ●0000000950●
 
-○0000000951○Although the shock of it broke me, that glimpse into Kagari's theory expanded my intellect.
+○0000000951○篝
 ●0000000951●
 
-○0000000952○And it brought with it an understanding.
+○0000000952○"......"
 ●0000000952●
 
-○0000000953○Changes here aren't borne by time.
+○0000000953○瑚太朗
 ●0000000953●
 
-○0000000954○It's more like a phase transition in matter, brought on by specific events.
+○0000000954○"...Figures."
 ●0000000954●
 
-○0000000955○I don't know what incites these transitions.
+○0000000955○Although the shock of it broke me, that glimpse into Kagari's theory expanded my intellect.
 ●0000000955●
 
-○0000000956○I suppose the only way to find out is by experimenting.
+○0000000956○And it brought with it an understanding.
 ●0000000956●
 
-○0000000957○In other words, sitting around on my ass isn't gonna get me anywhere.
+○0000000957○Changes here aren't borne by time.
 ●0000000957●
 
-○0000000958○I get to my feet.
+○0000000958○It's more like a phase transition in matter, brought on by specific events.
 ●0000000958●
 
-○0000000959○I feel like taking a walk around the town.
+○0000000959○I don't know what incites these transitions.
 ●0000000959●
 
-○0000000960○Deep in the forest...
+○0000000960○I suppose the only way to find out is by experimenting.
 ●0000000960●
 
-○0000000961○Something feels familiar.
+○0000000961○In other words, sitting around on my ass isn't gonna get me anywhere.
 ●0000000961●
 
-○0000000962○A faint presence that can only be sensed once you get near.
+○0000000962○I get to my feet.
 ●0000000962●
 
-○0000000963○There's the silhouette of a person.
+○0000000963○I feel like taking a walk around the town.
 ●0000000963●
 
-○0000000964○瑚太朗
+○0000000964○Deep in the forest...
 ●0000000964●
 
-○0000000965○"Kotori...?"
+○0000000965○Something feels familiar.
 ●0000000965●
 
-○0000000966○But when I get closer, I see that it's just a wooden statue, overgrown with moss.
+○0000000966○A faint presence that can only be sensed once you get near.
 ●0000000966●
 
-○0000000967○The soft edges of the rotting wood seem like they could have been created by nature.
+○0000000967○There's the silhouette of a person.
 ●0000000967●
 
-○0000000968○But I feel Kotori's presence.
+○0000000968○瑚太朗
 ●0000000968●
 
-○0000000969○I reach out and touch it.
+○0000000969○"Kotori...?"
 ●0000000969●
 
-○0000000970○瑚太朗
+○0000000970○But when I get closer, I see that it's just a wooden statue, overgrown with moss.
 ●0000000970●
 
-○0000000971○"Hey?"
+○0000000971○The soft edges of the rotting wood seem like they could have been created by nature.
 ●0000000971●
 
-○0000000972○It doesn't respond.
+○0000000972○But I feel Kotori's presence.
 ●0000000972●
 
-○0000000973○It simply remains in place.
+○0000000973○I reach out and touch it.
 ●0000000973●
 
-○0000000974○It has no form, no meaning.
+○0000000974○瑚太朗
 ●0000000974●
 
-○0000000975○瑚太朗
+○0000000975○"Hey?"
 ●0000000975●
 
-○0000000976○"You're all alone here."
+○0000000976○It doesn't respond.
 ●0000000976●
 
-○0000000977○My heart aches, as though the lump of wood is Kotori herself.
+○0000000977○It simply remains in place.
 ●0000000977●
 
-○0000000978○A person-shaped scrap of paper leans against the chair where Akane used to sit.
+○0000000978○It has no form, no meaning.
 ●0000000978●
 
-○0000000979○The humanoid outline sparks a memory.
+○0000000979○瑚太朗
 ●0000000979●
 
-○0000000980○The shikigami.
+○0000000980○"You're all alone here."
 ●0000000980●
 
-○0000000981○瑚太朗
+○0000000981○My heart aches, as though the lump of wood is Kotori herself.
 ●0000000981●
 
-○0000000982○"Akane?"
+○0000000982○A person-shaped scrap of paper leans against the chair where Akane used to sit.
 ●0000000982●
 
-○0000000983○No answer.
+○0000000983○The humanoid outline sparks a memory.
 ●0000000983●
 
-○0000000984○I don't doubt that it's deeply related to her in some way, but...
+○0000000984○The shikigami.
 ●0000000984●
 
 ○0000000985○瑚太朗
 ●0000000985●
 
-○0000000986○"You're looking a little flat there... Haha."
+○0000000986○"Akane?"
 ●0000000986●
 
-○0000000987○I try to convince myself that it serves her right.
+○0000000987○No answer.
 ●0000000987●
 
-○0000000988○...I fail.
+○0000000988○I don't doubt that it's deeply related to her in some way, but...
 ●0000000988●
 
-○0000000989○I consider taking the paper with me, but there's probably no point.
+○0000000989○瑚太朗
 ●0000000989●
 
-○0000000990○I leave.
+○0000000990○"You're looking a little flat there... Haha."
 ●0000000990●
 
-○0000000991○Despite being in perfect condition, the empty mall feels like a ruin.
+○0000000991○I try to convince myself that it serves her right.
 ●0000000991●
 
-○0000000992○She's here.
+○0000000992○...I fail.
 ●0000000992●
 
-○0000000993○瑚太朗
+○0000000993○I consider taking the paper with me, but there's probably no point.
 ●0000000993●
 
-○0000000994○"You're..."
+○0000000994○I leave.
 ●0000000994●
 
-○0000000995○There's an object covered in a piece of fabric.
+○0000000995○Despite being in perfect condition, the empty mall feels like a ruin.
 ●0000000995●
 
-○0000000996○Right in the middle of the aisle.
+○0000000996○She's here.
 ●0000000996●
 
-○0000000997○It's about the height of a child.
+○0000000997○瑚太朗
 ●0000000997●
 
-○0000000998○It looks like some kind of art installation.
+○0000000998○"You're..."
 ●0000000998●
 
-○0000000999○I lift up the fabric and peek underneath.
+○0000000999○There's an object covered in a piece of fabric.
 ●0000000999●
 
-○0000001000○The fabric deflates.
+○0000001000○Right in the middle of the aisle.
 ●0000001000●
 
-○0000001001○There's nothing under it.
+○0000001001○It's about the height of a child.
 ●0000001001●
 
-○0000001002○瑚太朗
+○0000001002○It looks like some kind of art installation.
 ●0000001002●
 
-○0000001003○"Guess she ran away."
+○0000001003○I lift up the fabric and peek underneath.
 ●0000001003●
 
-○0000001004○I can't touch her, unless it's through a fabric barrier.
+○0000001004○The fabric deflates.
 ●0000001004●
 
-○0000001005○I forgot about that.
+○0000001005○There's nothing under it.
 ●0000001005●
 
 ○0000001006○瑚太朗
 ●0000001006●
 
-○0000001007○"This is..."
+○0000001007○"Guess she ran away."
 ●0000001007●
 
-○0000001008○In the garden, there's a shichirin grill.
+○0000001008○I can't touch her, unless it's through a fabric barrier.
 ●0000001008●
 
-○0000001009○瑚太朗
+○0000001009○I forgot about that.
 ●0000001009●
 
-○0000001010○"Even if I wanted to use it, I don't have any charcoal. Or any fish to grill."
+○0000001010○瑚太朗
 ●0000001010●
 
-○0000001011○I hear a clatter.
+○0000001011○"This is..."
 ●0000001011●
 
-○0000001012○When I look back, there's a freshly grilled saury atop the grill.
+○0000001012○In the garden, there's a charcoal grill.
 ●0000001012●
 
 ○0000001013○瑚太朗
 ●0000001013●
 
-○0000001014○"You always were kind, Sizuru."
+○0000001014○"Even if I wanted to use it, I don't have any charcoal. Or any fish to grill."
 ●0000001014●
 
-○0000001015○瑚太朗
+○0000001015○I hear a clatter.
 ●0000001015●
 
-○0000001016○"But I'm good for now."
+○0000001016○When I look back, there's a freshly grilled saury atop the grill.
 ●0000001016●
 
-○0000001017○There is a manor house.
+○0000001017○瑚太朗
 ●0000001017●
 
-○0000001018○瑚太朗
+○0000001018○"You always were kind, Shizuru."
 ●0000001018●
 
-○0000001019○"As lavish and luxurious as ever."
+○0000001019○瑚太朗
 ●0000001019●
 
-○0000001020○I head inside.
+○0000001020○"But I'm good for now."
 ●0000001020●
 
-○0000001021○This building, too, shows no signs of decay.
+○0000001021○There is a manor house.
 ●0000001021●
 
 ○0000001022○瑚太朗
 ●0000001022●
 
-○0000001023○"Did the egomaniac who built this place want it to be some kinda landmark?"
+○0000001023○"As lavish and luxurious as ever."
 ●0000001023●
 
-○0000001024○A single pendant lies on the desk.
+○0000001024○I head inside.
 ●0000001024●
 
-○0000001025○瑚太朗
+○0000001025○This building, too, shows no signs of decay.
 ●0000001025●
 
-○0000001026○"...This is all she had."
+○0000001026○瑚太朗
 ●0000001026●
 
-○0000001027○She'd be pissed if I took it without asking.
+○0000001027○"Did the egomaniac who built this place want it to be some kinda landmark?"
 ●0000001027●
 
-○0000001028○After lightly dusting it off, I decide to leave.
+○0000001028○A single pendant lies on the desk.
 ●0000001028●
 
-○0000001029○I thought the town was deserted.
+○0000001029○瑚太朗
 ●0000001029●
 
-○0000001030○But that's not the case.
+○0000001030○"...This is all she had."
 ●0000001030●
 
-○0000001031○It's faint, but there are imitations of life all around.
+○0000001031○She'd be pissed if I took it without asking.
 ●0000001031●
 
-○0000001032○Life, not strong enough to hold a physical form, but not completely unmoored from this place.
+○0000001032○After lightly dusting it off, I decide to leave.
 ●0000001032●
 
-○0000001033○Perhaps you could call it an echo, or an afterimage.
+○0000001033○I thought the town was deserted.
 ●0000001033●
 
-○0000001034○瑚太朗
+○0000001034○But that's not the case.
 ●0000001034●
 
-○0000001035○(I'm sure it's all connected.)
+○0000001035○It's faint, but there are imitations of life all around.
 ●0000001035●
 
-○0000001036○And Kagari and I are at the center of this web.
+○0000001036○Life, not strong enough to hold a physical form, but not completely unmoored from this place.
 ●0000001036●
 
-○0000001037○Third Coffee
+○0000001037○Perhaps you could call it an echo, or an afterimage.
 ●0000001037●
 
-○0000001038○Kagari now tolerates me, at least compared to before.
+○0000001038○瑚太朗
 ●0000001038●
 
-○0000001039○Having said that, if I make any sudden moves toward her, she immediately turns hostile.
+○0000001039○(I'm sure it's all connected.)
 ●0000001039●
 
-○0000001040○Right now, I'm sitting about three meters away from her.
+○0000001040○And Kagari and I are at the center of this web.
 ●0000001040●
 
-○0000001041○I'm just at the edge of the huge piece of paper.
+○0000001041○Third Coffee
 ●0000001041●
 
-○0000001042○This is the boundary she's okay with.
+○0000001042○Kagari now tolerates me, at least compared to before.
 ●0000001042●
 
-○0000001043○Step on the paper, and I'm dead.
+○0000001043○Having said that, if I make any sudden moves toward her, she immediately turns hostile.
 ●0000001043●
 
-○0000001044○I've been killed plenty more times already.
+○0000001044○Right now, I'm sitting about three meters away from her.
 ●0000001044●
 
-○0000001045○Thinking maybe she didn't want to get it dirty, I tried stepping onto the paper with bare feet, but no luck.
+○0000001045○I'm just at the edge of the huge piece of paper.
 ●0000001045●
 
-○0000001046○It seems she interprets stepping on the paper as an act of aggression.
+○0000001046○This is the boundary she's okay with.
 ●0000001046●
 
-○0000001047○I'm at a standstill.
+○0000001047○Step on the paper, and I'm dead.
 ●0000001047●
 
-○0000001048○篝
+○0000001048○I've been killed plenty more times already.
 ●0000001048●
 
-○0000001049○"......"
+○0000001049○Thinking maybe she didn't want to get it dirty, I tried stepping onto the paper with bare feet, but no luck.
 ●0000001049●
 
-○0000001050○In her research, Kagari has gone beyond fervor.
+○0000001050○It seems she interprets stepping on the paper as an act of aggression.
 ●0000001050●
 
-○0000001051○She doesn't rest, not even for a moment.
+○0000001051○I'm at a standstill.
 ●0000001051●
 
-○0000001052○Since I'm no longer made of flesh and blood, I don't experience hunger or thirst, either.
+○0000001052○篝
 ●0000001052●
 
-○0000001053○But I do remember the feeling of thirst.
+○0000001053○"......"
 ●0000001053●
 
-○0000001054○I won't die without liquid.
+○0000001054○In her research, Kagari has gone beyond fervor.
 ●0000001054●
 
-○0000001055○But sometimes, I get the itch to walk into town and grab a drink to quench my not-thirst.
+○0000001055○She doesn't rest, not even for a moment.
 ●0000001055●
 
-○0000001056○The town's infrastructure is all in working order.
+○0000001056○Since I'm no longer made of flesh and blood, I don't experience hunger or thirst, either.
 ●0000001056●
 
-○0000001057○The water is running, and the vending machines are on.
+○0000001057○But I do remember the feeling of thirst.
 ●0000001057●
 
-○0000001058○Every time I die, any goods I took with me respawn in their original place.
+○0000001058○I won't die without liquid.
 ●0000001058●
 
-○0000001059○The electric lights are the only thing that's not working; the town must remain in the dark of night.
+○0000001059○But sometimes, I get the itch to walk into town and grab a drink to quench my not-thirst.
 ●0000001059●
 
-○0000001060○It must...
+○0000001060○The town's infrastructure is all in working order.
 ●0000001060●
 
-○0000001061○We all have things we must do.
+○0000001061○The water is running, and the vending machines are on.
 ●0000001061●
 
-○0000001062○For Kagari, she's compelled to continue her research.
+○0000001062○Every time I die, any goods I took with me respawn in their original place.
 ●0000001062●
 
-○0000001063○I am the only one not fulfilling my obligations.
+○0000001063○The electric lights are the only thing that's not working; the town must remain in the dark of night.
 ●0000001063●
 
-○0000001064○I'm simply watching.
+○0000001064○It must...
 ●0000001064●
 
-○0000001065○Sometimes, I wish I could help Kagari.
+○0000001065○We all have things we must do.
 ●0000001065●
 
-○0000001066○It's frustrating that I can't communicate with her.
+○0000001066○For Kagari, she's compelled to continue her research.
 ●0000001066●
 
-○0000001067○Although you could also say it means that our relationship is free from performance, passive aggression, superficiality, or lies.
+○0000001067○I am the only one not fulfilling my obligations.
 ●0000001067●
 
-○0000001068○A totally pure connection.
+○0000001068○I'm simply watching.
 ●0000001068●
 
-○0000001069○It's something special and fulfilling.
+○0000001069○Sometimes, I wish I could help Kagari.
 ●0000001069●
 
-○0000001070○Because the proximity I have to her right now wasn't won with smooth words.
+○0000001070○It's frustrating that I can't communicate with her.
 ●0000001070●
 
-○0000001071○Kagari's hand stalls.
+○0000001071○Although you could also say it means that our relationship is free from performance, passive aggression, superficiality, or lies.
 ●0000001071●
 
-○0000001072○She stays that way for a long time, not moving a muscle.
+○0000001072○A totally pure connection.
 ●0000001072●
 
-○0000001073○Her research isn't going well.
+○0000001073○It's something special and fulfilling.
 ●0000001073●
 
-○0000001074○She comes to a standstill like this from time to time.
+○0000001074○Because the proximity I have to her right now wasn't won with smooth words.
 ●0000001074●
 
-○0000001075○Is there really nothing I can do?
+○0000001075○Kagari's hand stalls.
 ●0000001075●
 
-○0000001076○After thinking on it for a while, I descend into the town.
+○0000001076○She stays that way for a long time, not moving a muscle.
 ●0000001076●
 
-○0000001077○I return with a vacuum flask of hot coffee.
+○0000001077○Her research isn't going well.
 ●0000001077●
 
-○0000001078○I milled the beans myself and brewed it slowly with the greatest of care.
+○0000001078○She comes to a standstill like this from time to time.
 ●0000001078●
 
-○0000001079○I fill a white cup to the brim with the dark liquid and then hold it out towards Kagari.
+○0000001079○Is there really nothing I can do?
 ●0000001079●
 
-○0000001080○This way, I don't have to step on the paper.
+○0000001080○After thinking on it for a while, I descend into the town.
 ●0000001080●
 
-○0000001081○篝
+○0000001081○I return with a vacuum flask of hot coffee.
 ●0000001081●
 
-○0000001082○"......"
+○0000001082○I milled the beans myself and brewed it slowly with the greatest of care.
 ●0000001082●
 
-○0000001083○A glance.
+○0000001083○I fill a white cup to the brim with the dark liquid and then hold it out toward Kagari.
 ●0000001083●
 
-○0000001084○The ribbons dancing in the air start to twitch and fray.
+○0000001084○This way, I don't have to step on the paper.
 ●0000001084●
 
-○0000001085○But today, they don't form into blades.
+○0000001085○篝
 ●0000001085●
 
-○0000001086○Kagari whips her gaze back toward her diagrams.
+○0000001086○"......"
 ●0000001086●
 
-○0000001087○The gesture tells me she doesn't want the coffee.
+○0000001087○A glance.
 ●0000001087●
 
-○0000001088○I take a sip myself. It tastes amazing.
+○0000001088○The ribbons dancing in the air start to twitch and fray.
 ●0000001088●
 
-○0000001089○It's been a long time since I last tasted coffee.
+○0000001089○But today, they don't form into blades.
 ●0000001089●
 
-○0000001090○瑚太朗
+○0000001090○Kagari whips her gaze back toward her diagrams.
 ●0000001090●
 
-○0000001091○"Mm..."
+○0000001091○The gesture tells me she doesn't want the coffee.
 ●0000001091●
 
-○0000001092○Kagari watches me out of the corner of her eye.
+○0000001092○I take a sip myself. It tastes amazing.
 ●0000001092●
 
-○0000001093○………
+○0000001093○It's been a long time since I last tasted coffee.
 ●0000001093●
 
-○0000001094○The next time she pauses in her work is a few months later, subjectively speaking.
+○0000001094○瑚太朗
 ●0000001094●
 
-○0000001095○I've been standing in the same place for so long that the soles of my feet have taken root in the ground.
+○0000001095○"Mm..."
 ●0000001095●
 
-○0000001096○With great effort, I pull them out.
+○0000001096○Kagari watches me out of the corner of her eye.
 ●0000001096●
 
-○0000001097○It seems my thoughts ground to a halt, too.
+○0000001097○...
 ●0000001097●
 
-○0000001098○My entire body creaks stiffly.
+○0000001098○The next time she pauses in her work is a few months later, subjectively speaking.
 ●0000001098●
 
-○0000001099○For some reason, both my arms are raised toward the sky, my face frozen in a narcissistic mask.
+○0000001099○I've been standing in the same place for so long that the soles of my feet have taken root in the ground.
 ●0000001099●
 
-○0000001100○Leaves are sprouting from the ends of my nails.
+○0000001100○With great effort, I pull them out.
 ●0000001100●
 
-○0000001101○瑚太朗
+○0000001101○It seems my thoughts ground to a halt, too.
 ●0000001101●
 
-○0000001102○"I am human."
+○0000001102○My entire body creaks stiffly.
 ●0000001102●
 
-○0000001103○I brush everything else off.
+○0000001103○For some reason, both my arms are raised toward the sky, my face frozen in a narcissistic mask.
 ●0000001103●
 
-○0000001104○As a human being, it's time for me to drink a cup of coffee.
+○0000001104○Leaves are sprouting from the ends of my nails.
 ●0000001104●
 
-○0000001105○I fill a cup from the flask.
+○0000001105○瑚太朗
 ●0000001105●
 
-○0000001106○Out of the blue, Kagari meets my eyes.
+○0000001106○"I'm a human being."
 ●0000001106●
 
-○0000001107○This is different.
+○0000001107○I brush everything else off.
 ●0000001107●
 
-○0000001108○瑚太朗
+○0000001108○As a human being, it's time for me to drink a cup of coffee.
 ●0000001108●
 
-○0000001109○"...Here you go."
+○0000001109○I fill a cup from the flask.
 ●0000001109●
 
-○0000001110○I hold the cup out to her.
+○0000001110○Out of the blue, Kagari meets my eyes.
 ●0000001110●
 
-○0000001111○篝
+○0000001111○This is different.
 ●0000001111●
 
-○0000001112○"......"
+○0000001112○瑚太朗
 ●0000001112●
 
-○0000001113○She narrows her eyes, scrutinizing it.
+○0000001113○"...Here you go."
 ●0000001113●
 
-○0000001114○This goes on for about four days, by my own personal definition of time.
+○0000001114○I hold the cup out to her.
 ●0000001114●
 
-○0000001115○Finally, she accepts the cup from me.
+○0000001115○篝
 ●0000001115●
 
-○0000001116○瑚太朗
+○0000001116○"......"
 ●0000001116●
 
-○0000001117○"......"
+○0000001117○She narrows her eyes, scrutinizing it.
 ●0000001117●
 
-○0000001118○I gasp. I wasn't expecting this.
+○0000001118○This goes on for about four days, by my own personal definition of time.
 ●0000001118●
 
-○0000001119○Kagari brings her lips to the rim of the cup, giving off a a vibe of "Fine, I'll drink your weird muddy-pee-looking liquid".
+○0000001119○Finally, she accepts the cup from me.
 ●0000001119●
 
 ○0000001120○瑚太朗
 ●0000001120●
 
-○0000001121○(She's drinking it!)
+○0000001121○"......"
 ●0000001121●
 
-○0000001122○篝
+○0000001122○I gasp. I wasn't expecting this.
 ●0000001122●
 
-○0000001123○"......"
+○0000001123○Kagari brings her lips to the rim of the cup, giving off a vibe of "Fine, I'll drink your weird muddy-pee-looking liquid."
 ●0000001123●
 
-○0000001124○She holds the now-empty cup back out to me.
+○0000001124○瑚太朗
 ●0000001124●
 
-○0000001125○I can't tell whether she's done or if she wants a refill.
+○0000001125○(She's drinking it!)
 ●0000001125●
 
-○0000001126○I decide to fill it up again while she's still holding it.
+○0000001126○篝
 ●0000001126●
 
-○0000001127○The ribbons whip out and knock the flask from my grip.
+○0000001127○"......"
 ●0000001127●
 
-○0000001128○I take it as a sign that she doesn't want another.
+○0000001128○She holds the now-empty cup back out to me.
 ●0000001128●
 
-○0000001129○Kagari's inhuman eyes follow me as I pick up the flask.
+○0000001129○I can't tell whether she's done or if she wants a refill.
 ●0000001129●
 
-○0000001130○I feel like I can tell what she's thinking.
+○0000001130○I decide to fill it up again while she's still holding it.
 ●0000001130●
 
-○0000001131○"Trust a lowly human to think they can attract my attention with that slop."
+○0000001131○The ribbons whip out and knock the flask from my grip.
 ●0000001131●
 
-○0000001132○That's what she wants to say to me.
+○0000001132○I take it as a sign that she doesn't want another.
 ●0000001132●
 
-○0000001133○I don't feel bad about it.
+○0000001133○Kagari's inhuman eyes follow me as I pick up the flask.
 ●0000001133●
 
-○0000001134○She expressed herself!
+○0000001134○I feel like I can tell what she's thinking.
 ●0000001134●
 
-○0000001135○This is big.
+○0000001135○"Trust a lowly human to think they can attract my attention with that slop."
 ●0000001135●
 
-○0000001136○Time, or not time, passes by again.
+○0000001136○That's what she wants to say to me.
 ●0000001136●
 
-○0000001137○One hundred years or one thousand years; it makes no difference to me.
+○0000001137○I don't feel bad about it.
 ●0000001137●
 
-○0000001138○At some point, I cease even my subjective measurement of time.
+○0000001138○She expressed herself!
 ●0000001138●
 
-○0000001139○When I next come to, a glowing, almost translucent hand is before my eyes.
+○0000001139○This is big.
 ●0000001139●
 
-○0000001140○Kagari's hand.
+○0000001140○Time that isn't time passes by again.
 ●0000001140●
 
-○0000001141○瑚太朗
+○0000001141○One hundred years or one thousand years; it makes no difference to me.
 ●0000001141●
 
-○0000001142○"...Huh?"
+○0000001142○At some point, I cease even my subjective measurement of time.
 ●0000001142●
 
-○0000001143○I haven't spoken in so long.
+○0000001143○When I next come to, a glowing, almost translucent hand is before my eyes.
 ●0000001143●
 
-○0000001144○Kagari's hand is extended toward me.
+○0000001144○Kagari's hand.
 ●0000001144●
 
-○0000001145○The palm faces upward, as though seeking something from me.
+○0000001145○瑚太朗
 ●0000001145●
 
-○0000001146○It takes a few seconds for me to comprehend what.
+○0000001146○"...Huh?"
 ●0000001146●
 
-○0000001147○瑚太朗
+○0000001147○I haven't spoken in so long.
 ●0000001147●
 
-○0000001148○"Oh... Let me get you some."
+○0000001148○Kagari's hand is extended toward me.
 ●0000001148●
 
-○0000001149○I pour coffee from the flask.
+○0000001149○The palm faces upward, as though seeking something from me.
 ●0000001149●
 
-○0000001150○Steam rises from the liquid, as though it's freshly made.
+○0000001150○It takes a few seconds for me to comprehend what.
 ●0000001150●
 
-○0000001151○With a trembling hand, I pass the cup to her.
+○0000001151○瑚太朗
 ●0000001151●
 
-○0000001152○篝
+○0000001152○"Oh... Let me get you some."
 ●0000001152●
 
-○0000001153○"......"
+○0000001153○I pour coffee from the flask.
 ●0000001153●
 
-○0000001154○Her delicate throat moves.
+○0000001154○Steam rises from the liquid, as though it's freshly made.
 ●0000001154●
 
-○0000001155○It must be pretty hot, but she doesn't seem fazed.
+○0000001155○With a trembling hand, I pass the cup to her.
 ●0000001155●
 
-○0000001156○She drains the cup in one gulp, then hands it back to me.
+○0000001156○篝
 ●0000001156●
 
-○0000001157○As she does, our fingers brush.
+○0000001157○"......"
 ●0000001157●
 
-○0000001158○Suddenly, she's grasping at my hand.
+○0000001158○Her delicate throat moves.
 ●0000001158●
 
-○0000001159○瑚太朗
+○0000001159○It must be pretty hot, but she doesn't seem fazed.
 ●0000001159●
 
-○0000001160○"Whoa there..."
+○0000001160○She drains the cup in one gulp, then hands it back to me.
 ●0000001160●
 
-○0000001161○She pulls me toward her like a rambunctious toddler.
+○0000001161○As she does, our fingers brush.
 ●0000001161●
 
-○0000001162○Leaning forward, I manage to dig my toes in before I'm dragged onto the paper.
+○0000001162○Suddenly, she's grasping at my hand.
 ●0000001162●
 
-○0000001163○篝
+○0000001163○瑚太朗
 ●0000001163●
 
-○0000001164○"......"
+○0000001164○"Whoa there..."
 ●0000001164●
 
-○0000001165○She raises my hand up toward the sky, staring at it.
+○0000001165○She pulls me toward her like a rambunctious toddler.
 ●0000001165●
 
-○0000001166○Then she sniffs it and runs her hands over it.
+○0000001166○Leaning forward, I manage to dig my toes in before I'm dragged onto the paper.
 ●0000001166●
 
-○0000001167○I understand her innocent question: "Why did this hand give me that drink?"
+○0000001167○篝
 ●0000001167●
 
-○0000001168○And that's when it happens.
+○0000001168○"......"
 ●0000001168●
 
-○0000001169○The girl turns to face me.
+○0000001169○She raises my hand up toward the sky, staring at it.
 ●0000001169●
 
-○0000001170○She fixes her gaze directly on me.
+○0000001170○Then she sniffs it and runs her hands over it.
 ●0000001170●
 
-○0000001171○With my hand still in hers, she tugs forcefully.
+○0000001171○I understand her innocent question: "Why did this hand give me that drink?"
 ●0000001171●
 
-○0000001172○My toes encroach upon her territory.
+○0000001172○And that's when it happens.
 ●0000001172●
 
-○0000001173○I'm ready to die.
+○0000001173○The girl turns to face me.
 ●0000001173●
 
-○0000001174○But no attack comes.
+○0000001174○She fixes her gaze directly on me.
 ●0000001174●
 
-○0000001175○瑚太朗
+○0000001175○With my hand still in hers, she tugs forcefully.
 ●0000001175●
 
-○0000001176○"Kagari...?"
+○0000001176○My toes encroach upon her territory.
 ●0000001176●
 
-○0000001177○After all that effort, I'm finally here.
+○0000001177○I'm ready to die.
 ●0000001177●
 
-○0000001178○It only took three cups of coffee to bring down that final wall.
+○0000001178○But no attack comes.
 ●0000001178●
 
 ○0000001179○瑚太朗
 ●0000001179●
 
-○0000001180○"Y-You okay with this?"
+○0000001180○"Kagari...?"
 ●0000001180●
 
-○0000001181○篝
+○0000001181○After all that effort, I'm finally here.
 ●0000001181●
 
-○0000001182○"......"
+○0000001182○It only took three cups of coffee to bring down that final wall.
 ●0000001182●
 
-○0000001183○She doesn't understand.
+○0000001183○瑚太朗
 ●0000001183●
 
-○0000001184○She keeps her gaze fixed on me, like an animal observing something of interest.
+○0000001184○"Y-You okay with this?"
 ●0000001184●
 
-○0000001185○Is this some form of inhuman curiosity?
+○0000001185○篝
 ●0000001185●
 
-○0000001186○I'm just happy she's paying me any heed.
+○0000001186○"......"
 ●0000001186●
 
-○0000001187○I've been invited into her tiny, blue, four-sided kingdom where she spins her incomprehensible theories.
+○0000001187○She doesn't understand.
 ●0000001187●
 
-○0000001188○It's such a small kingdom.
+○0000001188○She keeps her gaze fixed on me, like an animal observing something of interest.
 ●0000001188●
 
-○0000001189○But look.
+○0000001189○Is this some form of inhuman curiosity?
 ●0000001189●
 
-○0000001190○There are no lies or pretensions here.
+○0000001190○I'm just happy she's paying me any heed.
 ●0000001190●
 
-○0000001191○No vanity or desire to make oneself look better.
+○0000001191○I've been invited into her tiny, blue, four-sided kingdom where she spins her incomprehensible theories.
 ●0000001191●
 
-○0000001192○Invisible bonds are forming between us.
+○0000001192○It's such a small kingdom.
 ●0000001192●
 
-○0000001193○Thinner than a spider's web, so delicate they could break at any moment.
+○0000001193○But look.
 ●0000001193●
 
-○0000001194○I don't want them to snap.
+○0000001194○There are no lies or pretensions here.
 ●0000001194●
 
-○0000001195○I don't want this precious, irreplaceable connection to be severed.
+○0000001195○No vanity or desire to make oneself look better.
 ●0000001195●
 
-○0000001196○Even now, Kagari and I have a special connection to one another.
+○0000001196○Invisible bonds are forming between us.
 ●0000001196●
 
-○0000001197○We're not lovers; we're not even friends. I don't think we're family, either.
+○0000001197○Thinner than a spider's web, so delicate they could break at any moment.
 ●0000001197●
 
-○0000001198○I'm simply someone who's here with her.
+○0000001198○I don't want them to snap.
 ●0000001198●
 
-○0000001199○There must be countless people in the world with deeper ties than the ones between us.
+○0000001199○I don't want this precious, irreplaceable connection to be severed.
 ●0000001199●
 
-○0000001200○So is our relationship inferior to theirs?
+○0000001200○Even now, Kagari and I have a special connection to one another.
 ●0000001200●
 
-○0000001201○...No.
+○0000001201○We're not lovers; we're not even friends. I don't think we're family, either.
 ●0000001201●
 
-○0000001202○No!
+○0000001202○I'm simply someone who's here with her.
 ●0000001202●
 
-○0000001203○However small, this wordless thing between us means the world.
+○0000001203○There must be countless people in the world with deeper ties than the ones between us.
 ●0000001203●
 
-○0000001204○I won't let anyone say otherwise.
+○0000001204○So is our relationship inferior to theirs?
 ●0000001204●
 
-○0000001205○I'd wager my life for the sake of that faint pride.
+○0000001205○...No.
 ●0000001205●
 
-○0000001206○瑚太朗
+○0000001206○No!
 ●0000001206●
 
-○0000001207○(I've found my answer.)
+○0000001207○However small, this wordless thing between us means the world.
 ●0000001207●
 
-○0000001208○This simple realization makes it all worthwhile.
+○0000001208○I won't let anyone say otherwise.
 ●0000001208●
 
-○0000001209○Why couldn't I have come here when I was still a person?
+○0000001209○I'd wager my life for the sake of that faint pride.
 ●0000001209●
 
-○0000001210○I'm sure things would have gone better for me.
+○0000001210○瑚太朗
 ●0000001210●
 
-○0000001211○I finally know where I went wrong.
+○0000001211○(I've found my answer.)
 ●0000001211●
 
-○0000001212○After I stopped being human...
+○0000001212○This simple realization makes it all worthwhile.
 ●0000001212●
 
-○0000001213○I become aware of hot water sliding down my cheeks.
+○0000001213○Why couldn't I have come here when I was still a person?
 ●0000001213●
 
-○0000001214○Kagari scoops up a drop on her finger and examines it in the moonlight.
+○0000001214○I'm sure things would have gone better for me.
 ●0000001214●
 
-○0000001215○When I see the look on her face, I gasp.
+○0000001215○I finally know where I went wrong.
 ●0000001215●
 
-○0000001216○She's... laughing.
+○0000001216○After I stopped being human...
 ●0000001216●
 
-○0000001217○An unvoiced laughter, communicated only via her expression.
+○0000001217○I become aware of hot water sliding down my cheeks.
 ●0000001217●
 
-○0000001218○It's in the softening of her features; the crinkle around her eyes, and the slight upturn of her lips.
+○0000001218○Kagari scoops up a drop on her finger and examines it in the moonlight.
 ●0000001218●
 
-○0000001219○Oh, Kagari. You're not some incomprehensible existence.
+○0000001219○When I see the look on her face, I gasp.
 ●0000001219●
 
-○0000001220○I think this silently to myself.
+○0000001220○She's... laughing.
 ●0000001220●
 
-○0000001221○And I truly, deeply believe it.
+○0000001221○An unvoiced laughter, communicated only via her expression.
 ●0000001221●
 
-○0000001222○dummy
+○0000001222○It's in the softening of her features; the crinkle around her eyes, and the slight upturn of her lips.
 ●0000001222●
 
-○0000001223○sys10_mh00
+○0000001223○Oh, Kagari. You're not some incomprehensible existence.
 ●0000001223●
 
-○0000001224○sys10_mh00
+○0000001224○I think this silently to myself.
 ●0000001224●
 
-○0000001225○sys10_mh00
+○0000001225○And I truly, deeply believe it.
 ●0000001225●
 
-○0000001226○sys10_mh00
+○0000001226○dummy
 ●0000001226●
 
 ○0000001227○sys10_mh00
@@ -3682,28 +3682,28 @@
 ○0000001229○sys10_mh00
 ●0000001229●
 
-○0000001230○sys20_adv00
+○0000001230○sys10_mh00
 ●0000001230●
 
-○0000001231○kuro
+○0000001231○sys10_mh00
 ●0000001231●
 
-○0000001232○ny_mv_tree04_2
+○0000001232○sys10_mh00
 ●0000001232●
 
-○0000001233○sys20_adv00
+○0000001233○sys10_mh00
 ●0000001233●
 
-○0000001234○bg044
+○0000001234○sys50_ef00_ev00
 ●0000001234●
 
-○0000001235○bgm010
+○0000001235○sys20_adv00
 ●0000001235●
 
-○0000001236○sys20_adv00
+○0000001236○kuro
 ●0000001236●
 
-○0000001237○bg080n
+○0000001237○ny_mv_tree04_2
 ●0000001237●
 
 ○0000001238○sys20_adv00
@@ -3712,586 +3712,586 @@
 ○0000001239○bg044
 ●0000001239●
 
-○0000001240○sys20_adv00
+○0000001240○bgm010
 ●0000001240●
 
-○0000001241○fgkg05a
+○0000001241○sys20_adv00
 ●0000001241●
 
-○0000001242○sys20_adv00
+○0000001242○bg080n
 ●0000001242●
 
-○0000001243○fgkg05b
+○0000001243○sys20_adv00
 ●0000001243●
 
-○0000001244○sys20_adv00
+○0000001244○bg044
 ●0000001244●
 
-○0000001245○fgkg03b
+○0000001245○sys20_adv00
 ●0000001245●
 
-○0000001246○sys20_adv00
+○0000001246○fgkg05a
 ●0000001246●
 
-○0000001247○fgkg05b
+○0000001247○sys20_adv00
 ●0000001247●
 
-○0000001248○sys20_adv00
+○0000001248○fgkg05b
 ●0000001248●
 
-○0000001249○kuro
+○0000001249○sys20_adv00
 ●0000001249●
 
-○0000001250○sys20_adv00
+○0000001250○fgkg03b
 ●0000001250●
 
-○0000001251○kuro
+○0000001251○sys20_adv00
 ●0000001251●
 
-○0000001252○sys20_adv00
+○0000001252○fgkg05b
 ●0000001252●
 
-○0000001253○bg001n2
+○0000001253○sys20_adv00
 ●0000001253●
 
-○0000001254○sys20_adv00
+○0000001254○kuro
 ●0000001254●
 
-○0000001255○bg080n
+○0000001255○sys20_adv00
 ●0000001255●
 
-○0000001256○sys20_adv00
+○0000001256○kuro
 ●0000001256●
 
-○0000001257○bg111n
+○0000001257○sys20_adv00
 ●0000001257●
 
-○0000001258○sys20_adv02
+○0000001258○bg001n2
 ●0000001258●
 
 ○0000001259○sys20_adv00
 ●0000001259●
 
-○0000001260○kuro
+○0000001260○bg080n
 ●0000001260●
 
 ○0000001261○sys20_adv00
 ●0000001261●
 
-○0000001262○fgkg05a
+○0000001262○bg111n
 ●0000001262●
 
-○0000001263○sys20_adv00
+○0000001263○sys20_adv02
 ●0000001263●
 
-○0000001264○kuro
+○0000001264○sys20_adv00
 ●0000001264●
 
-○0000001265○sys20_adv00
+○0000001265○kuro
 ●0000001265●
 
-○0000001266○fgkg05b
+○0000001266○sys20_adv00
 ●0000001266●
 
-○0000001267○sys00_sys00
+○0000001267○fgkg05a
 ●0000001267●
 
-○0000001268○kagari01
+○0000001268○sys20_adv00
 ●0000001268●
 
-○0000001269○sys20_adv02
+○0000001269○kuro
 ●0000001269●
 
-○0000001270○sys00_sys00
+○0000001270○sys20_adv00
 ●0000001270●
 
-○0000001271○kagari02
+○0000001271○fgkg05b
 ●0000001271●
 
-○0000001272○sys20_adv02
+○0000001272○sys00_sys00
 ●0000001272●
 
-○0000001273○sys00_sys00
+○0000001273○kagari01
 ●0000001273●
 
-○0000001274○assyukugengo
+○0000001274○sys20_adv02
 ●0000001274●
 
-○0000001275○sys20_adv02
+○0000001275○sys00_sys00
 ●0000001275●
 
-○0000001276○sys00_sys00
+○0000001276○kagari02
 ●0000001276●
 
-○0000001277○sys20_adv00
+○0000001277○sys20_adv02
 ●0000001277●
 
-○0000001278○bg044
+○0000001278○sys00_sys00
 ●0000001278●
 
-○0000001279○sys00_sys00
+○0000001279○assyukugengo
 ●0000001279●
 
-○0000001280○dosa
+○0000001280○sys20_adv02
 ●0000001280●
 
-○0000001281○sys20_adv02
+○0000001281○sys00_sys00
 ●0000001281●
 
 ○0000001282○sys20_adv00
 ●0000001282●
 
-○0000001283○bg001n2
+○0000001283○bg044
 ●0000001283●
 
-○0000001284○sys20_adv00
+○0000001284○sys00_sys00
 ●0000001284●
 
-○0000001285○kuro
+○0000001285○dosa
 ●0000001285●
 
-○0000001286○sys20_adv00
+○0000001286○sys20_adv02
 ●0000001286●
 
-○0000001287○bg044
+○0000001287○sys20_adv00
 ●0000001287●
 
-○0000001288○sys00_sys00
+○0000001288○bg001n2
 ●0000001288●
 
-○0000001289○bt_knife
+○0000001289○sys20_adv00
 ●0000001289●
 
-○0000001290○sys20_adv00
+○0000001290○kuro
 ●0000001290●
 
-○0000001291○siro
+○0000001291○sys20_adv00
 ●0000001291●
 
-○0000001292○sys20_adv00
+○0000001292○bg044
 ●0000001292●
 
-○0000001293○bg044
+○0000001293○sys00_sys00
 ●0000001293●
 
-○0000001294○sys00_sys00
+○0000001294○bt_knife
 ●0000001294●
 
-○0000001295○bt_spear
+○0000001295○sys20_adv00
 ●0000001295●
 
-○0000001296○sys00_sys00
+○0000001296○siro
 ●0000001296●
 
-○0000001297○bt_sasaru
+○0000001297○sys20_adv00
 ●0000001297●
 
-○0000001298○sys20_adv02
+○0000001298○bg044
 ●0000001298●
 
 ○0000001299○sys00_sys00
 ●0000001299●
 
-○0000001300○guard
+○0000001300○bt_spear
 ●0000001300●
 
-○0000001301○sys20_adv00
+○0000001301○sys00_sys00
 ●0000001301●
 
-○0000001302○kuro
+○0000001302○bt_sasaru
 ●0000001302●
 
-○0000001303○sys20_adv00
+○0000001303○sys20_adv02
 ●0000001303●
 
-○0000001304○bg044
+○0000001304○sys00_sys00
 ●0000001304●
 
-○0000001305○sys20_adv00
+○0000001305○guard
 ●0000001305●
 
-○0000001306○kuro
+○0000001306○sys20_adv00
 ●0000001306●
 
-○0000001307○sys20_adv00
+○0000001307○kuro
 ●0000001307●
 
-○0000001308○bg044
+○0000001308○sys20_adv00
 ●0000001308●
 
-○0000001309○sys20_adv00
+○0000001309○bg044
 ●0000001309●
 
-○0000001310○kuro
+○0000001310○sys20_adv00
 ●0000001310●
 
-○0000001311○sys20_adv00
+○0000001311○kuro
 ●0000001311●
 
-○0000001312○bg044
+○0000001312○sys20_adv00
 ●0000001312●
 
-○0000001313○sys00_sys00
+○0000001313○bg044
 ●0000001313●
 
-○0000001314○bt_aura_3blade
+○0000001314○sys20_adv00
 ●0000001314●
 
-○0000001315○sys20_adv00
+○0000001315○kuro
 ●0000001315●
 
-○0000001316○kuro
+○0000001316○sys20_adv00
 ●0000001316●
 
-○0000001317○sys20_adv00
+○0000001317○bg044
 ●0000001317●
 
-○0000001318○bg044
+○0000001318○sys00_sys00
 ●0000001318●
 
-○0000001319○sys00_sys00
+○0000001319○bt_aura_3blade
 ●0000001319●
 
-○0000001320○bt_kazekiri2
+○0000001320○sys20_adv00
 ●0000001320●
 
-○0000001321○sys20_adv02
+○0000001321○kuro
 ●0000001321●
 
 ○0000001322○sys20_adv00
 ●0000001322●
 
-○0000001323○cgm_kg10
+○0000001323○bg044
 ●0000001323●
 
-○0000001324○sys20_adv00
+○0000001324○sys00_sys00
 ●0000001324●
 
-○0000001325○cgm_kg14
+○0000001325○bt_kazekiri2
 ●0000001325●
 
-○0000001326○sys20_adv00
+○0000001326○sys20_adv02
 ●0000001326●
 
-○0000001327○sys20_adv02
+○0000001327○sys20_adv00
 ●0000001327●
 
-○0000001328○sys20_adv00
+○0000001328○cgm_kg10
 ●0000001328●
 
-○0000001329○cgm_kg33
+○0000001329○sys20_adv00
 ●0000001329●
 
-○0000001330○sys20_adv02
+○0000001330○cgm_kg14
 ●0000001330●
 
 ○0000001331○sys20_adv00
 ●0000001331●
 
-○0000001332○sys20_adv00
+○0000001332○sys20_adv02
 ●0000001332●
 
-○0000001333○cgm_kg30
+○0000001333○sys20_adv00
 ●0000001333●
 
-○0000001334○sys20_adv00
+○0000001334○cgm_kg33
 ●0000001334●
 
-○0000001335○sys20_adv00
+○0000001335○sys20_adv02
 ●0000001335●
 
-○0000001336○kuro
+○0000001336○sys20_adv00
 ●0000001336●
 
-○0000001337○sys00_sys00
+○0000001337○sys20_adv00
 ●0000001337●
 
-○0000001338○dosa
+○0000001338○cgm_kg30
 ●0000001338●
 
 ○0000001339○sys20_adv00
 ●0000001339●
 
-○0000001340○bg044
+○0000001340○sys20_adv00
 ●0000001340●
 
-○0000001341○sys20_adv02
+○0000001341○kuro
 ●0000001341●
 
-○0000001342○sys20_adv00
+○0000001342○sys00_sys00
 ●0000001342●
 
-○0000001343○aka
+○0000001343○dosa
 ●0000001343●
 
 ○0000001344○sys20_adv00
 ●0000001344●
 
-○0000001345○kuro
+○0000001345○bg044
 ●0000001345●
 
-○0000001346○sys20_adv00
+○0000001346○sys20_adv02
 ●0000001346●
 
-○0000001347○bg044
+○0000001347○sys20_adv00
 ●0000001347●
 
-○0000001348○sys20_adv02
+○0000001348○aka
 ●0000001348●
 
 ○0000001349○sys20_adv00
 ●0000001349●
 
-○0000001350○aka
+○0000001350○kuro
 ●0000001350●
 
 ○0000001351○sys20_adv00
 ●0000001351●
 
-○0000001352○kuro
+○0000001352○bg044
 ●0000001352●
 
-○0000001353○sys20_adv00
+○0000001353○sys20_adv02
 ●0000001353●
 
-○0000001354○bg044
+○0000001354○sys20_adv00
 ●0000001354●
 
-○0000001355○sys20_adv02
+○0000001355○aka
 ●0000001355●
 
 ○0000001356○sys20_adv00
 ●0000001356●
 
-○0000001357○aka
+○0000001357○kuro
 ●0000001357●
 
 ○0000001358○sys20_adv00
 ●0000001358●
 
-○0000001359○kuro
+○0000001359○bg044
 ●0000001359●
 
-○0000001360○sys20_adv00
+○0000001360○sys20_adv02
 ●0000001360●
 
-○0000001361○bg044
+○0000001361○sys20_adv00
 ●0000001361●
 
-○0000001362○sys20_adv00
+○0000001362○aka
 ●0000001362●
 
-○0000001363○aka
+○0000001363○sys20_adv00
 ●0000001363●
 
-○0000001364○sys20_adv00
+○0000001364○kuro
 ●0000001364●
 
-○0000001365○kuro
+○0000001365○sys20_adv00
 ●0000001365●
 
-○0000001366○sys20_adv00
+○0000001366○bg044
 ●0000001366●
 
-○0000001367○bg001n2
+○0000001367○sys20_adv00
 ●0000001367●
 
-○0000001368○sys20_adv00
+○0000001368○aka
 ●0000001368●
 
-○0000001369○kuro
+○0000001369○sys20_adv00
 ●0000001369●
 
-○0000001370○sys20_adv00
+○0000001370○kuro
 ●0000001370●
 
-○0000001371○bg044
+○0000001371○sys20_adv00
 ●0000001371●
 
-○0000001372○sys20_adv00
+○0000001372○bg001n2
 ●0000001372●
 
-○0000001373○cgm_kg30
+○0000001373○sys20_adv00
 ●0000001373●
 
-○0000001374○sys20_adv00
+○0000001374○kuro
 ●0000001374●
 
 ○0000001375○sys20_adv00
 ●0000001375●
 
-○0000001376○cgm_kg10
+○0000001376○bg044
 ●0000001376●
 
 ○0000001377○sys20_adv00
 ●0000001377●
 
-○0000001378○sys20_adv00
+○0000001378○cgm_kg30
 ●0000001378●
 
-○0000001379○cgm_kg10h
+○0000001379○sys20_adv00
 ●0000001379●
 
-○0000001380○sys00_sys00
+○0000001380○sys20_adv00
 ●0000001380●
 
-○0000001381○kagari03
+○0000001381○cgm_kg10
 ●0000001381●
 
-○0000001382○sys00_sys00
+○0000001382○sys20_adv00
 ●0000001382●
 
-○0000001383○mn_ss_se31
+○0000001383○sys20_adv00
 ●0000001383●
 
-○0000001384○sys20_adv00
+○0000001384○cgm_kg10h
 ●0000001384●
 
-○0000001385○sys20_adv00
+○0000001385○sys00_sys00
 ●0000001385●
 
-○0000001386○kuro
+○0000001386○kagari03
 ●0000001386●
 
-○0000001387○bgm010
+○0000001387○sys00_sys00
 ●0000001387●
 
-○0000001388○sys20_adv00
+○0000001388○mn_ss_se31
 ●0000001388●
 
-○0000001389○bg044
+○0000001389○sys20_adv00
 ●0000001389●
 
 ○0000001390○sys20_adv00
 ●0000001390●
 
-○0000001391○cgm_kg30
+○0000001391○kuro
 ●0000001391●
 
-○0000001392○sys20_adv00
+○0000001392○bgm010
 ●0000001392●
 
-○0000001393○cgm_kg10
+○0000001393○sys20_adv00
 ●0000001393●
 
-○0000001394○sys20_adv00
+○0000001394○bg044
 ●0000001394●
 
 ○0000001395○sys20_adv00
 ●0000001395●
 
-○0000001396○kuro
+○0000001396○cgm_kg30
 ●0000001396●
 
 ○0000001397○sys20_adv00
 ●0000001397●
 
-○0000001398○bg044
+○0000001398○cgm_kg10
 ●0000001398●
 
-○0000001399○cgm_kg14
+○0000001399○sys20_adv00
 ●0000001399●
 
 ○0000001400○sys20_adv00
 ●0000001400●
 
-○0000001401○sys20_adv00
+○0000001401○kuro
 ●0000001401●
 
-○0000001402○cgm_kg31
+○0000001402○sys20_adv00
 ●0000001402●
 
-○0000001403○sys20_adv00
+○0000001403○bg044
 ●0000001403●
 
-○0000001404○sys20_adv00
+○0000001404○cgm_kg14
 ●0000001404●
 
-○0000001405○kuro
+○0000001405○sys20_adv00
 ●0000001405●
 
 ○0000001406○sys20_adv00
 ●0000001406●
 
-○0000001407○bg044
+○0000001407○cgm_kg31
 ●0000001407●
 
 ○0000001408○sys20_adv00
 ●0000001408●
 
-○0000001409○cgm_kg31
+○0000001409○sys20_adv00
 ●0000001409●
 
-○0000001410○sys20_adv00
+○0000001410○kuro
 ●0000001410●
 
-○0000001411○cgm_kg30
+○0000001411○sys20_adv00
 ●0000001411●
 
-○0000001412○sys20_adv00
+○0000001412○bg044
 ●0000001412●
 
 ○0000001413○sys20_adv00
 ●0000001413●
 
-○0000001414○kuro
+○0000001414○cgm_kg31
 ●0000001414●
 
 ○0000001415○sys20_adv00
 ●0000001415●
 
-○0000001416○bg044
+○0000001416○cgm_kg30
 ●0000001416●
 
 ○0000001417○sys20_adv00
 ●0000001417●
 
-○0000001418○kuro
+○0000001418○sys20_adv00
 ●0000001418●
 
-○0000001419○sys00_sys00
+○0000001419○kuro
 ●0000001419●
 
-○0000001420○hachicrash
+○0000001420○sys20_adv00
 ●0000001420●
 
-○0000001421○sys20_adv00
+○0000001421○bg044
 ●0000001421●
 
-○0000001422○bg044
+○0000001422○sys20_adv00
 ●0000001422●
 
-○0000001423○bgm010
+○0000001423○kuro
 ●0000001423●
 
-○0000001424○sys20_adv00
+○0000001424○sys00_sys00
 ●0000001424●
 
-○0000001425○cgm_kg31
+○0000001425○hachicrash
 ●0000001425●
 
 ○0000001426○sys20_adv00
 ●0000001426●
 
-○0000001427○cgm_kg30
+○0000001427○bg044
 ●0000001427●
 
-○0000001428○sys20_adv00
+○0000001428○bgm010
 ●0000001428●
 
 ○0000001429○sys20_adv00
 ●0000001429●
 
-○0000001430○kuro
+○0000001430○cgm_kg31
 ●0000001430●
 
 ○0000001431○sys20_adv00
 ●0000001431●
 
-○0000001432○bg015n
+○0000001432○cgm_kg30
 ●0000001432●
 
-○0000001433○bgm018
+○0000001433○sys20_adv00
 ●0000001433●
 
 ○0000001434○sys20_adv00
@@ -4303,70 +4303,70 @@
 ○0000001436○sys20_adv00
 ●0000001436●
 
-○0000001437○bg004n2
+○0000001437○bg015n
 ●0000001437●
 
-○0000001438○sys20_adv00
+○0000001438○bgm018
 ●0000001438●
 
-○0000001439○kuro
+○0000001439○sys20_adv00
 ●0000001439●
 
-○0000001440○sys20_adv00
+○0000001440○kuro
 ●0000001440●
 
-○0000001441○bg042a
+○0000001441○sys20_adv00
 ●0000001441●
 
-○0000001442○sys20_adv00
+○0000001442○bg004n2
 ●0000001442●
 
-○0000001443○kuro
+○0000001443○sys20_adv00
 ●0000001443●
 
-○0000001444○sys20_adv00
+○0000001444○kuro
 ●0000001444●
 
-○0000001445○bg111n
+○0000001445○sys20_adv00
 ●0000001445●
 
-○0000001446○sys20_adv00
+○0000001446○bg042a
 ●0000001446●
 
-○0000001447○kuro
+○0000001447○sys20_adv00
 ●0000001447●
 
-○0000001448○sys20_adv00
+○0000001448○kuro
 ●0000001448●
 
-○0000001449○bg022n2
+○0000001449○sys20_adv00
 ●0000001449●
 
-○0000001450○sys20_adv00
+○0000001450○bg111n
 ●0000001450●
 
-○0000001451○kuro
+○0000001451○sys20_adv00
 ●0000001451●
 
-○0000001452○sys20_adv00
+○0000001452○kuro
 ●0000001452●
 
-○0000001453○bg112n
+○0000001453○sys20_adv00
 ●0000001453●
 
-○0000001454○sys20_adv00
+○0000001454○bg022n2
 ●0000001454●
 
-○0000001455○kuro
+○0000001455○sys20_adv00
 ●0000001455●
 
-○0000001456○sys20_adv00
+○0000001456○kuro
 ●0000001456●
 
-○0000001457○fgkg05a
+○0000001457○sys20_adv00
 ●0000001457●
 
-○0000001458○bgm010
+○0000001458○bg112n
 ●0000001458●
 
 ○0000001459○sys20_adv00
@@ -4378,64 +4378,64 @@
 ○0000001461○sys20_adv00
 ●0000001461●
 
-○0000001462○bg044
+○0000001462○fgkg05a
 ●0000001462●
 
-○0000001463○sys20_adv00
+○0000001463○bgm010
 ●0000001463●
 
-○0000001464○cgm_kg30
+○0000001464○sys20_adv00
 ●0000001464●
 
-○0000001465○sys20_adv00
+○0000001465○kuro
 ●0000001465●
 
 ○0000001466○sys20_adv00
 ●0000001466●
 
-○0000001467○cgm_kg31
+○0000001467○bg044
 ●0000001467●
 
 ○0000001468○sys20_adv00
 ●0000001468●
 
-○0000001469○sys20_adv00
+○0000001469○cgm_kg30
 ●0000001469●
 
-○0000001470○cgm_kg30
+○0000001470○sys20_adv00
 ●0000001470●
 
 ○0000001471○sys20_adv00
 ●0000001471●
 
-○0000001472○kuro
+○0000001472○cgm_kg31
 ●0000001472●
 
 ○0000001473○sys20_adv00
 ●0000001473●
 
-○0000001474○bg044
+○0000001474○sys20_adv00
 ●0000001474●
 
-○0000001475○sys20_adv00
+○0000001475○cgm_kg30
 ●0000001475●
 
-○0000001476○cgm_kg30
+○0000001476○sys20_adv00
 ●0000001476●
 
-○0000001477○sys20_adv00
+○0000001477○kuro
 ●0000001477●
 
-○0000001478○cgm_kg32
+○0000001478○sys20_adv00
 ●0000001478●
 
-○0000001479○sys20_adv00
+○0000001479○bg044
 ●0000001479●
 
 ○0000001480○sys20_adv00
 ●0000001480●
 
-○0000001481○cgm_kg10
+○0000001481○cgm_kg30
 ●0000001481●
 
 ○0000001482○sys20_adv00
@@ -4450,70 +4450,70 @@
 ○0000001485○sys20_adv00
 ●0000001485●
 
-○0000001486○cgm_kg14
+○0000001486○cgm_kg10
 ●0000001486●
 
 ○0000001487○sys20_adv00
 ●0000001487●
 
-○0000001488○sys00_sys00
+○0000001488○cgm_kg32
 ●0000001488●
 
-○0000001489○pesi
+○0000001489○sys20_adv00
 ●0000001489●
 
 ○0000001490○sys20_adv00
 ●0000001490●
 
-○0000001491○cgm_kg33
+○0000001491○cgm_kg14
 ●0000001491●
 
 ○0000001492○sys20_adv00
 ●0000001492●
 
-○0000001493○sys20_adv00
+○0000001493○sys00_sys00
 ●0000001493●
 
-○0000001494○kuro
+○0000001494○pesi
 ●0000001494●
 
 ○0000001495○sys20_adv00
 ●0000001495●
 
-○0000001496○bg044
+○0000001496○cgm_kg33
 ●0000001496●
 
 ○0000001497○sys20_adv00
 ●0000001497●
 
-○0000001498○cgm_kg10
+○0000001498○sys20_adv00
 ●0000001498●
 
-○0000001499○sys20_adv00
+○0000001499○kuro
 ●0000001499●
 
 ○0000001500○sys20_adv00
 ●0000001500●
 
-○0000001501○cgm_kg14
+○0000001501○bg044
 ●0000001501●
 
 ○0000001502○sys20_adv00
 ●0000001502●
 
-○0000001503○sys20_adv00
+○0000001503○cgm_kg10
 ●0000001503●
 
-○0000001504○cgm_kg10
+○0000001504○sys20_adv00
 ●0000001504●
 
 ○0000001505○sys20_adv00
 ●0000001505●
 
-○0000001506○sys20_adv00
+○0000001506○cgm_kg14
 ●0000001506●
 
-○0000001507○cgm_kg16
+○0000001507○sys20_adv00
 ●0000001507●
 
 ○0000001508○sys20_adv00
@@ -4528,22 +4528,22 @@
 ○0000001511○sys20_adv00
 ●0000001511●
 
-○0000001512○cgm_kg10
+○0000001512○cgm_kg16
 ●0000001512●
 
 ○0000001513○sys20_adv00
 ●0000001513●
 
-○0000001514○sys20_adv00
+○0000001514○cgm_kg10
 ●0000001514●
 
-○0000001515○cgm_kg10
+○0000001515○sys20_adv00
 ●0000001515●
 
 ○0000001516○sys20_adv00
 ●0000001516●
 
-○0000001517○cgm_kg30
+○0000001517○cgm_kg10
 ●0000001517●
 
 ○0000001518○sys20_adv00
@@ -4552,12 +4552,27 @@
 ○0000001519○sys20_adv00
 ●0000001519●
 
-○0000001520○cgm_kg12
+○0000001520○cgm_kg10
 ●0000001520●
 
-○0000001521○sys00_sys00
+○0000001521○sys20_adv00
 ●0000001521●
 
-○0000001522○seen07001
+○0000001522○cgm_kg30
 ●0000001522●
+
+○0000001523○sys20_adv00
+●0000001523●
+
+○0000001524○sys20_adv00
+●0000001524●
+
+○0000001525○cgm_kg12
+●0000001525●
+
+○0000001526○sys00_sys00
+●0000001526●
+
+○0000001527○seen07001
+●0000001527●
 

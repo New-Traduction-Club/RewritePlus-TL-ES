@@ -10,7 +10,7 @@
 ○0000000006○"So, how did it go?"
 ●0000000006●
 
-○0000000007○Sizuru and Lucia are absent today.
+○0000000007○Shizuru and Lucia are absent today.
 ●0000000007●
 
 ○0000000008○And so, the conversation naturally shifts to discussing our affair.
@@ -307,7 +307,7 @@
 ○0000000105○Is Akane hiding something?
 ●0000000105●
 
-○0000000106○There's no way she could've missed something as big as the facility Sizuru was transferred to.
+○0000000106○There's no way she could've missed something as big as the facility Shizuru was transferred to.
 ●0000000106●
 
 ○0000000107○Her background should have totally blown Akane's mind.
@@ -436,7 +436,7 @@
 ○0000000148○ちはや
 ●0000000148●
 
-○0000000149○"I suppose I have no choice then!"
+○0000000149○"I suppose I have no choice, then!"
 ●0000000149●
 
 ○0000000150○瑚太朗
@@ -481,7 +481,7 @@
 ○0000000163○ちはや
 ●0000000163●
 
-○0000000164○"AHH!!"
+○0000000164○"AHH!"
 ●0000000164●
 
 ○0000000165○瑚太朗
@@ -493,7 +493,7 @@
 ○0000000167○ちはや
 ●0000000167●
 
-○0000000168○"H-How can you be that greedy?! That's why I hate you!!"
+○0000000168○"H-How can you be that greedy?! That's why I hate you!"
 ●0000000168●
 
 ○0000000169○瑚太朗
@@ -583,7 +583,7 @@
 ○0000000198○小鳥
 ●0000000198●
 
-○0000000199○"Would you have preferred to go with Sizu instead?"
+○0000000199○"Would you have preferred to go with Shizu instead?"
 ●0000000199●
 
 ○0000000200○瑚太朗
@@ -625,7 +625,7 @@
 ○0000000212○小鳥
 ●0000000212●
 
-○0000000213○"No... I was just thinking that it's fine if it's Sizu."
+○0000000213○"No... I was just thinking that it's fine if it's Shizu."
 ●0000000213●
 
 ○0000000214○瑚太朗
@@ -898,7 +898,7 @@
 ○0000000303○(...Sorry.)
 ●0000000303●
 
-○0000000304○(I love Sizuru now.)
+○0000000304○(I love Shizuru now.)
 ●0000000304●
 
 ○0000000305○(But I truly loved you too, Kotori.)
@@ -907,7 +907,7 @@
 ○0000000307○ぎる
 ●0000000307●
 
-○0000000308○"Phwahh!! Nothing beats a good drink in the evening!!"
+○0000000308○"Phwahh! Nothing beats a good drink in the evening!"
 ●0000000308●
 
 ○0000000309○瑚太朗
@@ -970,7 +970,7 @@
 ○0000000328○"Heh... Heh heh. I'm not telling."
 ●0000000328●
 
-○0000000329○...He's holding a "You can do it! English conversation for beginners" book in his hands.
+○0000000329○...He's holding a "You can do it! Spanish conversation for beginners" book in his hands.
 ●0000000329●
 
 ○0000000330○Looks like he's studying.
@@ -1027,7 +1027,7 @@
 ○0000000347○ぱに
 ●0000000347●
 
-○0000000348○"That cannot be! I can see the change!"
+○0000000348○"That can't be! I can see the change!"
 ●0000000348●
 
 ○0000000349○瑚太朗
@@ -1087,7 +1087,7 @@
 ○0000000367○"No, uh..."
 ●0000000367●
 
-○0000000368○As a reporter of all things mysterious and occult, I probably have a duty to write something about Sizuru's facility.
+○0000000368○As a reporter of all things mysterious and occult, I probably have a duty to write something about Shizuru's facility.
 ●0000000368●
 
 ○0000000369○But...
@@ -1222,7 +1222,7 @@
 ○0000000412○"Parapsychology..."
 ●0000000412●
 
-○0000000413○There seem to be people seriously investigating this stuff, though their main headquarters is in London.
+○0000000413○The Society for Psychical Research and others seem to be seriously investigating this stuff, though the SPR's main headquarters is in London.
 ●0000000413●
 
 ○0000000414○瑚太朗
@@ -1246,7 +1246,7 @@
 ○0000000420○"Hmm."
 ●0000000420●
 
-○0000000421○(I'm starting to get the impression that I might "disappear" if I stick my nose too deep into this.)
+○0000000421○(I'm starting to get the impression that I might "disappear" if I stick my nose too deeply into this.)
 ●0000000421●
 
 ○0000000422○瑚太朗
@@ -1258,13 +1258,13 @@
 ○0000000424○ぱに
 ●0000000424●
 
-○0000000425○"It is."
+○0000000425○"It certainly is."
 ●0000000425●
 
 ○0000000426○ぎる
 ●0000000426●
 
-○0000000427○"Or DANGEROUS, if you say it in Spanish!"
+○0000000427○"Or PELIGROSO, if you say it in Spanish!"
 ●0000000427●
 
 ○0000000428○瑚太朗
@@ -1288,7 +1288,7 @@
 ○0000000434○ぎる
 ●0000000434●
 
-○0000000435○"Oh my God!"
+○0000000435○"Or DIOS MIO, if you say it in Spanish!"
 ●0000000435●
 
 ○0000000436○...Unfortunately, there doesn't seem to be anything that conveniently proves the existence of superpowers to the world.
@@ -1297,7 +1297,7 @@
 ○0000000437○Not that I need proof when I can use them myself.
 ●0000000437●
 
-○0000000438○That probably means that the organization Sizuru belonged to somehow concealed that information.
+○0000000438○That probably means that the organization Shizuru belonged to somehow concealed that information.
 ●0000000438●
 
 ○0000000439○Everyone lives hiding their powers... just like me.
@@ -1363,7 +1363,7 @@
 ○0000000459○"Well, it's definitely not something the ORS should publish... That's for sure."
 ●0000000459●
 
-○0000000460○I don't want to cause trouble for Sizuru.
+○0000000460○I don't want to cause trouble for Shizuru.
 ●0000000460●
 
 ○0000000461○As such, this isn't part of the club anymore. It's my own individual investigation.
@@ -1402,19 +1402,19 @@
 ○0000000472○ぱに
 ●0000000472●
 
-○0000000473○"Are you really going?"
+○0000000473○"Are you really leaving?"
 ●0000000473●
 
 ○0000000474○瑚太朗
 ●0000000474●
 
-○0000000475○"I am."
+○0000000475○"Yeah, I'll be going."
 ●0000000475●
 
 ○0000000476○ぎる
 ●0000000476●
 
-○0000000477○"Let's go!"
+○0000000477○"Or ME VOY, if you say it in Spanish!
 ●0000000477●
 
 ○0000000478○瑚太朗
@@ -1447,7 +1447,7 @@
 ○0000000487○ぎる
 ●0000000487●
 
-○0000000488○"Wha! Idiot!! You're making me look lame!!"
+○0000000488○"Wha! Idiot! You're making me look lame!"
 ●0000000488●
 
 ○0000000489○瑚太朗
@@ -1519,7 +1519,7 @@
 ○0000000511○ぎる
 ●0000000511●
 
-○0000000512○"Eh?! What's that?! Is it something I can do right now?! I'd like something easy that pays well! Preferably creative and with lax schedule!"
+○0000000512○"Wuh?! What's that?! Is it something I can do right now?! I'd like something easy that pays well! Preferably creative and with lax schedule!"
 ●0000000512●
 
 ○0000000513○He sounds like a clueless high school student before having his hopes crushed by reality.
@@ -1546,13 +1546,13 @@
 ○0000000520○瑚太朗
 ●0000000520●
 
-○0000000521○"Eh? Seriously?"
+○0000000521○"Huh? Seriously?"
 ●0000000521●
 
 ○0000000522○ぱに
 ●0000000522●
 
-○0000000523○"I cannot just sit and wait at home when I know you might be in danger, Mr. Kotarou!"
+○0000000523○"I can't just sit and wait at home when I know you might be in danger, Mr. Kotarou!"
 ●0000000523●
 
 ○0000000524○瑚太朗
@@ -1582,7 +1582,7 @@
 ○0000000532○Even if we were infiltrated by those people, they wouldn't have left tracks that a singular high school student could follow.
 ●0000000532●
 
-○0000000533○All I'd probably find in Akane's papers would be countless entries marked as "Information classified".
+○0000000533○All I'd probably find in Akane's papers would be countless entries marked as "Information classified."
 ●0000000533●
 
 ○0000000534○(It might get me in trouble, but I doubt they'll kill me just for suspecting something.)
@@ -1615,7 +1615,7 @@
 ○0000000543○瑚太朗
 ●0000000543●
 
-○0000000544○"I forgot something in the club room! I can't do my homework without it!!"
+○0000000544○"I forgot something in the club room! I can't do my homework without it!"
 ●0000000544●
 
 ○0000000545○I tricked the security guard with my serious student act and made it inside without breaking a sweat.
@@ -2095,7 +2095,7 @@
 ○0000000703○瑚太朗
 ●0000000703●
 
-○0000000704○"Uah!! Th-This is...!!"
+○0000000704○"Uah! Th-This is...!"
 ●0000000704●
 
 ○0000000705○ぎる
@@ -2107,7 +2107,7 @@
 ○0000000707○瑚太朗
 ●0000000707●
 
-○0000000708○"It's all video games and strategy guides!!"
+○0000000708○"It's all video games and strategy guides!"
 ●0000000708●
 
 ○0000000709○(I bet she simply forgot to lock it after grabbing that guide on the desk.)
@@ -2128,7 +2128,7 @@
 ○0000000714○ぎる
 ●0000000714●
 
-○0000000715○"Whoa! This looks awesome!!"
+○0000000715○"Whoa! This looks awesome!"
 ●0000000715●
 
 ○0000000716○He picks up the box for some gritty western game off one of the shelves.
@@ -2386,7 +2386,7 @@
 ○0000000800○瑚太朗
 ●0000000800●
 
-○0000000801○"That skipped way too many letters!!"
+○0000000801○"That skipped way too many letters!"
 ●0000000801●
 
 ○0000000802○These don't look like ranks at all, I guess.
@@ -2410,7 +2410,7 @@
 ○0000000808○瑚太朗
 ●0000000808●
 
-○0000000809○"Right. What about Sizuru?"
+○0000000809○"Right. What about Shizuru?"
 ●0000000809●
 
 ○0000000810○She, of all people, would no doubt have lots of weird remarks about her past.
@@ -2443,7 +2443,7 @@
 ○0000000819○瑚太朗
 ●0000000819●
 
-○0000000820○"Perhaps she has a history that not even Prez's black magic can penetrate."
+○0000000820○"Perhaps she has a history that not even Prez's black magecraft can penetrate."
 ●0000000820●
 
 ○0000000821○Hm?
@@ -2509,7 +2509,7 @@
 ○0000000841○ぎる
 ●0000000841●
 
-○0000000842○"Gah! That's the joke I should've made!! My underground outlaw image is in danger!!"
+○0000000842○"Gah! That's the joke I should've made! My underground outlaw image is in danger!"
 ●0000000842●
 
 ○0000000843○Unfortunately, I already know a character that tries too hard to be an outlaw.
@@ -2626,7 +2626,7 @@
 ○0000000880○ぎる
 ●0000000880●
 
-○0000000881○"This thing is heavy!!"
+○0000000881○"This thing is heavy!"
 ●0000000881●
 
 ○0000000882○瑚太朗
@@ -2671,7 +2671,7 @@
 ○0000000895○ぎる
 ●0000000895●
 
-○0000000896○"Damn! Pani just let me know that the woman is coming back!!"
+○0000000896○"Damn! Pani just let me know that the woman is coming back!"
 ●0000000896●
 
 ○0000000897○瑚太朗
@@ -2683,31 +2683,31 @@
 ○0000000899○瑚太朗
 ●0000000899●
 
-○0000000900○"Oh shit! Help me get it back on the shelf!!"
+○0000000900○"Oh shit! Help me get it back on the shelf!"
 ●0000000900●
 
 ○0000000901○ぎる
 ●0000000901●
 
-○0000000902○"Nghhh!! I'm not strong enough to do anything!"
+○0000000902○"Nghhh! I'm not strong enough to do anything!"
 ●0000000902●
 
 ○0000000903○瑚太朗
 ●0000000903●
 
-○0000000904○"I'm using all of my strength just to hold it in place! I need your measly power to make a difference!! I'll count to three, and then we push!!"
+○0000000904○"I'm using all of my strength just to hold it in place! I need your measly power to make a difference! I'll count to three, and then we push!"
 ●0000000904●
 
 ○0000000905○ぎる
 ●0000000905●
 
-○0000000906○"OKAY!!"
+○0000000906○"OKAY!"
 ●0000000906●
 
 ○0000000907○瑚太朗
 ●0000000907●
 
-○0000000908○"Let's go!! One, two...!!"
+○0000000908○"Let's go! One, two...!"
 ●0000000908●
 
 ○0000000909○*pfffffffffff*
@@ -2722,7 +2722,7 @@
 ○0000000912○瑚太朗
 ●0000000912●
 
-○0000000913○"Pwbh...!!"
+○0000000913○"Pwbh...!"
 ●0000000913●
 
 ○0000000914○*clatter* *clatter* *clatter*
@@ -2734,13 +2734,13 @@
 ○0000000916○瑚太朗
 ●0000000916●
 
-○0000000917○"Don't fart at a time like this!!"
+○0000000917○"Don't fart at a time like this!"
 ●0000000917●
 
 ○0000000918○ぎる
 ●0000000918●
 
-○0000000919○"What is your problem?! You never laughed at my gags before!!"
+○0000000919○"What is your problem?! You never laughed at my gags before!"
 ●0000000919●
 
 ○0000000920○瑚太朗
@@ -2752,7 +2752,7 @@
 ○0000000922○ぎる
 ●0000000922●
 
-○0000000923○"O-Oh crap, she's coming in!!"
+○0000000923○"O-Oh crap, she's coming in!"
 ●0000000923●
 
 ○0000000924○瑚太朗
@@ -2767,19 +2767,19 @@
 ○0000000927○瑚太朗
 ●0000000927●
 
-○0000000928○"It's a bit lighter now! Let's go!!"
+○0000000928○"It's a bit lighter now! Let's go!"
 ●0000000928●
 
 ○0000000929○ぎる
 ●0000000929●
 
-○0000000930○"Roger!!"
+○0000000930○"Roger!"
 ●0000000930●
 
 ○0000000931○瑚太朗
 ●0000000931●
 
-○0000000932○"One, two...!!"
+○0000000932○"One, two...!"
 ●0000000932●
 
 ○0000000933○*pfffffffffff*
@@ -2794,7 +2794,7 @@
 ○0000000936○瑚太朗
 ●0000000936●
 
-○0000000937○"Pwbh...!!"
+○0000000937○"Pwbh...!"
 ●0000000937●
 
 ○0000000938○*clatter* *clatter* *clatter*
@@ -2929,13 +2929,13 @@
 ○0000000982○朱音
 ●0000000982●
 
-○0000000983○"Repent!!!"
+○0000000983○"Repent!"
 ●0000000983●
 
 ○0000000984○瑚太朗
 ●0000000984●
 
-○0000000985○"Gyaaaaaaah!! My hair is on fire!! Stop!!"
+○0000000985○"Gyaaaaaaah! My hair is on fire! Stop!"
 ●0000000985●
 
 ○0000000986○朱音
@@ -2998,7 +2998,7 @@
 ○0000001005○瑚太朗
 ●0000001005●
 
-○0000001006○"Gyaaaaa...!!"
+○0000001006○"Gyaaaaa...!"
 ●0000001006●
 
 ○0000001007○I instinctively dodge the attack.
@@ -3025,7 +3025,7 @@
 ○0000001014○瑚太朗
 ●0000001014●
 
-○0000001015○"That's no lightning spell! It has a distinct scientific sound!!"
+○0000001015○"That's no lightning spell! It has a distinct scientific sound!"
 ●0000001015●
 
 ○0000001016○朱音
@@ -3037,7 +3037,7 @@
 ○0000001018○瑚太朗
 ●0000001018●
 
-○0000001019○"Don't chant after already using it! It's got nothing to do with spirits! It's filled with batteries!!"
+○0000001019○"Don't chant after already using it! It's got nothing to do with spirits! It's filled with batteries!"
 ●0000001019●
 
 ○0000001020○朱音

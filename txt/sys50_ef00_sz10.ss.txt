@@ -10,16 +10,16 @@
 ○0000000003○ef_sz_ms_bg00
 ●0000000003●
 
-○0000000004○ef_sz_ms_iso00
+○0000000004○salvation_ef_sz_ms_iso00
 ●0000000004●
 
 ○0000000005○ef_sz_ms_tag00
 ●0000000005●
 
-○0000000006○ef_sz_ms_sanm00
+○0000000006○salvation_ef_sz_ms_sanm00
 ●0000000006●
 
-○0000000007○ef_sz_ms_sanh00
+○0000000007○salvation_ef_sz_ms_sanh00
 ●0000000007●
 
 ○0000000008○ef_sz_ms_nom00
@@ -37,13 +37,13 @@
 ○0000000012○ef_sz_ms_bg00
 ●0000000012●
 
-○0000000013○ef_sz_ms_kiri00
+○0000000013○salvation_ef_sz_ms_kiri00
 ●0000000013●
 
 ○0000000014○ef_sz_ms_bg01
 ●0000000014●
 
-○0000000015○ef_sz_ms_kiri01
+○0000000015○salvation_ef_sz_ms_kiri01
 ●0000000015●
 
 ○0000000016○ef_sz_ms_bg01

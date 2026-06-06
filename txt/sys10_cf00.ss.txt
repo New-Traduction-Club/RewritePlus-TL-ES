@@ -10,13 +10,13 @@
 ○0000000003○sys10_cf03
 ●0000000003●
 
-○0000000004○mn_cfa_tab_pbtn00
+○0000000004○salvation_mn_cfa_tab_pbtn00
 ●0000000004●
 
-○0000000005○mn_cfa_tab_pbtn01
+○0000000005○salvation_mn_cfa_tab_pbtn01
 ●0000000005●
 
-○0000000006○mn_cfa_tab_pbtn02
+○0000000006○salvation_mn_cfa_tab_pbtn02
 ●0000000006●
 
 ○0000000007○mn_cfe_cfm_bg00

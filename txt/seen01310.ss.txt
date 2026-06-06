@@ -109,7 +109,7 @@
 ○0000000036○友梨
 ●0000000036●
 
-○0000000037○"I'm not trying to rip off shonen manga, but I can turn my body into rubber and get through the narrowest of spaces."
+○0000000037○"I'm not trying to rip off shounen manga, but I can turn my body into rubber and get through the narrowest of spaces."
 ●0000000037●
 
 ○0000000038○朱音
@@ -1093,7 +1093,7 @@
 ○0000000364○朱音
 ●0000000364●
 
-○0000000365○"Bwwfft!!"
+○0000000365○"Bwwfft!"
 ●0000000365●
 
 ○0000000366○A jet of banana milk shoots out of Akane's mouth like a fountain.
@@ -1423,19 +1423,19 @@
 ○0000000474○瑚太朗
 ●0000000474●
 
-○0000000475○"It becomes MURDER if you read it backwards."
+○0000000475○"It becomes MURDER if you read it backward."
 ●0000000475●
 
 ○0000000476○瑚太朗
 ●0000000476●
 
-○0000000477○"It means you're going to die!!"
+○0000000477○"It means you're going to die!"
 ●0000000477●
 
 ○0000000478○安倍
 ●0000000478●
 
-○0000000479○"Yeeek!!"
+○0000000479○"Yeeek!"
 ●0000000479●
 
 ○0000000480○安倍
@@ -1468,7 +1468,7 @@
 ○0000000489○瑚太朗
 ●0000000489●
 
-○0000000490○"Rude!!"
+○0000000490○"Rude!"
 ●0000000490●
 
 ○0000000491○■友達■　ID:

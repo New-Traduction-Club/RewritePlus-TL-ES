@@ -58,7 +58,7 @@
 ○0000000021○瑚太朗＿体験版
 ●0000000021●
 
-○0000000022○"Wow... I'm actually witnessing a supernatural phenomenon in real time..."
+○0000000022○"Wow... I'm actually witnessing a real paranormal phenomenon..."
 ●0000000022●
 
 ○0000000023○ともこ＿体験版
@@ -115,7 +115,7 @@
 ○0000000040○謎のアウトロー＿Ｒ＋
 ●0000000040●
 
-○0000000041○"Did that surprise you?! Bwahaha, you little scaredy-cat!!"
+○0000000041○"Did that surprise you?! Bwahaha, you little scaredy-cat!"
 ●0000000041●
 
 ○0000000042○謎のアウトロー＿Ｒ＋
@@ -127,7 +127,7 @@
 ○0000000044○謎のアウトロー＿Ｒ＋
 ●0000000044●
 
-○0000000045○"You've already got eyes that can perceive Kagari! And so, this is your reward!!"
+○0000000045○"You've already got eyes that can perceive Kagari! And so, this is your reward!"
 ●0000000045●
 
 ○0000000046○謎のアウトロー＿Ｒ＋
@@ -163,7 +163,8 @@
 ○0000000056○　　　
 ●0000000056●
 
-○0000000057○"The Theater of Love and Tears: The Battle of Tomoko the Ultimate Shikigami"
+○0000000057○        "The Theater of Love and Tears:
+        The Battle of Tomoko the Ultimate Shikigami"
 ●0000000057●
 
 ○0000000058○Kagari enters the room late at night.
@@ -199,7 +200,7 @@
 ○0000000068○They automatically connect to the nearest person and protect them.
 ●0000000068●
 
-○0000000069○You can basically think of them like a security alarm.
+○0000000069○You can basically think of them as familiars with a security alarm.
 ●0000000069●
 
 ○0000000070○However, they possess only minimal fighting ability.
@@ -211,13 +212,13 @@
 ○0000000072○ともこ
 ●0000000072●
 
-○0000000073○"I won't let you lay a single finger on Tennouji, my dearest love!"
+○0000000073○"I won't let you lay a single finger on Tennouji―my dearest love!"
 ●0000000073●
 
 ○0000000074○ともこ
 ●0000000074●
 
-○0000000075○"RAAAAAH!!"
+○0000000075○"RAAAAAH!"
 ●0000000075●
 
 ○0000000076○Tomoko floats into the air and darts at Kagari.
@@ -247,10 +248,10 @@
 ○0000000084○ともこ
 ●0000000084●
 
-○0000000085○"Become salty, my body!!"
+○0000000085○"Become salty, my body!"
 ●0000000085●
 
-○0000000086○There are some insects that carry poison in their bodies to protect themselves from being eaten by predators.
+○0000000086○It goes that there are some insects that carry poison in their bodies to protect themselves from being eaten by predators (or something like that, probably).
 ●0000000086●
 
 ○0000000087○It's a bit dull to describe visually, but Tomoko's body has become excruciatingly salty.
@@ -289,7 +290,7 @@
 ○0000000098○Kagari feels like this is what she has to do.
 ●0000000098●
 
-○0000000099○She likes the light smell of his sweat under the blanket.
+○0000000099○She likes the light (boyish) smell of his sweat under the blanket.
 ●0000000099●
 
 ○0000000100○But her mouth still feels salty.
@@ -316,7 +317,7 @@
 ○0000000107○Why did she do that?
 ●0000000107●
 
-○0000000108○Most likely because she learned how to lock windows at the same time she learned how to open and close them.
+○0000000108○Most likely because she learned how to lock windows at the same time that she learned how to open and close them.
 ●0000000108●
 
 ○0000000109○There are times when cats open doors, too.
@@ -334,7 +335,7 @@
 ○0000000113○Tomoko didn't sacrifice her life in vain.
 ●0000000113●
 
-○0000000114○Thank you, Tomoko. Goodbye, Tomoko.
+○0000000114○Thank you, Tomoko. And goodbye, Tomoko.
 ●0000000114●
 
 ○0000000115○By the way, the reason Kagari hassles Kotarou so much is because she's unconsciously attracted to the piece of her Aurora implanted in his body.
@@ -343,7 +344,9 @@
 ○0000000116○　　　
 ●0000000116●
 
-○0000000117○"The Theater of Love and Tears: The Battle of Tomoko the Ultimate Shikigami" - Fin
+○0000000117○        "The Theater of Love and Tears:
+        The Battle of Tomoko the Ultimate Shikigami"
+                            -Fin
 ●0000000117●
 
 ○0000000118○The dream ends there.
@@ -403,7 +406,7 @@
 ○0000000136○瑚太朗＿体験版
 ●0000000136●
 
-○0000000137○"T-Tomokooooo!!"
+○0000000137○"T-Tomokooooo!"
 ●0000000137●
 
 ○0000000138○ともこ＿体験版
@@ -511,7 +514,7 @@
 ○0000000173○"......"
 ●0000000173●
 
-○0000000174○Sizuru is casually photosynthesizing in the yard.
+○0000000174○Shizuru is casually photosynthesizing in the yard.
 ●0000000174●
 
 ○0000000175○瑚太朗＿体験版
@@ -532,7 +535,7 @@
 ○0000000180○"Well, I guess I'm not one to talk."
 ●0000000180●
 
-○0000000181○I approach Sizuru.
+○0000000181○I approach Shizuru.
 ●0000000181●
 
 ○0000000182○瑚太朗＿体験版
@@ -694,7 +697,7 @@
 ○0000000234○I wonder if there's anything to do besides sleep in a place like this.
 ●0000000234●
 
-○0000000235○It'd be cool if I could use a leaf to whistle like they did in the movies.
+○0000000235○It'd be cool if I could use a leaf to whistle like they do in the movies.
 ●0000000235●
 
 ○0000000236○There's something naturally cool and manly about it.
@@ -730,7 +733,7 @@
 ○0000000246○"Wah!"
 ●0000000246●
 
-○0000000247○That's Sizuru's phone going off.
+○0000000247○That's Shizuru's phone going off.
 ●0000000247●
 
 ○0000000248○静流＿体験版
@@ -757,7 +760,7 @@
 ○0000000255○"......"
 ●0000000255●
 
-○0000000256○Title: Sizuru Awakening (Performed by My Brain)
+○0000000256○Title: Shizuru Awakening (Performed by My Brain)
 ●0000000256●
 
 ○0000000257○*blink*
@@ -769,7 +772,7 @@
 ○0000000259○瑚太朗＿体験版
 ●0000000259●
 
-○0000000260○"Hey,there. Your alarm's ringing."
+○0000000260○"Hey there. Your alarm's ringing."
 ●0000000260●
 
 ○0000000261○I give her head a light chop.
@@ -799,7 +802,7 @@
 ○0000000269○"...!"
 ●0000000269●
 
-○0000000270○Sizuru jumps in surprise this time.
+○0000000270○Shizuru jumps in surprise this time.
 ●0000000270●
 
 ○0000000271○静流＿体験版
@@ -820,7 +823,7 @@
 ○0000000276○"...?!?!"
 ●0000000276●
 
-○0000000277○Flustered, Sizuru begins fidgeting about.
+○0000000277○Flustered, Shizuru begins fidgeting about.
 ●0000000277●
 
 ○0000000278○She looks at her watch.
@@ -889,7 +892,7 @@
 ○0000000299○"Mhh..."
 ●0000000299●
 
-○0000000300○"What have I done?!"... says her crestfallen expression.
+○0000000300○"What have I done?!" says her crestfallen expression.
 ●0000000300●
 
 ○0000000301○瑚太朗＿体験版
@@ -946,13 +949,13 @@
 ○0000000318○"......"
 ●0000000318●
 
-○0000000319○Sizuru smiles as she walks behind me.
+○0000000319○Shizuru smiles as she walks behind me.
 ●0000000319●
 
 ○0000000320○瑚太朗＿体験版
 ●0000000320●
 
-○0000000321○"Okay, then. We better leg it, Sizuru! We've got to make up for lost time!"
+○0000000321○"Okay, then. We better leg it, Shizuru! We've got to make up for lost time!"
 ●0000000321●
 
 ○0000000322○静流＿体験版
@@ -961,31 +964,31 @@
 ○0000000323○"......"
 ●0000000323●
 
-○0000000324○"Arrrgh! Right-o!"... says her face as she follows with a sense of conviction.
+○0000000324○"Arrrgh! Right-o!" says her face as she follows with a sense of conviction.
 ●0000000324●
 
 ○0000000325○瑚太朗＿体験版
 ●0000000325●
 
-○0000000326○"Hurry! Hurry!"
+○0000000326○"Hurry up, Shizuru! We don't exactly have a head start!"
 ●0000000326●
 
 ○0000000327○静流＿体験版
 ●0000000327●
 
-○0000000328○"Hurry! Hurry!"
+○0000000328○"A headstar would be cool!"
 ●0000000328●
 
 ○0000000329○瑚太朗＿体験版
 ●0000000329●
 
-○0000000330○"Hurrah!"
+○0000000330○"Well, tough! No head starts here!"
 ●0000000330●
 
 ○0000000331○静流＿体験版
 ●0000000331●
 
-○0000000332○"Hooah?"
+○0000000332○"No... stars?"
 ●0000000332●
 
 ○0000000333○静流＿体験版
@@ -1240,7 +1243,7 @@
 ○0000000416○"Hm?"
 ●0000000416●
 
-○0000000417○Sizuru quickly glances behind us.
+○0000000417○Shizuru quickly glances behind us.
 ●0000000417●
 
 ○0000000418○瑚太朗
@@ -1279,7 +1282,7 @@
 ○0000000429○"That's Ms. Nishikujou, isn't it?"
 ●0000000429●
 
-○0000000430○Sizuru nods.
+○0000000430○Shizuru nods.
 ●0000000430●
 
 ○0000000431○Ms. Nishikujou steals another peek at us.
@@ -1294,7 +1297,7 @@
 ○0000000434○瑚太朗
 ●0000000434●
 
-○0000000435○"That said, you sure have keen senses, Sizuru."
+○0000000435○"That said, you sure have keen senses, Shizuru."
 ●0000000435●
 
 ○0000000436○静流
@@ -1303,7 +1306,7 @@
 ○0000000437○"...?"
 ●0000000437●
 
-○0000000438○"Really? I don't think I'm that different from anyone else"... says her expression.
+○0000000438○"Really? I don't think I'm that different from anyone else," says her expression.
 ●0000000438●
 
 ○0000000439○瑚太朗
@@ -1318,7 +1321,7 @@
 ○0000000442○"......"
 ●0000000442●
 
-○0000000443○"You're flattering me"... says her demeanor as she shakes her head in embarrassed denial.
+○0000000443○"You're flattering me," says her demeanor as she shakes her head in embarrassed denial.
 ●0000000443●
 
 ○0000000444○瑚太朗
@@ -1336,7 +1339,7 @@
 ○0000000448○瑚太朗
 ●0000000448●
 
-○0000000449○"I see. You sure are grown up, Sizuru."
+○0000000449○"I see. You sure are grown up, Shizuru."
 ●0000000449●
 
 ○0000000450○静流
@@ -1357,25 +1360,25 @@
 ○0000000455○静流
 ●0000000455●
 
-○0000000456○"...!!"
+○0000000456○"...!"
 ●0000000456●
 
-○0000000457○"I'm nothing of the sort! You're just flattering me!"... says the look on her face as she also begins waving an outstretched hand.
+○0000000457○"I'm nothing of the sort! You're just flattering me!" says the look on her face as she also begins waving an outstretched hand.
 ●0000000457●
 
 ○0000000458○瑚太朗
 ●0000000458●
 
-○0000000459○"I'll be calling you Grownup Sizuru from now on."
+○0000000459○"I'll be calling you Grownup Shizuru from now on."
 ●0000000459●
 
 ○0000000460○静流
 ●0000000460●
 
-○0000000461○"...!!!!"
+○0000000461○"...!"
 ●0000000461●
 
-○0000000462○"Look! How many fingers can you see when I do this?"... says her expression as she begins waving her hand as fast as she can.
+○0000000462○"Look! How many fingers can you see when I do this?" says her expression as she begins waving her hand as fast as she can.
 ●0000000462●
 
 ○0000000463○Just kidding.
@@ -1399,7 +1402,7 @@
 ○0000000469○"Eii!"
 ●0000000469●
 
-○0000000470○She suddenly jumps at Sizuru.
+○0000000470○She suddenly jumps at Shizuru.
 ●0000000470●
 
 ○0000000471○静流
@@ -1408,7 +1411,7 @@
 ○0000000472○"......"
 ●0000000472●
 
-○0000000473○But Sizuru avoids her with a well-timed sidestep.
+○0000000473○But Shizuru avoids her with a well-timed sidestep.
 ●0000000473●
 
 ○0000000474○西九条
@@ -1417,7 +1420,7 @@
 ○0000000475○"Awawa!"
 ●0000000475●
 
-○0000000476○The teacher loses her balance for a moment, but manages to steady herself.
+○0000000476○The teacher loses her balance for a moment but manages to steady herself.
 ●0000000476●
 
 ○0000000477○西九条
@@ -1429,7 +1432,7 @@
 ○0000000479○西九条
 ●0000000479●
 
-○0000000480○"Eii!!"
+○0000000480○"Eii!"
 ●0000000480●
 
 ○0000000481○静流
@@ -1453,7 +1456,7 @@
 ○0000000487○西九条
 ●0000000487●
 
-○0000000488○"Oooh... This cannot be!!"
+○0000000488○"Oooh... This can't be!"
 ●0000000488●
 
 ○0000000489○瑚太朗
@@ -1474,7 +1477,7 @@
 ○0000000494○"......"
 ●0000000494●
 
-○0000000495○Sizuru is obviously avoiding this person.
+○0000000495○Shizuru is obviously avoiding this person.
 ●0000000495●
 
 ○0000000496○西九条
@@ -1546,7 +1549,7 @@
 ○0000000518○西九条
 ●0000000518●
 
-○0000000519○"There are mysteries in this world that even I cannot explain."
+○0000000519○"There are mysteries in this world that even I can't explain."
 ●0000000519●
 
 ○0000000520○瑚太朗
@@ -1573,7 +1576,7 @@
 ○0000000527○西九条
 ●0000000527●
 
-○0000000528○"In short, I saw Sizuru walking through the corridor and thought it might be fun to hug her."
+○0000000528○"In short, I saw Shizuru walking through the corridor and thought it might be fun to hug her."
 ●0000000528●
 
 ○0000000529○瑚太朗
@@ -1591,7 +1594,7 @@
 ○0000000533○西九条
 ●0000000533●
 
-○0000000534○"Kyah! I got you now, Sizuru!"
+○0000000534○"Kyah! I got you now, Shizuru!"
 ●0000000534●
 
 ○0000000535○静流
@@ -1600,7 +1603,7 @@
 ○0000000536○"......"
 ●0000000536●
 
-○0000000537○Sizuru lets out a resigned sigh.
+○0000000537○Shizuru lets out a resigned sigh.
 ●0000000537●
 
 ○0000000538○I'm reminded of a feline-obsessed little girl bothering a long-matured and independent cat.
@@ -1621,10 +1624,10 @@
 ○0000000543○西九条
 ●0000000543●
 
-○0000000544○"I run exclusively on Sizuru energy."
+○0000000544○"I run exclusively on Shizuru energy."
 ●0000000544●
 
-○0000000545○It appears that Sizuru is some kind of undiscovered power source.
+○0000000545○It appears that Shizuru is some kind of undiscovered power source.
 ●0000000545●
 
 ○0000000546○静流
@@ -1687,7 +1690,7 @@
 ○0000000565○"Ohhh..."
 ●0000000565●
 
-○0000000566○Ms. Nishikujou leaves... or, rather, is dragged away by Sizuru.
+○0000000566○Ms. Nishikujou leaves... or, rather, is dragged away by Shizuru.
 ●0000000566●
 
 ○0000000567○瑚太朗
@@ -1714,7 +1717,7 @@
 ○0000000574○西九条
 ●0000000574●
 
-○0000000575○"I see you and Sizuru are getting along well."
+○0000000575○"I see you and Shizuru are getting along well."
 ●0000000575●
 
 ○0000000576○Ms. Nishikujou gives us a mischievous smile.
@@ -1723,13 +1726,13 @@
 ○0000000577○静流
 ●0000000577●
 
-○0000000578○"...!!!"
+○0000000578○"...!"
 ●0000000578●
 
 ○0000000579○西九条
 ●0000000579●
 
-○0000000580○"Haha! You don't need to pull on me so hard, Sizuru!"
+○0000000580○"Haha! You don't need to pull on me so hard, Shizuru!"
 ●0000000580●
 
 ○0000000581○She waves goodbye with her free hand.
@@ -1747,7 +1750,7 @@
 ○0000000585○Come to think of it, she only started at our school this year.
 ●0000000585●
 
-○0000000586○Right around when Sizuru enrolled.
+○0000000586○Right around when Shizuru enrolled.
 ●0000000586●
 
 ○0000000587○瑚太朗
@@ -1942,7 +1945,7 @@
 ○0000000650○吉野＿体験版
 ●0000000650●
 
-○0000000651○"H-Hey, wait! You...!!"
+○0000000651○"H-Hey, wait! You...!"
 ●0000000651●
 
 ○0000000652○吉野＿体験版
@@ -1999,13 +2002,13 @@
 ○0000000669○瑚太朗＿体験版
 ●0000000669●
 
-○0000000670○"People have been shot over this, dammit!"
+○0000000670○"People have been shot over this, damn it!"
 ●0000000670●
 
 ○0000000671○ルチア＿体験版
 ●0000000671●
 
-○0000000672○"TENNOUJI KOTAROUUUU!!"
+○0000000672○"TENNOUJI KOTAROUUUU!"
 ●0000000672●
 
 ○0000000673○ルチア＿体験版
@@ -2041,7 +2044,7 @@
 ○0000000683○瑚太朗＿体験版
 ●0000000683●
 
-○0000000684○"Hm? Wait... I could've sworn I've seen you with a lunchbox before."
+○0000000684○"Hm? Wait... I could've sworn I've seen you with a lunch box before."
 ●0000000684●
 
 ○0000000685○ルチア＿体験版
@@ -2305,7 +2308,7 @@
 ○0000000771○瑚太朗＿体験版
 ●0000000771●
 
-○0000000772○"Ahh!! Someone's jumping the line again!!"
+○0000000772○"Ahh! Someone's jumping the line again!"
 ●0000000772●
 
 ○0000000773○ルチア＿体験版
@@ -2413,7 +2416,7 @@
 ○0000000807○If she were a normal person...
 ●0000000807●
 
-○0000000808○This would probably turn into a murder by poison, like one of those old detective movies.
+○0000000808○This would probably turn into a murder by potassium cyanide, like one of those old detective movies.
 ●0000000808●
 
 ○0000000809○Whoever ingests this meal will literally breathe fire and collapse, motionless.
@@ -2434,7 +2437,7 @@
 ○0000000814○"Munch, munch... Munch, munch... Oh, these pickles are really good. Nom, nom, nom."
 ●0000000814●
 
-○0000000815○U-Uooooooohh!! I can't believe this!!!
+○0000000815○U-Uooooooohh! I can't believe this!
 ●0000000815●
 
 ○0000000816○I bear witness to the rise of the Empress of Spice.
@@ -2572,10 +2575,10 @@
 ○0000000860○ルチア＿体験版
 ●0000000860●
 
-○0000000861○"How dare you?! That's... beyond rude! You, you enemy of women! Tennouji Kotarou!!"
+○0000000861○"How dare you?! That's... beyond rude! You, you enemy of women! Tennouji Kotarou!"
 ●0000000861●
 
-○0000000862○Class Rep carries her dishes to the return window, observing my cadaver from the corner of her eyes all the while.
+○0000000862○Class Rep carries her dishes to the return window, observing my cadaver from the corner of her eye all the while.
 ●0000000862●
 
 ○0000000863○...Impossible. None of this makes any sense, no matter how I look at it.
@@ -2590,7 +2593,7 @@
 ○0000000866○No way. The plates must have swapped somehow.
 ●0000000866●
 
-○0000000867○Or did she truly live in a different world from the rest of us? In the distant lands of taste that lay beyond the threshold of the ultimate spice?
+○0000000867○Or does she truly live in a different world from the rest of us? In the distant lands of taste that lie beyond the threshold of the ultimate spice?
 ●0000000867●
 
 ○0000000868○瑚太朗＿体験版
@@ -2614,7 +2617,7 @@
 ○0000000874○I dash to the dish return window.
 ●0000000874●
 
-○0000000875○...And find Class Rep's plate right away.
+○0000000875○...And I find Class Rep's plate right away.
 ●0000000875●
 
 ○0000000876○瑚太朗＿体験版
@@ -2656,13 +2659,13 @@
 ○0000000888○瑚太朗＿体験版
 ●0000000888●
 
-○0000000889○"For I know this will ascend me to the new paradigm of the cosmos!!"
+○0000000889○"For I know this will ascend me to the new paradigm of the cosmos!"
 ●0000000889●
 
 ○0000000890○瑚太朗＿体験版
 ●0000000890●
 
-○0000000891○"Nuooooooooooohhh!!"
+○0000000891○"Nuooooooooooohhh!"
 ●0000000891●
 
 ○0000000892○瑚太朗＿体験版
@@ -2683,7 +2686,7 @@
 ○0000000897○瑚太朗＿体験版
 ●0000000897●
 
-○0000000898○"GUOOOOOOOOOOOOOOOOOOOOOGHHH!!"
+○0000000898○"GUOOOOOOOOOOOOOOOOOOOOOGHHH!"
 ●0000000898●
 
 ○0000000899○(I'm going to die! Water! Salt and lemon! Anything!)
@@ -2695,7 +2698,7 @@
 ○0000000901○But it's finally become clear.
 ●0000000901●
 
-○0000000902○Class Rep, without a doubt, consumed level 17 curry; no miracle or undiscovered chemical reaction had changed it. It was just... mercilessly spicy, as I should have known.
+○0000000902○Class Rep, without a doubt, consumed level 17 curry; no miracle or undiscovered chemical reaction changed it. It was just... mercilessly spicy, as I should have known.
 ●0000000902●
 
 ○0000000903○In any case, I learned two things from the experiment just now.
@@ -2767,7 +2770,7 @@
 ○0000000925○ルチア＿体験版
 ●0000000925●
 
-○0000000926○"GROSS! GROSS! GROSS! YOU PERVERT! MONSTER! BEAST! DIE, YOU STUPID FOOL! TENNOUJI KOTAROUUU!!!"
+○0000000926○"GROSS! GROSS! GROSS! YOU PERVERT! MONSTER! BEAST! DIE, YOU STUPID FOOL! TENNOUJI KOTAROUUU!"
 ●0000000926●
 
 ○0000000927○I once heard something interesting.
@@ -2785,7 +2788,7 @@
 ○0000000931○Dan dan dandandan! You've leveled up!
 ●0000000931●
 
-○0000000932○You've received the title "Boy Who Licked Up a Girl's Leftovers Level 2".
+○0000000932○You've received the title "Boy Who Licked Up a Girl's Leftovers Level 2."
 ●0000000932●
 
 ○0000000933○担任＿体験版
@@ -3043,1726 +3046,1726 @@
 ○0000001017○瑚太朗＿体験版
 ●0000001017●
 
-○0000001018○"So if they happened to be fake..."
+○0000001018○"Get cancer and die."
 ●0000001018●
 
-○0000001019○I shudder.
+○0000001019○I try to place a curse on her with my most honest, unadulterated feelings.
 ●0000001019●
 
 ○0000001020○瑚太朗＿体験版
 ●0000001020●
 
-○0000001021○"I'm walking on a tightrope here..."
+○0000001021○"So if they happened to be fake..."
 ●0000001021●
 
-○0000001022○瑚太朗＿体験版
+○0000001022○I shudder.
 ●0000001022●
 
-○0000001023○"She was such a nice girl, and look at what happened to her for trying to protect me."
+○0000001023○瑚太朗＿体験版
 ●0000001023●
 
-○0000001024○朱音＿体験版
+○0000001024○"I'm walking on a tightrope here..."
 ●0000001024●
 
-○0000001025○"...I can't even imagine what kind of phenomenon this could be."
+○0000001025○瑚太朗＿体験版
 ●0000001025●
 
-○0000001026○朱音＿体験版
+○0000001026○"She was such a nice girl, and look at what happened to her for trying to protect me."
 ●0000001026●
 
-○0000001027○"The mechanism aside, I suppose they function by taking your curse onto themselves."
+○0000001027○朱音＿体験版
 ●0000001027●
 
-○0000001028○朱音＿体験版
+○0000001028○"...I can't even imagine what kind of phenomenon this could be."
 ●0000001028●
 
-○0000001029○"We had three, so you can probably look forward to about two more nights of peaceful sleep."
+○0000001029○朱音＿体験版
 ●0000001029●
 
-○0000001030○瑚太朗＿体験版
+○0000001030○"The mechanism aside, I suppose they function by taking your curse onto themselves."
 ●0000001030●
 
-○0000001031○"I see. That doesn't sound like a long-term solution."
+○0000001031○朱音＿体験版
 ●0000001031●
 
-○0000001032○朱音＿体験版
+○0000001032○"We had three, so you can probably look forward to about two more nights of peaceful sleep."
 ●0000001032●
 
-○0000001033○"Don't worry. I'll think of something before then."
+○0000001033○瑚太朗＿体験版
 ●0000001033●
 
-○0000001034○朱音＿体験版
+○0000001034○"I see. That doesn't sound like a long-term solution."
 ●0000001034●
 
-○0000001035○"...This room is full of strange trinkets, anyway."
+○0000001035○朱音＿体験版
 ●0000001035●
 
-○0000001036○瑚太朗＿体験版
+○0000001036○"Don't worry. I'll think of something before then."
 ●0000001036●
 
-○0000001037○"I'm sorry, I didn't catch that. What did you just say?"
+○0000001037○朱音＿体験版
 ●0000001037●
 
-○0000001038○朱音＿体験版
+○0000001038○"...This room is full of strange trinkets, anyway."
 ●0000001038●
 
-○0000001039○"I said, your problem is as good as solved."
+○0000001039○瑚太朗＿体験版
 ●0000001039●
 
-○0000001040○瑚太朗＿体験版
+○0000001040○"I'm sorry, I didn't catch that. What did you just say?"
 ●0000001040●
 
-○0000001041○"How reassuring! I'm really glad I came here!!"
+○0000001041○朱音＿体験版
 ●0000001041●
 
-○0000001042○朱音＿体験版
+○0000001042○"I said, your problem is as good as solved."
 ●0000001042●
 
-○0000001043○"Just make sure to report everything that happens to me."
+○0000001043○瑚太朗＿体験版
 ●0000001043●
 
-○0000001044○瑚太朗＿体験版
+○0000001044○"How reassuring! I'm really glad I came here!"
 ●0000001044●
 
-○0000001045○"Understood."
+○0000001045○朱音＿体験版
 ●0000001045●
 
-○0000001046○瑚太朗＿体験版
+○0000001046○"Just make sure to report everything that happens to me."
 ●0000001046●
 
-○0000001047○"By the way, what kind of activities does the Occult Research Society usually partake in?"
+○0000001047○瑚太朗＿体験版
 ●0000001047●
 
-○0000001048○Akane gives me an exasperated look.
+○0000001048○"Understood."
 ●0000001048●
 
-○0000001049○朱音＿体験版
+○0000001049○瑚太朗＿体験版
 ●0000001049●
 
-○0000001050○"We don't partake in anything."
+○0000001050○"By the way, what kind of activities does the Occult Research Society usually partake in?"
 ●0000001050●
 
-○0000001051○瑚太朗＿体験版
+○0000001051○Akane gives me an exasperated look.
 ●0000001051●
 
-○0000001052○"But you've got a club room here."
+○0000001052○朱音＿体験版
 ●0000001052●
 
-○0000001053○朱音＿体験版
+○0000001053○"We don't partake in anything."
 ●0000001053●
 
-○0000001054○"It's my personal room."
+○0000001054○瑚太朗＿体験版
 ●0000001054●
 
-○0000001055○瑚太朗＿体験版
+○0000001055○"But you've got a club room here."
 ●0000001055●
 
-○0000001056○"That's, uh... ridiculous."
+○0000001056○朱音＿体験版
 ●0000001056●
 
-○0000001057○朱音＿体験版
+○0000001057○"It's my personal room."
 ●0000001057●
 
-○0000001058○"Let me tell you something."
+○0000001058○瑚太朗＿体験版
 ●0000001058●
 
-○0000001059○朱音＿体験版
+○0000001059○"That's, uh... ridiculous."
 ●0000001059●
 
-○0000001060○"Firstly, regarding this room. I would appreciate if you didn't go around babbling about it to people."
+○0000001060○朱音＿体験版
 ●0000001060●
 
-○0000001061○瑚太朗＿体験版
+○0000001061○"Let me tell you something."
 ●0000001061●
 
-○0000001062○"...The club room's a secret. Got it."
+○0000001062○朱音＿体験版
 ●0000001062●
 
-○0000001063○朱音＿体験版
+○0000001063○"Firstly, regarding this room. I would appreciate if you didn't go around babbling about it to people."
 ●0000001063●
 
-○0000001064○"I can't say it too directly, but this club room didn't exactly come into my hands through entirely legal means, so... You understand, don't you?"
+○0000001064○瑚太朗＿体験版
 ●0000001064●
 
-○0000001065○瑚太朗＿体験版
+○0000001065○"...The club room's a secret. Got it."
 ●0000001065●
 
-○0000001066○"I see. You got it through your connections. Understood."
+○0000001066○朱音＿体験版
 ●0000001066●
 
-○0000001067○瑚太朗＿体験版
+○0000001067○"I can't say it too directly, but this club room didn't exactly come into my hands through entirely legal means, so... You understand, don't you?"
 ●0000001067●
 
-○0000001068○"I'd expect nothing less from you."
+○0000001068○瑚太朗＿体験版
 ●0000001068●
 
-○0000001069○朱音＿体験版
+○0000001069○"I see. You got it through your connections. Understood."
 ●0000001069●
 
-○0000001070○"Yeah. I had to rely on many favors from the school council, the PTA, and..."
+○0000001070○瑚太朗＿体験版
 ●0000001070●
 
-○0000001071○朱音＿体験版
+○0000001071○"I'd expect nothing less from you."
 ●0000001071●
 
-○0000001072○"Wait. What are you making me say? Are you mocking me, Tennouji?"
+○0000001072○朱音＿体験版
 ●0000001072●
 
-○0000001073○瑚太朗＿体験版
+○0000001073○"Yeah. I had to rely on many favors from the school council, the PTA, and..."
 ●0000001073●
 
-○0000001074○"Sorry, but I'm pretty sure you dug your own hole there."
+○0000001074○朱音＿体験版
 ●0000001074●
 
-○0000001075○瑚太朗＿体験版
+○0000001075○"Wait. What are you making me say? Are you mocking me, Tennouji?"
 ●0000001075●
 
-○0000001076○"In any case, I find it all a little hard to believe."
+○0000001076○瑚太朗＿体験版
 ●0000001076●
 
-○0000001077○瑚太朗＿体験版
+○0000001077○"Sorry, but I'm pretty sure you dug your own hole there."
 ●0000001077●
 
-○0000001078○"It couldn't have been easy to make a government institution like a school just let you do as you please."
+○0000001078○瑚太朗＿体験版
 ●0000001078●
 
-○0000001079○朱音＿体験版
+○0000001079○"In any case, I find it all a little hard to believe."
 ●0000001079●
 
-○0000001080○"You really cannot tell?"
+○0000001080○瑚太朗＿体験版
 ●0000001080●
 
-○0000001081○瑚太朗＿体験版
+○0000001081○"It couldn't have been easy to make a government institution like a school just let you do as you please."
 ●0000001081●
 
-○0000001082○"Don't tell me you used... magic?"
+○0000001082○朱音＿体験版
 ●0000001082●
 
-○0000001083○Akane only smiles meaningfully.
+○0000001083○"You really can't tell?"
 ●0000001083●
 
-○0000001084○朱音＿体験版
+○0000001084○瑚太朗＿体験版
 ●0000001084●
 
-○0000001085○"Heh heh heh... Black magic..."
+○0000001085○"Don't tell me you used... magic?"
 ●0000001085●
 
-○0000001086○瑚太朗＿体験版
+○0000001086○Akane only smiles meaningfully.
 ●0000001086●
 
-○0000001087○"B-Black magic..."
+○0000001087○朱音＿体験版
 ●0000001087●
 
-○0000001088○瑚太朗＿体験版
+○0000001088○"Heh heh heh... Black magic..."
 ●0000001088●
 
-○0000001089○"Like, fireball?"
+○0000001089○瑚太朗＿体験版
 ●0000001089●
 
-○0000001090○朱音＿体験版
+○0000001090○"B-Black magic..."
 ●0000001090●
 
-○0000001091○"Who do you think I am?"
+○0000001091○瑚太朗＿体験版
 ●0000001091●
 
-○0000001092○瑚太朗＿体験版
+○0000001092○"Like, fireball?"
 ●0000001092●
 
-○0000001093○"What about... thunder?"
+○0000001093○朱音＿体験版
 ●0000001093●
 
-○0000001094○朱音＿体験版
+○0000001094○"Who do you think I am?"
 ●0000001094●
 
-○0000001095○"You buffoon."
+○0000001095○瑚太朗＿体験版
 ●0000001095●
 
-○0000001096○瑚太朗＿体験版
+○0000001096○"What about... thunder?"
 ●0000001096●
 
-○0000001097○"......"
+○0000001097○朱音＿体験版
 ●0000001097●
 
-○0000001098○She sounded like an old lady when she said that.
+○0000001098○"You buffoon."
 ●0000001098●
 
-○0000001099○朱音＿体験版
+○0000001099○瑚太朗＿体験版
 ●0000001099●
 
-○0000001100○"I suppose I have no choice. Let me tell you a little about the true nature of black magic."
+○0000001100○"......"
 ●0000001100●
 
-○0000001101○朱音＿体験版
+○0000001101○She sounded like an old lady when she said that.
 ●0000001101●
 
-○0000001102○"Due to certain circumstances, a lot of information happens to come my way."
+○0000001102○朱音＿体験版
 ●0000001102●
 
-○0000001103○朱音＿体験版
+○0000001103○"I suppose I have no choice. Let me tell you a little about the true nature of black magecraft."
 ●0000001103●
 
-○0000001104○"Among that information are many secrets that some individuals would do anything to keep under wraps."
+○0000001104○朱音＿体験版
 ●0000001104●
 
-○0000001105○朱音＿体験版
+○0000001105○"Due to certain circumstances, a lot of information happens to come my way."
 ●0000001105●
 
-○0000001106○"Let's suppose one such person was a high-ranking official at this school."
+○0000001106○朱音＿体験版
 ●0000001106●
 
-○0000001107○朱音＿体験版
+○0000001107○"Among that information are many secrets that some individuals would do anything to keep under wraps."
 ●0000001107●
 
-○0000001108○"If I inform them I know of their secret and promise not to reveal it..."
+○0000001108○朱音＿体験版
 ●0000001108●
 
-○0000001109○朱音＿体験版
+○0000001109○"Let's suppose one such person was a high-ranking official at this school."
 ●0000001109●
 
-○0000001110○"It causes a vast amount of magical energy to accumulate, which then makes it so I end up marked as present in classes I never attend."
+○0000001110○朱音＿体験版
 ●0000001110●
 
-○0000001111○瑚太朗＿体験版
+○0000001111○"If I inform them I know of their secret and promise not to reveal it..."
 ●0000001111●
 
-○0000001112○"...That sure sounds like real magic."
+○0000001112○朱音＿体験版
 ●0000001112●
 
-○0000001113○朱音＿体験版
+○0000001113○"It causes a vast amount of spiritual energy to accumulate, which then makes it so I end up marked as present in classes I never attend."
 ●0000001113●
 
-○0000001114○"Let's suppose a certain student and a teacher have a secret illicit relationship."
+○0000001114○瑚太朗＿体験版
 ●0000001114●
 
-○0000001115○朱音＿体験版
+○0000001115○"...That sounds like some black-hearted magecraft."
 ●0000001115●
 
-○0000001116○"I divine their future and send them the results, which then causes..."
+○0000001116○朱音＿体験版
 ●0000001116●
 
-○0000001117○朱音＿体験版
+○0000001117○"Let's suppose a certain student and a teacher have a secret illicit relationship."
 ●0000001117●
 
-○0000001118○"...my homeroom teacher to become my obedient puppet."
+○0000001118○朱音＿体験版
 ●0000001118●
 
-○0000001119○瑚太朗＿体験版
+○0000001119○"I divine their future and send them the results, which then causes..."
 ●0000001119●
 
-○0000001120○"...Truly the power of the stars."
+○0000001120○朱音＿体験版
 ●0000001120●
 
-○0000001121○朱音＿体験版
+○0000001121○"...the homeroom teacher to become my obedient puppet."
 ●0000001121●
 
-○0000001122○"Let's suppose a certain city council member provides a certain company with certain special favors."
+○0000001122○瑚太朗＿体験版
 ●0000001122●
 
-○0000001123○朱音＿体験版
+○0000001123○"Truly the power of the stars... or I guess, the power of a star pupil."
 ●0000001123●
 
-○0000001124○"I use my magical powers to make a phone call..."
+○0000001124○朱音＿体験版
 ●0000001124●
 
-○0000001125○朱音＿体験版
+○0000001125○"Let's suppose a certain city council member provides a certain company with certain special favors."
 ●0000001125●
 
-○0000001126○"...and what do you know, the next day I find that the money in my bank account has magically increased."
+○0000001126○朱音＿体験版
 ●0000001126●
 
-○0000001127○瑚太朗＿体験版
+○0000001127○"I channel my magecraft to make a phone call..."
 ●0000001127●
 
-○0000001128○"...I guess that'd be alchemy."
+○0000001128○朱音＿体験版
 ●0000001128●
 
-○0000001129○朱音＿体験版
+○0000001129○"...and what do you know, the next day I find that the money in my bank account has magically increased."
 ●0000001129●
 
-○0000001130○"This is how those that know the ways of magic rule the world."
+○0000001130○瑚太朗＿体験版
 ●0000001130●
 
-○0000001131○瑚太朗＿体験版
+○0000001131○"...I guess that'd be alchemy."
 ●0000001131●
 
-○0000001132○"I see you in a new light now, that's for sure."
+○0000001132○朱音＿体験版
 ●0000001132●
 
-○0000001133○瑚太朗＿体験版
+○0000001133○"Such is how those with command of magecraft have command of the world."
 ●0000001133●
 
-○0000001134○"So you're basically saying that magic is just an illusion?"
+○0000001134○瑚太朗＿体験版
 ●0000001134●
 
-○0000001135○朱音＿体験版
+○0000001135○"I see you in a new light now, that's for sure."
 ●0000001135●
 
-○0000001136○"Oh? Is that how it sounded to you?"
+○0000001136○瑚太朗＿体験版
 ●0000001136●
 
-○0000001137○瑚太朗＿体験版
+○0000001137○"So you're basically saying that magecraft is just an illusion?"
 ●0000001137●
 
-○0000001138○"It looks supernatural, but it isn't once you explain how it works, basically."
+○0000001138○朱音＿体験版
 ●0000001138●
 
-○0000001139○朱音＿体験版
+○0000001139○"Oh? Is that how it sounded to you?"
 ●0000001139●
 
-○0000001140○"Are you familiar with Aleister Crowley or Dion Fortune?"
+○0000001140○瑚太朗＿体験版
 ●0000001140●
 
-○0000001141○瑚太朗＿体験版
+○0000001141○"It looks supernatural, but it isn't once you explain how it works, basically."
 ●0000001141●
 
-○0000001142○"No, but I imagine they were magicians?"
+○0000001142○朱音＿体験版
 ●0000001142●
 
-○0000001143○朱音＿体験版
+○0000001143○"Are you familiar with Aleister Crowley or Dion Fortune?"
 ●0000001143●
 
-○0000001144○"I'm glad you have such a sharp mind."
+○0000001144○瑚太朗＿体験版
 ●0000001144●
 
-○0000001145○朱音＿体験版
+○0000001145○"No, but I imagine they had something to do with magecraft?"
 ●0000001145●
 
-○0000001146○"Indeed. They were occult mystics, or what you might call magicians."
+○0000001146○朱音＿体験版
 ●0000001146●
 
-○0000001147○朱音＿体験版
+○0000001147○"I'm glad you have such a sharp mind."
 ●0000001147●
 
-○0000001148○"Crowley once said that..."
+○0000001148○朱音＿体験版
 ●0000001148●
 
-○0000001149○朱音＿体験版
+○0000001149○"Indeed. They were occult mystics, or what you might call mages."
 ●0000001149●
 
-○0000001150○"...magick is the Science and Art of causing Change to occur in conformity with Will."
+○0000001150○朱音＿体験版
 ●0000001150●
 
-○0000001151○朱音＿体験版
+○0000001151○"Regarding magecraft, Crowley once said that..."
 ●0000001151●
 
-○0000001152○"He of course performed all sorts of mind-boggling tricks himself, but if you only look at those words, it's a fairly simple concept."
+○0000001152○朱音＿体験版
 ●0000001152●
 
-○0000001153○朱音＿体験版
+○0000001153○"...'magick is the Science and Art of causing Change to occur in conformity with Will.'"
 ●0000001153●
 
-○0000001154○"Basically, all actions caused by your will alone can be classified as magic."
+○0000001154○朱音＿体験版
 ●0000001154●
 
-○0000001155○瑚太朗＿体験版
+○0000001155○"He of course performed all sorts of mind-boggling magecraft himself, but if you look only at those words, it's a fairly simple concept."
 ●0000001155●
 
-○0000001156○"So it's all just a matter of perspective?"
+○0000001156○朱音＿体験版
 ●0000001156●
 
-○0000001157○朱音＿体験版
+○0000001157○"Basically, all actions caused by your will alone can be classified as magecraft."
 ●0000001157●
 
-○0000001158○"Yes. On the other hand, Fortune once said that..."
+○0000001158○瑚太朗＿体験版
 ●0000001158●
 
-○0000001159○朱音＿体験版
+○0000001159○"So it's all just a matter of your own mindset?"
 ●0000001159●
 
-○0000001160○"...magick is the art of causing changes in one's consciousness."
+○0000001160○朱音＿体験版
 ●0000001160●
 
-○0000001161○瑚太朗＿体験版
+○0000001161○"Yes. On the other hand, Fortune once said that..."
 ●0000001161●
 
-○0000001162○"...Hmm."
+○0000001162○朱音＿体験版
 ●0000001162●
 
-○0000001163○朱音＿体験版
+○0000001163○"...'magick is the art of causing changes in one's consciousness.'"
 ●0000001163●
 
-○0000001164○"If those that wish to make the world a better place become politicians and turn their vision into reality, that, too, would be magic."
+○0000001164○瑚太朗＿体験版
 ●0000001164●
 
-○0000001165○朱音＿体験版
+○0000001165○"...Hmm."
 ●0000001165●
 
-○0000001166○"In that sense, there are few more devout believers in magic than I."
+○0000001166○朱音＿体験版
 ●0000001166●
 
-○0000001167○瑚太朗＿体験版
+○0000001167○"If those that wish to make the world a better place become politicians and turn their vision into reality, that, too, would be magecraft."
 ●0000001167●
 
-○0000001168○"I dunno, it sounds kinda forced to me, to be honest."
+○0000001168○朱音＿体験版
 ●0000001168●
 
-○0000001169○朱音＿体験版
+○0000001169○"In that sense, there are few more devout believers in magecraft than I."
 ●0000001169●
 
-○0000001170○"Well, there has never been a magician who was able to produce a fireball from their bare hands in the history of all mankind."
+○0000001170○瑚太朗＿体験版
 ●0000001170●
 
-○0000001171○朱音＿体験版
+○0000001171○"I dunno, it sounds kinda forced to me, to be honest."
 ●0000001171●
 
-○0000001172○"That's why all mysticism eventually turns into simple spiritualism or ends up being classified as the psychedelic experiences of a select few."
+○0000001172○朱音＿体験版
 ●0000001172●
 
-○0000001173○瑚太朗＿体験版
+○0000001173○"Well, there has never been a mage who was able to produce a fireball from their bare hands in the history of all mankind."
 ●0000001173●
 
-○0000001174○"In that case..."
+○0000001174○朱音＿体験版
 ●0000001174●
 
-○0000001175○瑚太朗＿体験版
+○0000001175○"That's why all mysticism eventually turns into simple spiritualism or devolves into drug-fueled psychedelic experiences."
 ●0000001175●
 
-○0000001176○"What would that mean for my experiences and your shikigami?"
+○0000001176○瑚太朗＿体験版
 ●0000001176●
 
-○0000001177○朱音＿体験版
+○0000001177○"In that case..."
 ●0000001177●
 
-○0000001178○"I don't know. Have you ever heard of environmental endocrine disruptors?"
+○0000001178○瑚太朗＿体験版
 ●0000001178●
 
-○0000001179○瑚太朗＿体験版
+○0000001179○"What would that mean for my experiences and your shikigami?"
 ●0000001179●
 
-○0000001180○"Environmental what?"
+○0000001180○朱音＿体験版
 ●0000001180●
 
-○0000001181○朱音＿体験版
+○0000001181○"I don't know. Have you ever heard of environmental endocrine disruptors?"
 ●0000001181●
 
-○0000001182○"Some of the materials we use in constructing our houses can potentially have a negative effect on the human body."
+○0000001182○瑚太朗＿体験版
 ●0000001182●
 
-○0000001183○朱音＿体験版
+○0000001183○"Environmental what?"
 ●0000001183●
 
-○0000001184○"We cannot rule out the possibility of something like that affecting your mind."
+○0000001184○朱音＿体験版
 ●0000001184●
 
-○0000001185○瑚太朗＿体験版
+○0000001185○"Some of the materials we use in constructing our houses can potentially have a negative effect on the human body."
 ●0000001185●
 
-○0000001186○"So you're saying... I got high on asbestos and went on a couple bad trips?"
+○0000001186○朱音＿体験版
 ●0000001186●
 
-○0000001187○朱音＿体験版
+○0000001187○"We can't rule out the possibility of something like that affecting your mind."
 ●0000001187●
 
-○0000001188○"It's starting to sound more realistic, don't you think?"
+○0000001188○瑚太朗＿体験版
 ●0000001188●
 
-○0000001189○Her lips curl into a bewitching smile.
+○0000001189○"So you're saying... I got high on asbestos and went on a couple bad trips?"
 ●0000001189●
 
 ○0000001190○朱音＿体験版
 ●0000001190●
 
-○0000001191○"It's both logical and silly enough to believe."
+○0000001191○"It's starting to sound more realistic, don't you think?"
 ●0000001191●
 
-○0000001192○She continues snickering to herself.
+○0000001192○Her lips curl into a bewitching smile.
 ●0000001192●
 
-○0000001193○瑚太朗＿体験版
+○0000001193○朱音＿体験版
 ●0000001193●
 
-○0000001194○"Don't tell me you're saying that all occult events can be explained with science or something."
+○0000001194○"It's both logical and silly enough to believe."
 ●0000001194●
 
-○0000001195○朱音＿体験版
+○0000001195○She continues snickering to herself.
 ●0000001195●
 
-○0000001196○"Of course that's what I'm saying. That's how the world works."
+○0000001196○瑚太朗＿体験版
 ●0000001196●
 
-○0000001197○瑚太朗＿体験版
+○0000001197○"Don't tell me you're saying that all occult events can be explained with science or something."
 ●0000001197●
 
-○0000001198○"...I don't think my situation is like that, though."
+○0000001198○朱音＿体験版
 ●0000001198●
 
-○0000001199○朱音＿体験版
+○0000001199○"Of course that's what I'm saying. That's how the world works."
 ●0000001199●
 
-○0000001200○"You are free to think whatever you wish. I'm sure I'll figure it all out after observing you for a little while longer."
+○0000001200○瑚太朗＿体験版
 ●0000001200●
 
-○0000001201○瑚太朗＿体験版
+○0000001201○"...I don't think my situation is like that, though."
 ●0000001201●
 
-○0000001202○"Grr..."
+○0000001202○朱音＿体験版
 ●0000001202●
 
-○0000001203○朱音＿体験版
+○0000001203○"You are free to think whatever you wish. I'm sure I'll figure it all out after observing you for a little while longer."
 ●0000001203●
 
-○0000001204○"I'll solve your problem, but in exchange..."
+○0000001204○瑚太朗＿体験版
 ●0000001204●
 
-○0000001205○朱音＿体験版
+○0000001205○"Grr..."
 ●0000001205●
 
-○0000001206○"...you'll have to become my loyal observation subject."
+○0000001206○朱音＿体験版
 ●0000001206●
 
-○0000001207○瑚太朗＿体験版
+○0000001207○"I'll solve your problem, but in exchange..."
 ●0000001207●
 
-○0000001208○"What's that supposed to mean?"
+○0000001208○朱音＿体験版
 ●0000001208●
 
-○0000001209○朱音＿体験版
+○0000001209○"...you'll have to become my loyal observation subject."
 ●0000001209●
 
-○0000001210○"Think of yourself as a wild guinea pig."
+○0000001210○瑚太朗＿体験版
 ●0000001210●
 
-○0000001211○瑚太朗＿体験版
+○0000001211○"What's that supposed to mean?"
 ●0000001211●
 
-○0000001212○"I feel more like a bug under a microscope..."
+○0000001212○朱音＿体験版
 ●0000001212●
 
-○0000001213○朱音＿体験版
+○0000001213○"Think of yourself as a wild guinea pig."
 ●0000001213●
 
-○0000001214○"But the truth will come to light as a result."
+○0000001214○瑚太朗＿体験版
 ●0000001214●
 
-○0000001215○朱音＿体験版
+○0000001215○"I feel more like a bug under a microscope..."
 ●0000001215●
 
-○0000001216○"Whether you change the world or change yourself."
+○0000001216○朱音＿体験版
 ●0000001216●
 
-○0000001217○瑚太朗＿体験版
+○0000001217○"But the truth will come to light as a result."
 ●0000001217●
 
-○0000001218○"Huh? What?"
+○0000001218○朱音＿体験版
 ●0000001218●
 
-○0000001219○朱音＿体験版
+○0000001219○"Whether you change the world or change yourself."
 ●0000001219●
 
-○0000001220○"Remember the words I quoted."
+○0000001220○瑚太朗＿体験版
 ●0000001220●
 
-○0000001221○朱音＿体験版
+○0000001221○"Huh? What?"
 ●0000001221●
 
-○0000001222○"Do you actually hold the potential to affect reality, or are you the sort who can only increase his own strength?"
+○0000001222○朱音＿体験版
 ●0000001222●
 
-○0000001223○瑚太朗＿体験版
+○0000001223○"Remember the words I quoted."
 ●0000001223●
 
-○0000001224○"I'm not sure I'm following..."
+○0000001224○朱音＿体験版
 ●0000001224●
 
-○0000001225○朱音＿体験版
+○0000001225○"Do you actually hold the potential to affect reality, or are you the sort who can only increase his own strength?"
 ●0000001225●
 
-○0000001226○"Don't think too much about it for now. You will understand when the right time comes. I'm sure of it. Probably. Maybe."
+○0000001226○瑚太朗＿体験版
 ●0000001226●
 
-○0000001227○朱音＿体験版
+○0000001227○"I'm not sure I'm following..."
 ●0000001227●
 
-○0000001228○"If you don't, then it only means that you wished for that outcome."
+○0000001228○朱音＿体験版
 ●0000001228●
 
-○0000001229○瑚太朗＿体験版
+○0000001229○"Don't think too much about it for now. You will understand when the right time comes. I'm sure of it. Probably. Maybe."
 ●0000001229●
 
-○0000001230○"...Huh."
+○0000001230○朱音＿体験版
 ●0000001230●
 
-○0000001231○I have no idea what she's babbling about.
+○0000001231○"If you don't, then it only means that you wished for that outcome."
 ●0000001231●
 
-○0000001232○朱音＿体験版
+○0000001232○瑚太朗＿体験版
 ●0000001232●
 
-○0000001233○"Never mind. You can forget all I've said for the time being."
+○0000001233○"...Huh."
 ●0000001233●
 
-○0000001234○瑚太朗＿体験版
+○0000001234○I have no idea what she's babbling about.
 ●0000001234●
 
-○0000001235○"If you say so..."
+○0000001235○朱音＿体験版
 ●0000001235●
 
-○0000001236○瑚太朗＿体験版
+○0000001236○"Never mind. You can forget all I've said for the time being."
 ●0000001236●
 
-○0000001237○"Anyway, I see now how this Occult Research Society operates."
+○0000001237○瑚太朗＿体験版
 ●0000001237●
 
-○0000001238○朱音＿体験版
+○0000001238○"If you say so..."
 ●0000001238●
 
-○0000001239○"Are you talking about us being skeptical of the supernatural?"
+○0000001239○瑚太朗＿体験版
 ●0000001239●
 
-○0000001240○瑚太朗＿体験版
+○0000001240○"Anyway, I see now how this Occult Research Society operates."
 ●0000001240●
 
-○0000001241○"Yes."
+○0000001241○朱音＿体験版
 ●0000001241●
 
-○0000001242○朱音＿体験版
+○0000001242○"Are you talking about us being skeptical of the paranormal?"
 ●0000001242●
 
-○0000001243○"Let me tell you something."
+○0000001243○瑚太朗＿体験版
 ●0000001243●
 
-○0000001244○朱音＿体験版
+○0000001244○"Yes."
 ●0000001244●
 
-○0000001245○"It's not like I've inherited the will of the old society."
+○0000001245○朱音＿体験版
 ●0000001245●
 
-○0000001246○朱音＿体験版
+○0000001246○"Let me tell you something."
 ●0000001246●
 
-○0000001247○"I simply joined because the club was on the verge of being disbanded."
+○0000001247○朱音＿体験版
 ●0000001247●
 
-○0000001248○朱音＿体験版
+○0000001248○"It's not like I've inherited the will of the old society."
 ●0000001248●
 
-○0000001249○"Originally, this was indeed a place for those obsessed with the supernatural, just as one might expect."
+○0000001249○朱音＿体験版
 ●0000001249●
 
-○0000001250○瑚太朗＿体験版
+○0000001250○"I simply joined because the club was on the verge of being disbanded."
 ●0000001250●
 
-○0000001251○"...You come off more like you're anti-occult, if anything."
+○0000001251○朱音＿体験版
 ●0000001251●
 
-○0000001252○朱音＿体験版
+○0000001252○"Originally, this was indeed a place for those obsessed with the supernatural, just as one might expect."
 ●0000001252●
 
-○0000001253○"I suppose that's true."
+○0000001253○瑚太朗＿体験版
 ●0000001253●
 
-○0000001254○朱音＿体験版
+○0000001254○"...You come off more like you're anti-occult, if anything."
 ●0000001254●
 
-○0000001255○"I cannot stand fools who try to escape reality by blaming perfectly explainable phenomena on magic, superpowers, or aliens."
+○0000001255○朱音＿体験版
 ●0000001255●
 
-○0000001256○Akane the Witch elegantly places her elbows on the table and rests her chin on the back of her hands.
+○0000001256○"I suppose that's true."
 ●0000001256●
 
 ○0000001257○朱音＿体験版
 ●0000001257●
 
-○0000001258○"I have devised this room to be my private area of contemplation."
+○0000001258○"I can't stand fools who try to escape reality by blaming perfectly explainable phenomena on magic, superpowers, or aliens."
 ●0000001258●
 
-○0000001259○瑚太朗＿体験版
+○0000001259○Akane the Witch elegantly places her elbows on the table and rests her chin on the backs of her hands.
 ●0000001259●
 
-○0000001260○"You contemplate by playing video games?"
+○0000001260○朱音＿体験版
 ●0000001260●
 
-○0000001261○朱音＿体験版
+○0000001261○"I have devised this room to be my private area of contemplation."
 ●0000001261●
 
-○0000001262○"The funds, influence, and connections my magic has endowed me with..."
+○0000001262○瑚太朗＿体験版
 ●0000001262●
 
-○0000001263○朱音＿体験版
+○0000001263○"You contemplate by playing video games?"
 ●0000001263●
 
-○0000001264○"I used them all to cause a revolution here. Given what I told you earlier, does that not make me into quite a respectable magician?"
+○0000001264○朱音＿体験版
 ●0000001264●
 
-○0000001265○瑚太朗＿体験版
+○0000001265○"The funds, influence, and connections my magecraft has endowed me with..."
 ●0000001265●
 
-○0000001266○"...You're just saying whatever you want at this point."
+○0000001266○朱音＿体験版
 ●0000001266●
 
-○0000001267○瑚太朗＿体験版
+○0000001267○"I used them all to cause a revolution here. Given what I told you earlier, does that not make me into quite a respectable mage?"
 ●0000001267●
 
-○0000001268○"Who would've thought that the president of the Occult Research Society would turn out to be a skeptic?"
+○0000001268○瑚太朗＿体験版
 ●0000001268●
 
-○0000001269○朱音＿体験版
+○0000001269○"...You're just saying whatever you want at this point."
 ●0000001269●
 
-○0000001270○"Rather than skeptical, I am simply aware of the fact that the root of what most others call 'supernatural' is merely faulty perception."
+○0000001270○瑚太朗＿体験版
 ●0000001270●
 
-○0000001271○朱音＿体験版
+○0000001271○"Who would've thought that the president of the Occult Research Society would turn out to be a skeptic?"
 ●0000001271●
 
-○0000001272○"I do admit, however, that this world remains filled with unexplained physical phenomena."
+○0000001272○朱音＿体験版
 ●0000001272●
 
-○0000001273○瑚太朗＿体験版
+○0000001273○"Rather than skeptical, I am simply aware of the fact that the root of what most others call 'supernatural' is merely faulty perception."
 ●0000001273●
 
-○0000001274○"Still, you're saying that our current concept of the occult, ghosts, and everything else on that spectrum is all bullshit, right?"
+○0000001274○朱音＿体験版
 ●0000001274●
 
-○0000001275○朱音＿体験版
+○0000001275○"I do admit, however, that this world remains filled with unexplained physical phenomena."
 ●0000001275●
 
-○0000001276○"Of course."
+○0000001276○瑚太朗＿体験版
 ●0000001276●
 
-○0000001277○瑚太朗＿体験版
+○0000001277○"Still, you're saying that our current concept of the occult, ghosts, and everything else on that spectrum is all bullshit, right?"
 ●0000001277●
 
-○0000001278○"Okay, so what happens if I find out those things actually do exist and aren't just tricks of your mind or whatever?"
+○0000001278○朱音＿体験版
 ●0000001278●
 
-○0000001279○朱音＿体験版
+○0000001279○"Of course."
 ●0000001279●
 
-○0000001280○"It would be too humiliating to admit, so I would just blame everything on plasma."
+○0000001280○瑚太朗＿体験版
 ●0000001280●
 
-○0000001281○瑚太朗＿体験版
+○0000001281○"Okay, so what happens if I find out those things actually do exist and aren't just tricks of your mind or whatever?"
 ●0000001281●
 
-○0000001282○"...Remind me to never make bets with you."
+○0000001282○朱音＿体験版
 ●0000001282●
 
-○0000001283○瑚太朗＿体験版
+○0000001283○"It would be too humiliating to admit, so I would just blame everything on plasma."
 ●0000001283●
 
-○0000001284○"In any case, my ghosts are real. I'm not messing around."
+○0000001284○瑚太朗＿体験版
 ●0000001284●
 
-○0000001285○朱音＿体験版
+○0000001285○"...Remind me to never make bets with you."
 ●0000001285●
 
-○0000001286○"Hmm. I see it's too late for you. You have my condolences."
+○0000001286○瑚太朗＿体験版
 ●0000001286●
 
-○0000001287○瑚太朗＿体験版
+○0000001287○"In any case, my ghosts are real. I'm not messing around."
 ●0000001287●
 
-○0000001288○"Grr..."
+○0000001288○朱音＿体験版
 ●0000001288●
 
-○0000001289○瑚太朗＿体験版
+○0000001289○"Hmm. I see it's too late for you. You have my condolences."
 ●0000001289●
 
-○0000001290○"It wasn't a curtain playing tricks on my eyes, okay?"
+○0000001290○瑚太朗＿体験版
 ●0000001290●
 
-○0000001291○朱音＿体験版
+○0000001291○"Grr..."
 ●0000001291●
 
-○0000001292○"What about a break-in, then?"
+○0000001292○瑚太朗＿体験版
 ●0000001292●
 
-○0000001293○朱音＿体験版
+○0000001293○"It wasn't a curtain playing tricks on my eyes, okay?"
 ●0000001293●
 
-○0000001294○"Some pervert might have been pressing themselves against your window."
+○0000001294○朱音＿体験版
 ●0000001294●
 
-○0000001295○瑚太朗＿体験版
+○0000001295○"What about a break-in, then?"
 ●0000001295●
 
-○0000001296○"My room's on the second floor..."
+○0000001296○朱音＿体験版
 ●0000001296●
 
-○0000001297○朱音＿体験版
+○0000001297○"Some pervert might have been pressing themselves against your window."
 ●0000001297●
 
-○0000001298○"That's a perfectly climbable height if you're motivated enough."
+○0000001298○瑚太朗＿体験版
 ●0000001298●
 
-○0000001299○瑚太朗＿体験版
+○0000001299○"My room's on the second floor..."
 ●0000001299●
 
-○0000001300○"Uh..."
+○0000001300○朱音＿体験版
 ●0000001300●
 
-○0000001301○I get the feeling that Akane is too bullheaded for her own good.
+○0000001301○"That's a perfectly climbable height if you're motivated enough."
 ●0000001301●
 
 ○0000001302○瑚太朗＿体験版
 ●0000001302●
 
-○0000001303○"Are you sure you can solve my problem?"
+○0000001303○"Uh..."
 ●0000001303●
 
-○0000001304○朱音＿体験版
+○0000001304○I get the feeling that Akane is too bullheaded for her own good.
 ●0000001304●
 
-○0000001305○"I shall mend the void in your heart. Worry not."
+○0000001305○瑚太朗＿体験版
 ●0000001305●
 
-○0000001306○瑚太朗＿体験版
+○0000001306○"Are you sure you can solve my problem?"
 ●0000001306●
 
-○0000001307○"Do you even know the kind of help I actually need?!"
+○0000001307○朱音＿体験版
 ●0000001307●
 
-○0000001308○瑚太朗＿体験版
+○0000001308○"I shall mend the void in your heart. Worry not."
 ●0000001308●
 
-○0000001309○"Don't make it sound like I'm a mental case!"
+○0000001309○瑚太朗＿体験版
 ●0000001309●
 
-○0000001310○朱音＿体験版
+○0000001310○"Do you even know the kind of help I actually need?!"
 ●0000001310●
 
-○0000001311○"Are you familiar with the ghost hunting shows they have on television?"
+○0000001311○瑚太朗＿体験版
 ●0000001311●
 
-○0000001312○瑚太朗＿体験版
+○0000001312○"Don't make it sound like I'm a mental case!"
 ●0000001312●
 
-○0000001313○"I guess so?"
+○0000001313○朱音＿体験版
 ●0000001313●
 
-○0000001314○朱音＿体験版
+○0000001314○"Are you familiar with television specials focused on bizarre phenomena?"
 ●0000001314●
 
-○0000001315○"I can't think of anyone more buffoonish than those university students who say they believe in ghosts for no real reason during the interviews."
+○0000001315○瑚太朗＿体験版
 ●0000001315●
 
-○0000001316○瑚太朗＿体験版
+○0000001316○"I guess so?"
 ●0000001316●
 
-○0000001317○"Ghuh..."
+○0000001317○朱音＿体験版
 ●0000001317●
 
-○0000001318○I actually agree with her on that point.
+○0000001318○"I can't think of anyone more buffoonish than those university students who say they believe in spirits for no real reason during the interviews."
 ●0000001318●
 
-○0000001319○But from her perspective, I probably look just like them.
+○0000001319○瑚太朗＿体験版
 ●0000001319●
 
-○0000001320○朱音＿体験版
+○0000001320○"Ghuh..."
 ●0000001320●
 
-○0000001321○"It makes me want to ask what their reason for pursuing higher education was if they think they have all the answers already."
+○0000001321○I actually agree with her on that point.
 ●0000001321●
 
-○0000001322○朱音＿体験版
+○0000001322○But from her perspective, I probably look just like them.
 ●0000001322●
 
-○0000001323○"Did you know that the smarter our children are, the less expensive it is to educate them?"
+○0000001323○朱音＿体験版
 ●0000001323●
 
-○0000001324○朱音＿体験版
+○0000001324○"It makes me want to ask what their reason for pursuing higher education was if they think they have all the answers already."
 ●0000001324●
 
-○0000001325○"While the more fools that are born, the more our country goes into the red?"
+○0000001325○朱音＿体験版
 ●0000001325●
 
-○0000001326○瑚太朗＿体験版
+○0000001326○"Did you know that the smarter our children are, the less expensive it is to educate them?"
 ●0000001326●
 
-○0000001327○"...Well, sorry for being stupid."
+○0000001327○朱音＿体験版
 ●0000001327●
 
-○0000001328○No matter what she says, I can't imagine the supernatural phenomenon that assaulted me being a mere illusion.
+○0000001328○"While the more fools that are born, the more our country goes into the red?"
 ●0000001328●
 
 ○0000001329○瑚太朗＿体験版
 ●0000001329●
 
-○0000001330○"No, wait..."
+○0000001330○"...Well, sorry for being stupid."
 ●0000001330●
 
-○0000001331○But then, out of nowhere, it all clicks in my head.
+○0000001331○No matter what she says, I can't imagine the spiritual phenomenon that assaulted me being a mere illusion.
 ●0000001331●
 
 ○0000001332○瑚太朗＿体験版
 ●0000001332●
 
-○0000001333○"Okay. Let's investigate."
+○0000001333○"No, wait..."
 ●0000001333●
 
-○0000001334○朱音＿体験版
+○0000001334○But then, out of nowhere, it all clicks in my head.
 ●0000001334●
 
-○0000001335○"Investigate what?"
+○0000001335○瑚太朗＿体験版
 ●0000001335●
 
-○0000001336○瑚太朗＿体験版
+○0000001336○"Okay. Let's investigate."
 ●0000001336●
 
-○0000001337○"We are in the Occult Research Society. You are a witch, and I'm someone who's experienced a supernatural phenomenon."
+○0000001337○朱音＿体験版
 ●0000001337●
 
-○0000001338○瑚太朗＿体験版
+○0000001338○"Investigate what?"
 ●0000001338●
 
-○0000001339○"We've got the stage, the detective, and even our own Watson."
+○0000001339○瑚太朗＿体験版
 ●0000001339●
 
-○0000001340○朱音＿体験版
+○0000001340○"We're in the ORS, you're a witch, and I just experienced some strange phenomenon."
 ●0000001340●
 
-○0000001341○"...That sounds like a flimsy excuse for wasting time."
+○0000001341○瑚太朗＿体験版
 ●0000001341●
 
-○0000001342○She makes a tired expression.
+○0000001342○"We've got the stage, the detective, and even our own Watson."
 ●0000001342●
 
 ○0000001343○朱音＿体験版
 ●0000001343●
 
-○0000001344○"I'm not very fond of that sort of thing."
+○0000001344○"...That sounds like a flimsy excuse for wasting time."
 ●0000001344●
 
-○0000001345○朱音＿体験版
+○0000001345○She makes a tired expression.
 ●0000001345●
 
-○0000001346○"But... Very well. I'm not going to stop you, if that's what you wish to do."
+○0000001346○朱音＿体験版
 ●0000001346●
 
-○0000001347○朱音＿体験版
+○0000001347○"I'm not very fond of that sort of thing."
 ●0000001347●
 
-○0000001348○"I may even offer you advice."
+○0000001348○朱音＿体験版
 ●0000001348●
 
-○0000001349○瑚太朗＿体験版
+○0000001349○"But... Very well. I'm not going to stop you, if that's what you wish to do."
 ●0000001349●
 
-○0000001350○"Your confidence never wavers, huh?"
+○0000001350○朱音＿体験版
 ●0000001350●
 
-○0000001351○瑚太朗＿体験版
+○0000001351○"I may even offer you advice."
 ●0000001351●
 
-○0000001352○"You've got 'I don't believe this crap' written all over your face."
+○0000001352○瑚太朗＿体験版
 ●0000001352●
 
-○0000001353○朱音＿体験版
+○0000001353○"Your confidence never wavers, huh?"
 ●0000001353●
 
-○0000001354○"No, that would be blind faith, which only clouds one's judgment."
+○0000001354○瑚太朗＿体験版
 ●0000001354●
 
-○0000001355○朱音＿体験版
+○0000001355○"You've got 'I don't believe this crap' written all over your face."
 ●0000001355●
 
-○0000001356○"What I mean is that I do not deny the potential existence of unidentified flying objects, but it is very unlikely that their true form is that of flying saucers."
+○0000001356○朱音＿体験版
 ●0000001356●
 
-○0000001357○瑚太朗＿体験版
+○0000001357○"No, that would be blind faith, which only clouds one's judgment."
 ●0000001357●
 
-○0000001358○"Superpowers do exist, though."
+○0000001358○朱音＿体験版
 ●0000001358●
 
-○0000001359○Whoops, I might have said that with a bit too much confidence.
+○0000001359○"What I mean is that I do not deny the potential existence of unidentified flying objects, but it is very unlikely that their true form is that of flying saucers."
 ●0000001359●
 
-○0000001360○Akane gives me a disappointed look.
+○0000001360○瑚太朗＿体験版
 ●0000001360●
 
-○0000001361○朱音＿体験版
+○0000001361○"Superpowers do exist, though."
 ●0000001361●
 
-○0000001362○"...Could it be I have overestimated your capacity for reason, Tennouji Kotarou?"
+○0000001362○Whoops, I might have said that with a bit too much confidence.
 ●0000001362●
 
-○0000001363○瑚太朗＿体験版
+○0000001363○Akane gives me a disappointed look.
 ●0000001363●
 
-○0000001364○"Hey, you're free to think whatever you want about me."
+○0000001364○朱音＿体験版
 ●0000001364●
 
-○0000001365○瑚太朗＿体験版
+○0000001365○"...Could it be I have overestimated your capacity for reason, Tennouji Kotarou?"
 ●0000001365●
 
-○0000001366○"But I KNOW they exist."
+○0000001366○瑚太朗＿体験版
 ●0000001366●
 
-○0000001367○朱音＿体験版
+○0000001367○"Hey, you're free to think whatever you want about me."
 ●0000001367●
 
-○0000001368○"Oh, really?"
+○0000001368○瑚太朗＿体験版
 ●0000001368●
 
-○0000001369○瑚太朗＿体験版
+○0000001369○"But I KNOW they exist."
 ●0000001369●
 
-○0000001370○"I'll bring you someone who'll turn the water they pour into a hat into a beautiful pigeon right before your eyes, okay?"
+○0000001370○朱音＿体験版
 ●0000001370●
 
-○0000001371○朱音＿体験版
+○0000001371○"Oh, really?"
 ●0000001371●
 
-○0000001372○"That would be more of a magic trick."
+○0000001372○瑚太朗＿体験版
 ●0000001372●
 
-○0000001373○瑚太朗＿体験版
+○0000001373○"I'll bring you someone who'll turn the water they pour into a hat into a beautiful pigeon right before your eyes, okay?"
 ●0000001373●
 
-○0000001374○"How about someone who can multiply the colored balls they hold between their fingers?"
+○0000001374○朱音＿体験版
 ●0000001374●
 
-○0000001375○朱音＿体験版
+○0000001375○"That would be more of a magic trick. An illusion."
 ●0000001375●
 
-○0000001376○"That's a trick, too."
+○0000001376○瑚太朗＿体験版
 ●0000001376●
 
-○0000001377○瑚太朗＿体験版
+○0000001377○"How about someone who can multiply the colored balls they hold between their fingers?"
 ●0000001377●
 
-○0000001378○"How about making a sexy babe fly in the air without even touching her?"
+○0000001378○朱音＿体験版
 ●0000001378●
 
-○0000001379○瑚太朗＿体験版
+○0000001379○"That's a trick, too."
 ●0000001379●
 
-○0000001380○"I'll even show that she's not suspended by wires or anything by putting her through a hula hoop before having her levitate."
+○0000001380○瑚太朗＿体験版
 ●0000001380●
 
-○0000001381○朱音＿体験版
+○0000001381○"How about making a sexy babe fly in the air without even touching her?"
 ●0000001381●
 
-○0000001382○"All of these phenomena are mere tricks."
+○0000001382○瑚太朗＿体験版
 ●0000001382●
 
-○0000001383○瑚太朗＿体験版
+○0000001383○"I'll even show that she's not suspended by wires or anything by putting her through a hula hoop before having her levitate."
 ●0000001383●
 
-○0000001384○"Gh..."
+○0000001384○朱音＿体験版
 ●0000001384●
 
-○0000001385○朱音＿体験版
+○0000001385○Such excessive magecraft could only be a trick."
 ●0000001385●
 
-○0000001386○"Are you giving up?"
+○0000001386○瑚太朗＿体験版
 ●0000001386●
 
-○0000001387○瑚太朗＿体験版
+○0000001387○"Gh..."
 ●0000001387●
 
-○0000001388○"No... Superpowers do exist, seriously. That I know with absolute certainty."
+○0000001388○朱音＿体験版
 ●0000001388●
 
-○0000001389○朱音＿体験版
+○0000001389○"Are you giving up?"
 ●0000001389●
 
-○0000001390○"Why are you so obsessed with this? Could it be you actually possess something along these lines yourself?"
+○0000001390○瑚太朗＿体験版
 ●0000001390●
 
-○0000001391○瑚太朗＿体験版
+○0000001391○"No... Superpowers do exist, seriously. That I know with absolute certainty."
 ●0000001391●
 
-○0000001392○"...Yeah, right."
+○0000001392○朱音＿体験版
 ●0000001392●
 
-○0000001393○瑚太朗＿体験版
+○0000001393○"Why are you so obsessed with this? Could it be you actually possess something along these lines yourself?"
 ●0000001393●
 
-○0000001394○"Haha... Hahaha..."
+○0000001394○瑚太朗＿体験版
 ●0000001394●
 
-○0000001395○朱音＿体験版
+○0000001395○"...Yeah, right."
 ●0000001395●
 
-○0000001396○"Are you acting suspicious on purpose?"
+○0000001396○瑚太朗＿体験版
 ●0000001396●
 
-○0000001397○瑚太朗＿体験版
+○0000001397○"Haha... Hahaha..."
 ●0000001397●
 
-○0000001398○"I'll... I'll bring you something."
+○0000001398○朱音＿体験版
 ●0000001398●
 
-○0000001399○朱音＿体験版
+○0000001399○"Are you acting suspicious on purpose?"
 ●0000001399●
 
-○0000001400○"Something that proves the existence of superpowers?"
+○0000001400○瑚太朗＿体験版
 ●0000001400●
 
-○0000001401○瑚太朗＿体験版
+○0000001401○"I'll... I'll bring you something."
 ●0000001401●
 
-○0000001402○"Superpowers or ghosts or anything else. I'm sure there's something."
+○0000001402○朱音＿体験版
 ●0000001402●
 
-○0000001403○Akane curls her lips into a villainous smirk.
+○0000001403○"Something that proves the existence of superpowers?"
 ●0000001403●
 
-○0000001404○朱音＿体験版
+○0000001404○瑚太朗＿体験版
 ●0000001404●
 
-○0000001405○"Interesting."
+○0000001405○"Superpowers or ghosts or anything else. I'm sure there's something."
 ●0000001405●
 
-○0000001406○朱音＿体験版
+○0000001406○Akane curls her lips into a villainous smirk.
 ●0000001406●
 
-○0000001407○"Go ahead. If you can actually prove supernatural phenomena to me..."
+○0000001407○朱音＿体験版
 ●0000001407●
 
-○0000001408○朱音＿体験版
+○0000001408○"Interesting."
 ●0000001408●
 
-○0000001409○"...I'll give you one hundred yen."
+○0000001409○朱音＿体験版
 ●0000001409●
 
-○0000001410○瑚太朗＿体験版
+○0000001410○"Go ahead. If you can actually prove paranormal phenomena to me..."
 ●0000001410●
 
-○0000001411○"That's all?!"
+○0000001411○朱音＿体験版
 ●0000001411●
 
-○0000001412○瑚太朗＿体験版
+○0000001412○"...I'll give you one hundred yen."
 ●0000001412●
 
-○0000001413○"That's bad enough to kill all of my motivation from the start."
+○0000001413○瑚太朗＿体験版
 ●0000001413●
 
-○0000001414○朱音＿体験版
+○0000001414○"That's all?!"
 ●0000001414●
 
-○0000001415○"...Hm."
+○0000001415○瑚太朗＿体験版
 ●0000001415●
 
-○0000001416○朱音＿体験版
+○0000001416○"That's bad enough to kill all of my motivation from the start."
 ●0000001416●
 
-○0000001417○"Three... hundred yen?"
+○0000001417○朱音＿体験版
 ●0000001417●
 
-○0000001418○瑚太朗＿体験版
+○0000001418○"...Hm."
 ●0000001418●
 
-○0000001419○"Why are you hesitating when bringing up sums that tiny?! Aren't you supposed to be rich?!"
+○0000001419○朱音＿体験版
 ●0000001419●
 
-○0000001420○朱音＿体験版
+○0000001420○"Three... hundred yen?"
 ●0000001420●
 
-○0000001421○"Do you have a demand of your own, then?"
+○0000001421○瑚太朗＿体験版
 ●0000001421●
 
-○0000001422○瑚太朗＿体験版
+○0000001422○"Why are you hesitating when bringing up sums that tiny?! Aren't you supposed to be rich?!"
 ●0000001422●
 
-○0000001423○"Rather than money, I'd just like you to help me solve my problem."
+○0000001423○朱音＿体験版
 ●0000001423●
 
-○0000001424○朱音＿体験版
+○0000001424○"Do you have a demand of your own, then?"
 ●0000001424●
 
-○0000001425○"Your recent run-in with a ghost, you mean."
+○0000001425○瑚太朗＿体験版
 ●0000001425●
 
-○0000001426○瑚太朗＿体験版
+○0000001426○"Rather than money, I'd just like you to help me solve my problem."
 ●0000001426●
 
-○0000001427○"If it really turns out to have just been a curtain or something, I'll become your guinea pig, your bug, or whatever you want."
+○0000001427○朱音＿体験版
 ●0000001427●
 
-○0000001428○朱音＿体験版
+○0000001428○"Your recent run-in with a ghost, you mean."
 ●0000001428●
 
-○0000001429○"Excellent. I suppose we have an agreement, then."
+○0000001429○瑚太朗＿体験版
 ●0000001429●
 
-○0000001430○瑚太朗＿体験版
+○0000001430○"If it really turns out to have just been a curtain or something, I'll become your guinea pig, your bug, or whatever you want."
 ●0000001430●
 
-○0000001431○"But if I succeed at proving ghosts, superpowers, or aliens to you..."
+○0000001431○朱音＿体験版
 ●0000001431●
 
-○0000001432○瑚太朗＿体験版
+○0000001432○"Excellent. I suppose we have an agreement, then."
 ●0000001432●
 
-○0000001433○"Yeah..."
+○0000001433○瑚太朗＿体験版
 ●0000001433●
 
-○0000001434○瑚太朗＿体験版
+○0000001434○"But if I succeed at proving ghosts, superpowers, or aliens to you..."
 ●0000001434●
 
-○0000001435○"L-Let me..."
+○0000001435○瑚太朗＿体験版
 ●0000001435●
 
-○0000001436○瑚太朗＿体験版
+○0000001436○"Yeah..."
 ●0000001436●
 
-○0000001437○"Let me touch your boobs."
+○0000001437○瑚太朗＿体験版
 ●0000001437●
 
-○0000001438○朱音＿体験版
+○0000001438○"L-Let me..."
 ●0000001438●
 
-○0000001439○"......"
+○0000001439○瑚太朗＿体験版
 ●0000001439●
 
-○0000001440○Akane's eyes narrow into reproachful slits as she pulls the pin from a key holder she took out of her pocket.
+○0000001440○"Let me touch your boobs."
 ●0000001440●
 
-○0000001441○A shrill alarm reverberates throughout the room.
+○0000001441○朱音＿体験版
 ●0000001441●
 
-○0000001442○*BEEP* *BEEP* *BEEP* *BEEP* *BEEP* *BEEP*
+○0000001442○"......"
 ●0000001442●
 
-○0000001443○A molester! Police! Police!
+○0000001443○Akane's eyes narrow into reproachful slits as she pulls the pin from a key holder she took out of her pocket.
 ●0000001443●
 
-○0000001444○*BEEP* *BEEP* *BEEP* *BEEP* *BEEP* *BEEP*
+○0000001444○A shrill alarm reverberates throughout the room.
 ●0000001444●
 
-○0000001445○A molester! Police! Police!
+○0000001445○*BEEP* *BEEP* *BEEP* *BEEP* *BEEP* *BEEP*
 ●0000001445●
 
-○0000001446○瑚太朗＿体験版
+○0000001446○A molester! Police! Police!
 ●0000001446●
 
-○0000001447○"Uoooooh?! What's going on?!"
+○0000001447○*BEEP* *BEEP* *BEEP* *BEEP* *BEEP* *BEEP*
 ●0000001447●
 
-○0000001448○朱音＿体験版
+○0000001448○A molester! Police! Police!
 ●0000001448●
 
-○0000001449○"The lives of all molesters shall be forfeit."
+○0000001449○瑚太朗＿体験版
 ●0000001449●
 
-○0000001450○瑚太朗＿体験版
+○0000001450○"Uoooooh?! What's going on?!"
 ●0000001450●
 
-○0000001451○"Ahh! Turn that thing off!!"
+○0000001451○朱音＿体験版
 ●0000001451●
 
-○0000001452○朱音＿体験版
+○0000001452○"The lives of all molesters shall be forfeit."
 ●0000001452●
 
-○0000001453○"I can't until it's broken."
+○0000001453○瑚太朗＿体験版
 ●0000001453●
 
-○0000001454○瑚太朗＿体験版
+○0000001454○"Ahh! Turn that thing off!"
 ●0000001454●
 
-○0000001455○"I was kidding! It was just a joke!"
+○0000001455○朱音＿体験版
 ●0000001455●
 
-○0000001456○朱音＿体験版
+○0000001456○"I can't until it's broken."
 ●0000001456●
 
-○0000001457○"It won't stop until it's broken."
+○0000001457○瑚太朗＿体験版
 ●0000001457●
 
-○0000001458○瑚太朗＿体験版
+○0000001458○"I was kidding! It was just a joke!"
 ●0000001458●
 
-○0000001459○"Excuse me!"
+○0000001459○朱音＿体験版
 ●0000001459●
 
-○0000001460○I snatch the buzzer out of her hands...
+○0000001460○"It won't stop until it's broken."
 ●0000001460●
 
-○0000001461○...and stomp on it with all my might.
+○0000001461○瑚太朗＿体験版
 ●0000001461●
 
-○0000001462○The sound stops.
+○0000001462○"Excuse me!"
 ●0000001462●
 
-○0000001463○瑚太朗＿体験版
+○0000001463○I snatch the buzzer out of her hands...
 ●0000001463●
 
-○0000001464○"...I really hope no one heard that."
+○0000001464○...and stomp on it with all my might.
 ●0000001464●
 
-○0000001465○朱音＿体験版
+○0000001465○The sound stops.
 ●0000001465●
 
-○0000001466○"The walls here are soundproof."
+○0000001466○瑚太朗＿体験版
 ●0000001466●
 
-○0000001467○I fall to my knees.
+○0000001467○"...I really hope no one heard that."
 ●0000001467●
 
-○0000001468○瑚太朗＿体験版
+○0000001468○朱音＿体験版
 ●0000001468●
 
-○0000001469○"...You did that on purpose."
+○0000001469○"The walls here are soundproof."
 ●0000001469●
 
-○0000001470○朱音＿体験版
+○0000001470○I fall to my knees.
 ●0000001470●
 
-○0000001471○"Why on earth should I let someone like you touch my breasts?"
+○0000001471○瑚太朗＿体験版
 ●0000001471●
 
-○0000001472○瑚太朗＿体験版
+○0000001472○"...You did that on purpose."
 ●0000001472●
 
-○0000001473○"You told me to name my demands... So, ooh..."
+○0000001473○朱音＿体験版
 ●0000001473●
 
-○0000001474○I seriously thought my heart was going to burst.
+○0000001474○"Why on earth should I let someone like you touch my breasts?"
 ●0000001474●
 
-○0000001475○朱音＿体験版
+○0000001475○瑚太朗＿体験版
 ●0000001475●
 
-○0000001476○"...Fine."
+○0000001476○"You told me to name my demands... So, ooh..."
 ●0000001476●
 
-○0000001477○瑚太朗＿体験版
+○0000001477○I seriously thought my heart was going to burst.
 ●0000001477●
 
-○0000001478○"Huh?"
+○0000001478○朱音＿体験版
 ●0000001478●
 
-○0000001479○朱音＿体験版
+○0000001479○"...Fine."
 ●0000001479●
 
-○0000001480○"If you manage to prove, without question, that supernatural phenomena besides your little ghost truly exist, you are free to enact your obscene desires upon me."
+○0000001480○瑚太朗＿体験版
 ●0000001480●
 
-○0000001481○瑚太朗＿体験版
+○0000001481○"Huh?"
 ●0000001481●
 
-○0000001482○"...Seriously?"
+○0000001482○朱音＿体験版
 ●0000001482●
 
-○0000001483○朱音＿体験版
+○0000001483○"If you manage to prove, without question, that paranormal phenomena besides your little ghost truly exist, you are free to enact your obscene desires upon me."
 ●0000001483●
 
-○0000001484○"It's impossible anyway, so I don't mind."
+○0000001484○瑚太朗＿体験版
 ●0000001484●
 
-○0000001485○瑚太朗＿体験版
+○0000001485○"...Seriously?"
 ●0000001485●
 
-○0000001486○"But... that would mean we'd be dating."
+○0000001486○朱音＿体験版
 ●0000001486●
 
-○0000001487○朱音＿体験版
+○0000001487○"It's impossible anyway, so I don't mind."
 ●0000001487●
 
-○0000001488○"...Would it?"
+○0000001488○瑚太朗＿体験版
 ●0000001488●
 
-○0000001489○瑚太朗＿体験版
+○0000001489○"But... that would mean we'd be dating."
 ●0000001489●
 
-○0000001490○"You can only touch the boobs of someone you're dating."
+○0000001490○朱音＿体験版
 ●0000001490●
 
-○0000001491○朱音＿体験版
+○0000001491○"...Would it?"
 ●0000001491●
 
-○0000001492○"...I'm not sure I can just date someone I barely know..."
+○0000001492○瑚太朗＿体験版
 ●0000001492●
 
-○0000001493○瑚太朗＿体験版
+○0000001493○"You can only touch the boobs of someone you're dating."
 ●0000001493●
 
-○0000001494○"We can always break up if it doesn't work out."
+○0000001494○朱音＿体験版
 ●0000001494●
 
-○0000001495○朱音＿体験版
+○0000001495○"...I'm not sure I can just date someone I barely know..."
 ●0000001495●
 
-○0000001496○"Why not just date after you've already fallen in love?"
+○0000001496○瑚太朗＿体験版
 ●0000001496●
 
-○0000001497○瑚太朗＿体験版
+○0000001497○"We can always break up if it doesn't work out."
 ●0000001497●
 
-○0000001498○"You can't always tell if it's love before actually spending some time together."
+○0000001498○朱音＿体験版
 ●0000001498●
 
-○0000001499○朱音＿体験版
+○0000001499○"Why not just date after you've already fallen in love?"
 ●0000001499●
 
-○0000001500○"......"
+○0000001500○瑚太朗＿体験版
 ●0000001500●
 
-○0000001501○Akane shifts her gaze to the questionnaire in her hands with a somewhat-dumbfounded expression on her face.
+○0000001501○"You can't always tell if it's love before actually spending some time together."
 ●0000001501●
 
 ○0000001502○朱音＿体験版
 ●0000001502●
 
-○0000001503○"...I see. So that's why you answered it like that."
+○0000001503○"......"
 ●0000001503●
 
-○0000001504○瑚太朗＿体験版
+○0000001504○Akane shifts her gaze to the questionnaire in her hands with a somewhat-dumbfounded expression on her face.
 ●0000001504●
 
-○0000001505○"...?"
+○0000001505○朱音＿体験版
 ●0000001505●
 
-○0000001506○朱音＿体験版
+○0000001506○"...I see. So that's why you answered it like that."
 ●0000001506●
 
-○0000001507○"Well, we still have lots of time."
+○0000001507○瑚太朗＿体験版
 ●0000001507●
 
-○0000001508○朱音＿体験版
+○0000001508○"...?"
 ●0000001508●
 
-○0000001509○"Tennouji, you may attempt whatever is on your mind."
+○0000001509○朱音＿体験版
 ●0000001509●
 
-○0000001510○dummy
+○0000001510○"Well, we still have lots of time."
 ●0000001510●
 
-○0000001511○sys30_cl00
+○0000001511○朱音＿体験版
 ●0000001511●
 
-○0000001512○sys20_adv00
+○0000001512○"Tennouji, you may attempt whatever is on your mind."
 ●0000001512●
 
-○0000001513○kuro
+○0000001513○dummy
 ●0000001513●
 
-○0000001514○bgm028
+○0000001514○sys30_cl00
 ●0000001514●
 
-○0000001515○bgm034
+○0000001515○sys20_adv00
 ●0000001515●
 
-○0000001516○sys20_adv00
+○0000001516○kuro
 ●0000001516●
 
-○0000001517○kuro
+○0000001517○bgm028
 ●0000001517●
 
-○0000001518○sys20_adv00
+○0000001518○bgm034
 ●0000001518●
 
-○0000001519○bg001n2
+○0000001519○sys20_adv00
 ●0000001519●
 
-○0000001520○bgm036
+○0000001520○kuro
 ●0000001520●
 
 ○0000001521○sys20_adv00
 ●0000001521●
 
-○0000001522○cgm_kg10
+○0000001522○bg001n2
 ●0000001522●
 
-○0000001523○sys20_adv00
+○0000001523○bgm036
 ●0000001523●
 
-○0000001524○bgm042
+○0000001524○sys20_adv00
 ●0000001524●
 
-○0000001525○sys20_adv00
+○0000001525○cgm_kg10
 ●0000001525●
 
-○0000001526○cgm_kg22
+○0000001526○sys20_adv00
 ●0000001526●
 
-○0000001527○sys20_adv00
+○0000001527○bgm042
 ●0000001527●
 
-○0000001528○cgm_kg30
+○0000001528○sys20_adv00
 ●0000001528●
 
-○0000001529○sys20_adv00
+○0000001529○cgm_kg22
 ●0000001529●
 
-○0000001530○bgm013
+○0000001530○sys20_adv00
 ●0000001530●
 
-○0000001531○sys20_adv00
+○0000001531○cgm_kg30
 ●0000001531●
 
-○0000001532○cgm_kg13
+○0000001532○sys20_adv00
 ●0000001532●
 
-○0000001533○sys20_adv00
+○0000001533○bgm013
 ●0000001533●
 
-○0000001534○bgm045
+○0000001534○sys20_adv00
 ●0000001534●
 
-○0000001535○bgm036
+○0000001535○cgm_kg13
 ●0000001535●
 
 ○0000001536○sys20_adv00
 ●0000001536●
 
-○0000001537○fgkg01b3
+○0000001537○bgm045
 ●0000001537●
 
-○0000001538○sys20_adv00
+○0000001538○bgm036
 ●0000001538●
 
-○0000001539○bg001n2
+○0000001539○sys20_adv00
 ●0000001539●
 
-○0000001540○sys20_adv00
+○0000001540○fgkg01b3
 ●0000001540●
 
-○0000001541○cgm_kg13
+○0000001541○sys20_adv00
 ●0000001541●
 
-○0000001542○sys20_adv00
+○0000001542○bg001n2
 ●0000001542●
 
-○0000001543○cgm_kg31
+○0000001543○sys20_adv00
 ●0000001543●
 
-○0000001544○sys20_adv00
+○0000001544○cgm_kg13
 ●0000001544●
 
-○0000001545○sys00_sys00
+○0000001545○sys20_adv00
 ●0000001545●
 
-○0000001546○end01
+○0000001546○cgm_kg31
 ●0000001546●
 
-○0000001547○sys00_sys00
+○0000001547○sys20_adv00
 ●0000001547●
 
-○0000001548○sys20_adv00
+○0000001548○sys00_sys00
 ●0000001548●
 
-○0000001549○kuro
+○0000001549○end01
 ●0000001549●
 
-○0000001550○sys20_adv00
+○0000001550○sys00_sys00
 ●0000001550●
 
-○0000001551○bg001
+○0000001551○sys20_adv00
 ●0000001551●
 
-○0000001552○bgm001
+○0000001552○kuro
 ●0000001552●
 
-○0000001553○bgm028
+○0000001553○sys20_adv00
 ●0000001553●
 
-○0000001554○sys20_adv00
+○0000001554○bg001
 ●0000001554●
 
-○0000001555○kuro
+○0000001555○bgm001
 ●0000001555●
 
-○0000001556○sys20_adv00
+○0000001556○bgm028
 ●0000001556●
 
-○0000001557○bg001
+○0000001557○sys20_adv00
 ●0000001557●
 
-○0000001558○sys10_mm02
+○0000001558○kuro
 ●0000001558●
 
 ○0000001559○sys20_adv00
 ●0000001559●
 
-○0000001560○kuro
+○0000001560○bg001
 ●0000001560●
 
-○0000001561○sys20_adv00
+○0000001561○sys10_mm02
 ●0000001561●
 
-○0000001562○bg002
+○0000001562○sys20_adv00
 ●0000001562●
 
-○0000001563○bgm006
+○0000001563○kuro
 ●0000001563●
 
 ○0000001564○sys20_adv00
 ●0000001564●
 
-○0000001565○cgm_ch18
+○0000001565○bg002
 ●0000001565●
 
-○0000001566○sys20_adv00
+○0000001566○bgm006
 ●0000001566●
 
-○0000001567○cgm_ch13
+○0000001567○sys20_adv00
 ●0000001567●
 
-○0000001568○sys20_adv00
+○0000001568○cgm_ch18
 ●0000001568●
 
 ○0000001569○sys20_adv00
 ●0000001569●
 
-○0000001570○kuro
+○0000001570○cgm_ch13
 ●0000001570●
 
 ○0000001571○sys20_adv00
 ●0000001571●
 
-○0000001572○bg003
+○0000001572○sys20_adv00
 ●0000001572●
 
-○0000001573○bgm035
+○0000001573○kuro
 ●0000001573●
 
 ○0000001574○sys20_adv00
 ●0000001574●
 
-○0000001575○kuro
+○0000001575○bg003
 ●0000001575●
 
-○0000001576○sys20_adv00
+○0000001576○bgm035
 ●0000001576●
 
-○0000001577○bg006
+○0000001577○sys20_adv00
 ●0000001577●
 
-○0000001578○bgm008
+○0000001578○kuro
 ●0000001578●
 
 ○0000001579○sys20_adv00
 ●0000001579●
 
-○0000001580○cgm_sz27
+○0000001580○bg006
 ●0000001580●
 
-○0000001581○sys20_adv00
+○0000001581○bgm008
 ●0000001581●
 
-○0000001582○kuro
+○0000001582○sys20_adv00
 ●0000001582●
 
-○0000001583○sys20_adv00
+○0000001583○cgm_sz27
 ●0000001583●
 
-○0000001584○bg003
+○0000001584○sys20_adv00
 ●0000001584●
 
-○0000001585○sys20_adv00
+○0000001585○kuro
 ●0000001585●
 
-○0000001586○kuro
+○0000001586○sys20_adv00
 ●0000001586●
 
-○0000001587○sys20_adv00
+○0000001587○bg003
 ●0000001587●
 
-○0000001588○bg006
+○0000001588○sys20_adv00
 ●0000001588●
 
-○0000001589○sys20_adv00
+○0000001589○kuro
 ●0000001589●
 
-○0000001590○cgm_sz27
+○0000001590○sys20_adv00
 ●0000001590●
 
-○0000001591○sys20_adv00
+○0000001591○bg006
 ●0000001591●
 
 ○0000001592○sys20_adv00
@@ -4774,34 +4777,34 @@
 ○0000001594○sys20_adv00
 ●0000001594●
 
-○0000001595○sys00_sys00
+○0000001595○sys20_adv00
 ●0000001595●
 
-○0000001596○huni
+○0000001596○cgm_sz27
 ●0000001596●
 
 ○0000001597○sys20_adv00
 ●0000001597●
 
-○0000001598○cgm_sz27
+○0000001598○sys00_sys00
 ●0000001598●
 
-○0000001599○sys20_adv00
+○0000001599○huni
 ●0000001599●
 
-○0000001600○sys00_sys00
+○0000001600○sys20_adv00
 ●0000001600●
 
-○0000001601○huni
+○0000001601○cgm_sz27
 ●0000001601●
 
 ○0000001602○sys20_adv00
 ●0000001602●
 
-○0000001603○cgm_sz27
+○0000001603○sys00_sys00
 ●0000001603●
 
-○0000001604○sys20_adv00
+○0000001604○huni
 ●0000001604●
 
 ○0000001605○sys20_adv00
@@ -4813,328 +4816,328 @@
 ○0000001607○sys20_adv00
 ●0000001607●
 
-○0000001608○sys00_sys00
+○0000001608○sys20_adv00
 ●0000001608●
 
-○0000001609○soudai
+○0000001609○cgm_sz27
 ●0000001609●
 
 ○0000001610○sys20_adv00
 ●0000001610●
 
-○0000001611○cgm_sz41
+○0000001611○sys00_sys00
 ●0000001611●
 
-○0000001612○sys00_sys00
+○0000001612○soudai
 ●0000001612●
 
 ○0000001613○sys20_adv00
 ●0000001613●
 
-○0000001614○cgm_sz40
+○0000001614○cgm_sz41
 ●0000001614●
 
-○0000001615○sys20_adv00
+○0000001615○sys00_sys00
 ●0000001615●
 
-○0000001616○cgm_sz10
+○0000001616○sys20_adv00
 ●0000001616●
 
-○0000001617○sys00_sys00
+○0000001617○cgm_sz40
 ●0000001617●
 
-○0000001618○soudai
+○0000001618○sys20_adv00
 ●0000001618●
 
-○0000001619○sys20_adv00
+○0000001619○cgm_sz10
 ●0000001619●
 
-○0000001620○cgm_sz27
+○0000001620○sys00_sys00
 ●0000001620●
 
-○0000001621○sys00_sys00
+○0000001621○soudai
 ●0000001621●
 
-○0000001622○sys00_sys00
+○0000001622○sys20_adv00
 ●0000001622●
 
-○0000001623○muni
+○0000001623○cgm_sz27
 ●0000001623●
 
-○0000001624○sys20_adv00
+○0000001624○sys00_sys00
 ●0000001624●
 
-○0000001625○cgm_sz13
+○0000001625○sys00_sys00
 ●0000001625●
 
-○0000001626○sys20_adv00
+○0000001626○muni
 ●0000001626●
 
-○0000001627○cgm_sz10
+○0000001627○sys20_adv00
 ●0000001627●
 
-○0000001628○sys20_adv00
+○0000001628○cgm_sz13
 ●0000001628●
 
-○0000001629○cgm_sz13
+○0000001629○sys20_adv00
 ●0000001629●
 
-○0000001630○sys20_adv00
+○0000001630○cgm_sz10
 ●0000001630●
 
-○0000001631○cgm_sz20
+○0000001631○sys20_adv00
 ●0000001631●
 
-○0000001632○sys20_adv00
+○0000001632○cgm_sz13
 ●0000001632●
 
-○0000001633○cgm_sz24r
+○0000001633○sys20_adv00
 ●0000001633●
 
-○0000001634○sys20_adv00
+○0000001634○cgm_sz20
 ●0000001634●
 
-○0000001635○cgm_sz41
+○0000001635○sys20_adv00
 ●0000001635●
 
-○0000001636○sys20_adv00
+○0000001636○cgm_sz24r
 ●0000001636●
 
-○0000001637○cgm_sz21r
+○0000001637○sys20_adv00
 ●0000001637●
 
-○0000001638○sys20_adv00
+○0000001638○cgm_sz41
 ●0000001638●
 
-○0000001639○cgm_sz25s
+○0000001639○sys20_adv00
 ●0000001639●
 
-○0000001640○sys20_adv00
+○0000001640○cgm_sz21r
 ●0000001640●
 
-○0000001641○cgm_sz23
+○0000001641○sys20_adv00
 ●0000001641●
 
-○0000001642○sys20_adv00
+○0000001642○cgm_sz25s
 ●0000001642●
 
-○0000001643○cgm_sz17
+○0000001643○sys20_adv00
 ●0000001643●
 
-○0000001644○sys20_adv00
+○0000001644○cgm_sz23
 ●0000001644●
 
-○0000001645○cgm_sz21
+○0000001645○sys20_adv00
 ●0000001645●
 
-○0000001646○sys20_adv00
+○0000001646○cgm_sz17
 ●0000001646●
 
-○0000001647○cgm_sz15r
+○0000001647○sys20_adv00
 ●0000001647●
 
-○0000001648○sys20_adv00
+○0000001648○cgm_sz21
 ●0000001648●
 
 ○0000001649○sys20_adv00
 ●0000001649●
 
-○0000001650○cgm_sz21
+○0000001650○cgm_sz15r
 ●0000001650●
 
 ○0000001651○sys20_adv00
 ●0000001651●
 
-○0000001652○cgm_sz30
+○0000001652○sys20_adv00
 ●0000001652●
 
-○0000001653○sys20_adv00
+○0000001653○cgm_sz21
 ●0000001653●
 
 ○0000001654○sys20_adv00
 ●0000001654●
 
-○0000001655○cgm_sz11
+○0000001655○cgm_sz30
 ●0000001655●
 
 ○0000001656○sys20_adv00
 ●0000001656●
 
-○0000001657○cgm_sz43h
+○0000001657○sys20_adv00
 ●0000001657●
 
-○0000001658○sys20_adv00
+○0000001658○cgm_sz11
 ●0000001658●
 
-○0000001659○cgm_sz20
+○0000001659○sys20_adv00
 ●0000001659●
 
-○0000001660○sys20_adv00
+○0000001660○cgm_sz43h
 ●0000001660●
 
-○0000001661○cgm_sz31
+○0000001661○sys20_adv00
 ●0000001661●
 
-○0000001662○sys20_adv00
+○0000001662○cgm_sz20
 ●0000001662●
 
-○0000001663○cgm_sz30y
+○0000001663○sys20_adv00
 ●0000001663●
 
-○0000001664○sys50_ef00_sz10
+○0000001664○cgm_sz31
 ●0000001664●
 
 ○0000001665○sys20_adv00
 ●0000001665●
 
-○0000001666○cgm_sz15
+○0000001666○cgm_sz30y
 ●0000001666●
 
-○0000001667○sys20_adv00
+○0000001667○sys50_ef00_sz10
 ●0000001667●
 
 ○0000001668○sys20_adv00
 ●0000001668●
 
-○0000001669○kuro
+○0000001669○cgm_sz15
 ●0000001669●
 
 ○0000001670○sys20_adv00
 ●0000001670●
 
-○0000001671○bg003
+○0000001671○sys20_adv00
 ●0000001671●
 
-○0000001672○sys20_adv00
+○0000001672○kuro
 ●0000001672●
 
-○0000001673○cgm_sz30
+○0000001673○sys20_adv00
 ●0000001673●
 
-○0000001674○sys20_adv00
+○0000001674○bg003
 ●0000001674●
 
-○0000001675○cgm_sz21
+○0000001675○sys20_adv00
 ●0000001675●
 
-○0000001676○sys20_adv00
+○0000001676○cgm_sz30
 ●0000001676●
 
-○0000001677○cgm_sz30
+○0000001677○sys20_adv00
 ●0000001677●
 
-○0000001678○sys20_adv00
+○0000001678○cgm_sz21
 ●0000001678●
 
-○0000001679○cgm_sz21
+○0000001679○sys20_adv00
 ●0000001679●
 
-○0000001680○sys20_adv00
+○0000001680○cgm_sz30
 ●0000001680●
 
-○0000001681○cgm_sz31
+○0000001681○sys20_adv00
 ●0000001681●
 
-○0000001682○sys20_adv00
+○0000001682○cgm_sz21
 ●0000001682●
 
-○0000001683○cgm_sz10
+○0000001683○sys20_adv00
 ●0000001683●
 
-○0000001684○sys20_adv00
+○0000001684○cgm_sz31
 ●0000001684●
 
-○0000001685○cgm_sz11
+○0000001685○sys20_adv00
 ●0000001685●
 
-○0000001686○sys20_adv00
+○0000001686○cgm_sz10
 ●0000001686●
 
-○0000001687○cgm_sz16
+○0000001687○sys20_adv00
 ●0000001687●
 
-○0000001688○sys20_adv00
+○0000001688○cgm_sz11
 ●0000001688●
 
-○0000001689○cgm_sz30y
+○0000001689○sys20_adv00
 ●0000001689●
 
-○0000001690○sys20_adv00
+○0000001690○cgm_sz16
 ●0000001690●
 
-○0000001691○cgm_sz31
+○0000001691○sys20_adv00
 ●0000001691●
 
-○0000001692○sys20_adv00
+○0000001692○cgm_sz30y
 ●0000001692●
 
-○0000001693○cgm_sz11
+○0000001693○sys20_adv00
 ●0000001693●
 
-○0000001694○sys20_adv00
+○0000001694○cgm_sz31
 ●0000001694●
 
-○0000001695○cgm_sz27
+○0000001695○sys20_adv00
 ●0000001695●
 
-○0000001696○sys20_adv00
+○0000001696○cgm_sz11
 ●0000001696●
 
-○0000001697○cgm_sz11
+○0000001697○sys20_adv00
 ●0000001697●
 
-○0000001698○sys20_adv00
+○0000001698○cgm_sz27
 ●0000001698●
 
-○0000001699○cgm_sz40
+○0000001699○sys20_adv00
 ●0000001699●
 
-○0000001700○sys20_adv00
+○0000001700○cgm_sz11
 ●0000001700●
 
-○0000001701○cgm_sz10
+○0000001701○sys20_adv00
 ●0000001701●
 
-○0000001702○sys20_adv00
+○0000001702○cgm_sz40
 ●0000001702●
 
-○0000001703○cgm_sz40
+○0000001703○sys20_adv00
 ●0000001703●
 
-○0000001704○sys20_adv00
+○0000001704○cgm_sz10
 ●0000001704●
 
-○0000001705○cgm_sz11
+○0000001705○sys20_adv00
 ●0000001705●
 
-○0000001706○sys20_adv00
+○0000001706○cgm_sz40
 ●0000001706●
 
 ○0000001707○sys20_adv00
 ●0000001707●
 
-○0000001708○cgm_sz41
+○0000001708○cgm_sz11
 ●0000001708●
 
 ○0000001709○sys20_adv00
 ●0000001709●
 
-○0000001710○cgm_ns13
+○0000001710○sys20_adv00
 ●0000001710●
 
-○0000001711○sys20_adv00
+○0000001711○cgm_sz41
 ●0000001711●
 
-○0000001712○cgm_ns00
+○0000001712○sys20_adv00
 ●0000001712●
 
-○0000001713○sys20_adv01
+○0000001713○cgm_ns13
 ●0000001713●
 
 ○0000001714○sys20_adv00
 ●0000001714●
 
-○0000001715○cgm_ns13
+○0000001715○cgm_ns00
 ●0000001715●
 
 ○0000001716○sys20_adv01
@@ -5152,7 +5155,7 @@
 ○0000001720○sys20_adv00
 ●0000001720●
 
-○0000001721○cgm_ns00
+○0000001721○cgm_ns13
 ●0000001721●
 
 ○0000001722○sys20_adv01
@@ -5161,19 +5164,19 @@
 ○0000001723○sys20_adv00
 ●0000001723●
 
-○0000001724○cgm_sz10
+○0000001724○cgm_ns00
 ●0000001724●
 
-○0000001725○sys20_adv00
+○0000001725○sys20_adv01
 ●0000001725●
 
 ○0000001726○sys20_adv00
 ●0000001726●
 
-○0000001727○cgm_ns13
+○0000001727○cgm_sz10
 ●0000001727●
 
-○0000001728○sys20_adv01
+○0000001728○sys20_adv00
 ●0000001728●
 
 ○0000001729○sys20_adv00
@@ -5188,7 +5191,7 @@
 ○0000001732○sys20_adv00
 ●0000001732●
 
-○0000001733○cgm_ns00
+○0000001733○cgm_ns13
 ●0000001733●
 
 ○0000001734○sys20_adv01
@@ -5197,16 +5200,16 @@
 ○0000001735○sys20_adv00
 ●0000001735●
 
-○0000001736○cgm_sz30
+○0000001736○cgm_ns00
 ●0000001736●
 
-○0000001737○sys20_adv00
+○0000001737○sys20_adv01
 ●0000001737●
 
-○0000001738○cgm_sz21h
+○0000001738○sys20_adv00
 ●0000001738●
 
-○0000001739○sys20_adv00
+○0000001739○cgm_sz30
 ●0000001739●
 
 ○0000001740○sys20_adv00
@@ -5221,16 +5224,16 @@
 ○0000001743○sys20_adv00
 ●0000001743●
 
-○0000001744○cgm_sz42
+○0000001744○cgm_sz21h
 ●0000001744●
 
 ○0000001745○sys20_adv00
 ●0000001745●
 
-○0000001746○cgm_sz23h
+○0000001746○sys20_adv00
 ●0000001746●
 
-○0000001747○sys20_adv00
+○0000001747○cgm_sz42
 ●0000001747●
 
 ○0000001748○sys20_adv00
@@ -5242,10 +5245,10 @@
 ○0000001750○sys20_adv00
 ●0000001750●
 
-○0000001751○cgm_sz24h
+○0000001751○sys20_adv00
 ●0000001751●
 
-○0000001752○sys20_adv00
+○0000001752○cgm_sz23h
 ●0000001752●
 
 ○0000001753○sys20_adv00
@@ -5257,10 +5260,10 @@
 ○0000001755○sys20_adv00
 ●0000001755●
 
-○0000001756○cgm_sz28h
+○0000001756○sys20_adv00
 ●0000001756●
 
-○0000001757○sys20_adv00
+○0000001757○cgm_sz24h
 ●0000001757●
 
 ○0000001758○sys20_adv00
@@ -5272,16 +5275,16 @@
 ○0000001760○sys20_adv00
 ●0000001760●
 
-○0000001761○cgm_sz28h
+○0000001761○sys20_adv00
 ●0000001761●
 
-○0000001762○sys20_adv00
+○0000001762○cgm_sz28h
 ●0000001762●
 
-○0000001763○cgm_ns13
+○0000001763○sys20_adv00
 ●0000001763●
 
-○0000001764○sys20_adv01
+○0000001764○cgm_sz28h
 ●0000001764●
 
 ○0000001765○sys20_adv00
@@ -5296,31 +5299,31 @@
 ○0000001768○sys20_adv00
 ●0000001768●
 
-○0000001769○sys20_adv00
+○0000001769○cgm_ns13
 ●0000001769●
 
-○0000001770○cgm_ns11
+○0000001770○sys20_adv01
 ●0000001770●
 
 ○0000001771○sys20_adv00
 ●0000001771●
 
-○0000001772○cgm_sz10
+○0000001772○sys20_adv00
 ●0000001772●
 
-○0000001773○sys20_adv00
+○0000001773○cgm_ns11
 ●0000001773●
 
-○0000001774○cgm_ns11
+○0000001774○sys20_adv00
 ●0000001774●
 
-○0000001775○sys20_adv01
+○0000001775○cgm_sz10
 ●0000001775●
 
 ○0000001776○sys20_adv00
 ●0000001776●
 
-○0000001777○cgm_sz10
+○0000001777○cgm_ns11
 ●0000001777●
 
 ○0000001778○sys20_adv01
@@ -5332,16 +5335,16 @@
 ○0000001780○cgm_sz10
 ●0000001780●
 
-○0000001781○sys20_adv00
+○0000001781○sys20_adv01
 ●0000001781●
 
-○0000001782○sys20_adv01
+○0000001782○sys20_adv00
 ●0000001782●
 
-○0000001783○sys20_adv00
+○0000001783○cgm_sz10
 ●0000001783●
 
-○0000001784○cgm_ns13
+○0000001784○sys20_adv00
 ●0000001784●
 
 ○0000001785○sys20_adv01
@@ -5350,82 +5353,82 @@
 ○0000001786○sys20_adv00
 ●0000001786●
 
-○0000001787○cgm_ns12h
+○0000001787○cgm_ns13
 ●0000001787●
 
-○0000001788○sys20_adv00
+○0000001788○sys20_adv01
 ●0000001788●
 
 ○0000001789○sys20_adv00
 ●0000001789●
 
-○0000001790○cgm_ns11
+○0000001790○cgm_ns12h
 ●0000001790●
 
 ○0000001791○sys20_adv00
 ●0000001791●
 
-○0000001792○cgm_sz10
+○0000001792○sys20_adv00
 ●0000001792●
 
-○0000001793○sys20_adv00
+○0000001793○cgm_ns11
 ●0000001793●
 
 ○0000001794○sys20_adv00
 ●0000001794●
 
-○0000001795○cgm_ns11
+○0000001795○cgm_sz10
 ●0000001795●
 
-○0000001796○sys20_adv01
+○0000001796○sys20_adv00
 ●0000001796●
 
 ○0000001797○sys20_adv00
 ●0000001797●
 
-○0000001798○sys20_adv00
+○0000001798○cgm_ns11
 ●0000001798●
 
-○0000001799○cgm_ns11
+○0000001799○sys20_adv01
 ●0000001799●
 
 ○0000001800○sys20_adv00
 ●0000001800●
 
-○0000001801○cgm_sz10
+○0000001801○sys20_adv00
 ●0000001801●
 
-○0000001802○sys20_adv00
+○0000001802○cgm_ns11
 ●0000001802●
 
 ○0000001803○sys20_adv00
 ●0000001803●
 
-○0000001804○cgm_ns11
+○0000001804○cgm_sz10
 ●0000001804●
 
-○0000001805○sys20_adv01
+○0000001805○sys20_adv00
 ●0000001805●
 
 ○0000001806○sys20_adv00
 ●0000001806●
 
-○0000001807○cgm_sz10
+○0000001807○cgm_ns11
 ●0000001807●
 
-○0000001808○sys20_adv00
+○0000001808○sys20_adv01
 ●0000001808●
 
-○0000001809○cgm_ns11
+○0000001809○sys20_adv00
 ●0000001809●
 
-○0000001810○sys20_adv01
+○0000001810○cgm_sz10
 ●0000001810●
 
 ○0000001811○sys20_adv00
 ●0000001811●
 
-○0000001812○cgm_sz10
+○0000001812○cgm_ns11
 ●0000001812●
 
 ○0000001813○sys20_adv01
@@ -5437,76 +5440,76 @@
 ○0000001815○cgm_sz10
 ●0000001815●
 
-○0000001816○sys20_adv00
+○0000001816○sys20_adv01
 ●0000001816●
 
-○0000001817○sys20_adv01
+○0000001817○sys20_adv00
 ●0000001817●
 
-○0000001818○sys50_ef00_sz11
+○0000001818○cgm_sz10
 ●0000001818●
 
 ○0000001819○sys20_adv00
 ●0000001819●
 
-○0000001820○sys20_adv00
+○0000001820○sys20_adv01
 ●0000001820●
 
-○0000001821○cgm_sz10
+○0000001821○sys50_ef00_sz11
 ●0000001821●
 
 ○0000001822○sys20_adv00
 ●0000001822●
 
-○0000001823○cgm_ns15
+○0000001823○sys20_adv00
 ●0000001823●
 
-○0000001824○sys20_adv01
+○0000001824○cgm_sz10
 ●0000001824●
 
 ○0000001825○sys20_adv00
 ●0000001825●
 
-○0000001826○cgm_sz10
+○0000001826○cgm_ns15
 ●0000001826●
 
-○0000001827○sys20_adv00
+○0000001827○sys20_adv01
 ●0000001827●
 
 ○0000001828○sys20_adv00
 ●0000001828●
 
-○0000001829○cgm_ns15
+○0000001829○cgm_sz10
 ●0000001829●
 
-○0000001830○sys20_adv01
+○0000001830○sys20_adv00
 ●0000001830●
 
 ○0000001831○sys20_adv00
 ●0000001831●
 
-○0000001832○cgm_ns12
+○0000001832○cgm_ns15
 ●0000001832●
 
-○0000001833○sys20_adv00
+○0000001833○sys20_adv01
 ●0000001833●
 
-○0000001834○cgm_sz10
+○0000001834○sys20_adv00
 ●0000001834●
 
-○0000001835○sys20_adv00
+○0000001835○cgm_ns12
 ●0000001835●
 
-○0000001836○cgm_ns11
+○0000001836○sys20_adv00
 ●0000001836●
 
-○0000001837○sys20_adv01
+○0000001837○cgm_sz10
 ●0000001837●
 
 ○0000001838○sys20_adv00
 ●0000001838●
 
-○0000001839○cgm_sz10
+○0000001839○cgm_ns11
 ●0000001839●
 
 ○0000001840○sys20_adv01
@@ -5518,16 +5521,16 @@
 ○0000001842○cgm_sz10
 ●0000001842●
 
-○0000001843○sys20_adv00
+○0000001843○sys20_adv01
 ●0000001843●
 
-○0000001844○sys20_adv01
+○0000001844○sys20_adv00
 ●0000001844●
 
-○0000001845○sys20_adv00
+○0000001845○cgm_sz10
 ●0000001845●
 
-○0000001846○cgm_sz00
+○0000001846○sys20_adv00
 ●0000001846●
 
 ○0000001847○sys20_adv01
@@ -5536,28 +5539,28 @@
 ○0000001848○sys20_adv00
 ●0000001848●
 
-○0000001849○cgm_ns12
+○0000001849○cgm_sz00
 ●0000001849●
 
-○0000001850○sys20_adv00
+○0000001850○sys20_adv01
 ●0000001850●
 
-○0000001851○cgm_ns10
+○0000001851○sys20_adv00
 ●0000001851●
 
-○0000001852○sys20_adv00
+○0000001852○cgm_ns12
 ●0000001852●
 
-○0000001853○cgm_ns11h
+○0000001853○sys20_adv00
 ●0000001853●
 
-○0000001854○sys20_adv00
+○0000001854○cgm_ns10
 ●0000001854●
 
-○0000001855○cgm_ns10
+○0000001855○sys20_adv00
 ●0000001855●
 
-○0000001856○sys20_adv00
+○0000001856○cgm_ns11h
 ●0000001856●
 
 ○0000001857○sys20_adv00
@@ -5569,22 +5572,22 @@
 ○0000001859○sys20_adv00
 ●0000001859●
 
-○0000001860○cgm_ns11h
+○0000001860○sys20_adv00
 ●0000001860●
 
-○0000001861○sys20_adv00
+○0000001861○cgm_ns10
 ●0000001861●
 
-○0000001862○cgm_ns10
+○0000001862○sys20_adv00
 ●0000001862●
 
-○0000001863○sys20_adv00
+○0000001863○cgm_ns11h
 ●0000001863●
 
-○0000001864○cgm_ns11
+○0000001864○sys20_adv00
 ●0000001864●
 
-○0000001865○sys20_adv00
+○0000001865○cgm_ns10
 ●0000001865●
 
 ○0000001866○sys20_adv00
@@ -5593,79 +5596,79 @@
 ○0000001867○cgm_ns11
 ●0000001867●
 
-○0000001868○sys20_adv01
+○0000001868○sys20_adv00
 ●0000001868●
 
 ○0000001869○sys20_adv00
 ●0000001869●
 
-○0000001870○cgm_sz10
+○0000001870○cgm_ns11
 ●0000001870●
 
-○0000001871○sys20_adv00
+○0000001871○sys20_adv01
 ●0000001871●
 
-○0000001872○cgm_ns11
+○0000001872○sys20_adv00
 ●0000001872●
 
-○0000001873○sys20_adv00
+○0000001873○cgm_sz10
 ●0000001873●
 
-○0000001874○sys20_adv01
+○0000001874○sys20_adv00
 ●0000001874●
 
-○0000001875○sys20_adv00
+○0000001875○cgm_ns11
 ●0000001875●
 
-○0000001876○cgm_sz12
+○0000001876○sys20_adv00
 ●0000001876●
 
-○0000001877○sys20_adv00
+○0000001877○sys20_adv01
 ●0000001877●
 
-○0000001878○cgm_ns11
+○0000001878○sys20_adv00
 ●0000001878●
 
-○0000001879○sys20_adv00
+○0000001879○cgm_sz12
 ●0000001879●
 
-○0000001880○cgm_ns10
+○0000001880○sys20_adv00
 ●0000001880●
 
-○0000001881○sys20_adv00
+○0000001881○cgm_ns11
 ●0000001881●
 
-○0000001882○cgm_sz10
+○0000001882○sys20_adv00
 ●0000001882●
 
-○0000001883○sys20_adv00
+○0000001883○cgm_ns10
 ●0000001883●
 
-○0000001884○cgm_ns11
+○0000001884○sys20_adv00
 ●0000001884●
 
-○0000001885○sys20_adv00
+○0000001885○cgm_sz10
 ●0000001885●
 
-○0000001886○cgm_sz12
+○0000001886○sys20_adv00
 ●0000001886●
 
-○0000001887○sys20_adv00
+○0000001887○cgm_ns11
 ●0000001887●
 
-○0000001888○cgm_sz10
+○0000001888○sys20_adv00
 ●0000001888●
 
-○0000001889○sys20_adv00
+○0000001889○cgm_sz12
 ●0000001889●
 
-○0000001890○cgm_ns12
+○0000001890○sys20_adv00
 ●0000001890●
 
-○0000001891○sys20_adv00
+○0000001891○cgm_sz10
 ●0000001891●
 
-○0000001892○cgm_sz41
+○0000001892○sys20_adv00
 ●0000001892●
 
 ○0000001893○cgm_ns12
@@ -5677,13 +5680,13 @@
 ○0000001895○cgm_sz41
 ●0000001895●
 
-○0000001896○cgm_ns11h
+○0000001896○cgm_ns12
 ●0000001896●
 
 ○0000001897○sys20_adv00
 ●0000001897●
 
-○0000001898○cgm_sz40h
+○0000001898○cgm_sz41
 ●0000001898●
 
 ○0000001899○cgm_ns11h
@@ -5695,181 +5698,181 @@
 ○0000001901○cgm_sz40h
 ●0000001901●
 
-○0000001902○cgm_ns15h
+○0000001902○cgm_ns11h
 ●0000001902●
 
 ○0000001903○sys20_adv00
 ●0000001903●
 
-○0000001904○sys20_adv00
+○0000001904○cgm_sz40h
 ●0000001904●
 
-○0000001905○cgm_ns11
+○0000001905○cgm_ns15h
 ●0000001905●
 
 ○0000001906○sys20_adv00
 ●0000001906●
 
-○0000001907○cgm_ns10h
+○0000001907○sys20_adv00
 ●0000001907●
 
-○0000001908○sys20_adv00
+○0000001908○cgm_ns11
 ●0000001908●
 
-○0000001909○cgm_sz28
+○0000001909○sys20_adv00
 ●0000001909●
 
-○0000001910○sys20_adv00
+○0000001910○cgm_ns10h
 ●0000001910●
 
-○0000001911○cgm_ns10h
+○0000001911○sys20_adv00
 ●0000001911●
 
-○0000001912○sys20_adv00
+○0000001912○cgm_sz28
 ●0000001912●
 
-○0000001913○cgm_ns11
+○0000001913○sys20_adv00
 ●0000001913●
 
-○0000001914○sys20_adv00
+○0000001914○cgm_ns10h
 ●0000001914●
 
-○0000001915○sys10_mm02
+○0000001915○sys20_adv00
 ●0000001915●
 
-○0000001916○sys20_adv00
+○0000001916○cgm_ns11
 ●0000001916●
 
-○0000001917○kuro
+○0000001917○sys20_adv00
 ●0000001917●
 
-○0000001918○sys20_adv00
+○0000001918○sys10_mm02
 ●0000001918●
 
-○0000001919○bg002
+○0000001919○sys20_adv00
 ●0000001919●
 
-○0000001920○sys00_sys00
+○0000001920○kuro
 ●0000001920●
 
-○0000001921○chime
+○0000001921○sys20_adv00
 ●0000001921●
 
-○0000001922○sys20_adv00
+○0000001922○bg002
 ●0000001922●
 
-○0000001923○kuro
+○0000001923○sys00_sys00
 ●0000001923●
 
-○0000001924○sys20_adv00
+○0000001924○chime
 ●0000001924●
 
-○0000001925○bg003
+○0000001925○sys20_adv00
 ●0000001925●
 
-○0000001926○sys20_adv00
+○0000001926○kuro
 ●0000001926●
 
-○0000001927○kuro
+○0000001927○sys20_adv00
 ●0000001927●
 
-○0000001928○sys20_adv00
+○0000001928○bg003
 ●0000001928●
 
-○0000001929○bg027
+○0000001929○sys20_adv00
 ●0000001929●
 
-○0000001930○bgm002
+○0000001930○kuro
 ●0000001930●
 
 ○0000001931○sys20_adv00
 ●0000001931●
 
-○0000001932○cgm_ys19
+○0000001932○bg027
 ●0000001932●
 
-○0000001933○sys20_adv00
+○0000001933○bgm002
 ●0000001933●
 
-○0000001934○cgm_ys17
+○0000001934○sys20_adv00
 ●0000001934●
 
-○0000001935○sys20_adv00
+○0000001935○cgm_ys19
 ●0000001935●
 
 ○0000001936○sys20_adv00
 ●0000001936●
 
-○0000001937○cgm_ys10
+○0000001937○cgm_ys17
 ●0000001937●
 
 ○0000001938○sys20_adv00
 ●0000001938●
 
-○0000001939○cgm_ys21
+○0000001939○sys20_adv00
 ●0000001939●
 
-○0000001940○sys20_adv00
+○0000001940○cgm_ys10
 ●0000001940●
 
-○0000001941○cgm_ys21
+○0000001941○sys20_adv00
 ●0000001941●
 
-○0000001942○sys20_adv00
+○0000001942○cgm_ys21
 ●0000001942●
 
-○0000001943○cgm_ys20
+○0000001943○sys20_adv00
 ●0000001943●
 
-○0000001944○sys20_adv00
+○0000001944○cgm_ys21
 ●0000001944●
 
-○0000001945○bgm009
+○0000001945○sys20_adv00
 ●0000001945●
 
-○0000001946○sys20_adv00
+○0000001946○cgm_ys20
 ●0000001946●
 
-○0000001947○cgm_lc14
+○0000001947○sys20_adv00
 ●0000001947●
 
-○0000001948○sys20_adv00
+○0000001948○bgm009
 ●0000001948●
 
-○0000001949○cgm_lc40
+○0000001949○sys20_adv00
 ●0000001949●
 
-○0000001950○sys20_adv00
+○0000001950○cgm_lc14
 ●0000001950●
 
 ○0000001951○sys20_adv00
 ●0000001951●
 
-○0000001952○cgm_lc11
+○0000001952○cgm_lc40
 ●0000001952●
 
 ○0000001953○sys20_adv00
 ●0000001953●
 
-○0000001954○cgm_lc20
+○0000001954○sys20_adv00
 ●0000001954●
 
-○0000001955○sys00_sys00
+○0000001955○cgm_lc11
 ●0000001955●
 
-○0000001956○acid
+○0000001956○sys20_adv00
 ●0000001956●
 
-○0000001957○sys20_adv02
+○0000001957○cgm_lc20
 ●0000001957●
 
-○0000001958○sys20_adv00
+○0000001958○sys00_sys00
 ●0000001958●
 
-○0000001959○sys20_adv00
+○0000001959○acid
 ●0000001959●
 
-○0000001960○cgm_ys11
+○0000001960○sys20_adv02
 ●0000001960●
 
 ○0000001961○sys20_adv00
@@ -5878,7 +5881,7 @@
 ○0000001962○sys20_adv00
 ●0000001962●
 
-○0000001963○cgm_lc10
+○0000001963○cgm_ys11
 ●0000001963●
 
 ○0000001964○sys20_adv00
@@ -5887,28 +5890,28 @@
 ○0000001965○sys20_adv00
 ●0000001965●
 
-○0000001966○cgm_lc11
+○0000001966○cgm_lc10
 ●0000001966●
 
 ○0000001967○sys20_adv00
 ●0000001967●
 
-○0000001968○cgm_lc43
+○0000001968○sys20_adv00
 ●0000001968●
 
-○0000001969○sys20_adv00
+○0000001969○cgm_lc11
 ●0000001969●
 
-○0000001970○cgm_lc40
+○0000001970○sys20_adv00
 ●0000001970●
 
-○0000001971○sys20_adv00
+○0000001971○cgm_lc43
 ●0000001971●
 
 ○0000001972○sys20_adv00
 ●0000001972●
 
-○0000001973○cgm_lc14
+○0000001973○cgm_lc40
 ●0000001973●
 
 ○0000001974○sys20_adv00
@@ -5917,22 +5920,22 @@
 ○0000001975○sys20_adv00
 ●0000001975●
 
-○0000001976○cgm_ys21
+○0000001976○cgm_lc14
 ●0000001976●
 
 ○0000001977○sys20_adv00
 ●0000001977●
 
-○0000001978○cgm_ys19
+○0000001978○sys20_adv00
 ●0000001978●
 
-○0000001979○sys20_adv00
+○0000001979○cgm_ys21
 ●0000001979●
 
 ○0000001980○sys20_adv00
 ●0000001980●
 
-○0000001981○cgm_lc19
+○0000001981○cgm_ys19
 ●0000001981●
 
 ○0000001982○sys20_adv00
@@ -5941,7 +5944,7 @@
 ○0000001983○sys20_adv00
 ●0000001983●
 
-○0000001984○cgm_lc43
+○0000001984○cgm_lc19
 ●0000001984●
 
 ○0000001985○sys20_adv00
@@ -5950,28 +5953,28 @@
 ○0000001986○sys20_adv00
 ●0000001986●
 
-○0000001987○cgm_ys20
+○0000001987○cgm_lc43
 ●0000001987●
 
 ○0000001988○sys20_adv00
 ●0000001988●
 
-○0000001989○cgm_ys19
+○0000001989○sys20_adv00
 ●0000001989●
 
-○0000001990○sys20_adv00
+○0000001990○cgm_ys20
 ●0000001990●
 
-○0000001991○cgm_lc10
+○0000001991○sys20_adv00
 ●0000001991●
 
-○0000001992○sys20_adv00
+○0000001992○cgm_ys19
 ●0000001992●
 
-○0000001993○cgm_lc28
+○0000001993○sys20_adv00
 ●0000001993●
 
-○0000001994○sys20_adv00
+○0000001994○cgm_lc10
 ●0000001994●
 
 ○0000001995○sys20_adv00
@@ -5983,37 +5986,37 @@
 ○0000001997○sys20_adv00
 ●0000001997●
 
-○0000001998○cgm_lc18
+○0000001998○sys20_adv00
 ●0000001998●
 
-○0000001999○sys00_sys00
+○0000001999○cgm_lc28
 ●0000001999●
 
-○0000002000○upper
+○0000002000○sys20_adv00
 ●0000002000●
 
-○0000002001○sys20_adv00
+○0000002001○cgm_lc18
 ●0000002001●
 
-○0000002002○cgm_lc29
+○0000002002○sys00_sys00
 ●0000002002●
 
-○0000002003○sys20_adv00
+○0000002003○upper
 ●0000002003●
 
 ○0000002004○sys20_adv00
 ●0000002004●
 
-○0000002005○kuro
+○0000002005○cgm_lc29
 ●0000002005●
 
-○0000002006○sys20_adv02
+○0000002006○sys20_adv00
 ●0000002006●
 
 ○0000002007○sys20_adv00
 ●0000002007●
 
-○0000002008○bg027
+○0000002008○kuro
 ●0000002008●
 
 ○0000002009○sys20_adv02
@@ -6022,849 +6025,858 @@
 ○0000002010○sys20_adv00
 ●0000002010●
 
-○0000002011○cgm_lc18
+○0000002011○bg027
 ●0000002011●
 
-○0000002012○sys20_adv00
+○0000002012○sys20_adv02
 ●0000002012●
 
-○0000002013○cgm_lc29
+○0000002013○sys20_adv00
 ●0000002013●
 
-○0000002014○sys20_adv00
+○0000002014○cgm_lc18
 ●0000002014●
 
 ○0000002015○sys20_adv00
 ●0000002015●
 
-○0000002016○siro
+○0000002016○cgm_lc29
 ●0000002016●
 
-○0000002017○sys00_sys00
+○0000002017○sys20_adv00
 ●0000002017●
 
-○0000002018○rantou
+○0000002018○sys20_adv00
 ●0000002018●
 
-○0000002019○sys20_adv00
+○0000002019○siro
 ●0000002019●
 
-○0000002020○kuro
+○0000002020○sys00_sys00
 ●0000002020●
 
-○0000002021○sys20_adv00
+○0000002021○rantou
 ●0000002021●
 
-○0000002022○kuro
+○0000002022○sys20_adv00
 ●0000002022●
 
-○0000002023○sys20_adv00
+○0000002023○kuro
 ●0000002023●
 
-○0000002024○bg002
+○0000002024○sys20_adv00
 ●0000002024●
 
-○0000002025○bgm003
+○0000002025○kuro
 ●0000002025●
 
 ○0000002026○sys20_adv00
 ●0000002026●
 
-○0000002027○kuro
+○0000002027○bg002
 ●0000002027●
 
-○0000002028○sys20_adv00
+○0000002028○bgm003
 ●0000002028●
 
-○0000002029○bg004
+○0000002029○sys20_adv00
 ●0000002029●
 
-○0000002030○bgm007
+○0000002030○kuro
 ●0000002030●
 
 ○0000002031○sys20_adv00
 ●0000002031●
 
-○0000002032○cgm_ak30
+○0000002032○bg004
 ●0000002032●
 
-○0000002033○sys20_adv00
+○0000002033○bgm007
 ●0000002033●
 
 ○0000002034○sys20_adv00
 ●0000002034●
 
-○0000002035○cgm_ak11
+○0000002035○cgm_ak30
 ●0000002035●
 
 ○0000002036○sys20_adv00
 ●0000002036●
 
-○0000002037○cgm_ak23h
+○0000002037○sys20_adv00
 ●0000002037●
 
-○0000002038○sys20_adv00
+○0000002038○cgm_ak11
 ●0000002038●
 
-○0000002039○cgm_ak10
+○0000002039○sys20_adv00
 ●0000002039●
 
-○0000002040○sys20_adv00
+○0000002040○cgm_ak23h
 ●0000002040●
 
-○0000002041○cgm_ak23h
+○0000002041○sys20_adv00
 ●0000002041●
 
-○0000002042○sys20_adv00
+○0000002042○cgm_ak10
 ●0000002042●
 
-○0000002043○cgm_ak33
+○0000002043○sys20_adv00
 ●0000002043●
 
-○0000002044○sys20_adv00
+○0000002044○cgm_ak23h
 ●0000002044●
 
 ○0000002045○sys20_adv00
 ●0000002045●
 
-○0000002046○cgm_ak30
+○0000002046○cgm_ak33
 ●0000002046●
 
 ○0000002047○sys20_adv00
 ●0000002047●
 
-○0000002048○cgm_ak10h
+○0000002048○sys20_adv00
 ●0000002048●
 
-○0000002049○sys20_adv00
+○0000002049○cgm_ak30
 ●0000002049●
 
-○0000002050○cgm_ak30
+○0000002050○sys20_adv00
 ●0000002050●
 
-○0000002051○sys20_adv00
+○0000002051○cgm_ak10h
 ●0000002051●
 
 ○0000002052○sys20_adv00
 ●0000002052●
 
-○0000002053○cgm_ak11
+○0000002053○cgm_ak30
 ●0000002053●
 
 ○0000002054○sys20_adv00
 ●0000002054●
 
-○0000002055○cgm_ak10
+○0000002055○sys20_adv00
 ●0000002055●
 
-○0000002056○sys20_adv00
+○0000002056○cgm_ak11
 ●0000002056●
 
 ○0000002057○sys20_adv00
 ●0000002057●
 
-○0000002058○cgm_ak23
+○0000002058○cgm_ak10
 ●0000002058●
 
 ○0000002059○sys20_adv00
 ●0000002059●
 
-○0000002060○cgm_ak11
+○0000002060○sys20_adv00
 ●0000002060●
 
-○0000002061○sys20_adv00
+○0000002061○cgm_ak23
 ●0000002061●
 
-○0000002062○cgm_ak30
+○0000002062○sys20_adv00
 ●0000002062●
 
-○0000002063○sys20_adv00
+○0000002063○cgm_ak11
 ●0000002063●
 
-○0000002064○cgm_ak12
+○0000002064○sys20_adv00
 ●0000002064●
 
-○0000002065○sys20_adv00
+○0000002065○cgm_ak30
 ●0000002065●
 
-○0000002066○cgm_ak33
+○0000002066○sys20_adv00
 ●0000002066●
 
-○0000002067○sys20_adv00
+○0000002067○cgm_ak12
 ●0000002067●
 
 ○0000002068○sys20_adv00
 ●0000002068●
 
-○0000002069○cgm_ak11
+○0000002069○cgm_ak33
 ●0000002069●
 
 ○0000002070○sys20_adv00
 ●0000002070●
 
-○0000002071○cgm_ak30
+○0000002071○sys20_adv00
 ●0000002071●
 
-○0000002072○sys20_adv00
+○0000002072○cgm_ak11
 ●0000002072●
 
-○0000002073○cgm_ak12h
+○0000002073○sys20_adv00
 ●0000002073●
 
-○0000002074○sys20_adv00
+○0000002074○cgm_ak30
 ●0000002074●
 
-○0000002075○cgm_ak11
+○0000002075○sys20_adv00
 ●0000002075●
 
-○0000002076○sys20_adv00
+○0000002076○cgm_ak12h
 ●0000002076●
 
-○0000002077○cgm_ak33
+○0000002077○sys20_adv00
 ●0000002077●
 
-○0000002078○sys20_adv00
+○0000002078○cgm_ak11
 ●0000002078●
 
-○0000002079○cgm_ak30
+○0000002079○sys20_adv00
 ●0000002079●
 
-○0000002080○sys20_adv00
+○0000002080○cgm_ak33
 ●0000002080●
 
-○0000002081○cgm_ak13
+○0000002081○sys20_adv00
 ●0000002081●
 
-○0000002082○sys20_adv00
+○0000002082○cgm_ak30
 ●0000002082●
 
-○0000002083○cgm_ak12
+○0000002083○sys20_adv00
 ●0000002083●
 
-○0000002084○sys20_adv00
+○0000002084○cgm_ak13
 ●0000002084●
 
-○0000002085○cgm_ak11
+○0000002085○sys20_adv00
 ●0000002085●
 
-○0000002086○sys20_adv00
+○0000002086○cgm_ak12
 ●0000002086●
 
-○0000002087○cgm_ak12h
+○0000002087○sys20_adv00
 ●0000002087●
 
-○0000002088○sys20_adv00
+○0000002088○cgm_ak11
 ●0000002088●
 
-○0000002089○cgm_ak23
+○0000002089○sys20_adv00
 ●0000002089●
 
-○0000002090○sys20_adv00
+○0000002090○cgm_ak12h
 ●0000002090●
 
-○0000002091○cgm_ak15
+○0000002091○sys20_adv00
 ●0000002091●
 
-○0000002092○sys20_adv00
+○0000002092○cgm_ak23
 ●0000002092●
 
-○0000002093○cgm_ak11
+○0000002093○sys20_adv00
 ●0000002093●
 
-○0000002094○sys20_adv00
+○0000002094○cgm_ak15
 ●0000002094●
 
-○0000002095○cgm_ak33
+○0000002095○sys20_adv00
 ●0000002095●
 
-○0000002096○sys20_adv00
+○0000002096○cgm_ak11
 ●0000002096●
 
-○0000002097○cgm_ak31
+○0000002097○sys20_adv00
 ●0000002097●
 
-○0000002098○sys20_adv00
+○0000002098○cgm_ak33
 ●0000002098●
 
-○0000002099○cgm_ak34
+○0000002099○sys20_adv00
 ●0000002099●
 
-○0000002100○sys20_adv00
+○0000002100○cgm_ak31
 ●0000002100●
 
-○0000002101○cgm_ak23
+○0000002101○sys20_adv00
 ●0000002101●
 
-○0000002102○sys20_adv00
+○0000002102○cgm_ak34
 ●0000002102●
 
-○0000002103○cgm_ak11
+○0000002103○sys20_adv00
 ●0000002103●
 
-○0000002104○sys20_adv00
+○0000002104○cgm_ak23
 ●0000002104●
 
-○0000002105○cgm_ak12h
+○0000002105○sys20_adv00
 ●0000002105●
 
-○0000002106○sys20_adv00
+○0000002106○cgm_ak11
 ●0000002106●
 
-○0000002107○cgm_ak10h
+○0000002107○sys20_adv00
 ●0000002107●
 
-○0000002108○sys20_adv00
+○0000002108○cgm_ak12h
 ●0000002108●
 
-○0000002109○cgm_ak33
+○0000002109○sys20_adv00
 ●0000002109●
 
-○0000002110○sys20_adv00
+○0000002110○cgm_ak10h
 ●0000002110●
 
-○0000002111○cgm_ak11
+○0000002111○sys20_adv00
 ●0000002111●
 
-○0000002112○sys20_adv00
+○0000002112○cgm_ak33
 ●0000002112●
 
-○0000002113○cgm_ak23
+○0000002113○sys20_adv00
 ●0000002113●
 
-○0000002114○sys20_adv00
+○0000002114○cgm_ak11
 ●0000002114●
 
-○0000002115○cgm_ak20h
+○0000002115○sys20_adv00
 ●0000002115●
 
-○0000002116○sys20_adv00
+○0000002116○cgm_ak23
 ●0000002116●
 
-○0000002117○cgm_ak33
+○0000002117○sys20_adv00
 ●0000002117●
 
-○0000002118○sys20_adv00
+○0000002118○cgm_ak20h
 ●0000002118●
 
-○0000002119○cgm_ak31
+○0000002119○sys20_adv00
 ●0000002119●
 
-○0000002120○sys20_adv00
+○0000002120○cgm_ak33
 ●0000002120●
 
-○0000002121○cgm_ak11
+○0000002121○sys20_adv00
 ●0000002121●
 
-○0000002122○sys20_adv00
+○0000002122○cgm_ak31
 ●0000002122●
 
-○0000002123○cgm_ak23
+○0000002123○sys20_adv00
 ●0000002123●
 
-○0000002124○sys20_adv00
+○0000002124○cgm_ak11
 ●0000002124●
 
-○0000002125○cgm_ak11
+○0000002125○sys20_adv00
 ●0000002125●
 
-○0000002126○sys20_adv00
+○0000002126○cgm_ak23
 ●0000002126●
 
-○0000002127○cgm_ak12
+○0000002127○sys20_adv00
 ●0000002127●
 
-○0000002128○sys20_adv00
+○0000002128○cgm_ak11
 ●0000002128●
 
-○0000002129○cgm_ak11
+○0000002129○sys20_adv00
 ●0000002129●
 
-○0000002130○sys20_adv00
+○0000002130○cgm_ak12
 ●0000002130●
 
-○0000002131○cgm_ak30
+○0000002131○sys20_adv00
 ●0000002131●
 
-○0000002132○sys20_adv00
+○0000002132○cgm_ak11
 ●0000002132●
 
-○0000002133○cgm_ak11
+○0000002133○sys20_adv00
 ●0000002133●
 
-○0000002134○sys20_adv00
+○0000002134○cgm_ak30
 ●0000002134●
 
-○0000002135○cgm_ak10
+○0000002135○sys20_adv00
 ●0000002135●
 
-○0000002136○sys20_adv00
+○0000002136○cgm_ak11
 ●0000002136●
 
-○0000002137○cgm_ak12h
+○0000002137○sys20_adv00
 ●0000002137●
 
-○0000002138○sys20_adv00
+○0000002138○cgm_ak10
 ●0000002138●
 
-○0000002139○cgm_ak10
+○0000002139○sys20_adv00
 ●0000002139●
 
-○0000002140○sys20_adv00
+○0000002140○cgm_ak12h
 ●0000002140●
 
-○0000002141○cgm_ak33
+○0000002141○sys20_adv00
 ●0000002141●
 
-○0000002142○sys20_adv00
+○0000002142○cgm_ak10
 ●0000002142●
 
-○0000002143○cgm_ak10
+○0000002143○sys20_adv00
 ●0000002143●
 
-○0000002144○sys20_adv00
+○0000002144○cgm_ak33
 ●0000002144●
 
-○0000002145○cgm_ak12
+○0000002145○sys20_adv00
 ●0000002145●
 
-○0000002146○sys20_adv00
+○0000002146○cgm_ak10
 ●0000002146●
 
-○0000002147○cgm_ak10
+○0000002147○sys20_adv00
 ●0000002147●
 
-○0000002148○sys20_adv00
+○0000002148○cgm_ak12
 ●0000002148●
 
-○0000002149○cgm_ak12
+○0000002149○sys20_adv00
 ●0000002149●
 
-○0000002150○sys20_adv00
+○0000002150○cgm_ak10
 ●0000002150●
 
-○0000002151○cgm_ak30
+○0000002151○sys20_adv00
 ●0000002151●
 
-○0000002152○sys20_adv00
+○0000002152○cgm_ak12
 ●0000002152●
 
-○0000002153○cgm_ak10h
+○0000002153○sys20_adv00
 ●0000002153●
 
-○0000002154○sys20_adv00
+○0000002154○cgm_ak30
 ●0000002154●
 
-○0000002155○cgm_ak12
+○0000002155○sys20_adv00
 ●0000002155●
 
-○0000002156○sys20_adv00
+○0000002156○cgm_ak10h
 ●0000002156●
 
-○0000002157○cgm_ak11
+○0000002157○sys20_adv00
 ●0000002157●
 
-○0000002158○sys20_adv00
+○0000002158○cgm_ak12
 ●0000002158●
 
-○0000002159○cgm_ak33
+○0000002159○sys20_adv00
 ●0000002159●
 
-○0000002160○sys20_adv00
+○0000002160○cgm_ak11
 ●0000002160●
 
-○0000002161○cgm_ak12
+○0000002161○sys20_adv00
 ●0000002161●
 
-○0000002162○sys20_adv00
+○0000002162○cgm_ak33
 ●0000002162●
 
-○0000002163○cgm_ak11
+○0000002163○sys20_adv00
 ●0000002163●
 
-○0000002164○sys20_adv00
+○0000002164○cgm_ak12
 ●0000002164●
 
-○0000002165○cgm_ak30
+○0000002165○sys20_adv00
 ●0000002165●
 
-○0000002166○sys20_adv00
+○0000002166○cgm_ak11
 ●0000002166●
 
-○0000002167○cgm_ak11
+○0000002167○sys20_adv00
 ●0000002167●
 
-○0000002168○sys20_adv00
+○0000002168○cgm_ak30
 ●0000002168●
 
-○0000002169○cgm_ak30
+○0000002169○sys20_adv00
 ●0000002169●
 
-○0000002170○sys20_adv00
+○0000002170○cgm_ak11
 ●0000002170●
 
-○0000002171○cgm_ak10
+○0000002171○sys20_adv00
 ●0000002171●
 
-○0000002172○sys20_adv00
+○0000002172○cgm_ak30
 ●0000002172●
 
-○0000002173○cgm_ak12h
+○0000002173○sys20_adv00
 ●0000002173●
 
-○0000002174○sys20_adv00
+○0000002174○cgm_ak10
 ●0000002174●
 
-○0000002175○cgm_ak30
+○0000002175○sys20_adv00
 ●0000002175●
 
-○0000002176○sys20_adv00
+○0000002176○cgm_ak12h
 ●0000002176●
 
-○0000002177○cgm_ak12
+○0000002177○sys20_adv00
 ●0000002177●
 
-○0000002178○sys20_adv00
+○0000002178○cgm_ak30
 ●0000002178●
 
-○0000002179○cgm_ak33
+○0000002179○sys20_adv00
 ●0000002179●
 
-○0000002180○sys20_adv00
+○0000002180○cgm_ak12
 ●0000002180●
 
-○0000002181○cgm_ak31
+○0000002181○sys20_adv00
 ●0000002181●
 
-○0000002182○sys20_adv00
+○0000002182○cgm_ak33
 ●0000002182●
 
-○0000002183○cgm_ak23
+○0000002183○sys20_adv00
 ●0000002183●
 
-○0000002184○sys20_adv00
+○0000002184○cgm_ak31
 ●0000002184●
 
-○0000002185○cgm_ak30
+○0000002185○sys20_adv00
 ●0000002185●
 
-○0000002186○sys20_adv00
+○0000002186○cgm_ak23
 ●0000002186●
 
-○0000002187○cgm_ak33
+○0000002187○sys20_adv00
 ●0000002187●
 
-○0000002188○sys20_adv00
+○0000002188○cgm_ak30
 ●0000002188●
 
-○0000002189○cgm_ak31
+○0000002189○sys20_adv00
 ●0000002189●
 
-○0000002190○sys20_adv00
+○0000002190○cgm_ak33
 ●0000002190●
 
-○0000002191○cgm_ak33
+○0000002191○sys20_adv00
 ●0000002191●
 
-○0000002192○sys20_adv00
+○0000002192○cgm_ak31
 ●0000002192●
 
-○0000002193○cgm_ak11h
+○0000002193○sys20_adv00
 ●0000002193●
 
-○0000002194○sys20_adv00
+○0000002194○cgm_ak33
 ●0000002194●
 
-○0000002195○cgm_ak23h
+○0000002195○sys20_adv00
 ●0000002195●
 
-○0000002196○sys20_adv00
+○0000002196○cgm_ak11h
 ●0000002196●
 
-○0000002197○cgm_ak34
+○0000002197○sys20_adv00
 ●0000002197●
 
-○0000002198○sys20_adv00
+○0000002198○cgm_ak23h
 ●0000002198●
 
-○0000002199○cgm_ak30
+○0000002199○sys20_adv00
 ●0000002199●
 
-○0000002200○sys20_adv00
+○0000002200○cgm_ak34
 ●0000002200●
 
-○0000002201○cgm_ak33
+○0000002201○sys20_adv00
 ●0000002201●
 
-○0000002202○sys20_adv00
+○0000002202○cgm_ak30
 ●0000002202●
 
 ○0000002203○sys20_adv00
 ●0000002203●
 
-○0000002204○cgm_ak15
+○0000002204○cgm_ak33
 ●0000002204●
 
 ○0000002205○sys20_adv00
 ●0000002205●
 
-○0000002206○cgm_ak23
+○0000002206○sys20_adv00
 ●0000002206●
 
-○0000002207○sys20_adv00
+○0000002207○cgm_ak15
 ●0000002207●
 
-○0000002208○cgm_ak31
+○0000002208○sys20_adv00
 ●0000002208●
 
-○0000002209○sys20_adv00
+○0000002209○cgm_ak23
 ●0000002209●
 
-○0000002210○cgm_ak11
+○0000002210○sys20_adv00
 ●0000002210●
 
-○0000002211○sys20_adv00
+○0000002211○cgm_ak31
 ●0000002211●
 
-○0000002212○cgm_ak30
+○0000002212○sys20_adv00
 ●0000002212●
 
-○0000002213○sys20_adv00
+○0000002213○cgm_ak11
 ●0000002213●
 
-○0000002214○cgm_ak11
+○0000002214○sys20_adv00
 ●0000002214●
 
-○0000002215○sys20_adv00
+○0000002215○cgm_ak30
 ●0000002215●
 
-○0000002216○cgm_ak34
+○0000002216○sys20_adv00
 ●0000002216●
 
-○0000002217○sys20_adv00
+○0000002217○cgm_ak11
 ●0000002217●
 
-○0000002218○cgm_ak23
+○0000002218○sys20_adv00
 ●0000002218●
 
-○0000002219○sys20_adv00
+○0000002219○cgm_ak34
 ●0000002219●
 
-○0000002220○cgm_ak15
+○0000002220○sys20_adv00
 ●0000002220●
 
-○0000002221○sys20_adv00
+○0000002221○cgm_ak23
 ●0000002221●
 
-○0000002222○cgm_ak11
+○0000002222○sys20_adv00
 ●0000002222●
 
-○0000002223○sys20_adv00
+○0000002223○cgm_ak15
 ●0000002223●
 
-○0000002224○cgm_ak23
+○0000002224○sys20_adv00
 ●0000002224●
 
-○0000002225○sys20_adv00
+○0000002225○cgm_ak11
 ●0000002225●
 
-○0000002226○cgm_ak30
+○0000002226○sys20_adv00
 ●0000002226●
 
-○0000002227○sys20_adv00
+○0000002227○cgm_ak23
 ●0000002227●
 
-○0000002228○cgm_ak15
+○0000002228○sys20_adv00
 ●0000002228●
 
-○0000002229○sys20_adv00
+○0000002229○cgm_ak30
 ●0000002229●
 
-○0000002230○cgm_ak31
+○0000002230○sys20_adv00
 ●0000002230●
 
-○0000002231○sys20_adv00
+○0000002231○cgm_ak15
 ●0000002231●
 
-○0000002232○cgm_ak13
+○0000002232○sys20_adv00
 ●0000002232●
 
-○0000002233○sys20_adv00
+○0000002233○cgm_ak31
 ●0000002233●
 
-○0000002234○cgm_ak33
+○0000002234○sys20_adv00
 ●0000002234●
 
-○0000002235○sys20_adv00
+○0000002235○cgm_ak13
 ●0000002235●
 
-○0000002236○cgm_ak12
+○0000002236○sys20_adv00
 ●0000002236●
 
-○0000002237○sys20_adv00
+○0000002237○cgm_ak33
 ●0000002237●
 
-○0000002238○cgm_ak11
+○0000002238○sys20_adv00
 ●0000002238●
 
-○0000002239○sys20_adv00
+○0000002239○cgm_ak12
 ●0000002239●
 
-○0000002240○cgm_ak34
+○0000002240○sys20_adv00
 ●0000002240●
 
-○0000002241○sys20_adv00
+○0000002241○cgm_ak11
 ●0000002241●
 
-○0000002242○cgm_ak31
+○0000002242○sys20_adv00
 ●0000002242●
 
-○0000002243○sys20_adv00
+○0000002243○cgm_ak34
 ●0000002243●
 
-○0000002244○cgm_ak30
+○0000002244○sys20_adv00
 ●0000002244●
 
-○0000002245○sys20_adv00
+○0000002245○cgm_ak31
 ●0000002245●
 
-○0000002246○cgm_ak12h
+○0000002246○sys20_adv00
 ●0000002246●
 
-○0000002247○sys20_adv00
+○0000002247○cgm_ak30
 ●0000002247●
 
-○0000002248○cgm_ak15
+○0000002248○sys20_adv00
 ●0000002248●
 
-○0000002249○sys00_sys00
+○0000002249○cgm_ak12h
 ●0000002249●
 
-○0000002250○siren
+○0000002250○sys20_adv00
 ●0000002250●
 
-○0000002251○bgm013
+○0000002251○cgm_ak15
 ●0000002251●
 
-○0000002252○sys20_adv00
+○0000002252○sys00_sys00
 ●0000002252●
 
-○0000002253○sys20_adv00
+○0000002253○siren
 ●0000002253●
 
-○0000002254○cgm_ak34
+○0000002254○bgm013
 ●0000002254●
 
 ○0000002255○sys20_adv00
 ●0000002255●
 
-○0000002256○cgm_ak23
+○0000002256○sys20_adv00
 ●0000002256●
 
-○0000002257○sys20_adv00
+○0000002257○cgm_ak34
 ●0000002257●
 
-○0000002258○cgm_ak33
+○0000002258○sys20_adv00
 ●0000002258●
 
-○0000002259○sys20_adv00
+○0000002259○cgm_ak23
 ●0000002259●
 
-○0000002260○sys00_sys00
+○0000002260○sys20_adv00
 ●0000002260●
 
-○0000002261○gusya
+○0000002261○cgm_ak33
 ●0000002261●
 
-○0000002262○sys00_sys00
+○0000002262○sys20_adv00
 ●0000002262●
 
-○0000002263○bgm007
+○0000002263○sys00_sys00
 ●0000002263●
 
-○0000002264○sys20_adv00
+○0000002264○gusya
 ●0000002264●
 
-○0000002265○cgm_ak12
+○0000002265○sys00_sys00
 ●0000002265●
 
-○0000002266○sys20_adv00
+○0000002266○bgm007
 ●0000002266●
 
-○0000002267○cgm_ak13
+○0000002267○sys20_adv00
 ●0000002267●
 
-○0000002268○sys20_adv00
+○0000002268○cgm_ak12
 ●0000002268●
 
-○0000002269○cgm_ak11
+○0000002269○sys20_adv00
 ●0000002269●
 
-○0000002270○sys20_adv00
+○0000002270○cgm_ak13
 ●0000002270●
 
-○0000002271○cgm_ak33
+○0000002271○sys20_adv00
 ●0000002271●
 
-○0000002272○sys20_adv00
+○0000002272○cgm_ak11
 ●0000002272●
 
-○0000002273○cgm_ak12
+○0000002273○sys20_adv00
 ●0000002273●
 
-○0000002274○sys20_adv00
+○0000002274○cgm_ak33
 ●0000002274●
 
-○0000002275○cgm_ak31
+○0000002275○sys20_adv00
 ●0000002275●
 
-○0000002276○sys20_adv00
+○0000002276○cgm_ak12
 ●0000002276●
 
-○0000002277○cgm_ak15
+○0000002277○sys20_adv00
 ●0000002277●
 
-○0000002278○sys20_adv00
+○0000002278○cgm_ak31
 ●0000002278●
 
-○0000002279○cgm_ak13
+○0000002279○sys20_adv00
 ●0000002279●
 
-○0000002280○sys20_adv00
+○0000002280○cgm_ak15
 ●0000002280●
 
-○0000002281○cgm_ak17
+○0000002281○sys20_adv00
 ●0000002281●
 
-○0000002282○sys20_adv00
+○0000002282○cgm_ak13
 ●0000002282●
 
-○0000002283○cgm_ak31
+○0000002283○sys20_adv00
 ●0000002283●
 
-○0000002284○sys20_adv00
+○0000002284○cgm_ak17
 ●0000002284●
 
-○0000002285○cgm_ak11
+○0000002285○sys20_adv00
 ●0000002285●
 
-○0000002286○sys20_adv00
+○0000002286○cgm_ak31
 ●0000002286●
 
-○0000002287○cgm_ak33
+○0000002287○sys20_adv00
 ●0000002287●
 
-○0000002288○sys20_adv00
+○0000002288○cgm_ak11
 ●0000002288●
 
 ○0000002289○sys20_adv00
 ●0000002289●
 
-○0000002290○kuro
+○0000002290○cgm_ak33
 ●0000002290●
 
-○0000002291○sys00_sys00
+○0000002291○sys20_adv00
 ●0000002291●
 
-○0000002292○seen01009
+○0000002292○sys20_adv00
 ●0000002292●
+
+○0000002293○kuro
+●0000002293●
+
+○0000002294○sys00_sys00
+●0000002294●
+
+○0000002295○seen01009
+●0000002295●
 

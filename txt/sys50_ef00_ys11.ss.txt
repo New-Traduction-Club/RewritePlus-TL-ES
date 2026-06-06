@@ -13,13 +13,13 @@
 ○0000000007○　　　　　~Yoshino Button: The Armageddon~　　　　　Recorded Yoshino's voice! Enjoy by clicking and #Dusing the numpad until you're satisfied! What #DArmageddon means here is a mystery!
 ●0000000007●
 
-○0000000009○"Don't patronize me!!" (Slow)
+○0000000009○"Don't patronize me!" (Slow)
 ●0000000009●
 
-○0000000010○"Don't patronize me!!" (Normal)
+○0000000010○"Don't patronize me!" (Normal)
 ●0000000010●
 
-○0000000011○"Don't patronize me!!" (Fast)
+○0000000011○"Don't patronize me!" (Fast)
 ●0000000011●
 
 ○0000000012○"Tennouji, it's time to duel!"
@@ -49,7 +49,7 @@
 ○0000000020○"I'm going to be the King of Speed!"
 ●0000000020●
 
-○0000000021○"...Take this!!"
+○0000000021○"...Take this!"
 ●0000000021●
 
 ○0000000022○"Uhahahahaha! This is fun!"
@@ -70,7 +70,7 @@
 ○0000000027○"What kind of leather jackets did they wear?"
 ●0000000027●
 
-○0000000028○"I'm not talking about sending you a pie!!"
+○0000000028○"I'm not talking about sending you a pie!"
 ●0000000028●
 
 ○0000000029○"You want to die?! Huh?!"

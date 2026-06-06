@@ -1,7 +1,7 @@
 ○0000000000○瑚太朗
 ●0000000000●
 
-○0000000001○"The legend of a wooden man..."
+○0000000001○"The legend of the Treefolk..."
 ●0000000001●
 
 ○0000000002○Kazamatsuri has many more cryptid sightings than your average town.
@@ -34,7 +34,7 @@
 ○0000000011○"Yeah, and it's this!"
 ●0000000011●
 
-○0000000012○I write "Wooden Man Legend!" on the whiteboard.
+○0000000012○I write "Chasing the legend of the treefolk!" on the whiteboard.
 ●0000000012●
 
 ○0000000013○ちはや
@@ -166,13 +166,13 @@
 ○0000000055○"......"
 ●0000000055●
 
-○0000000056○Sizuru promptly begins packing up a tent set.
+○0000000056○Shizuru promptly begins packing up a tent set.
 ●0000000056●
 
 ○0000000057○瑚太朗
 ●0000000057●
 
-○0000000058○"Sizuru, I appreciate your dedication, but the plan is to get home before nightfall."
+○0000000058○"Shizuru, I appreciate your dedication, but the plan is to get home before nightfall."
 ●0000000058●
 
 ○0000000059○静流
@@ -457,7 +457,7 @@
 ○0000000152○ルチア
 ●0000000152●
 
-○0000000153○"Wh... I just hold everyone's safety as our number one priority!"
+○0000000153○"Wh... I just hold everyone's safety as our number-one priority!"
 ●0000000153●
 
 ○0000000154○瑚太朗
@@ -664,7 +664,7 @@
 ○0000000221○瑚太朗
 ●0000000221●
 
-○0000000222○"Good. Sizuru, pull me back."
+○0000000222○"Good. Shizuru, pull me back."
 ●0000000222●
 
 ○0000000223○静流＿不要
@@ -673,7 +673,7 @@
 ○0000000224○"......"
 ●0000000224●
 
-○0000000225○Sizuru silently nods.
+○0000000225○Shizuru silently nods.
 ●0000000225●
 
 ○0000000226○Lucia walks over to lend a quiet hand, as well.
@@ -832,7 +832,7 @@
 ○0000000278○"Uh, guys... We haven't even found anything yet..."
 ●0000000278●
 
-○0000000279○There hasn't even been a sign of the so-called wooden man so far.
+○0000000279○There hasn't even been a sign of the so-called treefolk so far.
 ●0000000279●
 
 ○0000000280○朱音
@@ -874,13 +874,13 @@
 ○0000000292○瑚太朗
 ●0000000292●
 
-○0000000293○"I wanted to scout ahead a little. This wooden man might be keeping his distance from us."
+○0000000293○"I wanted to scout ahead a little. This treefolk might be keeping his distance from us."
 ●0000000293●
 
 ○0000000294○瑚太朗
 ●0000000294●
 
-○0000000295○"But I might catch him off-guard from further away, right?"
+○0000000295○"But I might catch him off guard from further away, right?"
 ●0000000295●
 
 ○0000000296○静流
@@ -1003,7 +1003,7 @@
 ○0000000335○瑚太朗
 ●0000000335●
 
-○0000000336○"IT'S THERE!!!!!!!"
+○0000000336○"IT'S THERE!"
 ●0000000336●
 
 ○0000000338○*RUSTLE* *RUSTLE* *BAM*
@@ -1021,7 +1021,7 @@
 ○0000000342○瑚太朗
 ●0000000342●
 
-○0000000343○"I saw the wooden man!"
+○0000000343○"I saw the treefolk!"
 ●0000000343●
 
 ○0000000344○ルチア
@@ -1045,7 +1045,7 @@
 ○0000000350○ちはや
 ●0000000350●
 
-○0000000351○"Eh? We haven't cleaned anything up yet, though..."
+○0000000351○"Really? We haven't cleaned anything up yet, though..."
 ●0000000351●
 
 ○0000000352○瑚太朗
@@ -1060,7 +1060,7 @@
 ○0000000355○"......"
 ●0000000355●
 
-○0000000356○Sizuru begins swiftly stuffing the tableware back into Chihaya's bag.
+○0000000356○Shizuru begins swiftly stuffing the tableware back into Chihaya's bag.
 ●0000000356●
 
 ○0000000357○瑚太朗
@@ -1132,7 +1132,7 @@
 ○0000000379○I can see them.
 ●0000000379●
 
-○0000000380○Are those wooden men...?
+○0000000380○Are those treefolk...?
 ●0000000380●
 
 ○0000000381○瑚太朗
@@ -1153,7 +1153,7 @@
 ○0000000386○"Hmm..."
 ●0000000386●
 
-○0000000387○Now that I'm getting a better look, it doesn't look like the wooden men are moving.
+○0000000387○Now that I'm getting a better look, it doesn't look like the treefolk are moving.
 ●0000000387●
 
 ○0000000388○Rather, they have some sort of cloth wrapped around their stomachs.
@@ -1180,7 +1180,7 @@
 ○0000000395○瑚太朗
 ●0000000395●
 
-○0000000396○"Did you see that, Sizuru?"
+○0000000396○"Did you see that, Shizuru?"
 ●0000000396●
 
 ○0000000397○静流
@@ -1219,7 +1219,7 @@
 ○0000000408○朱音
 ●0000000408●
 
-○0000000409○"Someone mistook a dummy for a wooden man. Yep, that's the sound of our afternoon being wasted."
+○0000000409○"Someone mistook a dummy for a treefolk. Yep, that's the sound of our afternoon being wasted."
 ●0000000409●
 
 ○0000000410○瑚太朗
@@ -1231,7 +1231,7 @@
 ○0000000412○瑚太朗
 ●0000000412●
 
-○0000000413○"M-Maybe that martial artist is fighting wooden dummies to overcome the trauma of having been attacked by wooden men in the past!"
+○0000000413○"M-Maybe that martial artist is fighting wooden dummies to overcome the trauma of having been attacked by treefolk in the past!"
 ●0000000413●
 
 ○0000000414○朱音
@@ -1261,7 +1261,7 @@
 ○0000000422○朱音
 ●0000000422●
 
-○0000000423○"The wooden man was a wooden dummy that old man left behind in the forest."
+○0000000423○"The treefolk was a wooden dummy that old man left behind in the forest."
 ●0000000423●
 
 ○0000000424○瑚太朗
@@ -1372,7 +1372,7 @@
 ○0000000459○瑚太朗
 ●0000000459●
 
-○0000000460○"Ah, no... We were looking for a wooden man..."
+○0000000460○"Ah, no... We were looking for some treefolk..."
 ●0000000460●
 
 ○0000000461○格闘家
@@ -1471,7 +1471,7 @@
 ○0000000492○格闘家
 ●0000000492●
 
-○0000000493○"Wha' awaited me from th' on were long days o' ridicule fer me shaved eyebrow 'n th' terror o' bein' assailed from me back."
+○0000000493○"Wha' awaited me from th' on were long days o' ridicule fer me shaved eyebrow 'n' th' terror o' bein' assailed from me back."
 ●0000000493●
 
 ○0000000494○格闘家
@@ -1546,7 +1546,7 @@
 ○0000000517○朱音
 ●0000000517●
 
-○0000000518○"Then have you seen a wooden man? Or has anyone else, for that matter?"
+○0000000518○"Then have you seen any treefolk? Or has anyone else, for that matter?"
 ●0000000518●
 
 ○0000000519○朱音
@@ -1561,7 +1561,7 @@
 ○0000000522○瑚太朗
 ●0000000522●
 
-○0000000523○"B-But we came all the way here because someone did see them! This stuff was flying around the Internet for over ten years!"
+○0000000523○"B-But we came all the way here because someone did see them! This stuff was flying around the internet for over ten years!"
 ●0000000523●
 
 ○0000000524○格闘家
@@ -1582,7 +1582,7 @@
 ○0000000529○格闘家
 ●0000000529●
 
-○0000000530○"Ah, 'n irritated by #236's rude comments, I was also th' one who uploaded that edited image o' th' monster."
+○0000000530○"Ah, 'n' irritated by #236's rude comments, I was also th' one who uploaded that edited image o' th' monster."
 ●0000000530●
 
 ○0000000531○格闘家
@@ -1633,7 +1633,7 @@
 ○0000000546○ＷｅｂＤ
 ●0000000546●
 
-○0000000547○"If you ever need a web page designed, be sure to give me a call. I'll make myself available any time for you kids."
+○0000000547○"If you ever need a web page designed, be sure to give me a call. I'll make myself available anytime for you kids."
 ●0000000547●
 
 ○0000000548○瑚太朗
@@ -1666,7 +1666,7 @@
 ○0000000557○瑚太朗
 ●0000000557●
 
-○0000000558○"U-Uwaaahhh!!"
+○0000000558○"U-Uwaaahhh!"
 ●0000000558●
 
 ○0000000559○小鳥
@@ -1684,7 +1684,7 @@
 ○0000000563○ちはや
 ●0000000563●
 
-○0000000564○"Egh? I thought we already agreed it was all made up."
+○0000000564○"Huh? I thought we already agreed it was all made up."
 ●0000000564●
 
 ○0000000565○瑚太朗
@@ -1783,7 +1783,7 @@
 ○0000000596○"......"
 ●0000000596●
 
-○0000000597○Sizuru alone keeps looking back at me with worried eyes.
+○0000000597○Shizuru alone keeps looking back at me with worried eyes.
 ●0000000597●
 
 ○0000000598○瑚太朗
@@ -1894,7 +1894,7 @@
 ○0000000633○瑚太朗
 ●0000000633●
 
-○0000000634○"IT'S A WOODEN MAN!!!!!!"
+○0000000634○"IT'S A TREEFOLK!"
 ●0000000634●
 
 ○0000000635○(Picture...! Or should I call someone first?!)
@@ -1909,13 +1909,13 @@
 ○0000000638○"U-Uwahh!"
 ●0000000638●
 
-○0000000639○The wooden man begins advancing towards me with a choppy, creepy gait.
+○0000000639○The treefolk begins advancing toward me with a choppy, creepy gait.
 ●0000000639●
 
 ○0000000640○瑚太朗
 ●0000000640●
 
-○0000000641○"K-Kotori!! Chihaya! I found it! I found it!!"
+○0000000641○"K-Kotori! Chihaya! I found it! I found it!"
 ●0000000641●
 
 ○0000000642○I scream at the top of my lungs, but there's no reply.
@@ -1927,7 +1927,7 @@
 ○0000000644○"Damn..."
 ●0000000644●
 
-○0000000645○I face the wooden man.
+○0000000645○I face the treefolk.
 ●0000000645●
 
 ○0000000646○瑚太朗
@@ -1996,7 +1996,7 @@
 ○0000000667○瑚太朗
 ●0000000667●
 
-○0000000668○"Goddammit... No need to get all physical right off the bat."
+○0000000668○"God damn it... No need to get all physical right off the bat."
 ●0000000668●
 
 ○0000000669○瑚太朗
@@ -2005,7 +2005,7 @@
 ○0000000670○"You piece of shit! I'm gonna catch you and sell you to the circus!"
 ●0000000670●
 
-○0000000671○I push the wooden man away.
+○0000000671○I push the treefolk away.
 ●0000000671●
 
 ○0000000672○Then, I grab its...
@@ -2092,7 +2092,7 @@
 ○0000000699○My surroundings grow dark.
 ●0000000699●
 
-○0000000700○The last thing I see is a wooden man the size of a small mountain.
+○0000000700○The last thing I see is a treefolk the size of a small mountain.
 ●0000000700●
 
 ○0000000701○...I sink into the soil as it steps on me.
@@ -2188,7 +2188,7 @@
 ○0000000731○瑚太朗
 ●0000000731●
 
-○0000000732○"I defeated a wooden man, but their huge boss appeared and got me."
+○0000000732○"I defeated one of those treefolk guys, but their huge boss appeared and got me."
 ●0000000732●
 
 ○0000000733○小鳥

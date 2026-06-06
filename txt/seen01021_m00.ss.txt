@@ -271,7 +271,7 @@
 ○0000000105○吉野
 ●0000000105●
 
-○0000000106○"Hold onto my back, grandma."
+○0000000106○"Hold on to my back, grandma."
 ●0000000106●
 
 ○0000000107○老婆
@@ -433,7 +433,7 @@
 ○0000000159○瑚太朗
 ●0000000159●
 
-○0000000160○"Guhuhu... Old lady, hold onto my back."
+○0000000160○"Guhuhu... Old lady, hold on to my back."
 ●0000000160●
 
 ○0000000161○I do my best impression.
@@ -520,7 +520,7 @@
 ○0000000188○吉野
 ●0000000188●
 
-○0000000189○"No!!"
+○0000000189○"No!"
 ●0000000189●
 
 ○0000000190○吉野
@@ -778,7 +778,7 @@
 ○0000000274○吉野
 ●0000000274●
 
-○0000000275○"...He began studying for exams! Goddammit!"
+○0000000275○"...He began studying for exams! God damn it!"
 ●0000000275●
 
 ○0000000276○瑚太朗
@@ -1222,7 +1222,7 @@
 ○0000000422○革ジャン
 ●0000000422●
 
-○0000000423○"Oh shit! I wrinkled your shirt!!"
+○0000000423○"Oh shit! I wrinkled your shirt!"
 ●0000000423●
 
 ○0000000424○瑚太朗
@@ -1318,7 +1318,7 @@
 ○0000000454○革ジャン
 ●0000000454●
 
-○0000000455○"All right! What kind of suicidal sucker is he? Or she?"
+○0000000455○"All right! What kind of crazy cock is he? Or she?"
 ●0000000455●
 
 ○0000000456○瑚太朗
@@ -1384,7 +1384,7 @@
 ○0000000476○革ジャン
 ●0000000476●
 
-○0000000477○"I'm a freshman in high school, so if you're the same age as the King, I should be a year younger than you."
+○0000000477○"I'm a first-year in high school, so if you're the same age as the King, I should be a year younger than you."
 ●0000000477●
 
 ○0000000478○瑚太朗
@@ -1978,7 +1978,7 @@
 ○0000000689○瑚太朗
 ●0000000689●
 
-○0000000690○"I think humans are human enough with their clothes on!!"
+○0000000690○"I think humans are human enough with their clothes on!"
 ●0000000690●
 
 ○0000000692○He won't stop.
@@ -2236,7 +2236,7 @@
 ○0000000788○瑚太朗
 ●0000000788●
 
-○0000000789○"Anyway, from now on, you'll call yourselves 'bunks' instead of 'punks'. Got it?"
+○0000000789○"Anyway, from now on, you'll call yourselves 'bunks' instead of 'punks.' Got it?"
 ●0000000789●
 
 ○0000000791○ワルＡ
@@ -2320,7 +2320,7 @@
 ○0000000820○"I'm sorry for being no help. I'll give you this in exchange."
 ●0000000820●
 
-○0000000821○You've received lead "Monster in the Forest?! The Legend of a Wooden Man!"
+○0000000821○You've received lead "Monster in the Forest?! The Legend of the Treefolk!"
 ●0000000821●
 
 ○0000000822○瑚太朗
@@ -2425,7 +2425,7 @@
 ○0000000860○ゴスロリ
 ●0000000860●
 
-○0000000861○"That's a nice thing to say to a lady. Why'd you start talking to me anyway? Could it be that you're trying to pick me up?"
+○0000000861○"That's a nice thing to say to a lady. Why'd you start talking to me anyway? Could it be that you're trying to hit on me?"
 ●0000000861●
 
 ○0000000862○瑚太朗
@@ -2461,7 +2461,7 @@
 ○0000000874○ゴスロリ
 ●0000000874●
 
-○0000000875○"The moment I uploaded a few pics of myself on the Internet, a bunch of people started following my blog."
+○0000000875○"The moment I uploaded a few pics of myself on the internet, a bunch of people started following my blog."
 ●0000000875●
 
 ○0000000876○Her confession continues for a long, long time.
@@ -2488,7 +2488,7 @@
 ○0000000883○ゴスロリ
 ●0000000883●
 
-○0000000884○"Then, I realized I cannot wear my gothic lolita clothes without putting in extra effort anymore, either. Still, how do I change my lifestyle at this point, right? Anyway, that's where I'm at right now."
+○0000000884○"Then, I realized I can't wear my gothic lolita clothes without putting in extra effort anymore, either. Still, how do I change my lifestyle at this point, right? Anyway, that's where I'm at right now."
 ●0000000884●
 
 ○0000000885○She's been talking for about an hour now.
@@ -2503,7 +2503,7 @@
 ○0000000889○ゴスロリ
 ●0000000889●
 
-○0000000890○"What do you think I should do, boy? Should I continue being a gothic lolita?"
+○0000000890○"What do you think I should do, kid? Should I continue being a gothic lolita?"
 ●0000000890●
 
 ○0000000891○瑚太朗
@@ -2827,7 +2827,7 @@
 ○0000001015○若者
 ●0000001015●
 
-○0000001016○"Drunks are all the rage right now!!"
+○0000001016○"Drunks are all the rage right now!"
 ●0000001016●
 
 ○0000001017○瑚太朗
@@ -2863,7 +2863,7 @@
 ○0000001030○若者
 ●0000001030●
 
-○0000001031○"Fool! That's what makes it perfect! Aw, crap! He's starting!!"
+○0000001031○"Fool! That's what makes it perfect! Aw, crap! He's starting!"
 ●0000001031●
 
 ○0000001032○若者
@@ -2878,7 +2878,7 @@
 ○0000001035○若者
 ●0000001035●
 
-○0000001036○"DRINK!!"
+○0000001036○"DRINK!"
 ●0000001036●
 
 ○0000001037○若者
@@ -2890,13 +2890,13 @@
 ○0000001039○若者
 ●0000001039●
 
-○0000001040○"Yeah! He looked at me! He gave me a look!!"
+○0000001040○"Yeah! He looked at me! He gave me a look!"
 ●0000001040●
 
 ○0000001041○若者
 ●0000001041●
 
-○0000001042○"Breathe your alcoholic breath!!"
+○0000001042○"Breathe your alcoholic breath!"
 ●0000001042●
 
 ○0000001043○若者
@@ -2914,7 +2914,7 @@
 ○0000001047○若者
 ●0000001047●
 
-○0000001048○"He's drinking! He's drinking the alcohol I brought!!"
+○0000001048○"He's drinking! He's drinking the alcohol I brought!"
 ●0000001048●
 
 ○0000001049○瑚太朗
@@ -3214,7 +3214,7 @@
 ○0000001164○男
 ●0000001164●
 
-○0000001165○"What'd you just say, brat?! Get him!!"
+○0000001165○"What'd you just say, brat?! Get him!"
 ●0000001165●
 
 ○0000001166○It escalates into an epic battle.

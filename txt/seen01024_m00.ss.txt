@@ -172,13 +172,13 @@
 ○0000000066○瑚太朗
 ●0000000066●
 
-○0000000067○"I mean, talk about occult phenomena, right?"
+○0000000067○"I mean, talk about strange phenomena, right?"
 ●0000000067●
 
 ○0000000068○瑚太朗
 ●0000000068●
 
-○0000000069○"...Occult?"
+○0000000069○"...Wait, bizarre phenomena?"
 ●0000000069●
 
 ○0000000071○I take a few photos of the area.
@@ -187,7 +187,7 @@
 ○0000000072○ちびもす
 ●0000000072●
 
-○0000000073○"Moph? Moph??"
+○0000000073○"Moph? Moph?"
 ●0000000073●
 
 ○0000000074○瑚太朗
@@ -355,7 +355,7 @@
 ○0000000134○Ah, there's a vending machine.
 ●0000000134●
 
-○0000000135○Nothing happens after I insert a coin, though...
+○0000000135○Nothing happens after I insert any coins, though...
 ●0000000135●
 
 ○0000000136○It doesn't seem to be getting any electricity.
@@ -1099,7 +1099,7 @@
 ○0000000417○"...I feel malicious intent."
 ●0000000417●
 
-○0000000419○My skin breaks in goosebumps.
+○0000000419○My skin breaks into goosebumps.
 ●0000000419●
 
 ○0000000420○I can sense an unidentified animosity directed my way.

@@ -223,7 +223,7 @@
 ○0000000076○*ROLL* *ROLL* *ROLL*
 ●0000000076●
 
-○0000000077○I launch into the sky.
+○0000000077○I'm launched into the sky.
 ●0000000077●
 
 ○0000000078○瑚太朗
@@ -286,7 +286,7 @@
 ○0000000097○瑚太朗
 ●0000000097●
 
-○0000000098○"Goddammit. That thing is as strong as an ox."
+○0000000098○"God damn it. That thing is as strong as an ox."
 ●0000000098●
 
 ○0000000099○ちびもす
@@ -397,7 +397,7 @@
 ○0000000134○*ROLL* *ROLL* *ROLL*
 ●0000000134●
 
-○0000000135○I receive three rolling lunges and six mid-air rolling lunges, sending my body flying into the sky once again.
+○0000000135○I receive three rolling lunges and six midair rolling lunges, sending my body flying into the sky once again.
 ●0000000135●
 
 ○0000000136○瑚太朗
@@ -406,7 +406,7 @@
 ○0000000137○"...Ggh... A..."
 ●0000000137●
 
-○0000000138○The only thing stopping me from screaming is the fact that it punched the air out of me. It hurts like hell.
+○0000000138○The only thing stopping me from screaming is the fact that it knocked the wind out of me. It hurts like hell.
 ●0000000138●
 
 ○0000000139○...Humans are powerless.
@@ -793,7 +793,7 @@
 ○0000000266○冬牙
 ●0000000266●
 
-○0000000267○"It might be a bazaar, but that doesn't mean you have to buy a ticket to the hospital here. Hah hah."
+○0000000267○"It might be a bazaar, but that doesn't mean you have to buy a ticket to the hospital here. Haha."
 ●0000000267●
 
 ○0000000268○瑚太朗
@@ -820,7 +820,7 @@
 ○0000000275○瑚太朗
 ●0000000275●
 
-○0000000276○"It's local slang for 'that joke was bad'."
+○0000000276○"It's local slang for 'that joke was bad.'"
 ●0000000276●
 
 ○0000000277○小鳥
@@ -886,7 +886,7 @@
 ○0000000298○瑚太朗
 ●0000000298●
 
-○0000000299○"Alrighty then! Let's go explore this den of debauchery."
+○0000000299○"Alrighty, then! Let's go explore this den of debauchery."
 ●0000000299●
 
 ○0000000300○小鳥
@@ -964,7 +964,7 @@
 ○0000000324○小鳥
 ●0000000324●
 
-○0000000325○"But... That's violent..."
+○0000000325○"But... that's violent..."
 ●0000000325●
 
 ○0000000326○瑚太朗
@@ -1030,7 +1030,7 @@
 ○0000000346○ヤンキー
 ●0000000346●
 
-○0000000347○"...!!"
+○0000000347○"...!"
 ●0000000347●
 
 ○0000000348○His attention focuses on me.
@@ -1063,7 +1063,7 @@
 ○0000000357○ヤンキー
 ●0000000357●
 
-○0000000358○"Greetings, everyone on the other side of the screen. It's showtime ― the compensation hour. And just for tonight, the consolation money will be... doubled!"
+○0000000358○"Greetings, everyone on the other side of the screen. It's showtime―the compensation hour. And just for tonight, the consolation money will be... doubled!"
 ●0000000358●
 
 ○0000000359○Talk about obvious.
@@ -1108,7 +1108,7 @@
 ○0000000372○瑚太朗
 ●0000000372●
 
-○0000000373○"You're a goddamn mite on the skin of society! You want me to clean you up?! Is that it?!"
+○0000000373○"You're a god damn mite on the skin of society! You want me to clean you up?! Is that it?!"
 ●0000000373●
 
 ○0000000374○瑚太朗
@@ -1210,7 +1210,7 @@
 ○0000000406○ヤンキー
 ●0000000406●
 
-○0000000407○"I'm gonna break your arms if you don't shut the hell up!!"
+○0000000407○"I'm gonna break your arms if you don't shut the hell up!"
 ●0000000407●
 
 ○0000000408○小鳥＿不要
@@ -1420,7 +1420,7 @@
 ○0000000476○ヤンキー
 ●0000000476●
 
-○0000000477○"Gyaaaaaaaaaa...!!"
+○0000000477○"Gyaaaaaaaaaa...!"
 ●0000000477●
 
 ○0000000478○ヤンキー
@@ -1474,7 +1474,7 @@
 ○0000000494○ヤンキー
 ●0000000494●
 
-○0000000495○"Gyaaaaaaaaaa...!!"
+○0000000495○"Gyaaaaaaaaaa...!"
 ●0000000495●
 
 ○0000000496○ヤンキー
@@ -1585,7 +1585,7 @@
 ○0000000531○ヤンキー
 ●0000000531●
 
-○0000000532○"Gyaaaaaaaaaa...!!"
+○0000000532○"Gyaaaaaaaaaa...!"
 ●0000000532●
 
 ○0000000533○You've received 100 yen!
@@ -1624,7 +1624,7 @@
 ○0000000545○ヤンキー
 ●0000000545●
 
-○0000000546○"Hgyaaaaaaaaa...!!"
+○0000000546○"Hgyaaaaaaaaa...!"
 ●0000000546●
 
 ○0000000547○ヤンキー
@@ -1690,7 +1690,7 @@
 ○0000000567○通行人
 ●0000000567●
 
-○0000000568○"Eek!! What's wrong with you people? I'm nothing of the sort!"
+○0000000568○"Eek! What's wrong with you people? I'm nothing of the sort!"
 ●0000000568●
 
 ○0000000569○瑚太朗
@@ -1714,7 +1714,7 @@
 ○0000000575○瑚太朗
 ●0000000575●
 
-○0000000576○"I'm gonna skin you alive, you little shit!!"
+○0000000576○"I'm gonna skin you alive, you little shit!"
 ●0000000576●
 
 ○0000000577○通行人
@@ -1870,7 +1870,7 @@
 ○0000000627○"Why're you hiding the pool under those planks?"
 ●0000000627●
 
-○0000000628○The pool in front of the stand―the same kind that the regular goldfish catching establishments use―is covered with a bunch of small planks with little round holes in the center of each.
+○0000000628○The pool in front of the stand―the same kind that the regular goldfish-catching establishments use―is covered with a bunch of small planks with little round holes in the center of each.
 ●0000000628●
 
 ○0000000629○It makes it impossible to see inside.
@@ -2155,7 +2155,7 @@
 ○0000000722○"Please forgive us. This is all we've got."
 ●0000000722●
 
-○0000000723○You've received 2450 yen!
+○0000000723○You've received 2,450 yen!
 ●0000000723●
 
 ○0000000724○瑚太朗
@@ -2227,7 +2227,7 @@
 ○0000000746○ヤンキーたち
 ●0000000746●
 
-○0000000747○"Guaaaaaaahh!!"
+○0000000747○"Guaaaaaaahh!"
 ●0000000747●
 
 ○0000000748○I swear I can see some kind of shockwave in the wake of Chibimoth's body slam.
@@ -2260,7 +2260,7 @@
 ○0000000757○"We're sorry! This is all we've got!"
 ●0000000757●
 
-○0000000758○You've received 1840 yen!
+○0000000758○You've received 1,840 yen!
 ●0000000758●
 
 ○0000000759○瑚太朗
@@ -2320,7 +2320,7 @@
 ○0000000777○チンピラたち
 ●0000000777●
 
-○0000000778○"Gyaaaaaaaaaa...!!"
+○0000000778○"Gyaaaaaaaaaa...!"
 ●0000000778●
 
 ○0000000779○瑚太朗
@@ -2812,7 +2812,7 @@
 ○0000000941○小鳥
 ●0000000941●
 
-○0000000942○"I might, but I don't use words like 'leak'."
+○0000000942○"I might, but I don't use words like 'leak.'"
 ●0000000942●
 
 ○0000000943○瑚太朗
@@ -2872,7 +2872,7 @@
 ○0000000961○小鳥
 ●0000000961●
 
-○0000000962○"I'll whiz off then."
+○0000000962○"I'll whiz off, then."
 ●0000000962●
 
 ○0000000963○瑚太朗
@@ -3556,7 +3556,7 @@
 ○0000001190○"Just how fast are they?"
 ●0000001190●
 
-○0000001191○I wouldn't be surprised if they were running over 100km/h.
+○0000001191○I wouldn't be surprised if they were running over a hundred kilometers an hour.
 ●0000001191●
 
 ○0000001192○Nothing in this place makes sense.
@@ -3622,7 +3622,7 @@
 ○0000001212○"Ah, excuse me."
 ●0000001212●
 
-○0000001213○I land right in front of an office clerk, sending him backwards onto his butt from the shock.
+○0000001213○I land right in front of an office clerk, sending him backward onto his butt from the shock.
 ●0000001213●
 
 ○0000001214○瑚太朗
@@ -3853,7 +3853,7 @@
 ○0000001289○"...A place I don't know."
 ●0000001289●
 
-○0000001290○Guess I'll just keep silent then.
+○0000001290○Guess I'll just keep silent, then.
 ●0000001290●
 
 ○0000001291○小鳥
@@ -3952,10 +3952,10 @@
 ○0000001322○"Bye."
 ●0000001322●
 
-○0000001323○It's hard to calm down after that whole ordeal.
+○0000001323○It's hard to calm down after experiencing something so out of the ordinary.
 ●0000001323●
 
-○0000001324○I end up aimlessly wandering around the orange town.
+○0000001324○Still restless, I find myself aimlessly wandering the city as it's engulfed by the orange of dusk.
 ●0000001324●
 
 ○0000001325○It's absolutely packed with people, since most folks tend to head home around this hour.
@@ -3964,7 +3964,7 @@
 ○0000001326○The sight of the bustling city life relieves me more than anything.
 ●0000001326●
 
-○0000001327○I'm glad from the bottom of my heart to be back amongst this common scenery.
+○0000001327○Though I spent so long chasing strange phenomena, I'm glad from the bottom of my heart to be back amongst this common scenery.
 ●0000001327●
 
 ○0000001328○This world is full of mysteries.

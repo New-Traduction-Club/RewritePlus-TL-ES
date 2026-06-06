@@ -13,10 +13,10 @@
 ○0000000004○I decide to trust her for the time being.
 ●0000000004●
 
-○0000000005○The window she'd designated isn't locked.
+○0000000005○The window she designated isn't locked.
 ●0000000005●
 
-○0000000006○Was this the witch's doing?
+○0000000006○Is this the witch's doing?
 ●0000000006●
 
 ○0000000007○瑚太朗＿体験版
@@ -199,7 +199,7 @@
 ○0000000069○瑚太朗＿体験版
 ●0000000069●
 
-○0000000070○"Yay! Onwards!!"
+○0000000070○"Yay! Onwards!"
 ●0000000070●
 
 ○0000000072○I'm stupid, so I decide to pick this route.
@@ -274,7 +274,7 @@
 ○0000000095○瑚太朗＿体験版
 ●0000000095●
 
-○0000000096○"Bring it on! Uoooooh!!"
+○0000000096○"Bring it on! Uoooooh!"
 ●0000000096●
 
 ○0000000097○I collect the last ounce of strength I possess into my fists and dash toward the guard.
@@ -376,7 +376,7 @@
 ○0000000132○瑚太朗
 ●0000000132●
 
-○0000000133○"All right! Triple gainer!!"
+○0000000133○"All right! Triple gainer!"
 ●0000000133●
 
 ○0000000135○*SPLASH*
@@ -499,10 +499,10 @@
 ○0000000176○"Ugh..."
 ●0000000176●
 
-○0000000177○A security guard.
+○0000000177○A security guard. 
 ●0000000177●
 
-○0000000178○A teacher.
+○0000000178○A teacher. 
 ●0000000178●
 
 ○0000000179○An evil school spirit.
@@ -523,7 +523,7 @@
 ○0000000184○I can't sense any life from the person standing over there.
 ●0000000184●
 
-○0000000185○No sense of pressure is emanating from them at all.
+○0000000185○No sense of presence is emanating from them at all.
 ●0000000185●
 
 ○0000000186○I muster my courage and draw closer.
@@ -550,7 +550,7 @@
 ○0000000193○"Uoh! Sergeant?!"
 ●0000000193●
 
-○0000000194○I leap backwards.
+○0000000194○I leap backward.
 ●0000000194●
 
 ○0000000195○It's the mascot of Kazamatsuri's completely original fast food chain, Kazamary's Fried Chicken. A life-size figure of an old dude, basically.
@@ -565,7 +565,7 @@
 ○0000000198○I've heard they were having trouble with lawsuits from a certain famous fried chicken brand.
 ●0000000198●
 
-○0000000199○And I can't blame them ― even their logos practically look the same.
+○0000000199○And I can't blame them―even their logos practically look the same.
 ●0000000199●
 
 ○0000000200○But the sergeant's fried chicken is actually more popular in this town.
@@ -592,7 +592,7 @@
 ○0000000207○I went all this way just for this?!
 ●0000000207●
 
-○0000000208○I no longer have an idea of what's going through her head...
+○0000000208○I no longer have any idea of what's going through her head...
 ●0000000208●
 
 ○0000000209○I heave the sergeant up onto my shoulder.
@@ -745,7 +745,7 @@
 ○0000000265○電話の相手＿体験版
 ●0000000265●
 
-○0000000266○"Hey, this is your local street gang for hire."
+○0000000266○"Hey, this is your local street gang for hire, the Kazamatsuri Red Dragon Federation."
 ●0000000266●
 
 ○0000000267○瑚太朗＿体験版
@@ -778,19 +778,19 @@
 ○0000000277○"E-Eek!"
 ●0000000277●
 
-○0000000278○A panicked first year comes running at me.
+○0000000278○A panicked first-year comes running at me.
 ●0000000278●
 
 ○0000000279○瑚太朗＿体験版
 ●0000000279●
 
-○0000000280○"What happened, first year?"
+○0000000280○"What happened, first-year?"
 ●0000000280●
 
 ○0000000282○一年生男子＿体験版
 ●0000000282●
 
-○0000000283○"Are you a second year? Thank god! Please save me!"
+○0000000283○"Are you a second-year? Thank god! Please save me!"
 ●0000000283●
 
 ○0000000284○瑚太朗＿体験版
@@ -838,10 +838,10 @@
 ○0000000302○一年生＿体験版
 ●0000000302●
 
-○0000000303○"That rumor was true! They really do exist! Uaaahh!!"
+○0000000303○"That rumor was true! They really do exist! Uaaahh!"
 ●0000000303●
 
-○0000000304○The first year flies into a panic and speeds off.
+○0000000304○The first-year flies into a panic and speeds off.
 ●0000000304●
 
 ○0000000305○瑚太朗＿体験版
@@ -853,7 +853,7 @@
 ○0000000307○瑚太朗＿体験版
 ●0000000307●
 
-○0000000308○"I wonder what rumor he was talking about...?"
+○0000000308○"I wonder what rumor he was talking about..."
 ●0000000308●
 
 ○0000000310○You've obtained Clue "Terrifying! An army of old men!"
@@ -1261,7 +1261,7 @@
 ○0000000470○瑚太朗＿体験版
 ●0000000470●
 
-○0000000471○"Dammit! That was completely pointless!"
+○0000000471○"Damn it! That was completely pointless!"
 ●0000000471●
 
 ○0000000473○I failed at the fishing minigame.
@@ -1420,7 +1420,7 @@
 ○0000000535○瑚太朗＿体験版
 ●0000000535●
 
-○0000000536○"There's something wrong with your machine!!"
+○0000000536○"There's something wrong with your machine!"
 ●0000000536●
 
 ○0000000538○This was my ultimate technique, which knocked everyone out back in elementary school.
@@ -1579,7 +1579,7 @@
 ○0000000597○ゲーム王
 ●0000000597●
 
-○0000000598○"My true identity is a second year at Kazamatsuri Academy who became indefinitely bound to toilet cleaning duty due to the sins of my past."
+○0000000598○"My true identity is a second-year at Kazamatsuri Academy who became indefinitely bound to toilet cleaning duty due to the sins of my past."
 ●0000000598●
 
 ○0000000599○ゲーム王
@@ -1600,7 +1600,7 @@
 ○0000000604○ゲーム王
 ●0000000604●
 
-○0000000605○"But now that you've seen through me, it's the end of my game. I shall disappear back into the shadows ― my true domain."
+○0000000605○"But now that you've seen through me, it's the end of my game. I shall disappear back into the shadows―my true domain."
 ●0000000605●
 
 ○0000000606○ゲーム王

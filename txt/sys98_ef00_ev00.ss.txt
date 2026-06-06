@@ -19,9 +19,12 @@
 ○0000000006○../kuzu
 ●0000000006●
 
-○0000000008○$steamdeck_button_check
+○0000000008○Skip this video?
 ●0000000008●
 
-○0000000009○dummy
+○0000000009○$steamdeck_button_check
 ●0000000009●
+
+○0000000010○dummy
+●0000000010●
 

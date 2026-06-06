@@ -7,19 +7,19 @@
 ○0000000004○瑚太朗
 ●0000000004●
 
-○0000000005○"Raaagh! I'm gonna do my best today!!"
+○0000000005○"Raaagh! I'm gonna do my best today!"
 ●0000000005●
 
 ○0000000006○瑚太朗
 ●0000000006●
 
-○0000000007○"I'm gonna go to school after following along with the morning stretches on this children's program!! Whew! It's a wonderful morning!!"
+○0000000007○"I'm gonna go to school after following along with the morning stretches on this children's program! Whew! It's a wonderful morning!"
 ●0000000007●
 
 ○0000000008○瑚太朗
 ●0000000008●
 
-○0000000009○"I'm gonna drink this whole pack of milk in a single gulp!!"
+○0000000009○"I'm gonna drink this whole pack of milk in a single gulp!"
 ●0000000009●
 
 ○0000000010○瑚太朗
@@ -46,7 +46,7 @@
 ○0000000017○瑚太朗
 ●0000000017●
 
-○0000000018○"Huh. Sizuru's not here again?"
+○0000000018○"Huh. Shizuru's not here again?"
 ●0000000018●
 
 ○0000000019○ルチア
@@ -115,7 +115,7 @@
 ○0000000041○"I knew it."
 ●0000000041●
 
-○0000000042○Sizuru is mopping the classroom's floor all by herself.
+○0000000042○Shizuru is mopping the classroom's floor all by herself.
 ●0000000042●
 
 ○0000000043○静流
@@ -136,7 +136,7 @@
 ○0000000048○"Mh..."
 ●0000000048●
 
-○0000000049○Sizuru slumps her shoulders apologetically.
+○0000000049○Shizuru slumps her shoulders apologetically.
 ●0000000049●
 
 ○0000000050○瑚太朗
@@ -145,7 +145,7 @@
 ○0000000051○"They left you all by yourself again?"
 ●0000000051●
 
-○0000000052○Sizuru nods.
+○0000000052○Shizuru nods.
 ●0000000052●
 
 ○0000000053○瑚太朗
@@ -166,7 +166,7 @@
 ○0000000058○"Yeah."
 ●0000000058●
 
-○0000000059○Sizuru falls deep into thought.
+○0000000059○Shizuru falls deep into thought.
 ●0000000059●
 
 ○0000000060○瑚太朗
@@ -175,7 +175,7 @@
 ○0000000061○"It wasn't yesterday, and it's not today, right?"
 ●0000000061●
 
-○0000000062○Sizuru nods.
+○0000000062○Shizuru nods.
 ●0000000062●
 
 ○0000000063○瑚太朗
@@ -217,7 +217,7 @@
 ○0000000075○In short...
 ●0000000075●
 
-○0000000076○Those bastards are forcing all of their work on Sizuru.
+○0000000076○Those bastards are forcing all of their work on Shizuru.
 ●0000000076●
 
 ○0000000077○瑚太朗
@@ -418,7 +418,7 @@
 ○0000000142○"Yep."
 ●0000000142●
 
-○0000000143○If Sizuru doesn't mind, then I'm not in a position to tell her different.
+○0000000143○If Shizuru doesn't mind, then I'm not in a position to tell her different.
 ●0000000143●
 
 ○0000000144○I can at least try to make the affair more fun, though.
@@ -463,7 +463,7 @@
 ○0000000157○"......"
 ●0000000157●
 
-○0000000158○Sizuru looks troubled.
+○0000000158○Shizuru looks troubled.
 ●0000000158●
 
 ○0000000159○瑚太朗
@@ -487,7 +487,7 @@
 ○0000000165○瑚太朗
 ●0000000165●
 
-○0000000166○"Um, is something the matter, Ms. Sizuru?"
+○0000000166○"Um, is something the matter, Ms. Shizuru?"
 ●0000000166●
 
 ○0000000167○静流
@@ -565,7 +565,7 @@
 ○0000000191○The doors slide open, and two girls rush into the classroom.
 ●0000000191●
 
-○0000000192○One is the tall girl I saw yesterday, and the other one is... no taller than Sizuru. It's quite a surreal sight to see them standing next to each other.
+○0000000192○One is the tall girl I saw yesterday, and the other one is... no taller than Shizuru. It's quite a surreal sight to see them standing next to each other.
 ●0000000192●
 
 ○0000000193○静流
@@ -610,13 +610,13 @@
 ○0000000206○女生徒Ｂ
 ●0000000206●
 
-○0000000207○"Huh? You're... a senior, aren't you?'
+○0000000207○"Huh? You're... a senior, aren't you?"
 ●0000000207●
 
 ○0000000208○瑚太朗
 ●0000000208●
 
-○0000000209○"I'm a second year."
+○0000000209○"I'm a second-year."
 ●0000000209●
 
 ○0000000210○女生徒Ａ
@@ -670,7 +670,7 @@
 ○0000000226○女生徒Ａ
 ●0000000226●
 
-○0000000227○"We're responsible for leading the first years, so we had to get there ahead of everyone and prepare, too."
+○0000000227○"We're responsible for leading the first-years, so we had to get there ahead of everyone and prepare, too."
 ●0000000227●
 
 ○0000000228○瑚太朗
@@ -811,7 +811,7 @@
 ○0000000273○塚本
 ●0000000273●
 
-○0000000274○"I don't think so!!"
+○0000000274○"I don't think so!"
 ●0000000274●
 
 ○0000000275○静流
@@ -928,7 +928,7 @@
 ○0000000312○"Yep."
 ●0000000312●
 
-○0000000313○I guess this is her way of saying "I told you so".
+○0000000313○I guess this is her way of saying "I told you so."
 ●0000000313●
 
 ○0000000314○瑚太朗
@@ -979,7 +979,7 @@
 ○0000000329○"......"
 ●0000000329●
 
-○0000000330○Sizuru starts thinking again.
+○0000000330○Shizuru starts thinking again.
 ●0000000330●
 
 ○0000000331○瑚太朗
@@ -1693,7 +1693,7 @@
 ○0000000568○吉野
 ●0000000568●
 
-○0000000569○"Don't patronize me!!"
+○0000000569○"Don't patronize me!"
 ●0000000569●
 
 ○0000000570○朱音＿不要
@@ -1729,7 +1729,7 @@
 ○0000000581○吉野
 ●0000000581●
 
-○0000000582○"UOOOOOOHH!! STOP!!"
+○0000000582○"UOOOOOOHH! STOP!"
 ●0000000582●
 
 ○0000000583○瑚太朗
@@ -1762,7 +1762,7 @@
 ○0000000592○瑚太朗
 ●0000000592●
 
-○0000000593○"NOOO!!"
+○0000000593○"NOOO!"
 ●0000000593●
 
 ○0000000594○By the time I get the laptop back, the folder has already been wiped.
@@ -1771,7 +1771,7 @@
 ○0000000595○瑚太朗
 ●0000000595●
 
-○0000000596○"You deleted it! Yoshino deleted it!! I know you felt shy, but you didn't need to go that far!!"
+○0000000596○"You deleted it! Yoshino deleted it! I know you felt shy, but you didn't need to go that far!"
 ●0000000596●
 
 ○0000000597○吉野
@@ -1795,13 +1795,13 @@
 ○0000000603○瑚太朗
 ●0000000603●
 
-○0000000604○"I-I won't forgive this... This is unforgivable!!"
+○0000000604○"I-I won't forgive this... This is unforgivable!"
 ●0000000604●
 
 ○0000000605○瑚太朗
 ●0000000605●
 
-○0000000606○"I can feel my dark side expanding within me! Raaaargh!!"
+○0000000606○"I can feel my dark side expanding within me! Raaaargh!"
 ●0000000606●
 
 ○0000000607○小鳥
@@ -1813,7 +1813,7 @@
 ○0000000609○瑚太朗
 ●0000000609●
 
-○0000000610○"It's too late... My light side has already been locked down in the abyssal depths of my soul!! Your voice can no longer reach it!!"
+○0000000610○"It's too late... My light side has already been locked down in the abyssal depths of my soul! Your voice can no longer reach it!"
 ●0000000610●
 
 ○0000000611○小鳥
@@ -1825,7 +1825,7 @@
 ○0000000613○吉野
 ●0000000613●
 
-○0000000614○"Huh? You made that thing just to mock me, asshole!!"
+○0000000614○"Huh? You made that thing just to mock me, asshole!"
 ●0000000614●
 
 ○0000000615○吉野
@@ -1849,7 +1849,7 @@
 ○0000000621○瑚太朗
 ●0000000621●
 
-○0000000622○"No one can stop my all-consuming fury!! Not even myself!"
+○0000000622○"No one can stop my all-consuming fury! Not even myself!"
 ●0000000622●
 
 ○0000000623○吉野
@@ -1885,7 +1885,7 @@
 ○0000000633○吉野
 ●0000000633●
 
-○0000000634○"Wha... N-NOOOOOOOOO!!"
+○0000000634○"Wha... N-NOOOOOOOOO!"
 ●0000000634●
 
 ○0000000635○小鳥
@@ -1897,13 +1897,13 @@
 ○0000000637○瑚太朗
 ●0000000637●
 
-○0000000638○"You want to stop me? Hah. It's useless! Our entire world is connected by the Internet!! I can upload stuff anytime, anywhere as long as I have the data!!"
+○0000000638○"You want to stop me? Hah. It's useless! Our entire world is connected by the Internet! I can upload stuff anytime, anywhere as long as I have the data!"
 ●0000000638●
 
 ○0000000639○瑚太朗
 ●0000000639●
 
-○0000000640○"And the same applies to my spite once it's started to spread!! No one can stop me anymore!!"
+○0000000640○"And the same applies to my spite once it's started to spread! No one can stop me anymore!"
 ●0000000640●
 
 ○0000000641○瑚太朗
@@ -1927,7 +1927,7 @@
 ○0000000647○吉野
 ●0000000647●
 
-○0000000648○"F-Fool...!! I'm not gonna give in!! I'll spend my elderly days playing gateball with a smile on my face!!"
+○0000000648○"F-Fool...! I'm not gonna give in! I'll spend my elderly days playing gateball with a smile on my face!"
 ●0000000648●
 
 ○0000000649○瑚太朗
@@ -2131,7 +2131,7 @@
 ○0000000715○静流
 ●0000000715●
 
-○0000000716○"And... above everything, you cannot waste any more of your time outside of your cases."
+○0000000716○"And... above everything, you can't waste any more of your time outside of your cases."
 ●0000000716●
 
 ○0000000717○吉野
@@ -2149,13 +2149,13 @@
 ○0000000721○静流
 ●0000000721●
 
-○0000000722○"Farty!!"
+○0000000722○"Farty!"
 ●0000000722●
 
 ○0000000723○吉野
 ●0000000723●
 
-○0000000724○"I'm not Farty!!"
+○0000000724○"I'm not Farty!"
 ●0000000724●
 
 ○0000000725○吉野
@@ -2209,7 +2209,7 @@
 ○0000000741○瑚太朗
 ●0000000741●
 
-○0000000742○"Yoshino!!"
+○0000000742○"Yoshino!"
 ●0000000742●
 
 ○0000000743○吉野
@@ -2224,7 +2224,7 @@
 ○0000000746○"Here. This is the USB memory stick with the data."
 ●0000000746●
 
-○0000000747○I prepared it while Sizuru had him distracted.
+○0000000747○I prepared it while Shizuru had him distracted.
 ●0000000747●
 
 ○0000000748○朱音

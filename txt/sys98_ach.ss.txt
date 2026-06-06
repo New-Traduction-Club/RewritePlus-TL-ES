@@ -25,7 +25,7 @@
 ○0000000008○All achievements reset.
 ●0000000008●
 
-○0000000009○Cancelled.
+○0000000009○Canceled.
 ●0000000009●
 
 ○0000000010○dummy

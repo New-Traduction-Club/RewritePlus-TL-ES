@@ -19,7 +19,7 @@
 ○0000000006○瑚太朗
 ●0000000006●
 
-○0000000007○"All right! I'm gonna investigate the hell out of this!!"
+○0000000007○"All right! I'm gonna investigate the hell out of this!"
 ●0000000007●
 
 ○0000000009○朱音
@@ -184,7 +184,7 @@
 ○0000000062○瑚太朗
 ●0000000062●
 
-○0000000063○"It's not!! No one decided to make an article out of it yet!!"
+○0000000063○"It's not! No one decided to make an article out of it yet!"
 ●0000000063●
 
 ○0000000064○瑚太朗
@@ -223,7 +223,7 @@
 ○0000000075○"It sounds fun."
 ●0000000075●
 
-○0000000076○Sizuru pulls out a pickaxe and a brush―professional archaeology tools no matter how you look at them―from her bag.
+○0000000076○Shizuru pulls out a pickaxe and a brush―professional archaeology tools no matter how you look at them―from her bag.
 ●0000000076●
 
 ○0000000077○瑚太朗
@@ -466,7 +466,7 @@
 ○0000000156○"......"
 ●0000000156●
 
-○0000000157○Sizuru strikes the rock with her pickaxe.
+○0000000157○Shizuru strikes the rock with her pickaxe.
 ●0000000157●
 
 ○0000000158○瑚太朗
@@ -523,7 +523,7 @@
 ○0000000175○"That's what I found."
 ●0000000175●
 
-○0000000176○Sizuru hands me a lump of hardened clay.
+○0000000176○Shizuru hands me a lump of hardened clay.
 ●0000000176●
 
 ○0000000177○瑚太朗
@@ -574,7 +574,7 @@
 ○0000000192○瑚太朗
 ●0000000192●
 
-○0000000193○"What do you want? I'm busy making a historical discovery with Sizuru right now."
+○0000000193○"What do you want? I'm busy making a historical discovery with Shizuru right now."
 ●0000000193●
 
 ○0000000194○ちはや
@@ -652,7 +652,7 @@
 ○0000000218○瑚太朗
 ●0000000218●
 
-○0000000219○"An ancient tomb! We've found an ancient tomb!!"
+○0000000219○"An ancient tomb! We've found an ancient tomb!"
 ●0000000219●
 
 ○0000000220○ルチア
@@ -697,7 +697,7 @@
 ○0000000233○瑚太朗
 ●0000000233●
 
-○0000000234○"Ms. Preeeeesident!! You could at least show some spirit when we make a huge discovery!!"
+○0000000234○"Ms. Preeeeesident! You could at least show some spirit when we make a huge discovery!"
 ●0000000234●
 
 ○0000000235○朱音＿不要
@@ -730,7 +730,7 @@
 ○0000000244○"Awesome! Shrubbery walls are nothing for our resident forest girl!"
 ●0000000244●
 
-○0000000245○I push some bushes out of my way and head towards Kotori.
+○0000000245○I push some bushes out of my way and head toward Kotori.
 ●0000000245●
 
 ○0000000246○Finally, after clearing some plants and withered weeds away from the barely visible rock...
@@ -772,7 +772,7 @@
 ○0000000258○"......"
 ●0000000258●
 
-○0000000259○Sizuru seems to have brought a light, as well.
+○0000000259○Shizuru seems to have brought a light, as well.
 ●0000000259●
 
 ○0000000260○瑚太朗
@@ -805,7 +805,7 @@
 ○0000000269○ちはや
 ●0000000269●
 
-○0000000270○"Waaaahh!!"
+○0000000270○"Waaaahh!"
 ●0000000270●
 
 ○0000000271○瑚太朗
@@ -895,7 +895,7 @@
 ○0000000299○"......"
 ●0000000299●
 
-○0000000300○Sizuru begins striking the wall with her pickaxe again.
+○0000000300○Shizuru begins striking the wall with her pickaxe again.
 ●0000000300●
 
 ○0000000301○瑚太朗
@@ -1015,7 +1015,7 @@
 ○0000000339○瑚太朗
 ●0000000339●
 
-○0000000340○(Awesome!! My life's gonna be so awesome!!)
+○0000000340○(Awesome! My life's gonna be so awesome!)
 ●0000000340●
 
 ○0000000341○瑚太朗
@@ -1075,7 +1075,7 @@
 ○0000000359○瑚太朗
 ●0000000359●
 
-○0000000360○"Let's go!!"
+○0000000360○"Let's go!"
 ●0000000360●
 
 ○0000000361○I continue, my heart fluttering in my chest.
@@ -1153,7 +1153,7 @@
 ○0000000385○瑚太朗
 ●0000000385●
 
-○0000000386○"Gyaaaaaaaaaa...!!"
+○0000000386○"Gyaaaaaaaaaa...!"
 ●0000000386●
 
 ○0000000387○Those are bones!
@@ -1165,13 +1165,13 @@
 ○0000000389○瑚太朗
 ●0000000389●
 
-○0000000390○"P-P-Police!!"
+○0000000390○"P-P-Police!"
 ●0000000390●
 
 ○0000000391○ちはや
 ●0000000391●
 
-○0000000392○"Gyaaaaaaaaaa...!!"
+○0000000392○"Gyaaaaaaaaaa...!"
 ●0000000392●
 
 ○0000000393○Chihaya―who was investigating the other pot―and I begin running in circles, screaming.
@@ -1246,7 +1246,7 @@
 ○0000000416○瑚太朗
 ●0000000416●
 
-○0000000417○"Uwooohh!! Stop that!!"
+○0000000417○"Uwooohh! Stop that!"
 ●0000000417●
 
 ○0000000418○Ancient history terrifies my olfactory sensibilities.
@@ -1333,7 +1333,7 @@
 ○0000000445○"......"
 ●0000000445●
 
-○0000000446○Sizuru hurries over immediately.
+○0000000446○Shizuru hurries over immediately.
 ●0000000446●
 
 ○0000000447○瑚太朗
@@ -1372,7 +1372,7 @@
 ○0000000458○瑚太朗
 ●0000000458●
 
-○0000000459○"Sizuru, wait! You've got our only light!"
+○0000000459○"Shizuru, wait! You've got our only light!"
 ●0000000459●
 
 ○0000000460○静流
@@ -1384,7 +1384,7 @@
 ○0000000462○瑚太朗
 ●0000000462●
 
-○0000000463○"Sizuru?"
+○0000000463○"Shizuru?"
 ●0000000463●
 
 ○0000000464○No response.
@@ -1438,7 +1438,7 @@
 ○0000000480○"......"
 ●0000000480●
 
-○0000000481○Sizuru returns.
+○0000000481○Shizuru returns.
 ●0000000481●
 
 ○0000000482○Her light illuminates our surroundings.
@@ -1468,7 +1468,7 @@
 ○0000000490○"...It's full of them."
 ●0000000490●
 
-○0000000491○Sizuru shines her light down the stairs.
+○0000000491○Shizuru shines her light down the stairs.
 ●0000000491●
 
 ○0000000492○It's filled with bones; bones and bones and bones, as far as the eye can see.
@@ -1477,7 +1477,7 @@
 ○0000000493○瑚太朗
 ●0000000493●
 
-○0000000494○"■×○☆!!!"
+○0000000494○"■×○☆!"
 ●0000000494●
 
 ○0000000495○I run.
@@ -1492,7 +1492,7 @@
 ○0000000498○All of us scream at the top of our lungs.
 ●0000000498●
 
-○0000000499○Sizuru doesn't seem too scared, but she shouts alongside of us for some reason.
+○0000000499○Shizuru doesn't seem too scared, but she shouts alongside of us for some reason.
 ●0000000499●
 
 ○0000000500○The Occult Research Society has been united through fear.
@@ -1501,7 +1501,7 @@
 ○0000000501○瑚太朗
 ●0000000501●
 
-○0000000502○"B-B-Bones!!"
+○0000000502○"B-B-Bones!"
 ●0000000502●
 
 ○0000000503○As soon as I make it out, I fall on my butt, pleading for help.
@@ -1528,13 +1528,13 @@
 ○0000000510○"......"
 ●0000000510●
 
-○0000000511○Sizuru is hugging a skull of some beast in her arms.
+○0000000511○Shizuru is hugging a skull of some beast in her arms.
 ●0000000511●
 
 ○0000000512○瑚太朗
 ●0000000512●
 
-○0000000513○"Ahh! You can't take that!!"
+○0000000513○"Ahh! You can't take that!"
 ●0000000513●
 
 ○0000000514○静流
@@ -1570,7 +1570,7 @@
 ○0000000524○(...Wait.)
 ●0000000524●
 
-○0000000525○That skull she was holding feels oddly familar.
+○0000000525○That skull she was holding feels oddly familiar.
 ●0000000525●
 
 ○0000000526○It wouldn't happen to be a tyrannosaurus, would it?
@@ -1648,7 +1648,7 @@
 ○0000000550○瑚太朗
 ●0000000550●
 
-○0000000551○"I'm going to City Hall! See you!!"
+○0000000551○"I'm going to City Hall! See you!"
 ●0000000551●
 
 ○0000000552○ちはや
@@ -1915,7 +1915,7 @@
 ○0000000639○Akane snickers at me.
 ●0000000639●
 
-○0000000640○Kotori and Sizuru try to console me, but that only hurts more.
+○0000000640○Kotori and Shizuru try to console me, but that only hurts more.
 ●0000000640●
 
 ○0000000641○I also report my findings to Mr. Esaka.

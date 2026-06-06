@@ -241,7 +241,7 @@
 ○0000000084○小鳥
 ●0000000084●
 
-○0000000085○"I-I-I'm not chubby!!"
+○0000000085○"I-I-I'm not chubby!"
 ●0000000085●
 
 ○0000000086○小鳥
@@ -514,7 +514,7 @@
 ○0000000175○小鳥
 ●0000000175●
 
-○0000000176○"They're all deeeaaaaaaaad!!"
+○0000000176○"They're all deeeaaaaaaaad!"
 ●0000000176●
 
 ○0000000177○小鳥
@@ -643,7 +643,7 @@
 ○0000000218○小鳥
 ●0000000218●
 
-○0000000219○"Nooooo!!"
+○0000000219○"Nooooo!"
 ●0000000219●
 
 ○0000000220○I knew she'd be upset.
@@ -1216,538 +1216,538 @@
 ○0000000410○"I used a slightly new approach with No. 42."
 ●0000000410●
 
-○0000000411○瑚太朗
+○0000000411○小鳥
 ●0000000411●
 
-○0000000412○"I'm not sure I want to hear this."
+○0000000412○"You know how imported plants might *BLEEP* or <BZZZT> or [REDACTED] based on which you've got?"
 ●0000000412●
 
 ○0000000413○瑚太朗
 ●0000000413●
 
-○0000000414○"I feel like that information might be bad for my health."
+○0000000414○"I'm not sure I want to hear about this."
 ●0000000414●
 
 ○0000000415○瑚太朗
 ●0000000415●
 
-○0000000416○"Let me remain an unaffiliated third party, please!"
+○0000000416○"I feel like that information might be bad for my health."
 ●0000000416●
 
 ○0000000417○小鳥
 ●0000000417●
 
-○0000000418○"Anyway, I'd appreciate if you didn't show it off to everyone."
+○0000000418○"It's fiiine, the law hasn't quite caught up yet."
 ●0000000418●
 
-○0000000419○小鳥
+○0000000419○瑚太朗
 ●0000000419●
 
-○0000000420○"Especially in ten years or so."
+○0000000420○"Please tell me that stuff is legal..."
 ●0000000420●
 
-○0000000421○瑚太朗
+○0000000421○小鳥
 ●0000000421●
 
-○0000000422○"I don't think anyone but me will ever have the chance to see it anyway."
+○0000000422○"Of course it is! At least for the moment!"
 ●0000000422●
 
-○0000000423○Kotori is the only person who ever comes over to my house.
+○0000000423○瑚太朗
 ●0000000423●
 
-○0000000424○小鳥
+○0000000424○"WHY ARE YOU WORDING IT LIKE THAT?!"
 ●0000000424●
 
-○0000000425○"Good."
+○0000000425○瑚太朗
 ●0000000425●
 
-○0000000426○瑚太朗
+○0000000426○"Let me remain an unaffiliated third party, please!"
 ●0000000426●
 
-○0000000427○"Maybe me destroying the old one was a blessing in disguise."
+○0000000427○小鳥
 ●0000000427●
 
-○0000000428○小鳥
+○0000000428○"Anyway, I'd appreciate if you didn't show it off to everyone."
 ●0000000428●
 
-○0000000429○"It's gonna be incredible this time. More benefits than you can count."
+○0000000429○小鳥
 ●0000000429●
 
-○0000000430○小鳥
+○0000000430○"Especially in ten years or so."
 ●0000000430●
 
-○0000000431○"It should alleviate eyestrain, nasal congestion, sore throat, oral inflammation, hay fever, and the common cold."
+○0000000431○瑚太朗
 ●0000000431●
 
-○0000000432○小鳥
+○0000000432○"I don't think anyone but me will ever have the chance to see it, anyway."
 ●0000000432●
 
-○0000000433○"Acne, frostbite, athlete's foot, headaches, menstrual pain, hip pain, insomnia, indigestion, swelling..."
+○0000000433○Kotori is the only person who ever comes over to my house.
 ●0000000433●
 
-○0000000434○瑚太朗
+○0000000434○小鳥
 ●0000000434●
 
-○0000000435○"You're not just saying everything that comes to mind, are you?"
+○0000000435○"Good."
 ●0000000435●
 
-○0000000436○小鳥
+○0000000436○瑚太朗
 ●0000000436●
 
-○0000000437○"Traffic safety, family well-being, luck with money, successful business..."
+○0000000437○"Maybe me destroying the old one was a blessing in disguise."
 ●0000000437●
 
-○0000000438○瑚太朗
+○0000000438○小鳥
 ●0000000438●
 
-○0000000439○"I'm pretty sure only God can affect things like that."
+○0000000439○"It's gonna be incredible this time. More benefits than you can count."
 ●0000000439●
 
 ○0000000440○小鳥
 ●0000000440●
 
-○0000000441○"That's how much they can do if you grow them as big as can be."
+○0000000441○"It should alleviate eyestrain, nasal congestion, sore throat, oral inflammation, hay fever, and the common cold."
 ●0000000441●
 
-○0000000442○瑚太朗
+○0000000442○小鳥
 ●0000000442●
 
-○0000000443○"And how long will that take?"
+○0000000443○"Acne, frostbite, athlete's foot, headaches, menstrual pain, hip pain, insomnia, indigestion, swelling..."
 ●0000000443●
 
-○0000000444○小鳥
+○0000000444○瑚太朗
 ●0000000444●
 
-○0000000445○"A thousand years or so?"
+○0000000445○"You're not just saying everything that comes to mind, are you?"
 ●0000000445●
 
-○0000000446○瑚太朗
+○0000000446○小鳥
 ●0000000446●
 
-○0000000447○"Great."
+○0000000447○"Traffic safety, family well-being, luck with money, successful business..."
 ●0000000447●
 
-○0000000448○I instantly lose all interest.
+○0000000448○瑚太朗
 ●0000000448●
 
-○0000000449○小鳥
+○0000000449○"I'm pretty sure only God can affect things like that."
 ●0000000449●
 
-○0000000450○"It's difficult to control luck with money."
+○0000000450○小鳥
 ●0000000450●
 
-○0000000451○小鳥
+○0000000451○"That's how much they can do if you grow them as big as can be."
 ●0000000451●
 
-○0000000452○"No matter how hard you try, it'll still take at least 800 years."
+○0000000452○瑚太朗
 ●0000000452●
 
-○0000000453○瑚太朗
+○0000000453○"And how long will that take?"
 ●0000000453●
 
-○0000000454○"This is a joke, right? You're pulling my leg, right?"
+○0000000454○小鳥
 ●0000000454●
 
-○0000000455○小鳥
+○0000000455○"A thousand years or so?"
 ●0000000455●
 
-○0000000456○"Once I solve that one tiny problem, I'll be able to sell my Little Forest System for millions."
+○0000000456○瑚太朗
 ●0000000456●
 
-○0000000457○瑚太朗
+○0000000457○"Great."
 ●0000000457●
 
-○0000000458○"Uh... You're not hearing weird voices in your head or anything, right...?"
+○0000000458○I instantly lose all interest.
 ●0000000458●
 
-○0000000459○瑚太朗
+○0000000459○小鳥
 ●0000000459●
 
-○0000000460○"If you are... you should get that looked at immediately."
+○0000000460○"It's difficult to control luck with money."
 ●0000000460●
 
 ○0000000461○小鳥
 ●0000000461●
 
-○0000000462○"I see you don't believe in the power of nature."
+○0000000462○"No matter how hard you try, it'll still take at least 800 years."
 ●0000000462●
 
-○0000000463○小鳥
+○0000000463○瑚太朗
 ●0000000463●
 
-○0000000464○"It'll be too late for regrets in a thousand years, you know."
+○0000000464○"This is a joke, right? You're pulling my leg, right?"
 ●0000000464●
 
-○0000000465○瑚太朗
+○0000000465○小鳥
 ●0000000465●
 
-○0000000466○"I'd be happy just to still be around then."
+○0000000466○"Once I solve that one tiny problem, I'll be able to sell my Little Forest System for millions."
 ●0000000466●
 
-○0000000467○小鳥
+○0000000467○瑚太朗
 ●0000000467●
 
-○0000000468○"Anyway, it might look a bit barren right now, but they'll start growing real quick."
+○0000000468○"Uh... You're not hearing weird voices in your head or anything, right...?"
 ●0000000468●
 
-○0000000469○小鳥
+○0000000469○瑚太朗
 ●0000000469●
 
-○0000000470○"I'll take care of the maintenance."
+○0000000470○"If you are... you should get that looked at immediately."
 ●0000000470●
 
 ○0000000471○小鳥
 ●0000000471●
 
-○0000000472○"And when I can't come over for some reason... will you be able to just follow my EXACT orders?"
+○0000000472○"I see you don't believe in the power of nature."
 ●0000000472●
 
 ○0000000473○小鳥
 ●0000000473●
 
-○0000000474○"I don't want you ruining all my work again♪"
+○0000000474○"It'll be too late for regrets in a thousand years, you know."
 ●0000000474●
 
 ○0000000475○瑚太朗
 ●0000000475●
 
-○0000000476○"Yeah... I won't try anything special this time..."
+○0000000476○"I'd be happy just to still be around then."
 ●0000000476●
 
-○0000000477○I feel like I'll basically turn into a baby if I let her spoil me any further.
+○0000000477○小鳥
 ●0000000477●
 
-○0000000478○瑚太朗
+○0000000478○"Anyway, it might look a bit barren right now, but they'll start growing real quick."
 ●0000000478●
 
-○0000000479○"I've got to thank you somehow."
+○0000000479○小鳥
 ●0000000479●
 
-○0000000480○小鳥
+○0000000480○"I'll take care of the maintenance."
 ●0000000480●
 
-○0000000481○"Don't worry about it."
+○0000000481○小鳥
 ●0000000481●
 
-○0000000482○瑚太朗
+○0000000482○"And when I can't come over for some reason... will you be able to just follow my EXACT orders?"
 ●0000000482●
 
-○0000000483○"I'll take you somewhere awesome next time. Sound good?"
+○0000000483○小鳥
 ●0000000483●
 
-○0000000484○小鳥
+○0000000484○"I don't want you ruining all my work again♪"
 ●0000000484●
 
-○0000000485○"...Just where... are you planning to take me...?"
+○0000000485○瑚太朗
 ●0000000485●
 
-○0000000486○瑚太朗
+○0000000486○"Yeah... I won't try anything special this time..."
 ●0000000486●
 
-○0000000487○"What? Why are you acting all cautious?"
+○0000000487○I feel like I'll basically turn into a baby if I let her spoil me any further.
 ●0000000487●
 
-○0000000488○小鳥
+○0000000488○瑚太朗
 ●0000000488●
 
-○0000000489○"The last time you said that, you tried to take me to a love hotel."
+○0000000489○"I've got to thank you somehow."
 ●0000000489●
 
 ○0000000490○小鳥
 ●0000000490●
 
-○0000000491○"That wasn't very funny."
+○0000000491○"Don't worry about it."
 ●0000000491●
 
 ○0000000492○瑚太朗
 ●0000000492●
 
-○0000000493○"Hey, you're kinda scaring me here..."
+○0000000493○"I'll take you somewhere awesome next time. Sound good?"
 ●0000000493●
 
 ○0000000494○小鳥
 ●0000000494●
 
-○0000000495○"I'm okay with anywhere, as long as it's something proper."
+○0000000495○"...Just where... are you planning to take me...?"
 ●0000000495●
 
 ○0000000496○瑚太朗
 ●0000000496●
 
-○0000000497○"What's your definition of 'proper'?"
+○0000000497○"What? Why are you acting all cautious?"
 ●0000000497●
 
-○0000000498○瑚太朗
+○0000000498○小鳥
 ●0000000498●
 
-○0000000499○"A high-class Italian restaurant or something?"
+○0000000499○"The last time you said that, you tried to take me to a love hotel."
 ●0000000499●
 
 ○0000000500○小鳥
 ●0000000500●
 
-○0000000501○"No, like JASCO."
+○0000000501○"That wasn't very funny."
 ●0000000501●
 
 ○0000000502○瑚太朗
 ●0000000502●
 
-○0000000503○"That's... not very high-class."
+○0000000503○"Hey, you're kinda scaring me here..."
 ●0000000503●
 
 ○0000000504○小鳥
 ●0000000504●
 
-○0000000505○"I love JASCO!"
+○0000000505○"I'm okay with anywhere, as long as it's something proper."
 ●0000000505●
 
-○0000000506○小鳥
+○0000000506○瑚太朗
 ●0000000506●
 
-○0000000507○"They really know how to treat their customers!"
+○0000000507○"What's your definition of 'proper'?"
 ●0000000507●
 
 ○0000000508○瑚太朗
 ●0000000508●
 
-○0000000509○"...I can take you to a place like that any day."
+○0000000509○"A high-class Italian restaurant or something?"
 ●0000000509●
 
 ○0000000510○小鳥
 ●0000000510●
 
-○0000000511○"Sounds good to me!"
+○0000000511○"No, like JASCO."
 ●0000000511●
 
-○0000000512○It doesn't sound like she's interested in going anywhere else.
+○0000000512○瑚太朗
 ●0000000512●
 
-○0000000513○瑚太朗
+○0000000513○"The Chinese basically own that place, you know."
 ●0000000513●
 
-○0000000514○"...We'll go sometime soon."
+○0000000514○小鳥
 ●0000000514●
 
-○0000000515○At the very least, Kotori isn't high-maintenance.
+○0000000515○"I love JASCO!"
 ●0000000515●
 
-○0000000516○After that, we talk until the sun begins to set.
+○0000000516○小鳥
 ●0000000516●
 
-○0000000518○小鳥
+○0000000517○"A xièxie a day keeps the customer who pays!"
+●0000000517●
+
+○0000000518○瑚太朗
 ●0000000518●
 
-○0000000519○"See you. Bye-bye."
+○0000000519○"...I can take you to a place like that any day."
 ●0000000519●
 
-○0000000520○瑚太朗
+○0000000520○小鳥
 ●0000000520●
 
-○0000000521○"Bye-bye. See you in school."
+○0000000521○"Sounds good to me!"
 ●0000000521●
 
-○0000000522○小鳥
+○0000000522○It doesn't sound like she's interested in going anywhere else.
 ●0000000522●
 
-○0000000523○"Don't forget to study."
+○0000000523○瑚太朗
 ●0000000523●
 
-○0000000524○Kotori leaves, wearing an expression that says she's had a fulfilling day.
+○0000000524○"...We'll go sometime soon."
 ●0000000524●
 
-○0000000525○瑚太朗
+○0000000525○At the very least, Kotori isn't high-maintenance.
 ●0000000525●
 
-○0000000526○"...Well, the time for battle is nigh."
+○0000000526○After that, we talk until the sun begins to set.
 ●0000000526●
 
-○0000000527○I never received a reply from that callous woman, not that I expected one in the first place.
-●0000000527●
-
-○0000000528○Therefore, I prepared something else for tonight.
+○0000000528○小鳥
 ●0000000528●
 
-○0000000529○...A new friend.
+○0000000529○"See you. Bye-bye."
 ●0000000529●
 
 ○0000000530○瑚太朗
 ●0000000530●
 
-○0000000531○"My very own handmade shikigami."
+○0000000531○"Bye-bye. See you in school."
 ●0000000531●
 
-○0000000532○I googled how to make it.
+○0000000532○小鳥
 ●0000000532●
 
-○0000000533○You can find anything on the Internet these days.
+○0000000533○"Don't forget to study."
 ●0000000533●
 
-○0000000534○It's a sea of knowledge with not a single drop of falsehood contained within.
+○0000000534○Kotori leaves, wearing an expression that says she's had a fulfilling day.
 ●0000000534●
 
 ○0000000535○瑚太朗
 ●0000000535●
 
-○0000000536○"I'll get through tonight with your help."
+○0000000536○"...Well, the time for battle is nigh."
 ●0000000536●
 
-○0000000537○瑚太朗
+○0000000537○I never received a reply from that callous woman, not that I expected one in the first place.
 ●0000000537●
 
-○0000000538○"My fate is in your hands, Johnson!"
+○0000000538○Therefore, I prepared something else for tonight.
 ●0000000538●
 
-○0000000539○瑚太朗
+○0000000539○...A new friend.
 ●0000000539●
 
-○0000000540○"......"
+○0000000540○瑚太朗
 ●0000000540●
 
-○0000000541○瑚太朗
+○0000000541○"My very own handmade shikigami."
 ●0000000541●
 
-○0000000542○"Gyaaaaaaaaaaaaaaaaaaaaaaaaaaaa...!!"
+○0000000542○I googled how to make it.
 ●0000000542●
 
-○0000000543○It doesn't work.
+○0000000543○You can find anything on the internet these days.
 ●0000000543●
 
-○0000000544○■友達■　ID:
+○0000000544○It's a sea of knowledge with not a single drop of falsehood contained within.
 ●0000000544●
 
-○0000000545○　NO:
+○0000000545○瑚太朗
 ●0000000545●
 
-○0000000546○dummy
+○0000000546○"I'll get through tonight with your help."
 ●0000000546●
 
-○0000000547○sys30_cl00
+○0000000547○瑚太朗
 ●0000000547●
 
-○0000000548○sys20_adv00
+○0000000548○"My fate is in your hands, Johnson!"
 ●0000000548●
 
-○0000000549○bg001
+○0000000549○瑚太朗
 ●0000000549●
 
-○0000000550○bgm001
+○0000000550○"......"
 ●0000000550●
 
-○0000000551○sys20_adv00
+○0000000551○瑚太朗
 ●0000000551●
 
-○0000000552○kuro
+○0000000552○"Gyaaaaaaaaaaaaaaaaaaaaaaaaaaaa...!"
 ●0000000552●
 
-○0000000553○sys20_adv00
+○0000000553○It doesn't work.
 ●0000000553●
 
-○0000000554○bg046
+○0000000554○■友達■　ID:
 ●0000000554●
 
-○0000000555○sys20_adv00
+○0000000555○　NO:
 ●0000000555●
 
-○0000000556○cgm_kt10a
+○0000000556○dummy
 ●0000000556●
 
-○0000000557○sys20_adv00
+○0000000557○sys30_cl00
 ●0000000557●
 
-○0000000558○cgm_kt16a
+○0000000558○sys20_adv00
 ●0000000558●
 
-○0000000559○sys20_adv00
+○0000000559○bg001
 ●0000000559●
 
-○0000000560○cgm_kt11ay
+○0000000560○bgm001
 ●0000000560●
 
 ○0000000561○sys20_adv00
 ●0000000561●
 
-○0000000562○sys20_adv00
+○0000000562○kuro
 ●0000000562●
 
-○0000000563○cgm_kt16a
+○0000000563○sys20_adv00
 ●0000000563●
 
-○0000000564○sys20_adv00
+○0000000564○bg046
 ●0000000564●
 
-○0000000565○cgm_kt18a
+○0000000565○sys20_adv00
 ●0000000565●
 
-○0000000566○sys20_adv00
+○0000000566○cgm_kt10a
 ●0000000566●
 
-○0000000567○cgm_kt31a
+○0000000567○sys20_adv00
 ●0000000567●
 
-○0000000568○sys10_mm02
+○0000000568○cgm_kt16a
 ●0000000568●
 
 ○0000000569○sys20_adv00
 ●0000000569●
 
-○0000000570○cgm_kt16ay
+○0000000570○cgm_kt11ay
 ●0000000570●
 
 ○0000000571○sys20_adv00
 ●0000000571●
 
-○0000000572○cgm_kt33a
+○0000000572○sys20_adv00
 ●0000000572●
 
-○0000000573○sys20_adv00
+○0000000573○cgm_kt16a
 ●0000000573●
 
-○0000000574○cgm_kt16ay
+○0000000574○sys20_adv00
 ●0000000574●
 
-○0000000575○sys20_adv00
+○0000000575○cgm_kt18a
 ●0000000575●
 
-○0000000576○cgm_kt30a
+○0000000576○sys20_adv00
 ●0000000576●
 
-○0000000577○sys20_adv00
+○0000000577○cgm_kt31a
 ●0000000577●
 
-○0000000578○sys20_adv00
+○0000000578○sys10_mm02
 ●0000000578●
 
-○0000000579○cgm_kt11a
+○0000000579○sys20_adv00
 ●0000000579●
 
-○0000000580○sys20_adv00
+○0000000580○cgm_kt16ay
 ●0000000580●
 
-○0000000581○kuro
+○0000000581○sys20_adv00
 ●0000000581●
 
-○0000000582○sys20_adv00
+○0000000582○cgm_kt33a
 ●0000000582●
 
-○0000000583○bg001
+○0000000583○sys20_adv00
 ●0000000583●
 
-○0000000584○sys20_adv00
+○0000000584○cgm_kt16ay
 ●0000000584●
 
-○0000000585○cgm_kt14a
+○0000000585○sys20_adv00
 ●0000000585●
 
-○0000000586○sys20_adv00
+○0000000586○cgm_kt30a
 ●0000000586●
 
 ○0000000587○sys20_adv00
 ●0000000587●
 
-○0000000588○cgm_kt30a
+○0000000588○sys20_adv00
 ●0000000588●
 
-○0000000589○sys20_adv00
+○0000000589○cgm_kt11a
 ●0000000589●
 
 ○0000000590○sys20_adv00
@@ -1765,322 +1765,322 @@
 ○0000000594○sys20_adv00
 ●0000000594●
 
-○0000000595○cgm_kt18a
+○0000000595○cgm_kt14a
 ●0000000595●
 
 ○0000000596○sys20_adv00
 ●0000000596●
 
-○0000000597○cgm_kt17a
+○0000000597○sys20_adv00
 ●0000000597●
 
-○0000000598○sys20_adv00
+○0000000598○cgm_kt30a
 ●0000000598●
 
-○0000000599○cgm_kt32a
+○0000000599○sys20_adv00
 ●0000000599●
 
 ○0000000600○sys20_adv00
 ●0000000600●
 
-○0000000601○cgm_kt20a
+○0000000601○kuro
 ●0000000601●
 
 ○0000000602○sys20_adv00
 ●0000000602●
 
-○0000000603○cgm_kt31a
+○0000000603○bg001
 ●0000000603●
 
 ○0000000604○sys20_adv00
 ●0000000604●
 
-○0000000605○cgm_kt22ay
+○0000000605○cgm_kt18a
 ●0000000605●
 
 ○0000000606○sys20_adv00
 ●0000000606●
 
-○0000000607○cgm_kt32a
+○0000000607○cgm_kt17a
 ●0000000607●
 
 ○0000000608○sys20_adv00
 ●0000000608●
 
-○0000000609○cgm_kt21ay
+○0000000609○cgm_kt32a
 ●0000000609●
 
 ○0000000610○sys20_adv00
 ●0000000610●
 
-○0000000611○cgm_kt17ay
+○0000000611○cgm_kt20a
 ●0000000611●
 
 ○0000000612○sys20_adv00
 ●0000000612●
 
-○0000000613○cgm_kt16a
+○0000000613○cgm_kt31a
 ●0000000613●
 
 ○0000000614○sys20_adv00
 ●0000000614●
 
-○0000000615○cgm_kt18ah
+○0000000615○cgm_kt22ay
 ●0000000615●
 
 ○0000000616○sys20_adv00
 ●0000000616●
 
-○0000000617○cgm_kt25a
+○0000000617○cgm_kt32a
 ●0000000617●
 
 ○0000000618○sys20_adv00
 ●0000000618●
 
-○0000000619○cgm_kt31a
+○0000000619○cgm_kt21ay
 ●0000000619●
 
 ○0000000620○sys20_adv00
 ●0000000620●
 
-○0000000621○cgm_kt16a
+○0000000621○cgm_kt17ay
 ●0000000621●
 
 ○0000000622○sys20_adv00
 ●0000000622●
 
-○0000000623○cgm_kt31a
+○0000000623○cgm_kt16a
 ●0000000623●
 
 ○0000000624○sys20_adv00
 ●0000000624●
 
-○0000000625○sys20_adv00
+○0000000625○cgm_kt18ah
 ●0000000625●
 
-○0000000626○cgm_kt10a
+○0000000626○sys20_adv00
 ●0000000626●
 
-○0000000627○sys20_adv00
+○0000000627○cgm_kt25a
 ●0000000627●
 
-○0000000628○cgm_kt11a
+○0000000628○sys20_adv00
 ●0000000628●
 
-○0000000629○sys20_adv00
+○0000000629○cgm_kt31a
 ●0000000629●
 
-○0000000630○cgm_kt30a
+○0000000630○sys20_adv00
 ●0000000630●
 
-○0000000631○sys20_adv00
+○0000000631○cgm_kt16a
 ●0000000631●
 
-○0000000632○cgm_kt10ay
+○0000000632○sys20_adv00
 ●0000000632●
 
-○0000000633○sys20_adv00
+○0000000633○cgm_kt31a
 ●0000000633●
 
-○0000000634○cgm_kt11a
+○0000000634○sys20_adv00
 ●0000000634●
 
 ○0000000635○sys20_adv00
 ●0000000635●
 
-○0000000636○cgm_kt12a
+○0000000636○cgm_kt10a
 ●0000000636●
 
 ○0000000637○sys20_adv00
 ●0000000637●
 
-○0000000638○bgm013
+○0000000638○cgm_kt11a
 ●0000000638●
 
 ○0000000639○sys20_adv00
 ●0000000639●
 
-○0000000640○cgm_kt18a
+○0000000640○cgm_kt30a
 ●0000000640●
 
 ○0000000641○sys20_adv00
 ●0000000641●
 
-○0000000642○cgm_kt32a
+○0000000642○cgm_kt10ay
 ●0000000642●
 
-○0000000643○sys00_sys00
+○0000000643○sys20_adv00
 ●0000000643●
 
-○0000000644○muni
+○0000000644○cgm_kt11a
 ●0000000644●
 
-○0000000645○sys00_sys00
+○0000000645○sys20_adv00
 ●0000000645●
 
-○0000000646○muni
+○0000000646○cgm_kt12a
 ●0000000646●
 
 ○0000000647○sys20_adv00
 ●0000000647●
 
-○0000000648○cgm_kt25a
+○0000000648○bgm013
 ●0000000648●
 
 ○0000000649○sys20_adv00
 ●0000000649●
 
-○0000000650○cgm_kt21a
+○0000000650○cgm_kt18a
 ●0000000650●
 
 ○0000000651○sys20_adv00
 ●0000000651●
 
-○0000000652○cgm_kt18a
+○0000000652○cgm_kt32a
 ●0000000652●
 
-○0000000653○sys20_adv00
+○0000000653○sys00_sys00
 ●0000000653●
 
-○0000000654○cgm_kt23a
+○0000000654○muni
 ●0000000654●
 
-○0000000655○sys20_adv00
+○0000000655○sys00_sys00
 ●0000000655●
 
-○0000000656○cgm_kt32a
+○0000000656○muni
 ●0000000656●
 
 ○0000000657○sys20_adv00
 ●0000000657●
 
-○0000000658○cgm_kt34a
+○0000000658○cgm_kt25a
 ●0000000658●
 
 ○0000000659○sys20_adv00
 ●0000000659●
 
-○0000000660○cgm_kt17ay
+○0000000660○cgm_kt21a
 ●0000000660●
 
 ○0000000661○sys20_adv00
 ●0000000661●
 
-○0000000662○sys20_adv00
+○0000000662○cgm_kt18a
 ●0000000662●
 
-○0000000663○kuro
+○0000000663○sys20_adv00
 ●0000000663●
 
-○0000000664○sys20_adv00
+○0000000664○cgm_kt23a
 ●0000000664●
 
-○0000000665○bg001
+○0000000665○sys20_adv00
 ●0000000665●
 
-○0000000666○bgm029
+○0000000666○cgm_kt32a
 ●0000000666●
 
 ○0000000667○sys20_adv00
 ●0000000667●
 
-○0000000668○cgm_kt30b
+○0000000668○cgm_kt34a
 ●0000000668●
 
 ○0000000669○sys20_adv00
 ●0000000669●
 
-○0000000670○cgm_kt16b
+○0000000670○cgm_kt17ay
 ●0000000670●
 
 ○0000000671○sys20_adv00
 ●0000000671●
 
-○0000000672○cgm_kt20b
+○0000000672○sys20_adv00
 ●0000000672●
 
-○0000000673○sys20_adv00
+○0000000673○kuro
 ●0000000673●
 
 ○0000000674○sys20_adv00
 ●0000000674●
 
-○0000000675○kuro
+○0000000675○bg001
 ●0000000675●
 
-○0000000676○sys20_adv00
+○0000000676○bgm029
 ●0000000676●
 
-○0000000677○bg046
+○0000000677○sys20_adv00
 ●0000000677●
 
-○0000000678○sys20_adv00
+○0000000678○cgm_kt30b
 ●0000000678●
 
-○0000000679○bg001
+○0000000679○sys20_adv00
 ●0000000679●
 
-○0000000680○sys20_adv00
+○0000000680○cgm_kt16b
 ●0000000680●
 
-○0000000681○cgm_kt10b
+○0000000681○sys20_adv00
 ●0000000681●
 
-○0000000682○sys20_adv00
+○0000000682○cgm_kt20b
 ●0000000682●
 
-○0000000683○cgm_kt30b
+○0000000683○sys20_adv00
 ●0000000683●
 
 ○0000000684○sys20_adv00
 ●0000000684●
 
-○0000000685○cgm_kt14bh
+○0000000685○kuro
 ●0000000685●
 
 ○0000000686○sys20_adv00
 ●0000000686●
 
-○0000000687○cgm_kt11b
+○0000000687○bg046
 ●0000000687●
 
 ○0000000688○sys20_adv00
 ●0000000688●
 
-○0000000689○sys20_adv00
+○0000000689○bg001
 ●0000000689●
 
-○0000000690○cgm_kt31b
+○0000000690○sys20_adv00
 ●0000000690●
 
-○0000000691○sys20_adv00
+○0000000691○cgm_kt10b
 ●0000000691●
 
-○0000000692○cgm_kt10b
+○0000000692○sys20_adv00
 ●0000000692●
 
-○0000000693○sys20_adv00
+○0000000693○cgm_kt30b
 ●0000000693●
 
-○0000000694○cgm_kt20b
+○0000000694○sys20_adv00
 ●0000000694●
 
-○0000000695○sys20_adv00
+○0000000695○cgm_kt14bh
 ●0000000695●
 
-○0000000696○cgm_kt10b
+○0000000696○sys20_adv00
 ●0000000696●
 
-○0000000697○sys20_adv00
+○0000000697○cgm_kt11b
 ●0000000697●
 
-○0000000698○cgm_kt11b
+○0000000698○sys20_adv00
 ●0000000698●
 
 ○0000000699○sys20_adv00
 ●0000000699●
 
-○0000000700○cgm_kt12b
+○0000000700○cgm_kt31b
 ●0000000700●
 
 ○0000000701○sys20_adv00
@@ -2092,184 +2092,184 @@
 ○0000000703○sys20_adv00
 ●0000000703●
 
-○0000000704○cgm_kt16b
+○0000000704○cgm_kt20b
 ●0000000704●
 
 ○0000000705○sys20_adv00
 ●0000000705●
 
-○0000000706○sys20_adv00
+○0000000706○cgm_kt10b
 ●0000000706●
 
-○0000000707○cgm_kt25b
+○0000000707○sys20_adv00
 ●0000000707●
 
-○0000000708○sys20_adv00
+○0000000708○cgm_kt11b
 ●0000000708●
 
-○0000000709○cgm_kt31b
+○0000000709○sys20_adv00
 ●0000000709●
 
-○0000000710○sys20_adv00
+○0000000710○cgm_kt12b
 ●0000000710●
 
-○0000000711○cgm_kt22b
+○0000000711○sys20_adv00
 ●0000000711●
 
-○0000000712○sys20_adv00
+○0000000712○cgm_kt10b
 ●0000000712●
 
-○0000000713○cgm_kt16b
+○0000000713○sys20_adv00
 ●0000000713●
 
-○0000000714○sys20_adv00
+○0000000714○cgm_kt16b
 ●0000000714●
 
-○0000000715○cgm_kt31b
+○0000000715○sys20_adv00
 ●0000000715●
 
 ○0000000716○sys20_adv00
 ●0000000716●
 
-○0000000717○cgm_kt22bh
+○0000000717○cgm_kt25b
 ●0000000717●
 
 ○0000000718○sys20_adv00
 ●0000000718●
 
-○0000000719○cgm_kt14b
+○0000000719○cgm_kt31b
 ●0000000719●
 
 ○0000000720○sys20_adv00
 ●0000000720●
 
-○0000000721○cgm_kt30b
+○0000000721○cgm_kt22b
 ●0000000721●
 
 ○0000000722○sys20_adv00
 ●0000000722●
 
-○0000000723○cgm_kt11b
+○0000000723○cgm_kt16b
 ●0000000723●
 
 ○0000000724○sys20_adv00
 ●0000000724●
 
-○0000000725○cgm_kt12b
+○0000000725○cgm_kt31b
 ●0000000725●
 
 ○0000000726○sys20_adv00
 ●0000000726●
 
-○0000000727○kuro
+○0000000727○cgm_kt22bh
 ●0000000727●
 
 ○0000000728○sys20_adv00
 ●0000000728●
 
-○0000000729○bg001
+○0000000729○cgm_kt14b
 ●0000000729●
 
 ○0000000730○sys20_adv00
 ●0000000730●
 
-○0000000731○cgm_kt12b
+○0000000731○cgm_kt30b
 ●0000000731●
 
 ○0000000732○sys20_adv00
 ●0000000732●
 
-○0000000733○sys20_adv00
+○0000000733○cgm_kt11b
 ●0000000733●
 
-○0000000734○kuro
+○0000000734○sys20_adv00
 ●0000000734●
 
-○0000000735○sys20_adv00
+○0000000735○cgm_kt12b
 ●0000000735●
 
-○0000000736○bg001
+○0000000736○sys20_adv00
 ●0000000736●
 
-○0000000737○sys20_adv00
+○0000000737○kuro
 ●0000000737●
 
-○0000000738○kuro
+○0000000738○sys20_adv00
 ●0000000738●
 
-○0000000739○sys20_adv00
+○0000000739○bg001
 ●0000000739●
 
-○0000000740○bg001
+○0000000740○sys20_adv00
 ●0000000740●
 
-○0000000741○sys20_adv00
+○0000000741○cgm_kt12b
 ●0000000741●
 
-○0000000742○cgm_kt30b
+○0000000742○sys20_adv00
 ●0000000742●
 
 ○0000000743○sys20_adv00
 ●0000000743●
 
-○0000000744○cgm_kt11b
+○0000000744○kuro
 ●0000000744●
 
 ○0000000745○sys20_adv00
 ●0000000745●
 
-○0000000746○sys20_adv00
+○0000000746○bg001
 ●0000000746●
 
-○0000000747○cgm_kt11by
+○0000000747○sys20_adv00
 ●0000000747●
 
-○0000000748○sys20_adv00
+○0000000748○kuro
 ●0000000748●
 
-○0000000749○cgm_kt31b
+○0000000749○sys20_adv00
 ●0000000749●
 
-○0000000750○sys20_adv00
+○0000000750○bg001
 ●0000000750●
 
-○0000000751○cgm_kt10b
+○0000000751○sys20_adv00
 ●0000000751●
 
-○0000000752○sys20_adv00
+○0000000752○cgm_kt30b
 ●0000000752●
 
-○0000000753○cgm_kt11b
+○0000000753○sys20_adv00
 ●0000000753●
 
-○0000000754○sys20_adv00
+○0000000754○cgm_kt11b
 ●0000000754●
 
-○0000000755○cgm_kt30b
+○0000000755○sys20_adv00
 ●0000000755●
 
 ○0000000756○sys20_adv00
 ●0000000756●
 
-○0000000757○cgm_kt11b
+○0000000757○cgm_kt11by
 ●0000000757●
 
 ○0000000758○sys20_adv00
 ●0000000758●
 
-○0000000759○cgm_kt12b
+○0000000759○cgm_kt31b
 ●0000000759●
 
 ○0000000760○sys20_adv00
 ●0000000760●
 
-○0000000761○cgm_kt16by
+○0000000761○cgm_kt10b
 ●0000000761●
 
 ○0000000762○sys20_adv00
 ●0000000762●
 
-○0000000763○cgm_kt21by
+○0000000763○cgm_kt11b
 ●0000000763●
 
 ○0000000764○sys20_adv00
@@ -2281,55 +2281,55 @@
 ○0000000766○sys20_adv00
 ●0000000766●
 
-○0000000767○cgm_kt30b
+○0000000767○cgm_kt12b
 ●0000000767●
 
 ○0000000768○sys20_adv00
 ●0000000768●
 
-○0000000769○cgm_kt16b
+○0000000769○cgm_kt30b
 ●0000000769●
 
 ○0000000770○sys20_adv00
 ●0000000770●
 
-○0000000771○cgm_kt30b
+○0000000771○cgm_kt11b
 ●0000000771●
 
 ○0000000772○sys20_adv00
 ●0000000772●
 
-○0000000773○cgm_kt17by
+○0000000773○cgm_kt12b
 ●0000000773●
 
 ○0000000774○sys20_adv00
 ●0000000774●
 
-○0000000775○cgm_kt21b
+○0000000775○cgm_kt16by
 ●0000000775●
 
 ○0000000776○sys20_adv00
 ●0000000776●
 
-○0000000777○cgm_kt33b
+○0000000777○cgm_kt21by
 ●0000000777●
 
 ○0000000778○sys20_adv00
 ●0000000778●
 
-○0000000779○cgm_kt11b
+○0000000779○cgm_kt20b
 ●0000000779●
 
 ○0000000780○sys20_adv00
 ●0000000780●
 
-○0000000781○cgm_kt10by
+○0000000781○cgm_kt30b
 ●0000000781●
 
 ○0000000782○sys20_adv00
 ●0000000782●
 
-○0000000783○cgm_kt12by
+○0000000783○cgm_kt16b
 ●0000000783●
 
 ○0000000784○sys20_adv00
@@ -2341,108 +2341,150 @@
 ○0000000786○sys20_adv00
 ●0000000786●
 
-○0000000787○cgm_kt34b
+○0000000787○cgm_kt17by
 ●0000000787●
 
 ○0000000788○sys20_adv00
 ●0000000788●
 
-○0000000789○cgm_kt32b
+○0000000789○cgm_kt21b
 ●0000000789●
 
 ○0000000790○sys20_adv00
 ●0000000790●
 
-○0000000791○cgm_kt16b
+○0000000791○cgm_kt33b
 ●0000000791●
 
 ○0000000792○sys20_adv00
 ●0000000792●
 
-○0000000793○cgm_kt11by
+○0000000793○cgm_kt11b
 ●0000000793●
 
 ○0000000794○sys20_adv00
 ●0000000794●
 
-○0000000795○cgm_kt12b
+○0000000795○cgm_kt10by
 ●0000000795●
 
 ○0000000796○sys20_adv00
 ●0000000796●
 
-○0000000797○cgm_kt30b
+○0000000797○cgm_kt12by
 ●0000000797●
 
 ○0000000798○sys20_adv00
 ●0000000798●
 
-○0000000799○kuro
+○0000000799○cgm_kt30b
 ●0000000799●
 
 ○0000000800○sys20_adv00
 ●0000000800●
 
-○0000000801○bg001y
+○0000000801○cgm_kt34b
 ●0000000801●
 
 ○0000000802○sys20_adv00
 ●0000000802●
 
-○0000000803○cgm_kt11a
+○0000000803○cgm_kt32b
 ●0000000803●
 
 ○0000000804○sys20_adv00
 ●0000000804●
 
-○0000000805○cgm_kt12a
+○0000000805○cgm_kt16b
 ●0000000805●
 
 ○0000000806○sys20_adv00
 ●0000000806●
 
-○0000000807○sys20_adv00
+○0000000807○cgm_kt11by
 ●0000000807●
 
-○0000000808○kuro
+○0000000808○sys20_adv00
 ●0000000808●
 
-○0000000809○sys20_adv00
+○0000000809○cgm_kt12b
 ●0000000809●
 
-○0000000810○bg001n1
+○0000000810○sys20_adv00
 ●0000000810●
 
-○0000000811○bgm004
+○0000000811○cgm_kt30b
 ●0000000811●
 
 ○0000000812○sys20_adv00
 ●0000000812●
 
-○0000000813○bg001n2
+○0000000813○kuro
 ●0000000813●
 
 ○0000000814○sys20_adv00
 ●0000000814●
 
-○0000000815○kuro
+○0000000815○bg001y
 ●0000000815●
 
-○0000000816○bgm012
+○0000000816○sys20_adv00
 ●0000000816●
 
-○0000000817○sys10_mm02
+○0000000817○cgm_kt11a
 ●0000000817●
 
 ○0000000818○sys20_adv00
 ●0000000818●
 
-○0000000819○kuro
+○0000000819○cgm_kt12a
 ●0000000819●
 
-○0000000820○sys00_sys00
+○0000000820○sys20_adv00
 ●0000000820●
 
-○0000000821○seen01011
+○0000000821○sys20_adv00
 ●0000000821●
+
+○0000000822○kuro
+●0000000822●
+
+○0000000823○sys20_adv00
+●0000000823●
+
+○0000000824○bg001n1
+●0000000824●
+
+○0000000825○bgm004
+●0000000825●
+
+○0000000826○sys20_adv00
+●0000000826●
+
+○0000000827○bg001n2
+●0000000827●
+
+○0000000828○sys20_adv00
+●0000000828●
+
+○0000000829○kuro
+●0000000829●
+
+○0000000830○bgm012
+●0000000830●
+
+○0000000831○sys10_mm02
+●0000000831●
+
+○0000000832○sys20_adv00
+●0000000832●
+
+○0000000833○kuro
+●0000000833●
+
+○0000000834○sys00_sys00
+●0000000834●
+
+○0000000835○seen01011
+●0000000835●
 

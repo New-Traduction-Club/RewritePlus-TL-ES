@@ -73,7 +73,7 @@
 ○0000000024○朱音
 ●0000000024●
 
-○0000000025○"Only the Key ― the will of the planet ― can make that judgment."
+○0000000025○"Only the Key―the will of the planet―can make that judgment."
 ●0000000025●
 
 ○0000000026○瑚太朗
@@ -118,7 +118,7 @@
 ○0000000039○朱音
 ●0000000039●
 
-○0000000040○"Mankind is right whatever it does. It has lived too long as the master of this planet for it to be any other way, and so it cannot permit the existence of anything that might upset that group."
+○0000000040○"Mankind is right whatever it does. It has lived too long as the master of this planet for it to be any other way, and so it can't permit the existence of anything that might upset that group."
 ●0000000040●
 
 ○0000000041○朱音
@@ -187,7 +187,7 @@
 ○0000000062○瑚太朗
 ●0000000062●
 
-○0000000063○"I guess the ultimate result ended up with the seed of destruction being plucked."
+○0000000063○"I guess the ultimate result ended up with the Seed of Destruction being plucked."
 ●0000000063●
 
 ○0000000064○朱音
@@ -955,7 +955,7 @@
 ○0000000318○朱音
 ●0000000318●
 
-○0000000319○"And the first thing I felt towards her was hate. Though I loved her at the same time."
+○0000000319○"And the first thing I felt toward her was hate. Though I loved her at the same time."
 ●0000000319●
 
 ○0000000320○朱音
@@ -979,7 +979,7 @@
 ○0000000326○朱音
 ●0000000326●
 
-○0000000327○"They cannot possibly accept the existence of their own copy."
+○0000000327○"They can't possibly accept the existence of their own copy."
 ●0000000327●
 
 ○0000000328○瑚太朗
@@ -1045,7 +1045,7 @@
 ○0000000348○瑚太朗
 ●0000000348●
 
-○0000000349○"Regardless of if she loved you back or not; no matter if she only used you or not... all that matters is that you still feel love towards her."
+○0000000349○"Regardless of if she loved you back or not; no matter if she only used you or not... all that matters is that you still feel love toward her."
 ●0000000349●
 
 ○0000000350○朱音
@@ -1195,7 +1195,7 @@
 ○0000000398○瑚太朗
 ●0000000398●
 
-○0000000399○"It hurts, Mom!!"
+○0000000399○"It hurts, Mom!"
 ●0000000399●
 
 ○0000000400○朱音
@@ -1774,7 +1774,7 @@
 ○0000000591○洲崎
 ●0000000591●
 
-○0000000592○"You may be a servant to the Holy Woman, but I cannot let that pass unnoticed."
+○0000000592○"You may be a servant to the Holy Woman, but I can't let that pass unnoticed."
 ●0000000592●
 
 ○0000000593○洲崎
@@ -1786,7 +1786,7 @@
 ○0000000595○洲崎
 ●0000000595●
 
-○0000000596○"I cannot provide a mannequin with power."
+○0000000596○"I can't provide a mannequin with power."
 ●0000000596●
 
 ○0000000597○洲崎
@@ -1804,7 +1804,7 @@
 ○0000000601○洲崎
 ●0000000601●
 
-○0000000602○"I cannot say I find your attitude impressive. You sound like a child throwing a tantrum."
+○0000000602○"I can't say I find your attitude impressive. You sound like a child throwing a tantrum."
 ●0000000602●
 
 ○0000000603○洲崎
@@ -1957,7 +1957,7 @@
 ○0000000653○I'm a part of Gaia now.
 ●0000000653●
 
-○0000000654○Akane's attendant ― her protector.
+○0000000654○Akane's attendant―her protector.
 ●0000000654●
 
 ○0000000655○However, even now... I'm still uncertain about myself.
@@ -1969,7 +1969,7 @@
 ○0000000657○But now...
 ●0000000657●
 
-○0000000658○Ever since that day, she's begun working vigorously towards her goal, whatever that is.
+○0000000658○Ever since that day, she's begun working vigorously toward her goal, whatever that is.
 ●0000000658●
 
 ○0000000659○It's almost like she's suddenly changed into someone else.
@@ -2026,7 +2026,7 @@
 ○0000000676○朱音
 ●0000000676●
 
-○0000000677○"This is the power of the Holy Woman ― the proof of my inheritance. On the most basic level, it's exactly the same kind of power as that of summoners, but..."
+○0000000677○"This is the power of the Holy Woman―the proof of my inheritance. On the most basic level, it's exactly the same kind of power as that of summoners, but..."
 ●0000000677●
 
 ○0000000678○I've seen countless people that have been sleeping for years suddenly spring out of their beds.
@@ -2173,7 +2173,7 @@
 ○0000000725○A place that has nothing to do with me anymore.
 ●0000000725●
 
-○0000000726○My old classmates should be third years by now.
+○0000000726○My old classmates should be third-years by now.
 ●0000000726●
 
 ○0000000727○They're probably struggling with preparations for final exams right about now.
@@ -2218,7 +2218,7 @@
 ○0000000740○Yeah.
 ●0000000740●
 
-○0000000741○He and I ― we failed.
+○0000000741○He and I―we failed.
 ●0000000741●
 
 ○0000000742○Unable to become either friends or enemies.
@@ -2266,7 +2266,7 @@
 ○0000000756○And not only her.
 ●0000000756●
 
-○0000000757○Sizuru and Lucia disappeared without a trace, as well.
+○0000000757○Shizuru and Lucia disappeared without a trace, as well.
 ●0000000757●
 
 ○0000000758○I had Akane look into it, and I conducted a few searches myself.
@@ -2413,7 +2413,7 @@
 ○0000000805○西九条
 ●0000000805●
 
-○0000000806○"Those are indeed sins that cannot be forgiven."
+○0000000806○"Those are indeed sins that can't be forgiven."
 ●0000000806●
 
 ○0000000807○西九条
@@ -2629,7 +2629,7 @@
 ○0000000877○瑚太朗
 ●0000000877●
 
-○0000000878○"You say humans may be foolish, but you still believe in the goodness of their hearts, but as you speak, poison's pouring forth form your own mouth."
+○0000000878○"You say humans may be foolish, and that even then you still believe in the goodness of their hearts, but as you speak, poison's pouring forth from your own mouth."
 ●0000000878●
 
 ○0000000879○瑚太朗
@@ -2794,7 +2794,7 @@
 ○0000000932○There was a hint of a superpower in it.
 ●0000000932●
 
-○0000000933○The moment I lose my sight, I leap backwards to make some distance between myself and the threat.
+○0000000933○The moment I lose my sight, I leap backward to make some distance between myself and the threat.
 ●0000000933●
 
 ○0000000934○But no follow-up attack comes.
@@ -3163,7 +3163,7 @@
 ○0000001055○朱音
 ●0000001055●
 
-○0000001056○"Humans cannot replicate it."
+○0000001056○"Humans can't replicate it."
 ●0000001056●
 
 ○0000001057○I don't quite understand.
@@ -3208,7 +3208,7 @@
 ○0000001070○朱音
 ●0000001070●
 
-○0000001071○"Try repeating this one more time. You need not worry about the skill or timbre of your voice too much ― having all your hearts synchronized is far more important."
+○0000001071○"Try repeating this one more time. You need not worry about the skill or timbre of your voice too much―having all your hearts synchronized is far more important."
 ●0000001071●
 
 ○0000001072○I can't even exchange a farewell.
@@ -3220,7 +3220,7 @@
 ○0000001074○It's not like we're on different pages, but...
 ●0000001074●
 
-○0000001075○...she feels like she's drifting somewhere farther away ever day.
+○0000001075○...she feels like she's drifting somewhere farther away every day.
 ●0000001075●
 
 ○0000001076○That magazine was once hit by a recession, closing it for a time.
@@ -3232,7 +3232,7 @@
 ○0000001078○Few people paid attention to it when it suddenly resurfaced from its hiatus.
 ●0000001078●
 
-○0000001079○And so, a few of its editions ― with "sincerity as our number one priority" as their motto ― spread around, barely noticed.
+○0000001079○And so, a few of its editions―with "sincerity as our number-one priority" as their motto―spread around, barely noticed.
 ●0000001079●
 
 ○0000001080○But while its text might be sincere, the contents were hardly interesting.
@@ -3283,7 +3283,7 @@
 ○0000001095○Even the treatment of the diseased had been connected to an attempt to gain favor.
 ●0000001095●
 
-○0000001096○In fact, the miracles of the Holy Woman ― the symbol of the organization ― had been given special attention.
+○0000001096○In fact, the miracles of the Holy Woman―the symbol of the organization―had been given special attention.
 ●0000001096●
 
 ○0000001097○There were public pictures of Akane I had no recollection of letting anyone take.
@@ -3367,7 +3367,7 @@
 ○0000001123○I ended up getting more free time, but it didn't matter much when I couldn't go outside.
 ●0000001123●
 
-○0000001124○The Internet was even worse.
+○0000001124○The internet was even worse.
 ●0000001124●
 
 ○0000001125○I expected us to get some flak, but it seemed like people there didn't even care about anything resembling substance as long as they had something to attack.
@@ -4633,7 +4633,7 @@
 ○0000001549○We're being observed twenty-four hours a day.
 ●0000001549●
 
-○0000001550○Anyone who enters and leaves the building ― individuals or agencies ― ends up accosted and threatened for their involvement with us.
+○0000001550○Anyone who enters and leaves the building―individuals or agencies―ends up accosted and threatened for their involvement with us.
 ●0000001550●
 
 ○0000001551○It doesn't even matter if they're young women and children.
@@ -4834,7 +4834,7 @@
 ○0000001616○瑚太朗
 ●0000001616●
 
-○0000001617○"Ms. Tsukuno, have you been checking the Internet?"
+○0000001617○"Ms. Tsukuno, have you been checking the internet?"
 ●0000001617●
 
 ○0000001618○津久野
@@ -4849,7 +4849,7 @@
 ○0000001621○"Look."
 ●0000001621●
 
-○0000001622○I turn the laptop's screen towards Ms. Tsukuno.
+○0000001622○I turn the laptop's screen toward Ms. Tsukuno.
 ●0000001622●
 
 ○0000001623○津久野
@@ -4924,7 +4924,7 @@
 ○0000001646○瑚太朗
 ●0000001646●
 
-○0000001647○"Gah! Go to hell!!"
+○0000001647○"Gah! Go to hell!"
 ●0000001647●
 
 ○0000001648○I'm too irritated to read any further.
@@ -5353,7 +5353,7 @@
 ○0000001789○How can she be so calm?
 ●0000001789●
 
-○0000001790○We're heading towards destruction...
+○0000001790○We're heading toward destruction...
 ●0000001790●
 
 ○0000001792○朱音
@@ -5725,7 +5725,7 @@
 ○0000001914○"Akane..."
 ●0000001914●
 
-○0000001915○"...wants to put an end to everything ― make the world go away!"
+○0000001915○"...wants to put an end to everything―make the world go away!"
 ●0000001915●
 
 ○0000001916○瑚太朗
@@ -5878,7 +5878,7 @@
 ○0000001965○瑚太朗
 ●0000001965●
 
-○0000001966○"But I'm your ally! Rely on me! Use me!!"
+○0000001966○"But I'm your ally! Rely on me! Use me!"
 ●0000001966●
 
 ○0000001967○"...You poor, poor thing."
@@ -6514,7 +6514,7 @@
 ○0000002177○朱音
 ●0000002177●
 
-○0000002178○"...Even if you were to save people now, only destruction waits at the end of their path."
+○0000002178○"...Even if you were to save people now, only Destruction waits at the end of their path."
 ●0000002178●
 
 ○0000002179○瑚太朗
@@ -6532,7 +6532,7 @@
 ○0000002183○瑚太朗
 ●0000002183●
 
-○0000002184○"Don't you think there's still something we ― the few in the know ― could do?"
+○0000002184○"Don't you think there's still something we―the few in the know―could do?"
 ●0000002184●
 
 ○0000002185○朱音
@@ -6568,7 +6568,7 @@
 ○0000002195○朱音
 ●0000002195●
 
-○0000002196○"You cannot solve the planet's problems as long as humans are not all on the same side."
+○0000002196○"You can't solve the planet's problems as long as humans are not all on the same side."
 ●0000002196●
 
 ○0000002197○朱音

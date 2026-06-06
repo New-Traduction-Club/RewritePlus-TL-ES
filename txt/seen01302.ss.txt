@@ -112,7 +112,7 @@
 ○0000000037○ルチア
 ●0000000037●
 
-○0000000038○"Just what is up with this? I went out of my way to come here because Sizuru's helping you, but you're just lazing around!"
+○0000000038○"Just what is up with this? I went out of my way to come here because Shizuru's helping you, but you're just lazing around!"
 ●0000000038●
 
 ○0000000039○静流
@@ -130,7 +130,7 @@
 ○0000000043○ルチア
 ●0000000043●
 
-○0000000044○"LISTEN TO ME!!"
+○0000000044○"LISTEN TO ME!"
 ●0000000044●
 
 ○0000000045○瑚太朗
@@ -145,7 +145,7 @@
 ○0000000048○瑚太朗
 ●0000000048●
 
-○0000000049○"IT'S TIME FOR A QUEST!!!!"
+○0000000049○"IT'S TIME FOR A QUEST!"
 ●0000000049●
 
 ○0000000050○I totally forgot.
@@ -160,7 +160,7 @@
 ○0000000053○ルチア
 ●0000000053●
 
-○0000000054○"I'm afraid to even suggest it, but are you sure you're not making fun of me in tandem with this fool, Sizuru?"
+○0000000054○"I'm afraid to even suggest it, but are you sure you're not making fun of me in tandem with this fool, Shizuru?"
 ●0000000054●
 
 ○0000000055○静流
@@ -253,7 +253,7 @@
 ○0000000084○"Or a prank from someone acting as one."
 ●0000000084●
 
-○0000000085○You only have text on the Internet, so it's easy to obfuscate one's identity.
+○0000000085○You only have text on the internet, so it's easy to obfuscate one's identity.
 ●0000000085●
 
 ○0000000086○(I mean, why would a damn child submit clues to a high schooler club board?)
@@ -289,7 +289,7 @@
 ○0000000096○小鳥
 ●0000000096●
 
-○0000000097○"They probably meant, 'it's scary'."
+○0000000097○"They probably meant, 'it's scary.'"
 ●0000000097●
 
 ○0000000098○静流
@@ -406,7 +406,7 @@
 ○0000000135○ちはや
 ●0000000135●
 
-○0000000136○"Egh?"
+○0000000136○"Wha?"
 ●0000000136●
 
 ○0000000137○朱音
@@ -484,7 +484,7 @@
 ○0000000161○瑚太朗
 ●0000000161●
 
-○0000000162○"Egh?"
+○0000000162○"Huh?"
 ●0000000162●
 
 ○0000000163○朱音
@@ -535,7 +535,7 @@
 ○0000000178○"......"
 ●0000000178●
 
-○0000000179○Sizuru shakes her head.
+○0000000179○Shizuru shakes her head.
 ●0000000179●
 
 ○0000000180○瑚太朗
@@ -721,7 +721,7 @@
 ○0000000240○瑚太朗
 ●0000000240●
 
-○0000000241○"(Ugh! He's actually planning to start training right away!!) I-I see..."
+○0000000241○"(Ugh! He's actually planning to start training right away!) I-I see..."
 ●0000000241●
 
 ○0000000242○小鳥
@@ -823,7 +823,7 @@
 ○0000000274○瑚太朗
 ●0000000274●
 
-○0000000275○"All right, let's use Chihaya's jet to scout from the sky right away."
+○0000000275○"All right, let's use the Chihaya Jet to scout from the sky right away."
 ●0000000275●
 
 ○0000000276○ちはや
@@ -835,13 +835,13 @@
 ○0000000278○ちはや
 ●0000000278●
 
-○0000000279○"Um, are you mistaking me for a robot or something?"
+○0000000279○"Are you perhaps mistaking me for a robot or something?"
 ●0000000279●
 
 ○0000000280○ルチア
 ●0000000280●
 
-○0000000281○"But how will we find it if we can't use the jet?"
+○0000000281○"But how will we find it if we can't use the Chihaya Jet?"
 ●0000000281●
 
 ○0000000282○瑚太朗
@@ -919,7 +919,7 @@
 ○0000000306○小鳥
 ●0000000306●
 
-○0000000307○"What are you implying?! Bad!!"
+○0000000307○"What are you implying?! Bad!"
 ●0000000307●
 
 ○0000000308○ちはや
@@ -976,7 +976,7 @@
 ○0000000325○"Chii..."
 ●0000000325●
 
-○0000000326○Sizuru pats Chihaya's shoulder.
+○0000000326○Shizuru pats Chihaya's shoulder.
 ●0000000326●
 
 ○0000000327○静流
@@ -1039,7 +1039,7 @@
 ○0000000346○朱音
 ●0000000346●
 
-○0000000347○"You can leave the cyberspace investigation to me. You can find anything on the Internet these days."
+○0000000347○"You can leave the cyberspace investigation to me. You can find anything on the internet these days."
 ●0000000347●
 
 ○0000000348○ちはや
@@ -1048,7 +1048,7 @@
 ○0000000349○"I see..."
 ●0000000349●
 
-○0000000350○(Don't be fooled. You can't find everything on the Internet.)
+○0000000350○(Don't be fooled. You can't find everything on the internet.)
 ●0000000350●
 
 ○0000000351○(All right, I wonder where it might be.)
@@ -1162,13 +1162,13 @@
 ○0000000387○瑚太朗
 ●0000000387●
 
-○0000000388○"Who the hell is an old man, you punk?! I'm still a teenager!!"
+○0000000388○"Who the hell is an old man, you punk?! I'm still a teenager!"
 ●0000000388●
 
 ○0000000389○小学生たち
 ●0000000389●
 
-○0000000390○"Whoa! He's angry! Run!!"
+○0000000390○"Whoa! He's angry! Run!"
 ●0000000390●
 
 ○0000000391○瑚太朗
@@ -1255,7 +1255,7 @@
 ○0000000418○(That's right! I should probably establish an organization responsible for preserving them!)
 ●0000000418●
 
-○0000000419○(All right! I'll make a site for this as soon as I return!!)
+○0000000419○(All right! I'll make a site for this as soon as I return!)
 ●0000000419●
 
 ○0000000420○瑚太朗
@@ -1279,7 +1279,7 @@
 ○0000000426○瑚太朗
 ●0000000426●
 
-○0000000427○"Oh shit!!"
+○0000000427○"Oh shit!"
 ●0000000427●
 
 ○0000000428○I totally lost myself in the marufuku signboards.
@@ -1561,13 +1561,13 @@
 ○0000000520○"So this is... the starfish cutter."
 ●0000000520●
 
-○0000000521○Sizuru picks up a spiky plastic toy.
+○0000000521○Shizuru picks up a spiky plastic toy.
 ●0000000521●
 
 ○0000000522○瑚太朗
 ●0000000522●
 
-○0000000523○"That's a shuriken, Sizuru."
+○0000000523○"That's a shuriken, Shizuru."
 ●0000000523●
 
 ○0000000524○静流
@@ -1855,7 +1855,7 @@
 ○0000000618○ちはや
 ●0000000618●
 
-○0000000619○"I'm not!!"
+○0000000619○"I'm not!"
 ●0000000619●
 
 ○0000000620○I get into position to catch her.
@@ -1897,7 +1897,7 @@
 ○0000000632○ちはや
 ●0000000632●
 
-○0000000633○"Gyaaaaaaaaa...!!!"
+○0000000633○"Gyaaaaaaaaa...!"
 ●0000000633●
 
 ○0000000634○*THUD*
@@ -1948,7 +1948,7 @@
 ○0000000649○ちはや
 ●0000000649●
 
-○0000000650○"Of course I'm not!!"
+○0000000650○"Of course I'm not!"
 ●0000000650●
 
 ○0000000651○ルチア
@@ -1999,7 +1999,7 @@
 ○0000000666○ちはや
 ●0000000666●
 
-○0000000667○"That's why I hate you!!"
+○0000000667○"That's why I hate you!"
 ●0000000667●
 
 ○0000000668○...It looks like my physical strength has increased more than I thought.
@@ -2167,7 +2167,7 @@
 ○0000000722○吉野
 ●0000000722●
 
-○0000000723○"STOP IT!! THE PAST OF A WOLF IS NOT TO BE DISCUSSED!!"
+○0000000723○"STOP IT! THE PAST OF A WOLF IS NOT TO BE DISCUSSED!"
 ●0000000723●
 
 ○0000000724○ばあちゃん
@@ -2215,7 +2215,7 @@
 ○0000000738○吉野
 ●0000000738●
 
-○0000000739○"Ghuooooh!!"
+○0000000739○"Ghuooooh!"
 ●0000000739●
 
 ○0000000740○朱音
@@ -2344,7 +2344,7 @@
 ○0000000781○吉野
 ●0000000781●
 
-○0000000782○"DON'T BREAK THE LEGEND!! G-GODDAMMIT!!!"
+○0000000782○"DON'T BREAK THE LEGEND! G-GOD DAMN IT!"
 ●0000000782●
 
 ○0000000783○瑚太朗
@@ -2392,7 +2392,7 @@
 ○0000000797○吉野
 ●0000000797●
 
-○0000000798○"Dammit, I've had enough."
+○0000000798○"Damn it, I've had enough."
 ●0000000798●
 
 ○0000000799○ばあちゃん
@@ -2485,7 +2485,7 @@
 ○0000000828○"I need this equipment..."
 ●0000000828●
 
-○0000000829○Sizuru holds out a shuriken and a boomerang. I have no idea what she's planning to do with those.
+○0000000829○Shizuru holds out a shuriken and a boomerang. I have no idea what she's planning to do with those.
 ●0000000829●
 
 ○0000000830○ルチア
@@ -2641,7 +2641,7 @@
 ○0000000880○吉野
 ●0000000880●
 
-○0000000881○"Why're you all following me, anyway?! Get away from me!!"
+○0000000881○"Why're you all following me, anyway?! Get away from me!"
 ●0000000881●
 
 ○0000000882○瑚太朗
@@ -2662,7 +2662,7 @@
 ○0000000887○"Today marks the end of this legend..."
 ●0000000887●
 
-○0000000888○Sizuru is holding the Holy Sword, Excalibur, that she borrowed from Chihaya.
+○0000000888○Shizuru is holding the Holy Sword, Excalibur, that she borrowed from Chihaya.
 ●0000000888●
 
 ○0000000889○Its broken tip hangs limply at the end of the blade.
@@ -2680,7 +2680,7 @@
 ○0000000893○"......"
 ●0000000893●
 
-○0000000894○Sizuru swings it a few times with a blank expression. It seems like she has taken a liking to it.
+○0000000894○Shizuru swings it a few times with a blank expression. It seems like she has taken a liking to it.
 ●0000000894●
 
 ○0000000895○瑚太朗
@@ -2836,7 +2836,7 @@
 ○0000000945○"......"
 ●0000000945●
 
-○0000000946○Sizuru waves us goodbye.
+○0000000946○Shizuru waves us goodbye.
 ●0000000946●
 
 ○0000000947○ルチア
@@ -2908,7 +2908,7 @@
 ○0000000969○I have one idea.
 ●0000000969●
 
-○0000000970○There has to be a bunch of people around ― like Yoshino ― that used to frequent that old candy shop.
+○0000000970○There has to be a bunch of people around―like Yoshino―that used to frequent that old candy shop.
 ●0000000970●
 
 ○0000000971○What if I tried to find and interview them?
@@ -2935,7 +2935,7 @@
 ○0000000978○It's not my place to meddle
 ●0000000978●
 
-○0000000979○Might as well do something useless
+○0000000979○Do something useless
 ●0000000979●
 
 ○0000000980○Duh.
@@ -3073,7 +3073,7 @@
 ○0000001024○元会長
 ●0000001024●
 
-○0000001025○"Dig it up and burn it right away!!"
+○0000001025○"Dig it up and burn it right away!"
 ●0000001025●
 
 ○0000001026○瑚太朗
@@ -3307,7 +3307,7 @@
 ○0000001102○瑚太朗
 ●0000001102●
 
-○0000001103○"Haha, naw. All Internet meetups just end up in disappointment."
+○0000001103○"Haha, naw. All internet meetups just end up in disappointment."
 ●0000001103●
 
 ○0000001104○元会長

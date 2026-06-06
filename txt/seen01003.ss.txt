@@ -4,13 +4,13 @@
 ○0000000003○Sunday, October 3rd
 ●0000000003●
 
-○0000000004○...As though being punished for my behavior, I'm unexpectedly summoned by a certain person on Sunday night.
+○0000000004○...As if being punished for my behavior, I'm unexpectedly summoned by a certain person on Sunday night.
 ●0000000004●
 
 ○0000000005○理香子＿体験版
 ●0000000005●
 
-○0000000006○"My daughter Kotori hasn't returned home."
+○0000000006○"My daughter Kotori has yet to return home."
 ●0000000006●
 
 ○0000000007○理香子＿体験版
@@ -22,10 +22,10 @@
 ○0000000009○理香子＿体験版
 ●0000000009●
 
-○0000000010○"...I would like to ask you to bring her back."
+○0000000010○"...I would ask you to bring her back."
 ●0000000010●
 
-○0000000011○I don't really see what this has to do with me.
+○0000000011○There's very little connecting her sentences together.
 ●0000000011●
 
 ○0000000012○Still...
@@ -169,7 +169,7 @@
 ○0000000058○瑚太朗＿体験版
 ●0000000058●
 
-○0000000059○"Wake up, Kotori!!!"
+○0000000059○"Wake up, Kotori!"
 ●0000000059●
 
 ○0000000060○I shake her harder.
@@ -208,7 +208,7 @@
 ○0000000071○Use something she likes
 ●0000000071●
 
-○0000000072○Use something she doesn't
+○0000000072○Use something she dislikes
 ●0000000072●
 
 ○0000000073○Okay, then.
@@ -808,7 +808,7 @@
 ○0000000272○"You did a marvelous job."
 ●0000000272●
 
-○0000000273○I bow like the obedient servant of a noble house.
+○0000000273○I bow like the obedient manservant of a noble house.
 ●0000000273●
 
 ○0000000274○瑚太朗＿体験版

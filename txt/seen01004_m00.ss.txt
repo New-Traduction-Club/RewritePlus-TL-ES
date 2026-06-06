@@ -259,7 +259,7 @@
 ○0000000101○瑚太朗
 ●0000000101●
 
-○0000000102○"Hey, Mr. Tamura has gone out to pick up marriage forms! I think it's a bit too early to decide this little girl's future!!"
+○0000000102○"Hey, Mr. Tamura has gone out to pick up marriage forms! I think it's a bit too early to decide this little girl's future!"
 ●0000000102●
 
 ○0000000104○瑚太朗
@@ -373,7 +373,7 @@
 ○0000000145○瑚太朗＿体験版
 ●0000000145●
 
-○0000000146○"Woof, woof!!"
+○0000000146○"Woof, woof!"
 ●0000000146●
 
 ○0000000147○瑚太朗＿体験版
@@ -427,7 +427,7 @@
 ○0000000166○瑚太朗
 ●0000000166●
 
-○0000000167○"Gyah, it's freezing cold!!"
+○0000000167○"Gyah, it's freezing cold!"
 ●0000000167●
 
 ○0000000169○瑚太朗
@@ -607,13 +607,13 @@
 ○0000000241○オヤジ
 ●0000000241●
 
-○0000000242○"Hey!! Who the hell hit this ball in here?!?!"
+○0000000242○"Hey! Who the hell hit this ball in here?!?!"
 ●0000000242●
 
 ○0000000243○瑚太朗
 ●0000000243●
 
-○0000000244○"Ahh...!! I-It was me!!"
+○0000000244○"Ahh...! I-It was me!"
 ●0000000244●
 
 ○0000000246○瑚太朗
@@ -718,7 +718,7 @@
 ○0000000286○瑚太朗
 ●0000000286●
 
-○0000000287○"All right!!! SWIIIIIIIIING!!!!!"
+○0000000287○"All right! SWIIIIIIIIING!"
 ●0000000287●
 
 ○0000000288○瑚太朗
@@ -766,7 +766,7 @@
 ○0000000303○瑚太朗
 ●0000000303●
 
-○0000000304○"All right!!"
+○0000000304○"All right!"
 ●0000000304●
 
 ○0000000306○■マッピー／既読■　ID:
@@ -988,7 +988,7 @@
 ○0000000387○瑚太朗＿体験版
 ●0000000387●
 
-○0000000388○"How did you like my self-deprecating humor?"
+○0000000388○"Guess you could say that joke was... all at my own expense."
 ●0000000388●
 
 ○0000000390○■マッピー／既読■　ID:
@@ -1117,7 +1117,7 @@
 ○0000000436○二年男子
 ●0000000436●
 
-○0000000437○"Yeah... My youth has only just begun, but I'm already in trouble."
+○0000000437○"Yeah... I'm so early into my youth, but so already in trouble."
 ●0000000437●
 
 ○0000000438○瑚太朗
@@ -1153,7 +1153,7 @@
 ○0000000450○瑚太朗
 ●0000000450●
 
-○0000000451○"That does sound pretty friendly."
+○0000000451○"Love to hear it."
 ●0000000451●
 
 ○0000000453○二年男子
@@ -1165,13 +1165,13 @@
 ○0000000455○二年男子
 ●0000000455●
 
-○0000000456○"Everyone else decided on each other's nicknames right away, but I alone ended up without one."
+○0000000456○"Early into even knowing each other, everyone else decided on nicknames for one another, but I alone ended up without one."
 ●0000000456●
 
 ○0000000457○二年男子
 ●0000000457●
 
-○0000000458○"With nicknames, if you don't decide on one right away, you never end up getting one."
+○0000000458○"With nicknames, if you don't get one early, you never end up getting one."
 ●0000000458●
 
 ○0000000459○瑚太朗
@@ -1219,7 +1219,7 @@
 ○0000000477○二年男子
 ●0000000477●
 
-○0000000478○"I screwed up. I should've tried harder to make friends right away, like everyone else."
+○0000000478○"I screwed up. I should've tried earlier to make friends, like everyone else."
 ●0000000478●
 
 ○0000000479○二年男子
@@ -1231,7 +1231,7 @@
 ○0000000481○二年男子
 ●0000000481●
 
-○0000000482○"My life was doomed from the moment I was born!"
+○0000000482○"Oh, how early into my life that I've been cursed!"
 ●0000000482●
 
 ○0000000483○I can't think of him as just another face in the crowd anymore.
@@ -1255,7 +1255,7 @@
 ○0000000490○瑚太朗
 ●0000000490●
 
-○0000000491○"Mr. Right-away."
+○0000000491○"Earl."
 ●0000000491●
 
 ○0000000493○二年男子
@@ -1270,13 +1270,13 @@
 ○0000000496○瑚太朗
 ●0000000496●
 
-○0000000497○"You keep saying how you should have done stuff right away, or how you were doomed right away, over and over, and it's honestly annoying as all hell."
+○0000000497○"You keep saying how you wish you'd been early to make friends, or how early into your life you were cursed with this fate, over and over, and it's honestly annoying as all hell."
 ●0000000497●
 
 ○0000000498○瑚太朗
 ●0000000498●
 
-○0000000499○"As such, I name you Mr. Right-away."
+○0000000499○"As such, I name you Earl."
 ●0000000499●
 
 ○0000000501○二年男子
@@ -1318,7 +1318,7 @@
 ○0000000515○ジョバンニ
 ●0000000515●
 
-○0000000516○"Hooray! I'm gonna tell my classmates to call me Mr. Right-away right away!"
+○0000000516○"Hooray! I'm called Earl 'cause I just love talking about being early! The early Earl! The earliest Earl!"
 ●0000000516●
 
 ○0000000517○He trots off down the road to school.
@@ -1330,7 +1330,7 @@
 ○0000000519○"That was pretty terrible, though... if I do say so myself."
 ●0000000519●
 
-○0000000521○You've made friends with Mr. Right-away!
+○0000000521○You've made friends with Earl!
 ●0000000521●
 
 ○0000000522○■友達■　ID:

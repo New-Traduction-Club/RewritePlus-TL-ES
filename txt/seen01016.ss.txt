@@ -118,7 +118,7 @@
 ○0000000041○During lunch break...
 ●0000000041●
 
-○0000000042○I want to check something on the Internet, so I head to the club room.
+○0000000042○I want to check something on the internet, so I head to the club room.
 ●0000000042●
 
 ○0000000043○...I wonder if anyone's there.
@@ -214,7 +214,7 @@
 ○0000000074○瑚太朗
 ●0000000074●
 
-○0000000075○"Are you a senior? I'm sorry for coming off as rude, if that's the case."
+○0000000075○"Are you a third-year? I'm sorry for coming off as rude, if that's the case."
 ●0000000075●
 
 ○0000000076○瑚太朗
@@ -379,7 +379,7 @@
 ○0000000129○瑚太朗
 ●0000000129●
 
-○0000000130○"You said 'go to the back', and I said 'sure'."
+○0000000130○"You said 'go to the back,' and I said 'sure.'"
 ●0000000130●
 
 ○0000000131○？？＿咲夜
@@ -574,7 +574,7 @@
 ○0000000194○朱音
 ●0000000194●
 
-○0000000195○"I don't know what you mean by 'for real', but you could say he is an acquaintance of an acquaintance of sorts."
+○0000000195○"I don't know what you mean by 'for real,' but you could say he is an acquaintance of an acquaintance of sorts."
 ●0000000195●
 
 ○0000000196○瑚太朗
@@ -628,7 +628,7 @@
 ○0000000212○朱音
 ●0000000212●
 
-○0000000213○"Hm, but what about your uniform then?"
+○0000000213○"Hm, but what about your uniform, then?"
 ●0000000213●
 
 ○0000000214○？？＿咲夜
@@ -673,7 +673,7 @@
 ○0000000227○朱音
 ●0000000227●
 
-○0000000228○"I see. Well, good for you then."
+○0000000228○"I see. Well, good for you, then."
 ●0000000228●
 
 ○0000000229○It doesn't seem like our club president likes this guy much.
@@ -985,7 +985,7 @@
 ○0000000331○"Oh, excuse me. Who might you be?"
 ●0000000331●
 
-○0000000332○He looks right through me, as if I didn't exist.
+○0000000332○He looks right through me, as if I don't exist.
 ●0000000332●
 
 ○0000000333○瑚太朗
@@ -1426,7 +1426,7 @@
 ○0000000478○咲夜
 ●0000000478●
 
-○0000000479○"...Hm? In any case, I must admit my first impression of you was quite terrible. I would appreciate if you learned how to act in a more composed manner."
+○0000000479○"Heh. In any case, I must admit my first impression of you was quite terrible. I would appreciate if you learned how to act in a more composed manner."
 ●0000000479●
 
 ○0000000480○瑚太朗
@@ -1456,13 +1456,13 @@
 ○0000000488○瑚太朗
 ●0000000488●
 
-○0000000489○"I'll go with Chihaya, then."
+○0000000489○"Cool, Chihaya it is."
 ●0000000489●
 
 ○0000000490○咲夜
 ●0000000490●
 
-○0000000491○"How dare you address her so casually? If there were a competition for hubris, you would, without doubt, become the champion of all the world."
+○0000000491○"How dare you address her so frivolously? If there were a competition for hubris, you would, without doubt, become the champion of all the world."
 ●0000000491●
 
 ○0000000492○瑚太朗
@@ -1549,7 +1549,7 @@
 ○0000000519○瑚太朗
 ●0000000519●
 
-○0000000520○"It's TENNOUJI KOTAROU!!"
+○0000000520○"It's TENNOUJI KOTAROU!"
 ●0000000520●
 
 ○0000000521○咲夜
@@ -2380,7 +2380,7 @@
 ○0000000798○ヤンキー
 ●0000000798●
 
-○0000000799○"Uoooohh! Honey!!"
+○0000000799○"Uoooohh! Honey!"
 ●0000000799●
 
 ○0000000800○瑚太朗
@@ -2530,7 +2530,7 @@
 ○0000000848○ヤンキー
 ●0000000848●
 
-○0000000849○"Cherry Tomatooo!!!"
+○0000000849○"Cherry Tomatooo!"
 ●0000000849●
 
 ○0000000850○瑚太朗
@@ -2848,7 +2848,7 @@
 ○0000000954○"...Here."
 ●0000000954●
 
-○0000000955○She pretty much throws my lunchbox at me.
+○0000000955○She pretty much throws my lunch box at me.
 ●0000000955●
 
 ○0000000956○瑚太朗
@@ -3400,7 +3400,7 @@
 ○0000001138○Quest "Say it with flowers" Description:
 ●0000001138●
 
-○0000001139○Take on Ms. Kanbe's quest and be grateful from the bottom of your heart for the opportunity to serve her, you dog!!
+○0000001139○Take on Ms. Kanbe's quest and be grateful from the bottom of your heart for the opportunity to serve her, you dog!
 ●0000001139●
 
 ○0000001140○Basically, to complete this quest, your sorry ass will have to fill Kazamatsuri with as much greenery as possible. Got it?!
@@ -3415,7 +3415,7 @@
 ○0000001143○That said, some seed planting areas can be in pretty weird locations.
 ●0000001143●
 
-○0000001144○Better give your all to find them, fool!!
+○0000001144○Better give your all to find them, fool!
 ●0000001144●
 
 ○0000001145○Ah, and here's some info for the lazy bastards among you.
@@ -3529,7 +3529,7 @@
 ○0000001181○瑚太朗
 ●0000001181●
 
-○0000001182○"G-Goddammit! Khohh, khehh, khehh!"
+○0000001182○"G-God damn it! Khohh, khehh, khehh!"
 ●0000001182●
 
 ○0000001183○If someone had just walked onto the scene, they'd most likely think there was a fight in the cafeteria, and I was the one being beaten up.
@@ -3586,7 +3586,7 @@
 ○0000001200○生徒Ｂ
 ●0000001200●
 
-○0000001201○"With their slogan, 'lack of spice is lack of taste', they brought a dark age to our cafeteria, sowing the seeds of terror in everyone's hearts."
+○0000001201○"With their slogan, 'lack of spice is lack of taste,' they brought a dark age to our cafeteria, sowing the seeds of terror in everyone's hearts."
 ●0000001201●
 
 ○0000001202○瑚太朗
@@ -3757,7 +3757,7 @@
 ○0000001259○小鳥
 ●0000001259●
 
-○0000001260○"In that case, you'd be level three on plate licking and level one on lunchbox sniffing... making you a level four pervert in total."
+○0000001260○"In that case, you'd be level three on plate licking and level one on lunch box sniffing... making you a level four pervert in total."
 ●0000001260●
 
 ○0000001261○Seems I'm still leveling up.
@@ -3946,7 +3946,7 @@
 ○0000001323○小鳥
 ●0000001323●
 
-○0000001324○"Well, I heard Class Rep talking about how she'd be sharing a lunchbox with one of her friends just now, and it didn't sound like they were heading to the cafeteria."
+○0000001324○"Well, I heard Class Rep talking about how she'd be sharing a lunch box with one of her friends just now, and it didn't sound like they were heading to the cafeteria."
 ●0000001324●
 
 ○0000001325○吉野
@@ -4021,7 +4021,7 @@
 ○0000001349○But anything less than that would have no effect on the Queen.
 ●0000001349●
 
-○0000001350○I'll have my revenge for her fighting-game-combo-like violent ways! Today will mark her end! Wah hah hah!
+○0000001350○I'll have my revenge for her fighting-game-combo-like violent ways! Today will mark her end! Wahaha!
 ●0000001350●
 
 ○0000001351○オバチャン
@@ -4078,7 +4078,7 @@
 ○0000001368○Not to mention, I've already made a profit regardless.
 ●0000001368●
 
-○0000001369○I can't stop laughing! Wah hah hah!
+○0000001369○I can't stop laughing! Wahaha!
 ●0000001369●
 
 ○0000001370○瑚太朗
@@ -4102,10 +4102,10 @@
 ○0000001376○瑚太朗
 ●0000001376●
 
-○0000001377○"Oh my, if it isn't Ms. Sizuru of the Disciplinary Committee. So then the friend Class Rep mentioned was you?"
+○0000001377○"Oh my, if it isn't Ms. Shizuru of the Disciplinary Committee. So then the friend Class Rep mentioned was you?"
 ●0000001377●
 
-○0000001378○Sizuru nods a bunch of times in quick succession.
+○0000001378○Shizuru nods a bunch of times in quick succession.
 ●0000001378●
 
 ○0000001379○It's pretty unusual to have friends from a different year.
@@ -4117,7 +4117,7 @@
 ○0000001381○ルチア
 ●0000001381●
 
-○0000001382○"Sizuru has prepared lunch for us both, and that's what I'm planning to have today. Got a problem with that?"
+○0000001382○"Shizuru has prepared lunch for us both, and that's what I'm planning to have today. Got a problem with that?"
 ●0000001382●
 
 ○0000001383○静流
@@ -4285,7 +4285,7 @@
 ○0000001437○ルチア
 ●0000001437●
 
-○0000001438○"NO, NO, NO!! IT'S THE MOST DISGUSTING THING IN THE WHOLE WORLD! GROSS! HE'S A PERVERT! A DEVIANT! A FREAK! AN ENEMY OF ALL WOMEN!"
+○0000001438○"NO, NO, NO! IT'S THE MOST DISGUSTING THING IN THE WHOLE WORLD! GROSS! HE'S A PERVERT! A DEVIANT! A FREAK! AN ENEMY OF ALL WOMEN!"
 ●0000001438●
 
 ○0000001439○瑚太朗
@@ -4303,7 +4303,7 @@
 ○0000001443○ルチア
 ●0000001443●
 
-○0000001444○"I'VE NEVER BEEN SO HUMILIATED IN MY LIFE! I'LL NEVER FORGIVE YOU!!"
+○0000001444○"I'VE NEVER BEEN SO HUMILIATED IN MY LIFE! I'LL NEVER FORGIVE YOU!"
 ●0000001444●
 
 ○0000001445○Aww, now I've done it.
@@ -4378,7 +4378,7 @@
 ○0000001468○ルチア
 ●0000001468●
 
-○0000001469○"Get out of my sight! Disappear! Die! Go get hit by a bus! Goodbye! I don't want to see your face ever again! Pervert! Go awaaaaay!!!"
+○0000001469○"Get out of my sight! Disappear! Die! Go get hit by a bus! Goodbye! I don't want to see your face ever again! Pervert! Go awaaaaay!"
 ●0000001469●
 
 ○0000001470○ルチア
@@ -4420,7 +4420,7 @@
 ○0000001482○瑚太朗
 ●0000001482●
 
-○0000001483○(Maybe Sizuru can calm her down!)
+○0000001483○(Maybe Shizuru can calm her down!)
 ●0000001483●
 
 ○0000001484○静流
@@ -4429,7 +4429,7 @@
 ○0000001485○"......"
 ●0000001485●
 
-○0000001486○Sizuru's stomach growls.
+○0000001486○Shizuru's stomach growls.
 ●0000001486●
 
 ○0000001487○"I'd love to help, but I can't fight on an empty stomach"... she gestures.
@@ -4453,7 +4453,7 @@
 ○0000001493○ルチア
 ●0000001493●
 
-○0000001494○"Like hell I'll ever go there! Get out of my sight already! FREAK! DEGENERATE! BEAST! MONSTER! TENNOUJI KOTAROUUUU!!"
+○0000001494○"Like hell I'll ever go there! Get out of my sight already! FREAK! DEGENERATE! BEAST! MONSTER! TENNOUJI KOTAROUUUU!"
 ●0000001494●
 
 ○0000001495○静流
@@ -4462,7 +4462,7 @@
 ○0000001496○"......"
 ●0000001496●
 
-○0000001497○"Haah. I am sorry for my uncultured friend"... Sizuru bows her head and waves me goodbye.
+○0000001497○"Haah. I am sorry for my uncultured friend," Shizuru bows her head and waves me goodbye.
 ●0000001497●
 
 ○0000001498○And when the time comes... as I should have expected, Class Rep doesn't show up at the cafeteria.
@@ -4489,7 +4489,7 @@
 ○0000001505○I can see it pulsating with heat, emanating a vapor that could knock a lesser man unconscious with just a whiff.
 ●0000001505●
 
-○0000001506○A dish as though boiled in a cauldron from the deepest layer of Hell; the dish that would prove to be the last supper to all mankind ― The Szechuan Inferno Mapo Tofu!
+○0000001506○A dish as though boiled in a cauldron from the deepest layer of Hell; the dish that would prove to be the last supper to all mankind―The Szechuan Inferno Mapo Tofu!
 ●0000001506●
 
 ○0000001507○Actual people from China most likely wouldn't be too thrilled about this dish, though, calling it a perversion of their craft or whatever.
@@ -4510,7 +4510,7 @@
 ○0000001512○瑚太朗
 ●0000001512●
 
-○0000001513○"As for their name... I cannot disclose it due to privacy reasons..."
+○0000001513○"As for their name... I can't disclose it due to privacy reasons..."
 ●0000001513●
 
 ○0000001514○吉野
@@ -4528,7 +4528,7 @@
 ○0000001518○瑚太朗
 ●0000001518●
 
-○0000001519○"...O-Of course not. Hah hah hah."
+○0000001519○"...O-Of course not. Hahaha."
 ●0000001519●
 
 ○0000001520○吉野
@@ -4576,7 +4576,7 @@
 ○0000001534○生徒Ａ
 ●0000001534●
 
-○0000001535○"That's right! No doubt about it! Everyone, send your energy into Tennouji!!"
+○0000001535○"That's right! No doubt about it! Everyone, send your energy into Tennouji!"
 ●0000001535●
 
 ○0000001536○吉野
@@ -4585,7 +4585,7 @@
 ○0000001537○"Serves you right. I'll enjoy the spectacle of your demise."
 ●0000001537●
 
-○0000001538○Y-Yoshino, you goddamn... He knew everything from the start...
+○0000001538○Y-Yoshino, you god damn... He knew everything from the start...
 ●0000001538●
 
 ○0000001539○He knowingly led me into a trap... and it'll be very difficult to escape now that so many people have gathered for this event.
@@ -4597,7 +4597,7 @@
 ○0000001541○(It sent those weirdos from the Black Company straight to the hospital! I can't even guess what will happen to a perfectly normal person like myself!)
 ●0000001541●
 
-○0000001542○(P-Please, Class Rep, come on... Come here...! Preeeez...!!)
+○0000001542○(P-Please, Class Rep, come on... Come here...! Preeeez...!)
 ●0000001542●
 
 ○0000001545○静流
@@ -4642,7 +4642,7 @@
 ○0000001558○"B-But there's no way something you did your best to make could ever be bad! It's delicious! Yum!"
 ●0000001558●
 
-○0000001559○Sizuru told Lucia she came up with a delicious new recipe, so the two had agreed to test it today.
+○0000001559○Shizuru told Lucia she came up with a delicious new recipe, so the two had agreed to test it today.
 ●0000001559●
 
 ○0000001560○However, not even Lucia expected to receive a saury stuffed with fruits and whipped cream for lunch.
@@ -4738,7 +4738,7 @@
 ○0000001590○"I don't care about Tennouji! He could make the weirdest cuisine in the world, but I'm not going anywhere when he can't even ask what my plans are properly! ...Ah."
 ●0000001590●
 
-○0000001591○Sizuru snatches the stuffed saury out of Lucia's hands.
+○0000001591○Shizuru snatches the stuffed saury out of Lucia's hands.
 ●0000001591●
 
 ○0000001592○...And begins nibbling at it herself.
@@ -4780,7 +4780,7 @@
 ○0000001604○Lucia stands up, signaling the end of her meal.
 ●0000001604●
 
-○0000001605○Sizuru, still nibbling on the stuffed saury, waves her goodbye.
+○0000001605○Shizuru, still nibbling on the stuffed saury, waves her goodbye.
 ●0000001605●
 
 ○0000001607○ルチア
@@ -4951,7 +4951,7 @@
 ○0000001662○"It was a little spicy, but that's how mapo tofu usually is. Yes, it was quite good. Thank you, Tennouji Kotarou."
 ●0000001662●
 
-○0000001663○U-Uoooooooooohhh!!
+○0000001663○U-Uoooooooooohhh!
 ●0000001663●
 
 ○0000001664○Lucia places the empty plate on the table with a broad smile spreading across her face.
@@ -4960,7 +4960,7 @@
 ○0000001665○I almost died from a little taste, so I can tell how much of a divine feat it was better than anyone.
 ●0000001665●
 
-○0000001666○O God...! O Heavenly Father...!! The Goddess of Spice herself has just descended upon us! Praise the Lord!
+○0000001666○O God...! O Heavenly Father...! The Goddess of Spice herself has just descended upon us! Praise the Lord!
 ●0000001666●
 
 ○0000001667○瑚太朗
@@ -5017,7 +5017,7 @@
 ○0000001684○ルチア
 ●0000001684●
 
-○0000001685○"Anyway, I've got to go. Sizuru's waiting for me."
+○0000001685○"Anyway, I've got to go. Shizuru's waiting for me."
 ●0000001685●
 
 ○0000001686○Class Rep stands up, wearing a breezy smile.
@@ -5179,7 +5179,7 @@
 ○0000001738○ルチア
 ●0000001738●
 
-○0000001739○"I can't believe you...! Y-You sold my plate out... to be debauched by countless men... I can't even... Uah... This is too much... Uahh...!!"
+○0000001739○"I can't believe you...! Y-You sold my plate out... to be debauched by countless men... I can't even... Uah... This is too much... Uahh...!"
 ●0000001739●
 
 ○0000001740○Oh crap.
@@ -5221,7 +5221,7 @@
 ○0000001752○ルチア
 ●0000001752●
 
-○0000001753○"PERVERT! DEGENERATE! FREAK! DISGUSTING! GROSS! YOU MAKE MY STOMACH TURN! YOU BEAST! MONSTER! FIEND! DIE! PERISH! YOU ENEMY OF ALL WOMEN! TENNOUJI KOTAROUUU! I HATE YOU! I HATE YOU! I HATE YOU MORE THAN ANYTHING!!!"
+○0000001753○"PERVERT! DEGENERATE! FREAK! DISGUSTING! GROSS! YOU MAKE MY STOMACH TURN! YOU BEAST! MONSTER! FIEND! DIE! PERISH! YOU ENEMY OF ALL WOMEN! TENNOUJI KOTAROUUU! I HATE YOU! I HATE YOU! I HATE YOU MORE THAN ANYTHING!"
 ●0000001753●
 
 ○0000001754○瑚太朗
@@ -5299,7 +5299,7 @@
 ○0000001778○朱音
 ●0000001778●
 
-○0000001779○"I decided to eat outside for a change, but there are so many options here that I cannot decide."
+○0000001779○"I decided to eat outside for a change, but there are so many options here that I can't decide."
 ●0000001779●
 
 ○0000001780○瑚太朗
@@ -5581,7 +5581,7 @@
 ○0000001873○瑚太朗
 ●0000001873●
 
-○0000001874○"Egh?!"
+○0000001874○"Huh?!"
 ●0000001874●
 
 ○0000001875○朱音
@@ -5659,13 +5659,13 @@
 ○0000001899○朱音
 ●0000001899●
 
-○0000001900○"You can never know."
+○0000001900○"You can never know. Won't you keep eating it for me and see if you'll go mad?"
 ●0000001900●
 
 ○0000001901○瑚太朗
 ●0000001901●
 
-○0000001902○"Can't we trust our government at least that much?"
+○0000001902○"I won't go mad or crazy or anything. Promise."
 ●0000001902●
 
 ○0000001903○Akane doesn't end up tasting the soup at all.
@@ -5866,7 +5866,7 @@
 ○0000001969○朱音
 ●0000001969●
 
-○0000001970○"I'd rather relax with my meals... while surfing the Internet."
+○0000001970○"I'd rather relax with my meals... while surfing the internet."
 ●0000001970●
 
 ○0000001971○瑚太朗
@@ -6166,7 +6166,7 @@
 ○0000002070○朱音
 ●0000002070●
 
-○0000002071○"I cannot possibly refuse his genuine feelings of gratitude."
+○0000002071○"I can't possibly refuse his genuine feelings of gratitude."
 ●0000002071●
 
 ○0000002072○瑚太朗
@@ -6178,7 +6178,7 @@
 ○0000002074○朱音
 ●0000002074●
 
-○0000002075○"Tennouji, this world is inhabited by those who cannot resist the allure of the green."
+○0000002075○"Tennouji, this world is inhabited by those who can't resist the allure of the green."
 ●0000002075●
 
 ○0000002076○瑚太朗
@@ -6232,7 +6232,7 @@
 ○0000002092○I'm much more looking forward to seeing what's on the contribution form...
 ●0000002092●
 
-○0000002093○And what other supernatural phenomena it might lead me to.
+○0000002093○And what other strange phenomena it might lead me to.
 ●0000002093●
 
 ○0000002094○瑚太朗
@@ -6259,7 +6259,7 @@
 ○0000002101○You've received Clue "Would you like to have a matchmaking party with our Cooking Research Society?"!
 ●0000002101●
 
-○0000002102○You've received Clue "Is it okay to dye your hair once you're a second year?"!
+○0000002102○You've received Clue "Is it okay to dye your hair once you're a second-year"!
 ●0000002102●
 
 ○0000002103○You've received Clue "My thoughts on bullying"!
@@ -6691,19 +6691,19 @@
 ○0000002245○小鳥
 ●0000002245●
 
-○0000002246○"Uahh! A doughnut! The number one enemy of weight loss!"
+○0000002246○"Uahh! A doughnut! The number-one enemy of weight loss!"
 ●0000002246●
 
 ○0000002247○瑚太朗
 ●0000002247●
 
-○0000002248○"Confess! Or I'll stuff your mouth with one!!"
+○0000002248○"Confess! Or I'll stuff your mouth with one!"
 ●0000002248●
 
 ○0000002249○小鳥
 ●0000002249●
 
-○0000002250○"That's not what doughnuts are for, Kotarou!!"
+○0000002250○"That's not what doughnuts are for, Kotarou!"
 ●0000002250●
 
 ○0000002251○瑚太朗
@@ -6856,7 +6856,7 @@
 ○0000002300○瑚太朗
 ●0000002300●
 
-○0000002301○"So around a two liter bottle of soda's worth. Got it."
+○0000002301○"So around a two-liter bottle of soda's worth. Got it."
 ●0000002301●
 
 ○0000002302○小鳥
@@ -6871,7 +6871,7 @@
 ○0000002305○"It doesn't sound that bad to me."
 ●0000002305●
 
-○0000002306○I jot down "Weight until diet: 1.5 kg".
+○0000002306○I jot down "Weight until diet: 1.5 kg."
 ●0000002306●
 
 ○0000002307○朱音
@@ -6955,7 +6955,7 @@
 ○0000002333○朱音
 ●0000002333●
 
-○0000002334○"I suppose it's solved then."
+○0000002334○"I suppose it's solved, then."
 ●0000002334●
 
 ○0000002335○瑚太朗
@@ -6967,7 +6967,7 @@
 ○0000002337○小鳥
 ●0000002337●
 
-○0000002338○"Egh?!"
+○0000002338○"Huh?!"
 ●0000002338●
 
 ○0000002339○By the time we finish our silly conversation, it's time to go home.

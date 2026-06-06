@@ -196,7 +196,7 @@
 ○0000000067○瑚太朗
 ●0000000067●
 
-○0000000068○"Crap!! I don't have time for this!!"
+○0000000068○"Crap! I don't have time for this!"
 ●0000000068●
 
 ○0000000069○ぱに
@@ -226,7 +226,7 @@
 ○0000000077○ぎる
 ●0000000077●
 
-○0000000078○"What?! I came to help you!!"
+○0000000078○"What?! I came to help you!"
 ●0000000078●
 
 ○0000000079○瑚太朗
@@ -277,7 +277,7 @@
 ○0000000094○ぎる
 ●0000000094●
 
-○0000000095○"Really?! See?! I was useful after all! Yay!!"
+○0000000095○"Really?! See?! I was useful after all! Yay!"
 ●0000000095●
 
 ○0000000096○瑚太朗
@@ -307,7 +307,7 @@
 ○0000000104○ぎる
 ●0000000104●
 
-○0000000105○"All of this nonsense is pointless anyway!!"
+○0000000105○"All of this nonsense is pointless anyway!"
 ●0000000105●
 
 ○0000000106○瑚太朗
@@ -352,7 +352,7 @@
 ○0000000119○ぎる
 ●0000000119●
 
-○0000000120○"Uooohh!! I can't remember any of this!!"
+○0000000120○"Uooohh! I can't remember any of this!"
 ●0000000120●
 
 ○0000000121○He begins wailing in the corner of the room.
@@ -400,13 +400,13 @@
 ○0000000135○Gil seems a little less depressed thanks to that.
 ●0000000135●
 
-○0000000136○I don't have any idea what I meant with "continuing like this", but it's somehow working.
+○0000000136○I don't have any idea what I meant with "continuing like this," but it's somehow working.
 ●0000000136●
 
 ○0000000137○ぎる
 ●0000000137●
 
-○0000000138○"Next! 'Ultracrepidarian'... 'to Hugger-mugger'."
+○0000000138○"Next! 'Ultracrepidarian'... 'to Hugger-mugger.'"
 ●0000000138●
 
 ○0000000139○ぎる
@@ -454,19 +454,19 @@
 ○0000000153○ぎる
 ●0000000153●
 
-○0000000154○"Ultramuggerdarian!!"
+○0000000154○"Ultramuggerdarian!"
 ●0000000154●
 
 ○0000000155○瑚太朗
 ●0000000155●
 
-○0000000156○"Ultramuggerdarian!!"
+○0000000156○"Ultramuggerdarian!"
 ●0000000156●
 
 ○0000000157○ぎる
 ●0000000157●
 
-○0000000158○"You're gonna ace that test now!!"
+○0000000158○"You're gonna ace that test now!"
 ●0000000158●
 
 ○0000000159○瑚太朗
@@ -478,31 +478,31 @@
 ○0000000161○瑚太朗
 ●0000000161●
 
-○0000000162○"All right! Time to sleep!! I've got a good feeling about tomorrow!"
+○0000000162○"All right! Time to sleep! I've got a good feeling about tomorrow!"
 ●0000000162●
 
 ○0000000163○ぎる
 ●0000000163●
 
-○0000000164○"Yeah! Good luck!!"
+○0000000164○"Yeah! Good luck!"
 ●0000000164●
 
 ○0000000165○瑚太朗
 ●0000000165●
 
-○0000000166○"Ultramuggerdarian!!"
+○0000000166○"Ultramuggerdarian!"
 ●0000000166●
 
 ○0000000167○ぎる
 ●0000000167●
 
-○0000000168○"Ultramuggerdarian!!!"
+○0000000168○"Ultramuggerdarian!"
 ●0000000168●
 
 ○0000000169○瑚太朗
 ●0000000169●
 
-○0000000170○"We're both cockalorums!!"
+○0000000170○"We're both cockalorums!"
 ●0000000170●
 
 ○0000000171○ぎる
@@ -514,7 +514,7 @@
 ○0000000173○瑚太朗
 ●0000000173●
 
-○0000000174○"Whew! I'm on a roll!!"
+○0000000174○"Whew! I'm on a roll!"
 ●0000000174●
 
 ○0000000175○ぱに
@@ -535,7 +535,7 @@
 ○0000000180○瑚太朗
 ●0000000180●
 
-○0000000181○"Ultramuggerdarian!!!"
+○0000000181○"Ultramuggerdarian!"
 ●0000000181●
 
 ○0000000182○教師
@@ -1018,7 +1018,7 @@
 ○0000000342○吉野
 ●0000000342●
 
-○0000000343○"Can you peel me some pears, Mom?"
+○0000000343○"Can you peel me some pears, Mommy?"
 ●0000000343●
 
 ○0000000344○My world warps.
@@ -1054,7 +1054,7 @@
 ○0000000354○瑚太朗
 ●0000000354●
 
-○0000000355○"GHAHAHAHAHAHA!! I'LL NEVER BE ABLE TO LOOK AT HIS FACE AGAIN!!"
+○0000000355○"GHAHAHAHAHAHA! I'LL NEVER BE ABLE TO LOOK AT HIS FACE AGAIN!"
 ●0000000355●
 
 ○0000000356○小鳥
@@ -1105,7 +1105,7 @@
 ○0000000371○瑚太朗
 ●0000000371●
 
-○0000000372○"Oh, Sizuru. Wanna go grab something to eat?"
+○0000000372○"Oh, Shizuru. Wanna go grab something to eat?"
 ●0000000372●
 
 ○0000000373○静流
@@ -1117,7 +1117,7 @@
 ○0000000375○小鳥
 ●0000000375●
 
-○0000000376○"Huh? Sizu?"
+○0000000376○"Huh? Shizu?"
 ●0000000376●
 
 ○0000000377○静流
@@ -1225,7 +1225,7 @@
 ○0000000411○小鳥
 ●0000000411●
 
-○0000000412○"You've got pretty good ears to get it from that, Sizu."
+○0000000412○"You've got pretty good ears to get it from that, Shizu."
 ●0000000412●
 
 ○0000000413○静流
@@ -1267,7 +1267,7 @@
 ○0000000425○瑚太朗
 ●0000000425●
 
-○0000000426○"Hey, my performance has nothing to do with Sizuru being here! She came to ask about the song simply because she didn't know it!"
+○0000000426○"Hey, my performance has nothing to do with Shizuru being here! She came to ask about the song simply because she didn't know it!"
 ●0000000426●
 
 ○0000000427○小鳥
@@ -1309,7 +1309,7 @@
 ○0000000439○"......"
 ●0000000439●
 
-○0000000440○Sizuru nods vigorously.
+○0000000440○Shizuru nods vigorously.
 ●0000000440●
 
 ○0000000441○瑚太朗
@@ -1441,7 +1441,7 @@
 ○0000000483○"...?!"
 ●0000000483●
 
-○0000000484○Ms. Nishikujou appears from out of nowhere, seizing Sizuru in her arms.
+○0000000484○Ms. Nishikujou appears from out of nowhere, seizing Shizuru in her arms.
 ●0000000484●
 
 ○0000000485○小鳥
@@ -1489,7 +1489,7 @@
 ○0000000499○*flail* *flail*
 ●0000000499●
 
-○0000000500○Meanwhile, Sizuru is doing her best to escape her iron hold.
+○0000000500○Meanwhile, Shizuru is doing her best to escape her iron hold.
 ●0000000500●
 
 ○0000000501○西九条
@@ -1666,13 +1666,13 @@
 ○0000000558○西九条
 ●0000000558●
 
-○0000000559○"And Sizuru... I'm not going to forbid you from going over to play in Mr. Tennouji's classroom, but you're going to be late for class."
+○0000000559○"And Shizuru... I'm not going to forbid you from going over to play in Mr. Tennouji's classroom, but you're going to be late for class."
 ●0000000559●
 
 ○0000000560○静流
 ●0000000560●
 
-○0000000561○"...!!"
+○0000000561○"...!"
 ●0000000561●
 
 ○0000000562○*thump* *thump*
@@ -1687,7 +1687,7 @@
 ○0000000565○西九条
 ●0000000565●
 
-○0000000566○"Sizuru hates me now. What am I going to do with myself?"
+○0000000566○"Shizuru hates me now. What am I going to do with myself?"
 ●0000000566●
 
 ○0000000567○静流
@@ -1696,7 +1696,7 @@
 ○0000000568○"......"
 ●0000000568●
 
-○0000000569○Sizuru looks troubled.
+○0000000569○Shizuru looks troubled.
 ●0000000569●
 
 ○0000000570○瑚太朗
@@ -1759,7 +1759,7 @@
 ○0000000589○瑚太朗
 ●0000000589●
 
-○0000000590○"Sizuru, you're gonna be late if you don't hurry back."
+○0000000590○"Shizuru, you're gonna be late if you don't hurry back."
 ●0000000590●
 
 ○0000000591○静流
@@ -1789,7 +1789,7 @@
 ○0000000599○"......"
 ●0000000599●
 
-○0000000600○Sizuru trots outside.
+○0000000600○Shizuru trots outside.
 ●0000000600●
 
 ○0000000601○瑚太朗
@@ -1825,7 +1825,7 @@
 ○0000000611○小鳥
 ●0000000611●
 
-○0000000612○"Sizu is at an age where things like that are very embarrassing."
+○0000000612○"Shizu is at an age where things like that are very embarrassing."
 ●0000000612●
 
 ○0000000613○瑚太朗
@@ -1849,7 +1849,7 @@
 ○0000000619○ちはや
 ●0000000619●
 
-○0000000620○"You can at least pretend to not ignore me!!"
+○0000000620○"You can at least pretend to not ignore me!"
 ●0000000620●
 
 ○0000000621○It feels hopeless to even try to explain it to her.
@@ -1867,7 +1867,7 @@
 ○0000000626○"Yeah?"
 ●0000000626●
 
-○0000000627○Sizuru reappears in our classroom.
+○0000000627○Shizuru reappears in our classroom.
 ●0000000627●
 
 ○0000000628○静流
@@ -1879,7 +1879,7 @@
 ○0000000630○She puts a whistle to her mouth.
 ●0000000630●
 
-○0000000631○*preeeet*
+○0000000631○*FWEEEEEEET*
 ●0000000631●
 
 ○0000000632○静流
@@ -1957,7 +1957,7 @@
 ○0000000656○小鳥
 ●0000000656●
 
-○0000000657○"Sizu, when you're nervous, draw a 'の' letter on your hand and swallow it."
+○0000000657○"Shizu, when you're nervous, cross your toes and believe it'll all work out."
 ●0000000657●
 
 ○0000000658○静流
@@ -1966,13 +1966,13 @@
 ○0000000659○"......"
 ●0000000659●
 
-○0000000660○...That's odd. I thought you were supposed to draw '人' instead.
+○0000000660○...That's odd. I thought you were supposed to cross your fingers.
 ●0000000660●
 
-○0000000661○Sizuru instantly heeds the advice.
+○0000000661○Shizuru instantly heeds the advice.
 ●0000000661●
 
-○0000000662○She faces me again after swallowing the invisible character.
+○0000000662○She faces me again after an act of toe-crossing.
 ●0000000662●
 
 ○0000000663○静流
@@ -2020,10 +2020,10 @@
 ○0000000677○静流
 ●0000000677●
 
-○0000000678○"...!!!"
+○0000000678○"...!"
 ●0000000678●
 
-○0000000679○Sizuru trots away with hurried steps.
+○0000000679○Shizuru trots away with hurried steps.
 ●0000000679●
 
 ○0000000680○瑚太朗
@@ -2116,7 +2116,7 @@
 ○0000000709○I rush out of the classroom, leaving Kotori behind.
 ●0000000709●
 
-○0000000710○Or so I thought, but Sizuru is standing right by the door.
+○0000000710○Or so I thought, but Shizuru is standing right by the door.
 ●0000000710●
 
 ○0000000711○静流
@@ -2140,7 +2140,7 @@
 ○0000000717○瑚太朗
 ●0000000717●
 
-○0000000718○"You want to go shopping? Big bro here will come with you."
+○0000000718○"You want to go shopping? Big Bro here will come with you."
 ●0000000718●
 
 ○0000000719○静流
@@ -2155,7 +2155,7 @@
 ○0000000722○"Mm."
 ●0000000722●
 
-○0000000723○Sizuru tugs on my sleeve.
+○0000000723○Shizuru tugs on my sleeve.
 ●0000000723●
 
 ○0000000724○"Let's not waste any more time then, Bro."... or something like that, anyway.
@@ -2167,7 +2167,7 @@
 ○0000000726○"Let's go, I guess?"
 ●0000000726●
 
-○0000000727○I'm not entirely sure how it happened, but I ended up accompanying Sizuru into town.
+○0000000727○I'm not entirely sure how it happened, but I ended up accompanying Shizuru into town.
 ●0000000727●
 
 ○0000000728○瑚太朗
@@ -2227,7 +2227,7 @@
 ○0000000746○"......"
 ●0000000746●
 
-○0000000747○Sizuru gives me a vigorous nod.
+○0000000747○Shizuru gives me a vigorous nod.
 ●0000000747●
 
 ○0000000748○瑚太朗
@@ -2248,7 +2248,7 @@
 ○0000000753○瑚太朗
 ●0000000753●
 
-○0000000754○"Sizuru."
+○0000000754○"Shizuru."
 ●0000000754●
 
 ○0000000755○静流
@@ -2269,7 +2269,7 @@
 ○0000000760○"......"
 ●0000000760●
 
-○0000000761○Sizuru trots to my right.
+○0000000761○Shizuru trots to my right.
 ●0000000761●
 
 ○0000000762○瑚太朗
@@ -2320,13 +2320,13 @@
 ○0000000777○瑚太朗
 ●0000000777●
 
-○0000000778○"I found it, Sizuru."
+○0000000778○"I found it, Shizuru."
 ●0000000778●
 
 ○0000000779○瑚太朗
 ●0000000779●
 
-○0000000780○"Sizuru?"
+○0000000780○"Shizuru?"
 ●0000000780●
 
 ○0000000781○I turn to see her looking at the wagon outside.
@@ -2386,7 +2386,7 @@
 ○0000000799○"Hmm..."
 ●0000000799●
 
-○0000000800○Sizuru's gaze travels between the single in her hands and the album in mine.
+○0000000800○Shizuru's gaze travels between the single in her hands and the album in mine.
 ●0000000800●
 
 ○0000000801○瑚太朗
@@ -2434,13 +2434,13 @@
 ○0000000815○瑚太朗
 ●0000000815●
 
-○0000000816○"I guess the financials of the Sizuru Nation aren't in the best shape."
+○0000000816○"I guess the financials of the Shizuru Nation aren't in the best shape."
 ●0000000816●
 
 ○0000000817○静流
 ●0000000817●
 
-○0000000818○"I cannot waste money..."
+○0000000818○"I can't waste money..."
 ●0000000818●
 
 ○0000000819○瑚太朗
@@ -2467,13 +2467,13 @@
 ○0000000826○"Oh..."
 ●0000000826●
 
-○0000000827○It sounds like Sizuru's finances aren't doing so hot this year.
+○0000000827○It sounds like Shizuru's finances aren't doing so hot this year.
 ●0000000827●
 
 ○0000000828○瑚太朗
 ●0000000828●
 
-○0000000829○"When's your birthday, Sizuru?"
+○0000000829○"When's your birthday, Shizuru?"
 ●0000000829●
 
 ○0000000830○静流
@@ -2551,7 +2551,7 @@
 ○0000000854○"Here."
 ●0000000854●
 
-○0000000855○I hand it to Sizuru.
+○0000000855○I hand it to Shizuru.
 ●0000000855●
 
 ○0000000856○静流
@@ -2581,7 +2581,7 @@
 ○0000000864○瑚太朗
 ●0000000864●
 
-○0000000865○"No, it's uh... surprisingly embarrassing."
+○0000000865○"No, it's, uh... surprisingly embarrassing."
 ●0000000865●
 
 ○0000000866○静流
@@ -2608,7 +2608,7 @@
 ○0000000873○瑚太朗
 ●0000000873●
 
-○0000000874○"Ms. Sizuru, could you say 'thanks' one more time for me?"
+○0000000874○"Ms. Shizuru, could you say 'thanks' one more time for me?"
 ●0000000874●
 
 ○0000000875○I try again.
@@ -2635,7 +2635,7 @@
 ○0000000882○"......"
 ●0000000882●
 
-○0000000883○Sizuru seems a bit confused.
+○0000000883○Shizuru seems a bit confused.
 ●0000000883●
 
 ○0000000884○瑚太朗

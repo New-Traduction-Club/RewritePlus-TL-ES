@@ -10,13 +10,13 @@
 ○0000000003○...
 ●0000000003●
 
-○0000000004○Sizuru ED
+○0000000004○Shizuru ED
 ●0000000004●
 
 ○0000000005○_ik_ed_sz_bbg
 ●0000000005●
 
-○0000000006○_ik_ed_sls
+○0000000006○salvation_ik_ed_sls
 ●0000000006●
 
 ○0000000007○_ik_ed_sz_blink_w
@@ -49,67 +49,67 @@
 ○0000000017○KFX resync
 ●0000000017●
 
-○0000000018○../kuzu
+○0000000018○Skip this video?
 ●0000000018●
 
-○0000000019○_ik_ed_sz_bbg
+○0000000019○../kuzu
 ●0000000019●
 
-○0000000020○$fa_bg_change
+○0000000020○_ik_ed_sz_bbg
 ●0000000020●
 
-○0000000021○FGSZ13a
+○0000000021○$fa_bg_change
 ●0000000021●
 
-○0000000022○FGSZ13b
+○0000000022○FGSZ13a
 ●0000000022●
 
-○0000000023○FGSZ13a
+○0000000023○FGSZ13b
 ●0000000023●
 
-○0000000024○_ik_ed_sz_blink_w
+○0000000024○FGSZ13a
 ●0000000024●
 
-○0000000025○$g_fa_update_particle
+○0000000025○_ik_ed_sz_blink_w
 ●0000000025●
 
-○0000000026○_ny_ef_lc_007
+○0000000026○$g_fa_update_particle
 ●0000000026●
 
-○0000000027○$g_fa_update_particle
+○0000000027○_ny_ef_lc_007
 ●0000000027●
 
-○0000000028○$fa_y_scroll
+○0000000028○$g_fa_update_particle
 ●0000000028●
 
-○0000000029○_ik_ed_sz_sphere3
+○0000000029○$fa_y_scroll
 ●0000000029●
 
-○0000000030○_ny_ef_ot_005
+○0000000030○_ik_ed_sz_sphere3
 ●0000000030●
 
 ○0000000031○_ny_ef_ot_005
 ●0000000031●
 
-○0000000032○_ik_ed_sz_blink_w
+○0000000032○_ny_ef_ot_005
 ●0000000032●
 
-○0000000033○$g_fa_update_particle_oneshot
+○0000000033○_ik_ed_sz_blink_w
 ●0000000033●
 
-○0000000034○_ik_ed_sz_blink_w
+○0000000034○$g_fa_update_particle_oneshot
 ●0000000034●
 
-○0000000035○$g_fa_update_particle_oneshot
+○0000000035○_ik_ed_sz_blink_w
 ●0000000035●
 
-○0000000036○siro
+○0000000036○$g_fa_update_particle_oneshot
 ●0000000036●
 
 ○0000000037○siro
 ●0000000037●
 
-○0000000038○_ik_ed_sz_bbg
+○0000000038○siro
 ●0000000038●
 
 ○0000000039○_ik_ed_sz_bbg
@@ -121,69 +121,72 @@
 ○0000000041○_ik_ed_sz_bbg
 ●0000000041●
 
-○0000000042○FGSZ12
+○0000000042○_ik_ed_sz_bbg
 ●0000000042●
 
-○0000000043○_ik_ed_sls
+○0000000043○FGSZ12
 ●0000000043●
 
-○0000000044○_ik_ed_sls
+○0000000044○salvation_ik_ed_sls
 ●0000000044●
 
-○0000000045○$frmact_start_scroll_staff_list
+○0000000045○salvation_ik_ed_sls
 ●0000000045●
 
-○0000000046○_ik_ed_sz_ss
+○0000000046○$frmact_start_scroll_staff_list
 ●0000000046●
 
 ○0000000047○_ik_ed_sz_ss
 ●0000000047●
 
-○0000000048○$fa_shooting_star_oneshot_special_move
+○0000000048○_ik_ed_sz_ss
 ●0000000048●
 
-○0000000049○_ik_ed_sz_ts
+○0000000049○$fa_shooting_star_oneshot_special_move
 ●0000000049●
 
-○0000000050○$fa_shooting_star_oneshot_special_effect
+○0000000050○_ik_ed_sz_ts
 ●0000000050●
 
-○0000000051○_ik_ed_sz_ts
+○0000000051○$fa_shooting_star_oneshot_special_effect
 ●0000000051●
 
-○0000000052○$g_fa_update_particle_oneshot
+○0000000052○_ik_ed_sz_ts
 ●0000000052●
 
-○0000000053○_ik_ed_sz_ts
+○0000000053○$g_fa_update_particle_oneshot
 ●0000000053●
 
-○0000000054○$g_fa_update_particle_advance_time
+○0000000054○_ik_ed_sz_ts
 ●0000000054●
 
-○0000000055○_ik_ed_sz_ss
+○0000000055○$g_fa_update_particle_advance_time
 ●0000000055●
 
-○0000000056○_ik_ed_sz_ts
+○0000000056○_ik_ed_sz_ss
 ●0000000056●
 
 ○0000000057○_ik_ed_sz_ts
 ●0000000057●
 
-○0000000058○dummy
+○0000000058○_ik_ed_sz_ts
 ●0000000058●
 
-○0000000059○ed_common
+○0000000059○dummy
 ●0000000059●
 
-○0000000060○bgm050
+○0000000060○ed_common
 ●0000000060●
 
-○0000000061○ed_kfx_shizuru
+○0000000061○bgm050
 ●0000000061●
 
-○0000000062○ed_common
+○0000000062○ed_kfx_shizuru
 ●0000000062●
 
 ○0000000063○ed_common
 ●0000000063●
+
+○0000000064○ed_common
+●0000000064●
 

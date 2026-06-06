@@ -247,7 +247,7 @@
 ○0000000084○His back tells me more than his words.
 ●0000000084●
 
-○0000000085○It says "I forgot today was a holiday, but I'm too embarrassed to admit it."
+○0000000085○It says, "I forgot today was a holiday, but I'm too embarrassed to admit it."
 ●0000000085●
 
 ○0000000086○I decide to follow him.
@@ -403,7 +403,7 @@
 ○0000000136○瑚太朗＿体験版
 ●0000000136●
 
-○0000000137○"That leads to the seniors' floor, not your favorite beef bowl establishment."
+○0000000137○"That leads to the third-years' floor, not your favorite beef bowl establishment."
 ●0000000137●
 
 ○0000000138○吉野＿体験版
@@ -1195,7 +1195,7 @@
 ○0000000401○瑚太朗＿体験版
 ●0000000401●
 
-○0000000402○"Go to hell!!"
+○0000000402○"Go to hell!"
 ●0000000402●
 
 ○0000000403○吉野＿体験版
@@ -1279,7 +1279,7 @@
 ○0000000429○吉野＿体験版
 ●0000000429●
 
-○0000000430○"Shut up and die!!"
+○0000000430○"Shut up and die!"
 ●0000000430●
 
 ○0000000431○We continue wrestling like deranged animals.
@@ -1318,7 +1318,7 @@
 ○0000000442○瑚太朗＿体験版
 ●0000000442●
 
-○0000000443○"Aaaaaaargh!!"
+○0000000443○"Aaaaaaargh!"
 ●0000000443●
 
 ○0000000444○朱音＿体験版
@@ -1378,7 +1378,7 @@
 ○0000000462○朱音＿体験版
 ●0000000462●
 
-○0000000463○"...I do not even know how to express the depth of my gratitude for breaking my door again, Tennouji."
+○0000000463○"...I do not even know how to express the depth of my gratitude to you for breaking my door again, Tennouji."
 ●0000000463●
 
 ○0000000464○I turn on the lights and look around the room.
@@ -1504,7 +1504,7 @@
 ○0000000504○"Shit... This is bullshit..."
 ●0000000504●
 
-○0000000505○Yoshino had rolled into the mountain of boxes full of old records, which ended up falling and burying him alive. I can only see his legs peeking from the humongous heap of paper.
+○0000000505○Back when we crashed through the door, Yoshino rolled into the mountain of boxes full of old records, which ended up falling and burying him alive. I can only see his legs peeking out from the humongous heap of paper.
 ●0000000505●
 
 ○0000000506○瑚太朗＿体験版
@@ -1603,7 +1603,7 @@
 ○0000000537○朱音＿体験版
 ●0000000537●
 
-○0000000538○"Welcome, traveler, to my room of mysteries."
+○0000000538○"Welcome, gypsy, to my room of mysteries."
 ●0000000538●
 
 ○0000000539○It looks like she can't restrain herself from putting on airs in front of people she's meeting for the first time.
@@ -1687,7 +1687,7 @@
 ○0000000565○朱音＿体験版
 ●0000000565●
 
-○0000000566○"I cannot let you go without receiving compensation."
+○0000000566○"I can't let you go without receiving compensation."
 ●0000000566●
 
 ○0000000567○吉野＿体験版
@@ -1750,7 +1750,7 @@
 ○0000000586○朱音＿体験版
 ●0000000586●
 
-○0000000587○"With my magical knowledge, I only need a single drop of an ancient elixir... and a phone call to a few acquaintances who are into young boys, and my sibylline spell will be complete."
+○0000000587○"With my magical energy and wealth of knowledge, I need only a single drop of an ancient elixir... and a phone call to a few acquaintances who are into young boys, and my sibylline spell will be complete."
 ●0000000587●
 
 ○0000000588○瑚太朗＿体験版
@@ -1795,7 +1795,7 @@
 ○0000000601○吉野＿体験版
 ●0000000601●
 
-○0000000602○"Goddammit. Is it night already?"
+○0000000602○"God damn it. Is it night already?"
 ●0000000602●
 
 ○0000000603○...Just when did that happen?
@@ -1867,7 +1867,7 @@
 ○0000000625○朱音＿体験版
 ●0000000625●
 
-○0000000626○"...???"
+○0000000626○"...?"
 ●0000000626●
 
 ○0000000627○瑚太朗＿体験版
@@ -1891,7 +1891,7 @@
 ○0000000633○瑚太朗＿体験版
 ●0000000633●
 
-○0000000634○"It's uh... you know... a weird place."
+○0000000634○"It's, uh... you know... a weird place."
 ●0000000634●
 
 ○0000000635○朱音＿体験版
@@ -1999,19 +1999,19 @@
 ○0000000669○朱音＿体験版
 ●0000000669●
 
-○0000000670○"...I have a magical barrier around this room that hides it from prying eyes."
+○0000000670○"...With my magecraft, I have placed a barrier around this room that hides it from prying eyes."
 ●0000000670●
 
 ○0000000671○瑚太朗＿体験版
 ●0000000671●
 
-○0000000672○"The green magic, right?"
+○0000000672○"The green magecraft, right?"
 ●0000000672●
 
 ○0000000673○朱音＿体験版
 ●0000000673●
 
-○0000000674○"Well, in a way, making money from money can indeed feel like magic sometimes."
+○0000000674○"Well, in a way, making money from money can indeed feel like magecraft sometimes."
 ●0000000674●
 
 ○0000000675○瑚太朗＿体験版
@@ -2095,7 +2095,7 @@
 ○0000000701○朱音＿体験版
 ●0000000701●
 
-○0000000702○"Besides, most modern magicians come to their senses after graduating high school."
+○0000000702○"Besides, most modern mages come to their senses after graduating high school."
 ●0000000702●
 
 ○0000000703○瑚太朗＿体験版
@@ -2245,7 +2245,7 @@
 ○0000000751○瑚太朗＿体験版
 ●0000000751●
 
-○0000000752○"But who would have ever guessed there really were all sorts of supernatural phenomena, not just superpowers."
+○0000000752○"But who would have ever guessed there really were all sorts of strange phenomena, not just superpowers."
 ●0000000752●
 
 ○0000000753○瑚太朗＿体験版
@@ -2410,7 +2410,7 @@
 ○0000000806○瑚太朗＿体験版
 ●0000000806●
 
-○0000000807○"Uahh! That's right!!"
+○0000000807○"Uahh! That's right!"
 ●0000000807●
 
 ○0000000808○I completely forgot about my study plan.

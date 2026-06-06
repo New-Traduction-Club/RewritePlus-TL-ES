@@ -109,10 +109,10 @@
 ○0000000038○"Sorry. Looks like I only pay attention to stuff that's right in front of me."
 ●0000000038●
 
-○0000000039○I'm assuming that Class Rep still garners enough respect and has her fair share of like-minded friends, despite having a stick up her butt.
+○0000000039○I'm assuming that Class Rep still garners enough respect despite having a stick up her butt.
 ●0000000039●
 
-○0000000040○-
+○0000000040○She's gotta have her fair share of like-minded friends.
 ●0000000040●
 
 ○0000000041○吉野
@@ -382,7 +382,7 @@
 ○0000000130○"Yeah, makes sense that a Disciplinary Committee member and a class representative would get along."
 ●0000000130●
 
-○0000000131○I messaged Sizuru to meet me in the inner yard during our lunch break.
+○0000000131○I messaged Shizuru to meet me in the inner yard during our lunch break.
 ●0000000131●
 
 ○0000000132○She probably figured out that it was serious because of how sudden it was.
@@ -409,7 +409,7 @@
 ○0000000139○"......"
 ●0000000139●
 
-○0000000140○It seems like Sizuru is already familiar with Lucia's sanitary sensibilities and the problems they bring.
+○0000000140○It seems like Shizuru is already familiar with Lucia's sanitary sensibilities and the problems they bring.
 ●0000000140●
 
 ○0000000141○静流
@@ -436,7 +436,7 @@
 ○0000000148○"......"
 ●0000000148●
 
-○0000000149○Sizuru hesitates.
+○0000000149○Shizuru hesitates.
 ●0000000149●
 
 ○0000000150○静流
@@ -478,7 +478,7 @@
 ○0000000162○Should I get involved?
 ●0000000162●
 
-○0000000163○It sounds like Sizuru has known Lucia for a long time, so it might make more sense to leave this matter to her.
+○0000000163○It sounds like Shizuru has known Lucia for a long time, so it might make more sense to leave this matter to her.
 ●0000000163●
 
 ○0000000164○Besides, Lucia doesn't fancy my company much anyway.
@@ -487,7 +487,7 @@
 ○0000000165○This might be the perfect time to wash my hands of this.
 ●0000000165●
 
-○0000000166○Leave it to Sizuru
+○0000000166○Leave it to Shizuru
 ●0000000166●
 
 ○0000000167○Take it into your own hands
@@ -502,7 +502,7 @@
 ○0000000170○"Yeah..."
 ●0000000170●
 
-○0000000171○Having spent much more time with her, Sizuru most likely understands Lucia significantly better than I do.
+○0000000171○Having spent much more time with her, Shizuru most likely understands Lucia significantly better than I do.
 ●0000000171●
 
 ○0000000172○瑚太朗
@@ -541,7 +541,7 @@
 ○0000000183○"Leave everything to me."
 ●0000000183●
 
-○0000000184○Sizuru puffs out her chest.
+○0000000184○Shizuru puffs out her chest.
 ●0000000184●
 
 ○0000000185○瑚太朗
@@ -565,7 +565,7 @@
 ○0000000191○瑚太朗
 ●0000000191●
 
-○0000000192○(Right, Team Sizulucia won't be present today...)
+○0000000192○(Right, Team Shizulucia won't be present today...)
 ●0000000192●
 
 ○0000000193○We probably can't go on our weekend quest without them.
@@ -1195,7 +1195,7 @@
 ○0000000401○It could've been a flower garden sometime in the past, but that might be over a century ago.
 ●0000000401●
 
-○0000000402○Countless generations of weeds have lived and died here. The whole thing is like six-tenths green and four-tenths yellow.
+○0000000402○Countless generations of weeds have lived and died here. The whole thing is like, six-tenths green and four-tenths yellow.
 ●0000000402●
 
 ○0000000403○瑚太朗
@@ -1249,7 +1249,7 @@
 ○0000000419○小鳥
 ●0000000419●
 
-○0000000420○"It would've been terrible if they didn't! Worst case scenario, we might have had to paint the area green and hope no one would notice!"
+○0000000420○"It would've been terrible if they didn't! Worst-case scenario, we might have had to paint the area green and hope no one would notice!"
 ●0000000420●
 
 ○0000000421○瑚太朗
@@ -1423,7 +1423,7 @@
 ○0000000477○瑚太朗
 ●0000000477●
 
-○0000000478○(It's like a monster...)
+○0000000478○(It's like a familiar...)
 ●0000000478●
 
 ○0000000479○There are freaky plants that grow at crazy speeds.
@@ -1432,7 +1432,7 @@
 ○0000000480○Hidden away in the least visible areas of town, where even light can't penetrate.
 ●0000000480●
 
-○0000000481○They rise above ground, celebrating a distorted kind of beauty...
+○0000000481○They rise aboveground, celebrating a distorted kind of beauty...
 ●0000000481●
 
 ○0000000482○...swelling up with no limit in sight.
@@ -1507,7 +1507,7 @@
 ○0000000505○瑚太朗
 ●0000000505●
 
-○0000000506○"You're not growing them with your gardening magic, are you?"
+○0000000506○"You're not growing them with your gardening 'magic,' are you?"
 ●0000000506●
 
 ○0000000507○小鳥
@@ -1639,7 +1639,7 @@
 ○0000000549○小鳥
 ●0000000549●
 
-○0000000550○"Well yeah. That's nature for you."
+○0000000550○"Well, yeah. That's nature for you."
 ●0000000550●
 
 ○0000000551○小鳥
@@ -1690,7 +1690,7 @@
 ○0000000566○瑚太朗
 ●0000000566●
 
-○0000000567○"BIG DREAAAMS!!!"
+○0000000567○"BIG DREAAAMS!"
 ●0000000567●
 
 ○0000000568○瑚太朗
@@ -1921,7 +1921,7 @@
 ○0000000643○"Ngh. Sorry about that."
 ●0000000643●
 
-○0000000644○As usual, Sizuru doesn't mince words.
+○0000000644○As usual, Shizuru doesn't mince words.
 ●0000000644●
 
 ○0000000645○Perhaps that's exactly what makes her a good partner for the short-tempered Class Rep.
@@ -1972,7 +1972,7 @@
 ○0000000660○"That's right. I forgot."
 ●0000000660●
 
-○0000000661○Sizuru ruffles her hair in an endearing display of embarrassment.
+○0000000661○Shizuru ruffles her hair in an endearing display of embarrassment.
 ●0000000661●
 
 ○0000000662○Then, she gives me a hard look.
@@ -2011,7 +2011,7 @@
 ○0000000673○静流
 ●0000000673●
 
-○0000000674○"Space...??"
+○0000000674○"Space...?"
 ●0000000674●
 
 ○0000000675○瑚太朗
@@ -2020,7 +2020,7 @@
 ○0000000676○"Ah, I'm sorry. That was an inside joke."
 ●0000000676●
 
-○0000000677○I meet up with Sizuru again after school.
+○0000000677○I meet up with Shizuru again after school.
 ●0000000677●
 
 ○0000000678○There's a crepe wagon sitting in the park, so I buy each of us a treat.
@@ -2053,7 +2053,7 @@
 ○0000000687○"It's delicious. Do you want a bite, Kotarou?"
 ●0000000687●
 
-○0000000688○After nibbling on her crepe like a starving squirrel for a few seconds, Sizuru sticks it out to me.
+○0000000688○After nibbling on her crepe like a starving squirrel for a few seconds, Shizuru sticks it out to me.
 ●0000000688●
 
 ○0000000689○Anchovies are salty fish you'd usually find on pizza, snack foods, and the like. With all that cream on them, though, they look pretty sweet. The more I look at them, the happier I feel with my own crepe.
@@ -2122,7 +2122,7 @@
 ○0000000710○"......"
 ●0000000710●
 
-○0000000711○Sizuru draws her mouth away from her crepe.
+○0000000711○Shizuru draws her mouth away from her crepe.
 ●0000000711●
 
 ○0000000712○She looks at the ground, falling silent as she most likely considers how much she can say.
@@ -2218,7 +2218,7 @@
 ○0000000742○"Yes. Lucia has beautiful hands."
 ●0000000742●
 
-○0000000743○What is Sizuru trying to say?
+○0000000743○What is Shizuru trying to say?
 ●0000000743●
 
 ○0000000744○If she isn't a clean freak, and if there's no point to those gloves, then what...?!
@@ -2326,7 +2326,7 @@
 ○0000000779○It's lying on its back, motionless.
 ●0000000779●
 
-○0000000780○Its many small legs show not a hint of stretching towards the sky.
+○0000000780○Its many small legs show not a hint of stretching toward the sky.
 ●0000000780●
 
 ○0000000781○The sight makes me deeply anxious.
@@ -2449,7 +2449,7 @@
 ○0000000820○They belong to everyone.
 ●0000000820●
 
-○0000000821○I bite my lip and lower my head. Suppressing my affection towards the flower, I clench my fists.
+○0000000821○I bite my lip and lower my head. Suppressing my affection toward the flower, I clench my fists.
 ●0000000821●
 
 ○0000000822○I begin backing off silently.
@@ -2791,7 +2791,7 @@
 ○0000000938○"But she's still tortured by some coincidence from a decade ago?"
 ●0000000938●
 
-○0000000939○Sizuru nibbles on the last piece of her crepe.
+○0000000939○Shizuru nibbles on the last piece of her crepe.
 ●0000000939●
 
 ○0000000940○I have nothing else to do but vacantly stare at the children in the orange evening sunlight until she gulps down her meal.
@@ -3070,7 +3070,7 @@
 ○0000001032○"...It hasn't been long since I came to this town, so I'm not exactly familiar with its streets. I would like you to show me the way."
 ●0000001032●
 
-○0000001033○I don't know where Class Rep lives, but I can always ask Sizuru.
+○0000001033○I don't know where Class Rep lives, but I can always ask Shizuru.
 ●0000001033●
 
 ○0000001034○She was hoping for Class Rep to make more friends, too.
@@ -3079,7 +3079,7 @@
 ○0000001035○Class Rep understands that she can't make friends with the way she is, but she wishes for them all the same.
 ●0000001035●
 
-○0000001036○I'm sure that Sizuru will tell us.
+○0000001036○I'm sure that Shizuru will tell us.
 ●0000001036●
 
 ○0000001037○瑚太朗
@@ -3106,7 +3106,7 @@
 ○0000001044○Now, where is Class Rep's house anyway?
 ●0000001044●
 
-○0000001045○I figured I could ask Sizuru after school, but our homeroom ended up taking longer than usual, so she's already left.
+○0000001045○I figured I could ask Shizuru after school, but our homeroom ended up taking longer than usual, so she's already left.
 ●0000001045●
 
 ○0000001046○Damn, I can't just tell her I don't know where Class Rep's house is after all of that.
@@ -3217,7 +3217,7 @@
 ○0000001081○瑚太朗
 ●0000001081●
 
-○0000001082○"Yeah. Sizuru said that, too. I'm just afraid that they might wither again if she touches them, so we can't let that happen."
+○0000001082○"Yeah. Shizuru said that, too. I'm just afraid that they might wither again if she touches them, so we can't let that happen."
 ●0000001082●
 
 ○0000001083○ちはや
@@ -3319,7 +3319,7 @@
 ○0000001115○If she puts it that way, it does make sense.
 ●0000001115●
 
-○0000001116○From what Sizuru tells me, Class Rep is excessively fearful of touching anything, but she loves flowers and animals, and she really wants to touch them.
+○0000001116○From what Shizuru tells me, Class Rep is excessively fearful of touching anything, but she loves flowers and animals, and she really wants to touch them.
 ●0000001116●
 
 ○0000001117○Forcing her to touch them is definitely out of the question, but maybe putting them in a vase with water is all right.
@@ -3430,7 +3430,7 @@
 ○0000001152○"Would she be happy if we made her some porridge? There was a supermarket on the way here. Should we head back and get her a few things?"
 ●0000001152●
 
-○0000001153○She'd probably be pretty happy with that, but it might be a bit much if the three of us just showed up and did something like that.
+○0000001153○She'd probably be pretty happy with some jjigae, but it might be a bit much if the three of us just showed up and did something like that.
 ●0000001153●
 
 ○0000001154○瑚太朗
@@ -3469,7 +3469,7 @@
 ○0000001165○Her entrance has a stylish-looking name plate and a small planter by the door with some artificial flowers tastefully placed.
 ●0000001165●
 
-○0000001166○This is just like what Sizuru told me. She really does like flowers. I suppose artificial ones don't have any risk of wilting, so those are safer for her.
+○0000001166○This is just like what Shizuru told me. She really does like flowers. I suppose artificial ones don't have any risk of wilting, so those are safer for her.
 ●0000001166●
 
 ○0000001167○Knowing her, she'll probably immediately avoid Chihaya because she's holding the bouquet of flowers.
@@ -3679,7 +3679,7 @@
 ○0000001235○瑚太朗
 ●0000001235●
 
-○0000001236○"Sizuru told me, Class Rep. She told me about what happened in the past, with the sunflowers, and the goldfish..."
+○0000001236○"Shizuru told me, Class Rep. She told me about what happened in the past, with the sunflowers, and the goldfish..."
 ●0000001236●
 
 ○0000001237○瑚太朗
@@ -3691,7 +3691,7 @@
 ○0000001239○ルチア
 ●0000001239●
 
-○0000001240○"I see... So you heard from Sizuru."
+○0000001240○"I see... So you heard from Shizuru."
 ●0000001240●
 
 ○0000001241○小鳥
@@ -3883,7 +3883,7 @@
 ○0000001304○"Err, ummm..."
 ●0000001304●
 
-○0000001305○I need to think of a good follow-up! But dammit, I can't think of what to say...!
+○0000001305○I need to think of a good follow-up! But damn it, I can't think of what to say...!
 ●0000001305●
 
 ○0000001306○Look, I get it! I gotta come up with something or this'll turn real bad!
@@ -3910,7 +3910,7 @@
 ○0000001313○ルチア
 ●0000001313●
 
-○0000001314○"I never said I wanted any of this! You're causing me nothing but trouble!!"
+○0000001314○"I never said I wanted any of this! You're causing me nothing but trouble!"
 ●0000001314●
 
 ○0000001315○ちはや
@@ -3928,7 +3928,7 @@
 ○0000001319○ちはや
 ●0000001319●
 
-○0000001320○"Oh yeah, of course you never said that! Sorry about that!!"
+○0000001320○"Oh yeah, of course you never said that! Sorry about that!"
 ●0000001320●
 
 ○0000001321○ちはや
@@ -3940,13 +3940,13 @@
 ○0000001323○ルチア
 ●0000001323●
 
-○0000001324○"That's exactly what I've been doing! You're the one barging into my space here!!"
+○0000001324○"That's exactly what I've been doing! You're the one barging into my space here!"
 ●0000001324●
 
 ○0000001325○小鳥
 ●0000001325●
 
-○0000001326○"Stop it!! Why do the two of you say things you don't even mean?! You were supposed to make up!"
+○0000001326○"Stop it! Why do the two of you say things you don't even mean?! You were supposed to make up!"
 ●0000001326●
 
 ○0000001327○ちはや
@@ -3958,7 +3958,7 @@
 ○0000001329○ルチア
 ●0000001329●
 
-○0000001330○"I don't even remember being friends with Ohtori in the first place! I don't remember ever having been subjected to all her unsolicited meddling, either!!"
+○0000001330○"I don't even remember being friends with Ohtori in the first place! I don't remember ever having been subjected to all her unsolicited meddling, either!"
 ●0000001330●
 
 ○0000001331○ちはや
@@ -3970,7 +3970,7 @@
 ○0000001333○ちはや
 ●0000001333●
 
-○0000001334○"Why don't you just keep on acting like the high and mighty Class Rep then, you loner?! You don't even have any friends in the first place!!"
+○0000001334○"Why don't you just keep on acting like the high and mighty Class Rep then, you loner?! You don't even have any friends in the first place!"
 ●0000001334●
 
 ○0000001335○ルチア
@@ -3982,10 +3982,10 @@
 ○0000001337○Oh, you dummy...! Even Chihaya's expression makes it obvious that she realized that she said too much as she clamps her mouth shut.
 ●0000001337●
 
-○0000001338○Because of Class Rep's tendency to be a clean freak, she doesn't have a single friend in the entire school, with the exception of Sizuru.
+○0000001338○Because of Class Rep's tendency to be a clean freak, she doesn't have a single friend in the entire school, with the exception of Shizuru.
 ●0000001338●
 
-○0000001339○Even though we all had an inkling, which is why we never touched on that topic... Dammit, Chihaya!
+○0000001339○Even though we all had an inkling, which is why we never touched on that topic... Damn it, Chihaya!
 ●0000001339●
 
 ○0000001340○If she apologizes for it now, perhaps the wound won't be as deep.
@@ -4006,7 +4006,7 @@
 ○0000001345○ルチア
 ●0000001345●
 
-○0000001346○"Yes, goodbye and good riddance! Get out of here!! Don't you ever come back here, Ohtori Chihaya!!"
+○0000001346○"Yes, goodbye and good riddance! Get out of here! Don't you ever come back here, Ohtori Chihaya!"
 ●0000001346●
 
 ○0000001347○Chihaya turns around and leaves, her heels stomping down the stairs.
@@ -4069,7 +4069,7 @@
 ○0000001366○No, this person looks far too small.
 ●0000001366●
 
-○0000001367○...It's Sizuru.
+○0000001367○...It's Shizuru.
 ●0000001367●
 
 ○0000001368○静流
@@ -4084,10 +4084,10 @@
 ○0000001371○"Mm... About that..."
 ●0000001371●
 
-○0000001372○After seeing the flattened cake box in my hands, Sizuru probably sensed that something must have happened.
+○0000001372○After seeing the flattened cake box in my hands, Shizuru probably sensed that something must have happened.
 ●0000001372●
 
-○0000001373○After hearing about it from me and Kotori, Sizuru breathes a small sigh and shrugs.
+○0000001373○After hearing about it from me and Kotori, Shizuru breathes a small sigh and shrugs.
 ●0000001373●
 
 ○0000001375○静流
@@ -4117,7 +4117,7 @@
 ○0000001383○小鳥
 ●0000001383●
 
-○0000001384○"That's amazing, Sizu. You're the only one that Class Rep― Err, Konohana opens up to."
+○0000001384○"That's amazing, Shizu. You're the only one that Class Rep― Err, Konohana opens up to."
 ●0000001384●
 
 ○0000001385○静流
@@ -4126,7 +4126,7 @@
 ○0000001386○"I'm just special. But that doesn't mean you have to be special to be her friend."
 ●0000001386●
 
-○0000001387○Class Rep and Sizuru, huh?
+○0000001387○Class Rep and Shizuru, huh?
 ●0000001387●
 
 ○0000001388○How is it that these two can get along so well, when they're not only from different classes, but different grade levels?
@@ -4150,10 +4150,10 @@
 ○0000001394○She verbalizes her acknowledgement to accompany her nod. Guess we'll have to count on her.
 ●0000001394●
 
-○0000001395○It looks like Sizuru also understands that Class Rep can't keep going on like this.
+○0000001395○It looks like Shizuru also understands that Class Rep can't keep going on like this.
 ●0000001395●
 
-○0000001396○Given that we can only leave it to Sizuru, heading home is the only thing left for us to do.
+○0000001396○Given that we can only leave it to Shizuru, heading home is the only thing left for us to do.
 ●0000001396●
 
 ○0000001397○I decide to hear Chihaya out when we meet again in school tomorrow, but right as the thought crosses my mind...
@@ -4195,7 +4195,7 @@
 ○0000001409○I open up with a lighthearted remark and sit down on the other swing.
 ●0000001409●
 
-○0000001410○Most of the time, when people blatantly exude an aura screaming "leave me alone", the opposite is true.
+○0000001410○Most of the time, when people blatantly exude an aura screaming "leave me alone," the opposite is true.
 ●0000001410●
 
 ○0000001411○I'm sure even Chihaya would want to talk with someone to clear her mind.
@@ -4264,7 +4264,7 @@
 ○0000001433○ちはや
 ●0000001433●
 
-○0000001434○"Her problem is so deep that she can't overcome it on her own. That's why she's still suffering so much...!!"
+○0000001434○"Her problem is so deep that she can't overcome it on her own. That's why she's still suffering so much...!"
 ●0000001434●
 
 ○0000001435○ちはや
@@ -4318,7 +4318,7 @@
 ○0000001453○"Lucia deeply regrets it, too. A short fuse never leads to anything good."
 ●0000001453●
 
-○0000001454○The next day, I hear from Sizuru. Turns out Class Rep feels exactly the same as Chihaya.
+○0000001454○The next day, I hear from Shizuru. Turns out Class Rep feels exactly the same as Chihaya.
 ●0000001454●
 
 ○0000001455○In other words, both of them want to reconcile with each other, and each of them feels that they're the one at fault.
@@ -4624,7 +4624,7 @@
 ○0000001555○吉野
 ●0000001555●
 
-○0000001556○"If the two of you finish it in 45 minutes, it's free. Go over the time limit, and you lose 5000 yen. Shit's a real thrill ride, eh?"
+○0000001556○"If the two of you finish it in 45 minutes, it's free. Go over the time limit, and you lose 5,000 yen. Shit's a real thrill ride, eh?"
 ●0000001556●
 
 ○0000001557○吉野
@@ -4645,10 +4645,10 @@
 ○0000001562○"Heh. Imagine a couple of guys going at it with a parfait. We must be losing it."
 ●0000001562●
 
-○0000001563○Yoshinooooooo!! You're a lifesaver, man! A real buddy!
+○0000001563○Yoshinooooooo! You're a lifesaver, man! A real buddy!
 ●0000001563●
 
-○0000001564○Sizuru also understands what Yoshino is getting at. She's nodding her head up and down at high speed.
+○0000001564○Shizuru also understands what Yoshino is getting at. She's nodding her head up and down at high speed.
 ●0000001564●
 
 ○0000001565○Yeah... I got it. I can't let this chance slip us by!
@@ -4792,7 +4792,7 @@
 ○0000001611○"She did cry. She's always been such a crybaby, clinging to me and― Mmmphh!"
 ●0000001611●
 
-○0000001612○Incredibly flustered and flushed red, Class Rep covers Sizuru's mouth. Actually, with how rough she's being, it's like she's trying to choke her.
+○0000001612○Incredibly flustered and flushed red, Class Rep covers Shizuru's mouth. Actually, with how rough she's being, it's like she's trying to choke her.
 ●0000001612●
 
 ○0000001613○I guess she must be REALLY embarrassed about that. She acts like such a grumpy cat when she's trying to hide it.
@@ -4876,7 +4876,7 @@
 ○0000001639○"Okay, I have no idea what part of that was even remotely persuasive, but as long as you get it!"
 ●0000001639●
 
-○0000001640○Sizuru is as taciturn as always, but since she managed to wring an okay from Class Rep, she gives me a thumbs up.
+○0000001640○Shizuru is as taciturn as always, but since she managed to wring an okay from Class Rep, she gives me a thumbs up.
 ●0000001640●
 
 ○0000001641○ルチア
@@ -4912,7 +4912,7 @@
 ○0000001651○瑚太朗
 ●0000001651●
 
-○0000001652○"All right already, I got it. But you'd better go, okay? Sizuru, I don't really get it, but I'll leave it up to you."
+○0000001652○"All right already, I got it. But you'd better go, okay? Shizuru, I don't really get it, but I'll leave it up to you."
 ●0000001652●
 
 ○0000001653○静流
@@ -4924,19 +4924,19 @@
 ○0000001655○ルチア
 ●0000001655●
 
-○0000001656○"Oh, enough from you, Sizuru! Look, about what happened yesterday―!"
+○0000001656○"Oh, enough from you, Shizuru! Look, about what happened yesterday―!"
 ●0000001656●
 
-○0000001657○I'm not sure why, but Class Rep just can't go against Sizuru. Those two really are good friends, huh?
+○0000001657○I'm not sure why, but Class Rep just can't go against Shizuru. Those two really are good friends, huh?
 ●0000001657●
 
-○0000001658○Well, Sizuru being close with Lucia ended up being a big help.
+○0000001658○Well, Shizuru being close with Lucia ended up being a big help.
 ●0000001658●
 
 ○0000001659○She's the one and only person who knows of Class Rep's emotional wounds and understands how to handle them.
 ●0000001659●
 
-○0000001660○And the fact that Sizuru is Class Rep's friend is proof that she isn't fond of being lonely, either.
+○0000001660○And the fact that Shizuru is Class Rep's friend is proof that she isn't fond of being lonely, either.
 ●0000001660●
 
 ○0000001661○小鳥
@@ -4975,7 +4975,7 @@
 ○0000001672○And so, the end of the school day is upon us.
 ●0000001672●
 
-○0000001673○There are five of us: Class Rep, Chihaya, me, Kotori, and Sizuru. We assemble at a newly opened café by the station.
+○0000001673○There are five of us: Class Rep, Chihaya, me, Kotori, and Shizuru. We assemble at a newly opened café by the station.
 ●0000001673●
 
 ○0000001674○I see. So the store's selling point is the jumbo parfaits.
@@ -5002,7 +5002,7 @@
 ○0000001681○It's 25,000 meters tall! Everest was around 8,000 meters or so?
 ●0000001681●
 
-○0000001682○I guess they want it to be the tallest parfait in the whole solar system... Also, the price of the thing is just listed as "negotiable".
+○0000001682○I guess they want it to be the tallest parfait in the whole solar system... Also, the price of the thing is just listed as "negotiable."
 ●0000001682●
 
 ○0000001683○小鳥
@@ -5047,7 +5047,7 @@
 ○0000001696○瑚太朗
 ●0000001696●
 
-○0000001697○"For starters, let's have today's guests of honor sit over there. Kotori, Sizuru, and I will be here in the booth."
+○0000001697○"For starters, let's have today's guests of honor sit over there. Kotori, Shizuru, and I will be here in the booth."
 ●0000001697●
 
 ○0000001698○ちはや
@@ -5122,7 +5122,7 @@
 ○0000001721○瑚太朗
 ●0000001721●
 
-○0000001722○"By the way, if you go over the time limit, you're going to have to pay 5000 yen. Ain't that a thrill?!"
+○0000001722○"By the way, if you go over the time limit, you're going to have to pay 5,000 yen. Ain't that a thrill?!"
 ●0000001722●
 
 ○0000001723○小鳥
@@ -5242,7 +5242,7 @@
 ○0000001761○"Stay, Lucia. Stay."
 ●0000001761●
 
-○0000001762○With Sizuru here, no matter how much Class Rep sulks, she just gets treated like a grumpy cat.
+○0000001762○With Shizuru here, no matter how much Class Rep sulks, she just gets treated like an ill-tempered cat.
 ●0000001762●
 
 ○0000001763○Even though Class Rep understands, she just can't find it in her to be honest about it.
@@ -5296,7 +5296,7 @@
 ○0000001779○I seriously did not expect them to be this evasive.
 ●0000001779●
 
-○0000001780○Guess my naive hope that the two sharing a parfait would help them get back together isn't going to happen.
+○0000001780○Guess my naïve hope that the two sharing a parfait would help them get back together isn't going to happen.
 ●0000001780●
 
 ○0000001781○瑚太朗
@@ -5326,7 +5326,7 @@
 ○0000001789○瑚太朗
 ●0000001789●
 
-○0000001790○"I'm more than open to suggestions. Kotori, Sizuru, lemme know if anything comes to mind."
+○0000001790○"I'm more than open to suggestions. Kotori, Shizuru, lemme know if anything comes to mind."
 ●0000001790●
 
 ○0000001791○小鳥
@@ -5344,7 +5344,7 @@
 ○0000001795○I'm the one who came up with today's operation. At any rate, we absolutely need to get those two back together so we can end the day on a good, happy note.
 ●0000001795●
 
-○0000001796○Kotori and Sizuru have been helping me a ton already. I shouldn't rely on them all the time.
+○0000001796○Kotori and Shizuru have been helping me a ton already. I shouldn't rely on them all the time.
 ●0000001796●
 
 ○0000001797○I know it's wishful thinking, but I guess I can only hope and pray that this store's famous parfait can melt their hardened hearts with its sweetness.
@@ -5446,13 +5446,13 @@
 ○0000001829○店長
 ●0000001829●
 
-○0000001830○"That mapo tofu destroyed my... OUR shining legacy! I hate that mapo tofu. I loathe it... I detest it...!!"
+○0000001830○"That mapo tofu destroyed my... OUR shining legacy! I hate that mapo tofu. I loathe it... I detest it...!"
 ●0000001830●
 
 ○0000001831○店長
 ●0000001831●
 
-○0000001832○"Aurghhh! Just remembering it is already setting my throat on fiiiire!! Water! Wateeer!! Ahh, there, thanks... Glug, glug... Pwahh!"
+○0000001832○"Aurghhh! Just remembering it is already setting my throat on fiiiire! Water! Wateeer! Ahh, there, thanks... Glug, glug... Pwahh!"
 ●0000001832●
 
 ○0000001833○That mapo tofu is something that only those who've been to our school's cafeteria know about.
@@ -5488,7 +5488,7 @@
 ○0000001843○店長
 ●0000001843●
 
-○0000001844○"Damn you, Konohana Lucia... Don't you dare think this is the end of we, the extreme spice chasers... The Black Spice Company!!"
+○0000001844○"Damn you, Konohana Lucia... Don't you dare think this is the end of we, the extreme spice chasers... The Black Spice Company!"
 ●0000001844●
 
 ○0000001845○I-I remember now...! The Black Spice Company! They're a bunch of troublemakers who go after anything insanely spicy!
@@ -5512,13 +5512,13 @@
 ○0000001851○店員
 ●0000001851●
 
-○0000001852○"The shame that we should have already forgotten! Uooohhhh! Booooss!!!"
+○0000001852○"The shame that we should have already forgotten! Uooohhhh! Booooss!"
 ●0000001852●
 
 ○0000001853○店長
 ●0000001853●
 
-○0000001854○"Dammit, I said call me manager! Anyway, it's good that we met her here!"
+○0000001854○"Damn it, I said call me manager! Anyway, it's good that we met her here!"
 ●0000001854●
 
 ○0000001855○店長
@@ -5614,13 +5614,13 @@
 ○0000001885○"Nom, nom, nom..."
 ●0000001885●
 
-○0000001886○Without even waiting for my signal, the very first one to start picking at the parfait is Sizuru.
+○0000001886○Without even waiting for my signal, the very first one to start picking at the parfait is Shizuru.
 ●0000001886●
 
 ○0000001887○She gives me a thumbs up; loooks like it's not half bad.
 ●0000001887●
 
-○0000001888○Okay, looks like they haven't sacrificed quality for the sake of quantity then.
+○0000001888○Okay, looks like they haven't sacrificed quality for the sake of quantity, then.
 ●0000001888●
 
 ○0000001889○The problem is... I'm probably gonna have to shoulder the cost of this.
@@ -5677,7 +5677,7 @@
 ○0000001906○瑚太朗
 ●0000001906●
 
-○0000001907○"C'mon! Eat! Eat! You don't want to pay the 5000 yen, do you?!"
+○0000001907○"C'mon! Eat! Eat! You don't want to pay the 5,000 yen, do you?!"
 ●0000001907●
 
 ○0000001908○Both of them believe that the other invited them to this.
@@ -5698,7 +5698,7 @@
 ○0000001914○ちはや
 ●0000001914●
 
-○0000001915○"Pwahh?! Ghagh! Khehh! Khahh, khohh, khahh!! Khehh, khohhh, khehh, khehh!! Khahh, khohh, khehh!!"
+○0000001915○"Pwahh?! Ghagh! Khehh! Khahh, khohh, khahh! Khehh, khohhh, khehh, khehh! Khahh, khohh, khehh!"
 ●0000001915●
 
 ○0000001916○The moment Chihaya eats her first spoonful, she starts coughing violently.
@@ -5713,7 +5713,7 @@
 ○0000001919○ちはや
 ●0000001919●
 
-○0000001920○"Khohh, khahh!! Khehh, khohhh, khehh, khehh!! Urghhh! Ghaaghhh! Khahh, khohh, khehh! What is... this?!"
+○0000001920○"Khohh, khahh! Khehh, khohhh, khehh, khehh! Urghhh! Ghaaghhh! Khahh, khohh, khehh! What is... this?!"
 ●0000001920●
 
 ○0000001921○I thought she was just choking... but Chihaya clearly looks off.
@@ -5773,7 +5773,7 @@
 ○0000001940○She was invited here so the two of them could mend their relationship, but after getting here, she's only seen Chihaya look grumpy.
 ●0000001940●
 
-○0000001941○On top of that, she gets dragged into splitting a parfait that costs a whopping 5000 yen, and then Chihaya bows out because she doesn't feel well? Of course she'd be upset.
+○0000001941○On top of that, she gets dragged into splitting a parfait that costs a whopping 5,000 yen, and then Chihaya bows out because she doesn't feel well? Of course she'd be upset.
 ●0000001941●
 
 ○0000001942○I'm more concerned about Chihaya right now, though... Coughing that much isn't normal.
@@ -5824,7 +5824,7 @@
 ○0000001957○ちはや
 ●0000001957●
 
-○0000001958○"Guoghh! Khehh, khahh, khohh, khahh!! So hot! Gragghhh! Pfft!"
+○0000001958○"Guoghh! Khehh, khahh, khohh, khahh! So hot! Gragghhh! Pfft!"
 ●0000001958●
 
 ○0000001959○I lightly knock on the door to the women's bathroom and gently open it just a crack.
@@ -5851,7 +5851,7 @@
 ○0000001967○What now?! I'm already at my wit's end because the getting-back-together scheme isn't working out, and now the Black Spice Company throws another wrench into my plans?!
 ●0000001967●
 
-○0000001968○What the hell, man?! Take your spice showdown and do it some other day!!
+○0000001968○What the hell, man?! Take your spice showdown and do it some other day!
 ●0000001968●
 
 ○0000001969○ちはや
@@ -6073,7 +6073,7 @@
 ○0000002042○ちはや
 ●0000002042●
 
-○0000002043○"Eh...? I don't get it..."
+○0000002043○"Huh...? I don't get it..."
 ●0000002043●
 
 ○0000002044○瑚太朗
@@ -6127,7 +6127,7 @@
 ○0000002060○瑚太朗
 ●0000002060●
 
-○0000002061○"That's exactly what Class Rep believes and hopes for! That's why she's enduring the absurd spiciness and continues to eat spoon after spoon!!"
+○0000002061○"That's exactly what Class Rep believes and hopes for! That's why she's enduring the absurd spiciness and continues to eat spoon after spoon!"
 ●0000002061●
 
 ○0000002062○ちはや
@@ -6151,7 +6151,7 @@
 ○0000002068○瑚太朗
 ●0000002068●
 
-○0000002069○"It's because that is the parfait that you, and only you, had prepared so that the two of you can finally reconcile!!"
+○0000002069○"It's because that is the parfait that you, and only you, had prepared so that the two of you can finally reconcile!"
 ●0000002069●
 
 ○0000002070○ちはや
@@ -6199,7 +6199,7 @@
 ○0000002084○ちはや
 ●0000002084●
 
-○0000002085○"I-I really am bad at expressing myself honestly. I'll show how I feel towards her in the same way, with the same determination as her!"
+○0000002085○"I-I really am bad at expressing myself honestly. I'll show how I feel toward her in the same way, with the same determination as her!"
 ●0000002085●
 
 ○0000002086○ちはや
@@ -6217,7 +6217,7 @@
 ○0000002090○ちはや
 ●0000002090●
 
-○0000002091○"All right! Let's do this thing!!"
+○0000002091○"All right! Let's do this thing!"
 ●0000002091●
 
 ○0000002092○Chihaya gives herself a couple slaps on the face and steps forth, determination brimming from her eyes.
@@ -6274,7 +6274,7 @@
 ○0000002110○ちはや
 ●0000002110●
 
-○0000002111○"Exaggeration? Absolutely not! Indeed, for the two of us who cannot be honest with ourselves, this giant parfait is the ordeal that has been bestowed upon us!"
+○0000002111○"Exaggeration? Absolutely not! Indeed, for the two of us who can't be honest with ourselves, this giant parfait is the ordeal that has been bestowed upon us!"
 ●0000002111●
 
 ○0000002112○ちはや
@@ -6304,13 +6304,13 @@
 ○0000002120○ちはや
 ●0000002120●
 
-○0000002121○"Yes, I know we can do this! I'll make up for being late, too!!"
+○0000002121○"Yes, I know we can do this! I'll make up for being late, too!"
 ●0000002121●
 
 ○0000002123○ちはや
 ●0000002123●
 
-○0000002124○"Khaghh! Om, nom, nom! Urghhh! Khohh, khahh! Hieehhh! I'm not... done yet! Aghh, hamnhhh, amghhh!!"
+○0000002124○"Khaghh! Om, nom, nom! Urghhh! Khohh, khahh! Hieehhh! I'm not... done yet! Aghh, hamnhhh, amghhh!"
 ●0000002124●
 
 ○0000002125○ルチア
@@ -6349,7 +6349,7 @@
 ○0000002136○ちはや
 ●0000002136●
 
-○0000002137○"Ahhmngh! Hiiehhh!!"
+○0000002137○"Ahhmngh! Hiiehhh!"
 ●0000002137●
 
 ○0000002138○静流
@@ -6370,7 +6370,7 @@
 ○0000002143○"I-It's a trade secret. Anyway, it's a good thing I could get them to work together. Thank goodness..."
 ●0000002143●
 
-○0000002144○Just... after everything's over, there'll be a ton of inconsistencies and loose ends to explain. I'll have to count on Kotori and Sizuru for that.
+○0000002144○Just... after everything's over, there'll be a ton of inconsistencies and loose ends to explain. I'll have to count on Kotori and Shizuru for that.
 ●0000002144●
 
 ○0000002145○Glancing at the kitchen, I can see the employees anxiously looking our way.
@@ -6379,7 +6379,7 @@
 ○0000002146○店員
 ●0000002146●
 
-○0000002147○"What the hell?! Those two are actually eating it!!"
+○0000002147○"What the hell?! Those two are actually eating it!"
 ●0000002147●
 
 ○0000002148○店長
@@ -6397,7 +6397,7 @@
 ○0000002152○店員
 ●0000002152●
 
-○0000002153○"Booooosss!! I'll be with ya anywhere you go! Uoooooghhhh!"
+○0000002153○"Booooosss! I'll be with ya anywhere you go! Uoooooghhhh!"
 ●0000002153●
 
 ○0000002154○Those two tough-looking guys are hugging each other and crying.
@@ -6460,7 +6460,7 @@
 ○0000002174○店長
 ●0000002174●
 
-○0000002175○"W-We truly underestimated you!! We didn't think you could actually finish it!!"
+○0000002175○"W-We truly underestimated you! We didn't think you could actually finish it!"
 ●0000002175●
 
 ○0000002176○ルチア
@@ -6967,7 +6967,7 @@
 ○0000002346○While the summer's end still has some remnants of heat, the autumn sky is higher up in the firmament, bringing with it the cool breeze of the coming season.
 ●0000002346●
 
-○0000002348○I notice I have an unread message from Sizuru.
+○0000002348○I notice I have an unread message from Shizuru.
 ●0000002348●
 
 ○0000002349○"Chii, Lucia, and I will have a discussion today. We will not be able to make it to the club."
@@ -7102,7 +7102,7 @@
 ○0000002392○Nah, it's fine.
 ●0000002392●
 
-○0000002393○I notice I have an unread message from Sizuru.
+○0000002393○I notice I have an unread message from Shizuru.
 ●0000002393●
 
 ○0000002394○"Chii, Lucia, and I will have a discussion today. We will not be able to make it to the club."
@@ -7111,7 +7111,7 @@
 ○0000002395○瑚太朗
 ●0000002395●
 
-○0000002396○"Good luck, Sizuru."
+○0000002396○"Good luck, Shizuru."
 ●0000002396●
 
 ○0000002397○I send her an encouraging email.
@@ -7126,1039 +7126,1039 @@
 ○0000002400○瑚太朗
 ●0000002400●
 
-○0000002401○"......"
+○0000002401○"..."
 ●0000002401●
 
-○0000002402○I finally receive an email from Sizuru later that night.
+○0000002402○瑚太朗
 ●0000002402●
 
-○0000002403○"It's all resolved."
+○0000002403○"......"
 ●0000002403●
 
-○0000002404○A brief but relieving message.
+○0000002404○I finally receive an email from Shizuru later that night.
 ●0000002404●
 
-○0000002405○"How'd it go down?" I write back.
+○0000002405○"It's all resolved."
 ●0000002405●
 
-○0000002406○"In the end, we all agreed that Chii likes chow-chows."
+○0000002406○A brief but relieving message.
 ●0000002406●
 
-○0000002407○Now I'm really curious as to the details of their discussion.
+○0000002407○"How'd it go down?" I write back.
 ●0000002407●
 
-○0000002408○I receive a message from Sizuru that evening.
+○0000002408○"In the end, we all agreed that Chii likes chow-chows."
 ●0000002408●
 
-○0000002409○"The two had a fight, but it's okay now."
+○0000002409○Now I'm really curious as to the details of their discussion.
 ●0000002409●
 
-○0000002410○She obviously means Chihaya and Lucia, who'd also been absent today.
+○0000002410○I receive a message from Shizuru that evening.
 ●0000002410●
 
-○0000002411○瑚太朗
+○0000002411○"The two had a fight, but it's okay now."
 ●0000002411●
 
-○0000002412○"...I wonder what happened."
+○0000002412○She obviously means Chihaya and Lucia, who'd also been absent today.
 ●0000002412●
 
-○0000002413○Those two definitely don't seem very compatible.
+○0000002413○瑚太朗
 ●0000002413●
 
-○0000002414○I wouldn't be surprised to see them arguing at any point.
+○0000002414○"...I wonder what happened."
 ●0000002414●
 
-○0000002415○That said, if Sizuru says it's okay, then it probably is.
+○0000002415○Those two definitely don't seem very compatible.
 ●0000002415●
 
-○0000002416○I send her a "Good job".
+○0000002416○I wouldn't be surprised to see them arguing at any point.
 ●0000002416●
 
-○0000002417○dummy
+○0000002417○That said, if Shizuru says it's okay, then it probably is.
 ●0000002417●
 
-○0000002418○sys30_cl00
+○0000002418○I send her a "Good job."
 ●0000002418●
 
-○0000002419○sys20_adv00
+○0000002419○dummy
 ●0000002419●
 
-○0000002420○bg001
+○0000002420○sys30_cl00
 ●0000002420●
 
-○0000002421○bgm001
+○0000002421○sys20_adv00
 ●0000002421●
 
-○0000002422○sys20_adv00
+○0000002422○bg001
 ●0000002422●
 
-○0000002423○kuro
+○0000002423○bgm001
 ●0000002423●
 
 ○0000002424○sys20_adv00
 ●0000002424●
 
-○0000002425○bg002
+○0000002425○kuro
 ●0000002425●
 
-○0000002426○bgm003
+○0000002426○sys20_adv00
 ●0000002426●
 
-○0000002427○sys20_adv00
+○0000002427○bg002
 ●0000002427●
 
-○0000002428○cgm_ys17
+○0000002428○bgm003
 ●0000002428●
 
 ○0000002429○sys20_adv00
 ●0000002429●
 
-○0000002430○cgm_ys15
+○0000002430○cgm_ys17
 ●0000002430●
 
 ○0000002431○sys20_adv00
 ●0000002431●
 
-○0000002432○sys20_adv00
+○0000002432○cgm_ys15
 ●0000002432●
 
-○0000002433○cgm_ys17
+○0000002433○sys20_adv00
 ●0000002433●
 
 ○0000002434○sys20_adv00
 ●0000002434●
 
-○0000002435○sys20_adv00
+○0000002435○cgm_ys17
 ●0000002435●
 
-○0000002436○cgm_ys10
+○0000002436○sys20_adv00
 ●0000002436●
 
 ○0000002437○sys20_adv00
 ●0000002437●
 
-○0000002438○cgm_ys15
+○0000002438○cgm_ys10
 ●0000002438●
 
 ○0000002439○sys20_adv00
 ●0000002439●
 
-○0000002440○cgm_ys10
+○0000002440○cgm_ys15
 ●0000002440●
 
 ○0000002441○sys20_adv00
 ●0000002441●
 
-○0000002442○cgm_ys15
+○0000002442○cgm_ys10
 ●0000002442●
 
 ○0000002443○sys20_adv00
 ●0000002443●
 
-○0000002444○cgm_ys10
+○0000002444○cgm_ys15
 ●0000002444●
 
 ○0000002445○sys20_adv00
 ●0000002445●
 
-○0000002446○sys20_adv00
+○0000002446○cgm_ys10
 ●0000002446●
 
-○0000002447○cgm_ys15
+○0000002447○sys20_adv00
 ●0000002447●
 
 ○0000002448○sys20_adv00
 ●0000002448●
 
-○0000002449○cgm_ys17
+○0000002449○cgm_ys15
 ●0000002449●
 
 ○0000002450○sys20_adv00
 ●0000002450●
 
-○0000002451○cgm_ys10
+○0000002451○cgm_ys17
 ●0000002451●
 
 ○0000002452○sys20_adv00
 ●0000002452●
 
-○0000002453○cgm_ys15
+○0000002453○cgm_ys10
 ●0000002453●
 
 ○0000002454○sys20_adv00
 ●0000002454●
 
-○0000002455○cgm_ys10
+○0000002455○cgm_ys15
 ●0000002455●
 
 ○0000002456○sys20_adv00
 ●0000002456●
 
-○0000002457○cgm_ys17
+○0000002457○cgm_ys10
 ●0000002457●
 
 ○0000002458○sys20_adv00
 ●0000002458●
 
-○0000002459○sys20_adv00
+○0000002459○cgm_ys17
 ●0000002459●
 
-○0000002460○cgm_ys10
+○0000002460○sys20_adv00
 ●0000002460●
 
 ○0000002461○sys20_adv00
 ●0000002461●
 
-○0000002462○cgm_ys17
+○0000002462○cgm_ys10
 ●0000002462●
 
 ○0000002463○sys20_adv00
 ●0000002463●
 
-○0000002464○cgm_ys12
+○0000002464○cgm_ys17
 ●0000002464●
 
 ○0000002465○sys20_adv00
 ●0000002465●
 
-○0000002466○sys20_adv00
+○0000002466○cgm_ys12
 ●0000002466●
 
-○0000002467○cgm_ys10
+○0000002467○sys20_adv00
 ●0000002467●
 
 ○0000002468○sys20_adv00
 ●0000002468●
 
-○0000002469○cgm_ys12
+○0000002469○cgm_ys10
 ●0000002469●
 
 ○0000002470○sys20_adv00
 ●0000002470●
 
-○0000002471○sys20_adv00
+○0000002471○cgm_ys12
 ●0000002471●
 
-○0000002472○cgm_ys10
+○0000002472○sys20_adv00
 ●0000002472●
 
 ○0000002473○sys20_adv00
 ●0000002473●
 
-○0000002474○cgm_ys17
+○0000002474○cgm_ys10
 ●0000002474●
 
 ○0000002475○sys20_adv00
 ●0000002475●
 
-○0000002476○kuro
+○0000002476○cgm_ys17
 ●0000002476●
 
 ○0000002477○sys20_adv00
 ●0000002477●
 
-○0000002478○bg006
+○0000002478○kuro
 ●0000002478●
 
-○0000002479○bgm004
+○0000002479○sys20_adv00
 ●0000002479●
 
-○0000002480○sys20_adv00
+○0000002480○bg006
 ●0000002480●
 
-○0000002481○cgm_sz10
+○0000002481○bgm004
 ●0000002481●
 
 ○0000002482○sys20_adv00
 ●0000002482●
 
-○0000002483○sys20_adv00
+○0000002483○cgm_sz10
 ●0000002483●
 
-○0000002484○cgm_sz12
+○0000002484○sys20_adv00
 ●0000002484●
 
 ○0000002485○sys20_adv00
 ●0000002485●
 
-○0000002486○cgm_sz42
+○0000002486○cgm_sz12
 ●0000002486●
 
 ○0000002487○sys20_adv00
 ●0000002487●
 
-○0000002488○cgm_sz10
+○0000002488○cgm_sz42
 ●0000002488●
 
 ○0000002489○sys20_adv00
 ●0000002489●
 
-○0000002490○cgm_sz17s
+○0000002490○cgm_sz10
 ●0000002490●
 
 ○0000002491○sys20_adv00
 ●0000002491●
 
-○0000002492○cgm_sz31y
+○0000002492○cgm_sz17s
 ●0000002492●
 
 ○0000002493○sys20_adv00
 ●0000002493●
 
-○0000002494○cgm_sz40
+○0000002494○cgm_sz31y
 ●0000002494●
 
 ○0000002495○sys20_adv00
 ●0000002495●
 
-○0000002496○cgm_sz10h
+○0000002496○cgm_sz40
 ●0000002496●
 
 ○0000002497○sys20_adv00
 ●0000002497●
 
-○0000002498○cgm_sz12
+○0000002498○cgm_sz10h
 ●0000002498●
 
 ○0000002499○sys20_adv00
 ●0000002499●
 
-○0000002500○sys20_adv00
+○0000002500○cgm_sz12
 ●0000002500●
 
-○0000002501○cgm_sz11
+○0000002501○sys20_adv00
 ●0000002501●
 
 ○0000002502○sys20_adv00
 ●0000002502●
 
-○0000002503○cgm_sz43h
+○0000002503○cgm_sz11
 ●0000002503●
 
 ○0000002504○sys20_adv00
 ●0000002504●
 
-○0000002505○cgm_sz11
+○0000002505○cgm_sz43h
 ●0000002505●
 
 ○0000002506○sys20_adv00
 ●0000002506●
 
-○0000002507○sys20_adv00
+○0000002507○cgm_sz11
 ●0000002507●
 
-○0000002508○kuro
+○0000002508○sys20_adv00
 ●0000002508●
 
 ○0000002509○sys20_adv00
 ●0000002509●
 
-○0000002510○bg002
+○0000002510○kuro
 ●0000002510●
 
-○0000002511○bgm003
+○0000002511○sys20_adv00
 ●0000002511●
 
-○0000002512○sys20_adv00
+○0000002512○bg002
 ●0000002512●
 
-○0000002513○kuro
+○0000002513○bgm003
 ●0000002513●
 
 ○0000002514○sys20_adv00
 ●0000002514●
 
-○0000002515○bg003
+○0000002515○kuro
 ●0000002515●
 
-○0000002516○bgm005
+○0000002516○sys20_adv00
 ●0000002516●
 
-○0000002517○sys20_adv00
+○0000002517○bg003
 ●0000002517●
 
-○0000002518○cgm_kt18
+○0000002518○bgm005
 ●0000002518●
 
 ○0000002519○sys20_adv00
 ●0000002519●
 
-○0000002520○cgm_kt25
+○0000002520○cgm_kt18
 ●0000002520●
 
 ○0000002521○sys20_adv00
 ●0000002521●
 
-○0000002522○cgm_kt16y
+○0000002522○cgm_kt25
 ●0000002522●
 
 ○0000002523○sys20_adv00
 ●0000002523●
 
-○0000002524○cgm_kt30
+○0000002524○cgm_kt16y
 ●0000002524●
 
 ○0000002525○sys20_adv00
 ●0000002525●
 
-○0000002526○cgm_kt16
+○0000002526○cgm_kt30
 ●0000002526●
 
 ○0000002527○sys20_adv00
 ●0000002527●
 
-○0000002528○cgm_kt18h
+○0000002528○cgm_kt16
 ●0000002528●
 
 ○0000002529○sys20_adv00
 ●0000002529●
 
-○0000002530○cgm_kt25
+○0000002530○cgm_kt18h
 ●0000002530●
 
 ○0000002531○sys20_adv00
 ●0000002531●
 
-○0000002532○cgm_kt31
+○0000002532○cgm_kt25
 ●0000002532●
 
 ○0000002533○sys20_adv00
 ●0000002533●
 
-○0000002534○cgm_kt30
+○0000002534○cgm_kt31
 ●0000002534●
 
 ○0000002535○sys20_adv00
 ●0000002535●
 
-○0000002536○cgm_kt11y
+○0000002536○cgm_kt30
 ●0000002536●
 
 ○0000002537○sys20_adv00
 ●0000002537●
 
-○0000002538○cgm_kt20
+○0000002538○cgm_kt11y
 ●0000002538●
 
 ○0000002539○sys20_adv00
 ●0000002539●
 
-○0000002540○cgm_kt32
+○0000002540○cgm_kt20
 ●0000002540●
 
 ○0000002541○sys20_adv00
 ●0000002541●
 
-○0000002542○cgm_kt22
+○0000002542○cgm_kt32
 ●0000002542●
 
 ○0000002543○sys20_adv00
 ●0000002543●
 
-○0000002544○cgm_kt26
+○0000002544○cgm_kt22
 ●0000002544●
 
 ○0000002545○sys20_adv00
 ●0000002545●
 
-○0000002546○cgm_kt30
+○0000002546○cgm_kt26
 ●0000002546●
 
 ○0000002547○sys20_adv00
 ●0000002547●
 
-○0000002548○sys20_adv00
+○0000002548○cgm_kt30
 ●0000002548●
 
-○0000002549○cgm_kt30
+○0000002549○sys20_adv00
 ●0000002549●
 
 ○0000002550○sys20_adv00
 ●0000002550●
 
-○0000002551○sys20_adv00
+○0000002551○cgm_kt30
 ●0000002551●
 
-○0000002552○kuro
+○0000002552○sys20_adv00
 ●0000002552●
 
 ○0000002553○sys20_adv00
 ●0000002553●
 
-○0000002554○bg011
+○0000002554○kuro
 ●0000002554●
 
 ○0000002555○sys20_adv00
 ●0000002555●
 
-○0000002556○cgm_kt18
+○0000002556○bg011
 ●0000002556●
 
 ○0000002557○sys20_adv00
 ●0000002557●
 
-○0000002558○cgm_kt25
+○0000002558○cgm_kt18
 ●0000002558●
 
 ○0000002559○sys20_adv00
 ●0000002559●
 
-○0000002560○cgm_kt26
+○0000002560○cgm_kt25
 ●0000002560●
 
 ○0000002561○sys20_adv00
 ●0000002561●
 
-○0000002562○cgm_kt32
+○0000002562○cgm_kt26
 ●0000002562●
 
 ○0000002563○sys20_adv00
 ●0000002563●
 
-○0000002564○cgm_kt26
+○0000002564○cgm_kt32
 ●0000002564●
 
 ○0000002565○sys20_adv00
 ●0000002565●
 
-○0000002566○cgm_kt32
+○0000002566○cgm_kt26
 ●0000002566●
 
 ○0000002567○sys20_adv00
 ●0000002567●
 
-○0000002568○sys20_adv00
+○0000002568○cgm_kt32
 ●0000002568●
 
-○0000002569○cgm_kt20y
+○0000002569○sys20_adv00
 ●0000002569●
 
 ○0000002570○sys20_adv00
 ●0000002570●
 
-○0000002571○sys20_adv00
+○0000002571○cgm_kt20y
 ●0000002571●
 
-○0000002572○cgm_kt11
+○0000002572○sys20_adv00
 ●0000002572●
 
 ○0000002573○sys20_adv00
 ●0000002573●
 
-○0000002574○sys20_adv00
+○0000002574○cgm_kt11
 ●0000002574●
 
-○0000002575○cgm_kt14
+○0000002575○sys20_adv00
 ●0000002575●
 
 ○0000002576○sys20_adv00
 ●0000002576●
 
-○0000002577○cgm_kt11
+○0000002577○cgm_kt14
 ●0000002577●
 
 ○0000002578○sys20_adv00
 ●0000002578●
 
-○0000002579○cgm_kt16
+○0000002579○cgm_kt11
 ●0000002579●
 
 ○0000002580○sys20_adv00
 ●0000002580●
 
-○0000002581○sys20_adv00
+○0000002581○cgm_kt16
 ●0000002581●
 
-○0000002582○cgm_kt10
+○0000002582○sys20_adv00
 ●0000002582●
 
 ○0000002583○sys20_adv00
 ●0000002583●
 
-○0000002584○cgm_kt11
+○0000002584○cgm_kt10
 ●0000002584●
 
 ○0000002585○sys20_adv00
 ●0000002585●
 
-○0000002586○sys20_adv00
+○0000002586○cgm_kt11
 ●0000002586●
 
-○0000002587○cgm_kt14y
+○0000002587○sys20_adv00
 ●0000002587●
 
 ○0000002588○sys20_adv00
 ●0000002588●
 
-○0000002589○cgm_kt10
+○0000002589○cgm_kt14y
 ●0000002589●
 
 ○0000002590○sys20_adv00
 ●0000002590●
 
-○0000002591○cgm_kt30
+○0000002591○cgm_kt10
 ●0000002591●
 
 ○0000002592○sys20_adv00
 ●0000002592●
 
-○0000002593○cgm_kt11y
+○0000002593○cgm_kt30
 ●0000002593●
 
 ○0000002594○sys20_adv00
 ●0000002594●
 
-○0000002595○kuro
+○0000002595○cgm_kt11y
 ●0000002595●
 
 ○0000002596○sys20_adv00
 ●0000002596●
 
-○0000002597○bg012
+○0000002597○kuro
 ●0000002597●
 
 ○0000002598○sys20_adv00
 ●0000002598●
 
-○0000002599○cgm_kt21y
+○0000002599○bg012
 ●0000002599●
 
 ○0000002600○sys20_adv00
 ●0000002600●
 
-○0000002601○cgm_kt26
+○0000002601○cgm_kt21y
 ●0000002601●
 
 ○0000002602○sys20_adv00
 ●0000002602●
 
-○0000002603○cgm_kt16
+○0000002603○cgm_kt26
 ●0000002603●
 
 ○0000002604○sys20_adv00
 ●0000002604●
 
-○0000002605○cgm_kt32
+○0000002605○cgm_kt16
 ●0000002605●
 
 ○0000002606○sys20_adv00
 ●0000002606●
 
-○0000002607○cgm_kt25
+○0000002607○cgm_kt32
 ●0000002607●
 
 ○0000002608○sys20_adv00
 ●0000002608●
 
-○0000002609○sys20_adv00
+○0000002609○cgm_kt25
 ●0000002609●
 
-○0000002610○cgm_kt11
+○0000002610○sys20_adv00
 ●0000002610●
 
 ○0000002611○sys20_adv00
 ●0000002611●
 
-○0000002612○sys20_adv00
+○0000002612○cgm_kt11
 ●0000002612●
 
-○0000002613○cgm_kt30
+○0000002613○sys20_adv00
 ●0000002613●
 
 ○0000002614○sys20_adv00
 ●0000002614●
 
-○0000002615○sys20_adv00
+○0000002615○cgm_kt30
 ●0000002615●
 
-○0000002616○cgm_kt16
+○0000002616○sys20_adv00
 ●0000002616●
 
 ○0000002617○sys20_adv00
 ●0000002617●
 
-○0000002618○cgm_kt20
+○0000002618○cgm_kt16
 ●0000002618●
 
 ○0000002619○sys20_adv00
 ●0000002619●
 
-○0000002620○cgm_kt31
+○0000002620○cgm_kt20
 ●0000002620●
 
 ○0000002621○sys20_adv00
 ●0000002621●
 
-○0000002622○cgm_kt16y
+○0000002622○cgm_kt31
 ●0000002622●
 
 ○0000002623○sys20_adv00
 ●0000002623●
 
-○0000002624○cgm_kt31
+○0000002624○cgm_kt16y
 ●0000002624●
 
 ○0000002625○sys20_adv00
 ●0000002625●
 
-○0000002626○cgm_kt22
+○0000002626○cgm_kt31
 ●0000002626●
 
 ○0000002627○sys20_adv00
 ●0000002627●
 
-○0000002628○cgm_kt31
+○0000002628○cgm_kt22
 ●0000002628●
 
 ○0000002629○sys20_adv00
 ●0000002629●
 
-○0000002630○sys20_adv00
+○0000002630○cgm_kt31
 ●0000002630●
 
-○0000002631○cgm_kt22
+○0000002631○sys20_adv00
 ●0000002631●
 
 ○0000002632○sys20_adv00
 ●0000002632●
 
-○0000002633○cgm_kt16
+○0000002633○cgm_kt22
 ●0000002633●
 
 ○0000002634○sys20_adv00
 ●0000002634●
 
-○0000002635○sys20_adv00
+○0000002635○cgm_kt16
 ●0000002635●
 
-○0000002636○cgm_kt30
+○0000002636○sys20_adv00
 ●0000002636●
 
 ○0000002637○sys20_adv00
 ●0000002637●
 
-○0000002638○sys20_adv00
+○0000002638○cgm_kt30
 ●0000002638●
 
-○0000002639○cgm_kt30
+○0000002639○sys20_adv00
 ●0000002639●
 
 ○0000002640○sys20_adv00
 ●0000002640●
 
-○0000002641○cgm_kt10
+○0000002641○cgm_kt30
 ●0000002641●
 
 ○0000002642○sys20_adv00
 ●0000002642●
 
-○0000002643○sys20_adv00
+○0000002643○cgm_kt10
 ●0000002643●
 
-○0000002644○cgm_kt30
+○0000002644○sys20_adv00
 ●0000002644●
 
 ○0000002645○sys20_adv00
 ●0000002645●
 
-○0000002646○cgm_kt16
+○0000002646○cgm_kt30
 ●0000002646●
 
 ○0000002647○sys20_adv00
 ●0000002647●
 
-○0000002648○cgm_kt31
+○0000002648○cgm_kt16
 ●0000002648●
 
 ○0000002649○sys20_adv00
 ●0000002649●
 
-○0000002650○cgm_kt34
+○0000002650○cgm_kt31
 ●0000002650●
 
 ○0000002651○sys20_adv00
 ●0000002651●
 
-○0000002652○cgm_kt11
+○0000002652○cgm_kt34
 ●0000002652●
 
 ○0000002653○sys20_adv00
 ●0000002653●
 
-○0000002654○cgm_kt14
+○0000002654○cgm_kt11
 ●0000002654●
 
 ○0000002655○sys20_adv00
 ●0000002655●
 
-○0000002656○cgm_kt20y
+○0000002656○cgm_kt14
 ●0000002656●
 
 ○0000002657○sys20_adv00
 ●0000002657●
 
-○0000002658○cgm_kt11
+○0000002658○cgm_kt20y
 ●0000002658●
 
 ○0000002659○sys20_adv00
 ●0000002659●
 
-○0000002660○cgm_kt12
+○0000002660○cgm_kt11
 ●0000002660●
 
 ○0000002661○sys20_adv00
 ●0000002661●
 
-○0000002662○cgm_kt16
+○0000002662○cgm_kt12
 ●0000002662●
 
 ○0000002663○sys20_adv00
 ●0000002663●
 
-○0000002664○cgm_kt30
+○0000002664○cgm_kt16
 ●0000002664●
 
 ○0000002665○sys20_adv00
 ●0000002665●
 
-○0000002666○cgm_kt11
+○0000002666○cgm_kt30
 ●0000002666●
 
 ○0000002667○sys20_adv00
 ●0000002667●
 
-○0000002668○sys20_adv00
+○0000002668○cgm_kt11
 ●0000002668●
 
-○0000002669○cgm_kt16
+○0000002669○sys20_adv00
 ●0000002669●
 
 ○0000002670○sys20_adv00
 ●0000002670●
 
-○0000002671○cgm_kt11
+○0000002671○cgm_kt16
 ●0000002671●
 
 ○0000002672○sys20_adv00
 ●0000002672●
 
-○0000002673○cgm_kt30
+○0000002673○cgm_kt11
 ●0000002673●
 
 ○0000002674○sys20_adv00
 ●0000002674●
 
-○0000002675○cgm_kt14
+○0000002675○cgm_kt30
 ●0000002675●
 
 ○0000002676○sys20_adv00
 ●0000002676●
 
-○0000002677○sys20_adv00
+○0000002677○cgm_kt14
 ●0000002677●
 
-○0000002678○cgm_sz42h
+○0000002678○sys20_adv00
 ●0000002678●
 
 ○0000002679○sys20_adv00
 ●0000002679●
 
-○0000002680○cgm_sz40h
+○0000002680○cgm_sz42h
 ●0000002680●
 
 ○0000002681○sys20_adv00
 ●0000002681●
 
-○0000002682○cgm_sz11
+○0000002682○cgm_sz40h
 ●0000002682●
 
 ○0000002683○sys20_adv00
 ●0000002683●
 
-○0000002684○cgm_sz30
+○0000002684○cgm_sz11
 ●0000002684●
 
 ○0000002685○sys20_adv00
 ●0000002685●
 
-○0000002686○cgm_sz21h
+○0000002686○cgm_sz30
 ●0000002686●
 
 ○0000002687○sys20_adv00
 ●0000002687●
 
-○0000002688○cgm_sz40
+○0000002688○cgm_sz21h
 ●0000002688●
 
 ○0000002689○sys20_adv00
 ●0000002689●
 
-○0000002690○cgm_sz30
+○0000002690○cgm_sz40
 ●0000002690●
 
 ○0000002691○sys20_adv00
 ●0000002691●
 
-○0000002692○cgm_sz10
+○0000002692○cgm_sz30
 ●0000002692●
 
 ○0000002693○sys20_adv00
 ●0000002693●
 
-○0000002694○cgm_sz11h
+○0000002694○cgm_sz10
 ●0000002694●
 
 ○0000002695○sys20_adv00
 ●0000002695●
 
-○0000002696○cgm_sz25
+○0000002696○cgm_sz11h
 ●0000002696●
 
 ○0000002697○sys20_adv00
 ●0000002697●
 
-○0000002698○cgm_sz10s
+○0000002698○cgm_sz25
 ●0000002698●
 
 ○0000002699○sys20_adv00
 ●0000002699●
 
-○0000002700○cgm_sz11
+○0000002700○cgm_sz10s
 ●0000002700●
 
 ○0000002701○sys20_adv00
 ●0000002701●
 
-○0000002702○cgm_sz10
+○0000002702○cgm_sz11
 ●0000002702●
 
 ○0000002703○sys20_adv00
 ●0000002703●
 
-○0000002704○cgm_sz31y
+○0000002704○cgm_sz10
 ●0000002704●
 
 ○0000002705○sys20_adv00
 ●0000002705●
 
-○0000002706○kuro
+○0000002706○cgm_sz31y
 ●0000002706●
 
 ○0000002707○sys20_adv00
 ●0000002707●
 
-○0000002708○bg020y
+○0000002708○kuro
 ●0000002708●
 
-○0000002709○bgm015
+○0000002709○sys20_adv00
 ●0000002709●
 
-○0000002710○sys20_adv00
+○0000002710○bg020y
 ●0000002710●
 
-○0000002711○cgm_sz10
+○0000002711○bgm015
 ●0000002711●
 
 ○0000002712○sys20_adv00
 ●0000002712●
 
-○0000002713○cgm_sz11
+○0000002713○cgm_sz10
 ●0000002713●
 
 ○0000002714○sys20_adv00
 ●0000002714●
 
-○0000002715○cgm_sz16
+○0000002715○cgm_sz11
 ●0000002715●
 
 ○0000002716○sys20_adv00
 ●0000002716●
 
-○0000002717○cgm_sz12
+○0000002717○cgm_sz16
 ●0000002717●
 
 ○0000002718○sys20_adv00
 ●0000002718●
 
-○0000002719○cgm_sz11h
+○0000002719○cgm_sz12
 ●0000002719●
 
 ○0000002720○sys20_adv00
 ●0000002720●
 
-○0000002721○sys20_adv00
+○0000002721○cgm_sz11h
 ●0000002721●
 
-○0000002722○cgm_sz40
+○0000002722○sys20_adv00
 ●0000002722●
 
 ○0000002723○sys20_adv00
 ●0000002723●
 
-○0000002724○cgm_sz41
+○0000002724○cgm_sz40
 ●0000002724●
 
 ○0000002725○sys20_adv00
 ●0000002725●
 
-○0000002726○cgm_sz10s
+○0000002726○cgm_sz41
 ●0000002726●
 
 ○0000002727○sys20_adv00
 ●0000002727●
 
-○0000002728○cgm_sz10
+○0000002728○cgm_sz10s
 ●0000002728●
 
 ○0000002729○sys20_adv00
 ●0000002729●
 
-○0000002730○cgm_sz30y
+○0000002730○cgm_sz10
 ●0000002730●
 
 ○0000002731○sys20_adv00
 ●0000002731●
 
-○0000002732○cgm_sz42
+○0000002732○cgm_sz30y
 ●0000002732●
 
 ○0000002733○sys20_adv00
 ●0000002733●
 
-○0000002734○cgm_sz10h
+○0000002734○cgm_sz42
 ●0000002734●
 
 ○0000002735○sys20_adv00
 ●0000002735●
 
-○0000002736○cgm_sz12
+○0000002736○cgm_sz10h
 ●0000002736●
 
 ○0000002737○sys20_adv00
 ●0000002737●
 
-○0000002738○cgm_sz40
+○0000002738○cgm_sz12
 ●0000002738●
 
 ○0000002739○sys20_adv00
 ●0000002739●
 
-○0000002740○cgm_sz42
+○0000002740○cgm_sz40
 ●0000002740●
 
 ○0000002741○sys20_adv00
 ●0000002741●
 
-○0000002742○kuro
+○0000002742○cgm_sz42
 ●0000002742●
 
-○0000002743○bgm019
+○0000002743○sys20_adv00
 ●0000002743●
 
-○0000002744○sys10_mh00
+○0000002744○kuro
 ●0000002744●
 
-○0000002745○sys10_mh00
+○0000002745○bgm019
 ●0000002745●
 
 ○0000002746○sys10_mh00
@@ -8170,37 +8170,37 @@
 ○0000002748○sys10_mh00
 ●0000002748●
 
-○0000002749○sys20_adv00
+○0000002749○sys10_mh00
 ●0000002749●
 
-○0000002750○bg043
+○0000002750○sys10_mh00
 ●0000002750●
 
 ○0000002751○sys20_adv00
 ●0000002751●
 
-○0000002752○kuro
+○0000002752○bg043
 ●0000002752●
 
-○0000002753○sys00_sys00
+○0000002753○sys20_adv00
 ●0000002753●
 
-○0000002754○sys30_cl00
+○0000002754○kuro
 ●0000002754●
 
-○0000002755○sys20_adv00
+○0000002755○sys00_sys00
 ●0000002755●
 
-○0000002756○bg006
+○0000002756○sys30_cl00
 ●0000002756●
 
-○0000002757○bgm004
+○0000002757○sys20_adv00
 ●0000002757●
 
-○0000002758○sys10_mh00
+○0000002758○bg006
 ●0000002758●
 
-○0000002759○sys10_mh00
+○0000002759○bgm004
 ●0000002759●
 
 ○0000002760○sys10_mh00
@@ -8212,2782 +8212,2782 @@
 ○0000002762○sys10_mh00
 ●0000002762●
 
-○0000002763○sys20_adv00
+○0000002763○sys10_mh00
 ●0000002763●
 
-○0000002764○cgm_ch10h
+○0000002764○sys10_mh00
 ●0000002764●
 
 ○0000002765○sys20_adv00
 ●0000002765●
 
-○0000002766○cgm_ch29
+○0000002766○cgm_ch10h
 ●0000002766●
 
 ○0000002767○sys20_adv00
 ●0000002767●
 
-○0000002768○cgm_ch18
+○0000002768○cgm_ch29
 ●0000002768●
 
 ○0000002769○sys20_adv00
 ●0000002769●
 
-○0000002770○cgm_ch23u
+○0000002770○cgm_ch18
 ●0000002770●
 
 ○0000002771○sys20_adv00
 ●0000002771●
 
-○0000002772○cgm_ch21u
+○0000002772○cgm_ch23u
 ●0000002772●
 
 ○0000002773○sys20_adv00
 ●0000002773●
 
-○0000002774○cgm_ch16u
+○0000002774○cgm_ch21u
 ●0000002774●
 
 ○0000002775○sys20_adv00
 ●0000002775●
 
-○0000002776○cgm_ch18
+○0000002776○cgm_ch16u
 ●0000002776●
 
 ○0000002777○sys20_adv00
 ●0000002777●
 
-○0000002778○cgm_ch16
+○0000002778○cgm_ch18
 ●0000002778●
 
 ○0000002779○sys20_adv00
 ●0000002779●
 
-○0000002780○cgm_ch15
+○0000002780○cgm_ch16
 ●0000002780●
 
 ○0000002781○sys20_adv00
 ●0000002781●
 
-○0000002782○cgm_ch29u
+○0000002782○cgm_ch15
 ●0000002782●
 
 ○0000002783○sys20_adv00
 ●0000002783●
 
-○0000002784○kuro
+○0000002784○cgm_ch29u
 ●0000002784●
 
 ○0000002785○sys20_adv00
 ●0000002785●
 
-○0000002786○bg020y
+○0000002786○kuro
 ●0000002786●
 
-○0000002787○bgm015
+○0000002787○sys20_adv00
 ●0000002787●
 
-○0000002788○sys20_adv00
+○0000002788○bg020y
 ●0000002788●
 
-○0000002789○cgm_sz40h
+○0000002789○bgm015
 ●0000002789●
 
 ○0000002790○sys20_adv00
 ●0000002790●
 
-○0000002791○cgm_sz42h
+○0000002791○cgm_sz40h
 ●0000002791●
 
 ○0000002792○sys20_adv00
 ●0000002792●
 
-○0000002793○sys20_adv00
+○0000002793○cgm_sz42h
 ●0000002793●
 
 ○0000002794○sys20_adv00
 ●0000002794●
 
-○0000002795○cgm_sz40h
+○0000002795○sys20_adv00
 ●0000002795●
 
 ○0000002796○sys20_adv00
 ●0000002796●
 
-○0000002797○cgm_sz10
+○0000002797○cgm_sz40h
 ●0000002797●
 
 ○0000002798○sys20_adv00
 ●0000002798●
 
-○0000002799○cgm_sz41
+○0000002799○cgm_sz10
 ●0000002799●
 
 ○0000002800○sys20_adv00
 ●0000002800●
 
-○0000002801○cgm_sz40
+○0000002801○cgm_sz41
 ●0000002801●
 
 ○0000002802○sys20_adv00
 ●0000002802●
 
-○0000002803○cgm_sz30
+○0000002803○cgm_sz40
 ●0000002803●
 
 ○0000002804○sys20_adv00
 ●0000002804●
 
-○0000002805○cgm_sz10
+○0000002805○cgm_sz30
 ●0000002805●
 
 ○0000002806○sys20_adv00
 ●0000002806●
 
-○0000002807○cgm_sz42h
+○0000002807○cgm_sz10
 ●0000002807●
 
 ○0000002808○sys20_adv00
 ●0000002808●
 
-○0000002809○kuro
+○0000002809○cgm_sz42h
 ●0000002809●
 
 ○0000002810○sys20_adv00
 ●0000002810●
 
-○0000002811○bg006
+○0000002811○kuro
 ●0000002811●
 
-○0000002812○bgm037
+○0000002812○sys20_adv00
 ●0000002812●
 
-○0000002813○sys20_adv00
+○0000002813○bg006
 ●0000002813●
 
-○0000002814○cgm_ch18
+○0000002814○bgm037
 ●0000002814●
 
 ○0000002815○sys20_adv00
 ●0000002815●
 
-○0000002816○cgm_ch23u
+○0000002816○cgm_ch18
 ●0000002816●
 
 ○0000002817○sys20_adv00
 ●0000002817●
 
-○0000002818○cgm_ch18
+○0000002818○cgm_ch23u
 ●0000002818●
 
 ○0000002819○sys20_adv00
 ●0000002819●
 
-○0000002820○cgm_ch15u
+○0000002820○cgm_ch18
 ●0000002820●
 
 ○0000002821○sys20_adv00
 ●0000002821●
 
-○0000002822○cgm_ch22u
+○0000002822○cgm_ch15u
 ●0000002822●
 
 ○0000002823○sys20_adv00
 ●0000002823●
 
-○0000002824○cgm_ch16u
+○0000002824○cgm_ch22u
 ●0000002824●
 
 ○0000002825○sys20_adv00
 ●0000002825●
 
-○0000002826○cgm_ch23u
+○0000002826○cgm_ch16u
 ●0000002826●
 
 ○0000002827○sys20_adv00
 ●0000002827●
 
-○0000002828○cgm_ch18u
+○0000002828○cgm_ch23u
 ●0000002828●
 
-○0000002829○bgm003
+○0000002829○sys20_adv00
 ●0000002829●
 
-○0000002830○sys20_adv00
+○0000002830○cgm_ch18u
 ●0000002830●
 
-○0000002831○cgm_ch35
+○0000002831○bgm003
 ●0000002831●
 
 ○0000002832○sys20_adv00
 ●0000002832●
 
-○0000002833○cgm_ch31h
+○0000002833○cgm_ch35
 ●0000002833●
 
 ○0000002834○sys20_adv00
 ●0000002834●
 
-○0000002835○cgm_ch34h
+○0000002835○cgm_ch31h
 ●0000002835●
 
 ○0000002836○sys20_adv00
 ●0000002836●
 
-○0000002837○cgm_ch31h
+○0000002837○cgm_ch34h
 ●0000002837●
 
 ○0000002838○sys20_adv00
 ●0000002838●
 
-○0000002839○cgm_ch35
+○0000002839○cgm_ch31h
 ●0000002839●
 
 ○0000002840○sys20_adv00
 ●0000002840●
 
-○0000002841○cgm_ch36
+○0000002841○cgm_ch35
 ●0000002841●
 
 ○0000002842○sys20_adv00
 ●0000002842●
 
-○0000002843○cgm_ch10h
+○0000002843○cgm_ch36
 ●0000002843●
 
 ○0000002844○sys20_adv00
 ●0000002844●
 
-○0000002845○cgm_ch15u
+○0000002845○cgm_ch10h
 ●0000002845●
 
 ○0000002846○sys20_adv00
 ●0000002846●
 
-○0000002847○kuro
+○0000002847○cgm_ch15u
 ●0000002847●
 
 ○0000002848○sys20_adv00
 ●0000002848●
 
-○0000002849○bg003
+○0000002849○kuro
 ●0000002849●
 
 ○0000002850○sys20_adv00
 ●0000002850●
 
-○0000002851○cgm_kt11h
+○0000002851○bg003
 ●0000002851●
 
 ○0000002852○sys20_adv00
 ●0000002852●
 
-○0000002853○cgm_kt10h
+○0000002853○cgm_kt11h
 ●0000002853●
 
 ○0000002854○sys20_adv00
 ●0000002854●
 
-○0000002855○sys20_adv00
+○0000002855○cgm_kt10h
 ●0000002855●
 
-○0000002856○kuro
+○0000002856○sys20_adv00
 ●0000002856●
 
 ○0000002857○sys20_adv00
 ●0000002857●
 
-○0000002858○bg011
+○0000002858○kuro
 ●0000002858●
 
 ○0000002859○sys20_adv00
 ●0000002859●
 
-○0000002860○cgm_kt10
+○0000002860○bg011
 ●0000002860●
 
-○0000002861○cgm_ch18
+○0000002861○sys20_adv00
 ●0000002861●
 
-○0000002862○sys20_adv00
+○0000002862○cgm_kt10
 ●0000002862●
 
-○0000002863○cgm_kt10
+○0000002863○cgm_ch18
 ●0000002863●
 
-○0000002864○cgm_ch11
+○0000002864○sys20_adv00
 ●0000002864●
 
-○0000002865○sys20_adv00
+○0000002865○cgm_kt10
 ●0000002865●
 
-○0000002866○sys20_adv00
+○0000002866○cgm_ch11
 ●0000002866●
 
-○0000002867○cgm_kt11h
+○0000002867○sys20_adv00
 ●0000002867●
 
-○0000002868○cgm_ch11
+○0000002868○sys20_adv00
 ●0000002868●
 
-○0000002869○sys20_adv00
+○0000002869○cgm_kt11h
 ●0000002869●
 
-○0000002870○cgm_kt11h
+○0000002870○cgm_ch11
 ●0000002870●
 
-○0000002871○cgm_ch10
+○0000002871○sys20_adv00
 ●0000002871●
 
-○0000002872○sys20_adv00
+○0000002872○cgm_kt11h
 ●0000002872●
 
-○0000002873○cgm_kt11h
+○0000002873○cgm_ch10
 ●0000002873●
 
-○0000002874○cgm_ch12
+○0000002874○sys20_adv00
 ●0000002874●
 
-○0000002875○sys20_adv00
+○0000002875○cgm_kt11h
 ●0000002875●
 
-○0000002876○cgm_kt16h
+○0000002876○cgm_ch12
 ●0000002876●
 
-○0000002877○cgm_ch12
+○0000002877○sys20_adv00
 ●0000002877●
 
-○0000002878○sys20_adv00
+○0000002878○cgm_kt16h
 ●0000002878●
 
-○0000002879○cgm_kt16h
+○0000002879○cgm_ch12
 ●0000002879●
 
-○0000002880○cgm_ch11u
+○0000002880○sys20_adv00
 ●0000002880●
 
-○0000002881○sys20_adv00
+○0000002881○cgm_kt16h
 ●0000002881●
 
-○0000002882○cgm_kt16h
+○0000002882○cgm_ch11u
 ●0000002882●
 
-○0000002883○cgm_ch10u
+○0000002883○sys20_adv00
 ●0000002883●
 
-○0000002884○sys20_adv00
+○0000002884○cgm_kt16h
 ●0000002884●
 
-○0000002885○cgm_kt16h
+○0000002885○cgm_ch10u
 ●0000002885●
 
-○0000002886○cgm_ch12u
+○0000002886○sys20_adv00
 ●0000002886●
 
-○0000002887○sys20_adv00
+○0000002887○cgm_kt16h
 ●0000002887●
 
-○0000002888○cgm_kt16h
+○0000002888○cgm_ch12u
 ●0000002888●
 
-○0000002889○cgm_ch10u
+○0000002889○sys20_adv00
 ●0000002889●
 
-○0000002890○sys20_adv00
+○0000002890○cgm_kt16h
 ●0000002890●
 
-○0000002891○cgm_kt16h
+○0000002891○cgm_ch10u
 ●0000002891●
 
-○0000002892○cgm_ch15u
+○0000002892○sys20_adv00
 ●0000002892●
 
-○0000002893○sys20_adv00
+○0000002893○cgm_kt16h
 ●0000002893●
 
-○0000002894○cgm_kt13h
+○0000002894○cgm_ch15u
 ●0000002894●
 
-○0000002895○cgm_ch15u
+○0000002895○sys20_adv00
 ●0000002895●
 
-○0000002896○sys20_adv00
+○0000002896○cgm_kt13h
 ●0000002896●
 
-○0000002897○cgm_kt13h
+○0000002897○cgm_ch15u
 ●0000002897●
 
-○0000002898○cgm_ch10
+○0000002898○sys20_adv00
 ●0000002898●
 
-○0000002899○sys20_adv00
+○0000002899○cgm_kt13h
 ●0000002899●
 
-○0000002900○cgm_kt13h
+○0000002900○cgm_ch10
 ●0000002900●
 
-○0000002901○cgm_ch21
+○0000002901○sys20_adv00
 ●0000002901●
 
-○0000002902○sys20_adv00
+○0000002902○cgm_kt13h
 ●0000002902●
 
-○0000002903○cgm_kt13h
+○0000002903○cgm_ch21
 ●0000002903●
 
-○0000002904○cgm_ch17
+○0000002904○sys20_adv00
 ●0000002904●
 
-○0000002905○sys20_adv00
+○0000002905○cgm_kt13h
 ●0000002905●
 
-○0000002906○cgm_kt13h
+○0000002906○cgm_ch17
 ●0000002906●
 
-○0000002907○cgm_ch16
+○0000002907○sys20_adv00
 ●0000002907●
 
-○0000002908○sys20_adv00
+○0000002908○cgm_kt13h
 ●0000002908●
 
-○0000002909○cgm_kt13h
+○0000002909○cgm_ch16
 ●0000002909●
 
-○0000002910○cgm_ch21
+○0000002910○sys20_adv00
 ●0000002910●
 
-○0000002911○sys20_adv00
+○0000002911○cgm_kt13h
 ●0000002911●
 
-○0000002912○cgm_kt10h
+○0000002912○cgm_ch21
 ●0000002912●
 
-○0000002913○cgm_ch21
+○0000002913○sys20_adv00
 ●0000002913●
 
-○0000002914○sys20_adv00
+○0000002914○cgm_kt10h
 ●0000002914●
 
-○0000002915○cgm_kt11y
+○0000002915○cgm_ch21
 ●0000002915●
 
-○0000002916○cgm_ch21
+○0000002916○sys20_adv00
 ●0000002916●
 
-○0000002917○sys20_adv00
+○0000002917○cgm_kt11y
 ●0000002917●
 
-○0000002918○cgm_kt11y
+○0000002918○cgm_ch21
 ●0000002918●
 
-○0000002919○cgm_ch10u
+○0000002919○sys20_adv00
 ●0000002919●
 
-○0000002920○sys20_adv00
+○0000002920○cgm_kt11y
 ●0000002920●
 
-○0000002921○cgm_kt10h
+○0000002921○cgm_ch10u
 ●0000002921●
 
-○0000002922○cgm_ch10u
+○0000002922○sys20_adv00
 ●0000002922●
 
-○0000002923○sys20_adv00
+○0000002923○cgm_kt10h
 ●0000002923●
 
-○0000002924○cgm_kt11h
+○0000002924○cgm_ch10u
 ●0000002924●
 
-○0000002925○cgm_ch10u
+○0000002925○sys20_adv00
 ●0000002925●
 
-○0000002926○sys20_adv00
+○0000002926○cgm_kt11h
 ●0000002926●
 
-○0000002927○cgm_kt11h
+○0000002927○cgm_ch10u
 ●0000002927●
 
-○0000002928○cgm_ch11u
+○0000002928○sys20_adv00
 ●0000002928●
 
-○0000002929○sys20_adv00
+○0000002929○cgm_kt11h
 ●0000002929●
 
-○0000002930○cgm_kt11h
+○0000002930○cgm_ch11u
 ●0000002930●
 
-○0000002931○cgm_ch15u
+○0000002931○sys20_adv00
 ●0000002931●
 
-○0000002932○sys20_adv00
+○0000002932○cgm_kt11h
 ●0000002932●
 
-○0000002933○sys20_adv00
+○0000002933○cgm_ch15u
 ●0000002933●
 
-○0000002934○cgm_ch10
+○0000002934○sys20_adv00
 ●0000002934●
 
 ○0000002935○sys20_adv00
 ●0000002935●
 
-○0000002936○cgm_ch15
+○0000002936○cgm_ch10
 ●0000002936●
 
 ○0000002937○sys20_adv00
 ●0000002937●
 
-○0000002938○sys20_adv00
+○0000002938○cgm_ch15
 ●0000002938●
 
-○0000002939○kuro
+○0000002939○sys20_adv00
 ●0000002939●
 
 ○0000002940○sys20_adv00
 ●0000002940●
 
-○0000002941○bg010
+○0000002941○kuro
 ●0000002941●
 
 ○0000002942○sys20_adv00
 ●0000002942●
 
-○0000002943○cgm_kt10h
+○0000002943○bg010
 ●0000002943●
 
-○0000002944○cgm_ch18
+○0000002944○sys20_adv00
 ●0000002944●
 
-○0000002945○sys20_adv00
+○0000002945○cgm_kt10h
 ●0000002945●
 
-○0000002946○cgm_kt10h
+○0000002946○cgm_ch18
 ●0000002946●
 
-○0000002947○cgm_ch10
+○0000002947○sys20_adv00
 ●0000002947●
 
-○0000002948○sys20_adv00
+○0000002948○cgm_kt10h
 ●0000002948●
 
-○0000002949○cgm_kt11y
+○0000002949○cgm_ch10
 ●0000002949●
 
-○0000002950○cgm_ch10
+○0000002950○sys20_adv00
 ●0000002950●
 
-○0000002951○sys20_adv00
+○0000002951○cgm_kt11y
 ●0000002951●
 
-○0000002952○cgm_kt11y
+○0000002952○cgm_ch10
 ●0000002952●
 
-○0000002953○cgm_ch12h
+○0000002953○sys20_adv00
 ●0000002953●
 
-○0000002954○sys20_adv00
+○0000002954○cgm_kt11y
 ●0000002954●
 
-○0000002955○cgm_kt16
+○0000002955○cgm_ch12h
 ●0000002955●
 
-○0000002956○cgm_ch12h
+○0000002956○sys20_adv00
 ●0000002956●
 
-○0000002957○sys20_adv00
+○0000002957○cgm_kt16
 ●0000002957●
 
-○0000002958○sys20_adv00
+○0000002958○cgm_ch12h
 ●0000002958●
 
-○0000002959○cgm_ch10
+○0000002959○sys20_adv00
 ●0000002959●
 
 ○0000002960○sys20_adv00
 ●0000002960●
 
-○0000002961○sys20_adv00
+○0000002961○cgm_ch10
 ●0000002961●
 
-○0000002962○cgm_kt17h
+○0000002962○sys20_adv00
 ●0000002962●
 
 ○0000002963○sys20_adv00
 ●0000002963●
 
-○0000002964○cgm_ch14u
+○0000002964○cgm_kt17h
 ●0000002964●
 
 ○0000002965○sys20_adv00
 ●0000002965●
 
-○0000002966○cgm_kt14y
+○0000002966○cgm_ch14u
 ●0000002966●
 
 ○0000002967○sys20_adv00
 ●0000002967●
 
-○0000002968○sys20_adv00
+○0000002968○cgm_kt14y
 ●0000002968●
 
-○0000002969○cgm_lc11a
+○0000002969○sys20_adv00
 ●0000002969●
 
 ○0000002970○sys20_adv00
 ●0000002970●
 
-○0000002971○cgm_lc26ak
+○0000002971○cgm_lc11a
 ●0000002971●
 
 ○0000002972○sys20_adv00
 ●0000002972●
 
-○0000002973○cgm_kt11h
+○0000002973○cgm_lc26ak
 ●0000002973●
 
 ○0000002974○sys20_adv00
 ●0000002974●
 
-○0000002975○cgm_lc25ak
+○0000002975○cgm_kt11h
 ●0000002975●
 
 ○0000002976○sys20_adv00
 ●0000002976●
 
-○0000002977○cgm_ch11
+○0000002977○cgm_lc25ak
 ●0000002977●
 
 ○0000002978○sys20_adv00
 ●0000002978●
 
-○0000002979○cgm_lc12ak
+○0000002979○cgm_ch11
 ●0000002979●
 
 ○0000002980○sys20_adv00
 ●0000002980●
 
-○0000002981○cgm_lc15ak
+○0000002981○cgm_lc12ak
 ●0000002981●
 
 ○0000002982○sys20_adv00
 ●0000002982●
 
-○0000002983○cgm_lc25ak
+○0000002983○cgm_lc15ak
 ●0000002983●
 
 ○0000002984○sys20_adv00
 ●0000002984●
 
-○0000002985○cgm_ch10
+○0000002985○cgm_lc25ak
 ●0000002985●
 
 ○0000002986○sys20_adv00
 ●0000002986●
 
-○0000002987○sys20_adv00
+○0000002987○cgm_ch10
 ●0000002987●
 
-○0000002988○cgm_kt31
+○0000002988○sys20_adv00
 ●0000002988●
 
-○0000002989○cgm_ch10
+○0000002989○sys20_adv00
 ●0000002989●
 
-○0000002990○sys20_adv00
+○0000002990○cgm_kt31
 ●0000002990●
 
-○0000002991○cgm_kt31
+○0000002991○cgm_ch10
 ●0000002991●
 
-○0000002992○cgm_ch12h
+○0000002992○sys20_adv00
 ●0000002992●
 
-○0000002993○sys20_adv00
+○0000002993○cgm_kt31
 ●0000002993●
 
-○0000002994○cgm_lc22ah
+○0000002994○cgm_ch12h
 ●0000002994●
 
 ○0000002995○sys20_adv00
 ●0000002995●
 
-○0000002996○cgm_ch11
+○0000002996○cgm_lc22ah
 ●0000002996●
 
 ○0000002997○sys20_adv00
 ●0000002997●
 
-○0000002998○cgm_ch14h
+○0000002998○cgm_ch11
 ●0000002998●
 
 ○0000002999○sys20_adv00
 ●0000002999●
 
-○0000003000○cgm_ch10u
+○0000003000○cgm_ch14h
 ●0000003000●
 
 ○0000003001○sys20_adv00
 ●0000003001●
 
-○0000003002○cgm_ch31h
+○0000003002○cgm_ch10u
 ●0000003002●
 
 ○0000003003○sys20_adv00
 ●0000003003●
 
-○0000003004○cgm_lc22ak
+○0000003004○cgm_ch31h
 ●0000003004●
 
 ○0000003005○sys20_adv00
 ●0000003005●
 
-○0000003006○cgm_ch15u
+○0000003006○cgm_lc22ak
 ●0000003006●
 
 ○0000003007○sys20_adv00
 ●0000003007●
 
-○0000003008○cgm_ch23u
+○0000003008○cgm_ch15u
 ●0000003008●
 
 ○0000003009○sys20_adv00
 ●0000003009●
 
-○0000003010○cgm_lc22a
+○0000003010○cgm_ch23u
 ●0000003010●
 
 ○0000003011○sys20_adv00
 ●0000003011●
 
-○0000003012○cgm_lc21ah
+○0000003012○cgm_lc22a
 ●0000003012●
 
 ○0000003013○sys20_adv00
 ●0000003013●
 
-○0000003014○cgm_kt11y
+○0000003014○cgm_lc21ah
 ●0000003014●
 
-○0000003015○cgm_ch11
+○0000003015○sys20_adv00
 ●0000003015●
 
-○0000003016○sys20_adv00
+○0000003016○cgm_kt11y
 ●0000003016●
 
-○0000003017○cgm_kt10h
+○0000003017○cgm_ch11
 ●0000003017●
 
-○0000003018○cgm_ch10
+○0000003018○sys20_adv00
 ●0000003018●
 
-○0000003019○sys20_adv00
+○0000003019○cgm_kt10h
 ●0000003019●
 
-○0000003020○cgm_kt10h
+○0000003020○cgm_ch10
 ●0000003020●
 
-○0000003021○cgm_ch25h
+○0000003021○sys20_adv00
 ●0000003021●
 
-○0000003022○sys20_adv00
+○0000003022○cgm_kt10h
 ●0000003022●
 
-○0000003023○cgm_lc27a
+○0000003023○cgm_ch25h
 ●0000003023●
 
 ○0000003024○sys20_adv00
 ●0000003024●
 
-○0000003025○cgm_ch24u
+○0000003025○cgm_lc27a
 ●0000003025●
 
 ○0000003026○sys20_adv00
 ●0000003026●
 
-○0000003027○cgm_kt11h
+○0000003027○cgm_ch24u
 ●0000003027●
 
 ○0000003028○sys20_adv00
 ●0000003028●
 
-○0000003029○cgm_kt13h
+○0000003029○cgm_kt11h
 ●0000003029●
 
 ○0000003030○sys20_adv00
 ●0000003030●
 
-○0000003031○cgm_ch31
+○0000003031○cgm_kt13h
 ●0000003031●
 
 ○0000003032○sys20_adv00
 ●0000003032●
 
-○0000003033○cgm_ch31h
+○0000003033○cgm_ch31
 ●0000003033●
 
 ○0000003034○sys20_adv00
 ●0000003034●
 
-○0000003035○cgm_lc16ak
+○0000003035○cgm_ch31h
 ●0000003035●
 
 ○0000003036○sys20_adv00
 ●0000003036●
 
-○0000003037○cgm_ch15u
+○0000003037○cgm_lc16ak
 ●0000003037●
 
 ○0000003038○sys20_adv00
 ●0000003038●
 
-○0000003039○cgm_ch16u
+○0000003039○cgm_ch15u
 ●0000003039●
 
 ○0000003040○sys20_adv00
 ●0000003040●
 
-○0000003041○sys20_adv00
+○0000003041○cgm_ch16u
 ●0000003041●
 
-○0000003042○cgm_lc16ak
+○0000003042○sys20_adv00
 ●0000003042●
 
 ○0000003043○sys20_adv00
 ●0000003043●
 
-○0000003044○cgm_ch31h
+○0000003044○cgm_lc16ak
 ●0000003044●
 
 ○0000003045○sys20_adv00
 ●0000003045●
 
-○0000003046○cgm_lc26ak
+○0000003046○cgm_ch31h
 ●0000003046●
 
 ○0000003047○sys20_adv00
 ●0000003047●
 
-○0000003048○sys20_adv00
+○0000003048○cgm_lc26ak
 ●0000003048●
 
-○0000003049○cgm_ch31
+○0000003049○sys20_adv00
 ●0000003049●
 
 ○0000003050○sys20_adv00
 ●0000003050●
 
-○0000003051○kuro
+○0000003051○cgm_ch31
 ●0000003051●
 
-○0000003052○sys00_sys00
+○0000003052○sys20_adv00
 ●0000003052●
 
-○0000003053○otosu1
+○0000003053○kuro
 ●0000003053●
 
-○0000003054○sys20_adv00
+○0000003054○sys00_sys00
 ●0000003054●
 
-○0000003055○bg010
+○0000003055○otosu1
 ●0000003055●
 
-○0000003056○bgm025
+○0000003056○sys20_adv00
 ●0000003056●
 
-○0000003057○sys20_adv00
+○0000003057○bg010
 ●0000003057●
 
-○0000003058○cgm_lc22ak
+○0000003058○bgm025
 ●0000003058●
 
 ○0000003059○sys20_adv00
 ●0000003059●
 
-○0000003060○cgm_ch17
+○0000003060○cgm_lc22ak
 ●0000003060●
 
 ○0000003061○sys20_adv00
 ●0000003061●
 
-○0000003062○sys20_adv00
+○0000003062○cgm_ch17
 ●0000003062●
 
-○0000003063○cgm_lc22ak
+○0000003063○sys20_adv00
 ●0000003063●
 
-○0000003064○cgm_ch17
+○0000003064○sys20_adv00
 ●0000003064●
 
-○0000003065○sys20_adv00
+○0000003065○cgm_lc22ak
 ●0000003065●
 
-○0000003066○cgm_lc12ak
+○0000003066○cgm_ch17
 ●0000003066●
 
-○0000003067○cgm_ch17
+○0000003067○sys20_adv00
 ●0000003067●
 
-○0000003068○sys20_adv00
+○0000003068○cgm_lc12ak
 ●0000003068●
 
-○0000003069○cgm_lc12ak
+○0000003069○cgm_ch17
 ●0000003069●
 
-○0000003070○cgm_ch23
+○0000003070○sys20_adv00
 ●0000003070●
 
-○0000003071○bgm015
+○0000003071○cgm_lc12ak
 ●0000003071●
 
-○0000003072○sys20_adv00
+○0000003072○cgm_ch23
 ●0000003072●
 
-○0000003073○cgm_lc14ak
+○0000003073○bgm015
 ●0000003073●
 
-○0000003074○cgm_ch23
+○0000003074○sys20_adv00
 ●0000003074●
 
-○0000003075○sys20_adv00
+○0000003075○cgm_lc14ak
 ●0000003075●
 
-○0000003076○cgm_lc14ak
+○0000003076○cgm_ch23
 ●0000003076●
 
-○0000003077○cgm_ch21
+○0000003077○sys20_adv00
 ●0000003077●
 
-○0000003078○sys20_adv00
+○0000003078○cgm_lc14ak
 ●0000003078●
 
-○0000003079○cgm_lc35ak
+○0000003079○cgm_ch21
 ●0000003079●
 
-○0000003080○cgm_ch21
+○0000003080○sys20_adv00
 ●0000003080●
 
-○0000003081○sys20_adv00
+○0000003081○cgm_lc35ak
 ●0000003081●
 
-○0000003082○cgm_lc35ak
+○0000003082○cgm_ch21
 ●0000003082●
 
-○0000003083○cgm_ch38
+○0000003083○sys20_adv00
 ●0000003083●
 
-○0000003084○sys20_adv00
+○0000003084○cgm_lc35ak
 ●0000003084●
 
-○0000003085○cgm_lc13ak
+○0000003085○cgm_ch38
 ●0000003085●
 
-○0000003086○cgm_ch38
+○0000003086○sys20_adv00
 ●0000003086●
 
-○0000003087○sys20_adv00
+○0000003087○cgm_lc13ak
 ●0000003087●
 
-○0000003088○cgm_kt17h
+○0000003088○cgm_ch38
 ●0000003088●
 
 ○0000003089○sys20_adv00
 ●0000003089●
 
-○0000003090○cgm_lc13ak
+○0000003090○cgm_kt17h
 ●0000003090●
 
-○0000003091○cgm_ch16u
+○0000003091○sys20_adv00
 ●0000003091●
 
-○0000003092○sys20_adv00
+○0000003092○cgm_lc13ak
 ●0000003092●
 
-○0000003093○cgm_lc14a
+○0000003093○cgm_ch16u
 ●0000003093●
 
-○0000003094○cgm_ch16u
+○0000003094○sys20_adv00
 ●0000003094●
 
-○0000003095○sys20_adv00
+○0000003095○cgm_lc14a
 ●0000003095●
 
-○0000003096○cgm_lc14a
+○0000003096○cgm_ch16u
 ●0000003096●
 
-○0000003097○cgm_ch23u
+○0000003097○sys20_adv00
 ●0000003097●
 
-○0000003098○sys20_adv00
+○0000003098○cgm_lc14a
 ●0000003098●
 
-○0000003099○cgm_lc14a
+○0000003099○cgm_ch23u
 ●0000003099●
 
-○0000003100○cgm_ch19u
+○0000003100○sys20_adv00
 ●0000003100●
 
-○0000003101○sys20_adv00
+○0000003101○cgm_lc14a
 ●0000003101●
 
-○0000003102○cgm_lc12a
+○0000003102○cgm_ch19u
 ●0000003102●
 
-○0000003103○cgm_ch19u
+○0000003103○sys20_adv00
 ●0000003103●
 
-○0000003104○sys20_adv00
+○0000003104○cgm_lc12a
 ●0000003104●
 
-○0000003105○cgm_lc12a
+○0000003105○cgm_ch19u
 ●0000003105●
 
-○0000003106○cgm_ch17u
+○0000003106○sys20_adv00
 ●0000003106●
 
-○0000003107○sys20_adv00
+○0000003107○cgm_lc12a
 ●0000003107●
 
-○0000003108○cgm_lc12a
+○0000003108○cgm_ch17u
 ●0000003108●
 
-○0000003109○cgm_ch15h
+○0000003109○sys20_adv00
 ●0000003109●
 
-○0000003110○sys20_adv00
+○0000003110○cgm_lc12a
 ●0000003110●
 
-○0000003111○cgm_lc14ak
+○0000003111○cgm_ch15h
 ●0000003111●
 
-○0000003112○cgm_ch15h
+○0000003112○sys20_adv00
 ●0000003112●
 
-○0000003113○sys20_adv00
+○0000003113○cgm_lc14ak
 ●0000003113●
 
-○0000003114○sys20_adv00
+○0000003114○cgm_ch15h
 ●0000003114●
 
-○0000003115○cgm_lc41au
+○0000003115○sys20_adv00
 ●0000003115●
 
 ○0000003116○sys20_adv00
 ●0000003116●
 
-○0000003117○cgm_lc12ak
+○0000003117○cgm_lc41au
 ●0000003117●
 
 ○0000003118○sys20_adv00
 ●0000003118●
 
-○0000003119○sys20_adv00
+○0000003119○cgm_lc12ak
 ●0000003119●
 
-○0000003120○cgm_kt13h
+○0000003120○sys20_adv00
 ●0000003120●
 
 ○0000003121○sys20_adv00
 ●0000003121●
 
-○0000003122○sys20_adv00
+○0000003122○cgm_kt13h
 ●0000003122●
 
-○0000003123○cgm_sz13a
+○0000003123○sys20_adv00
 ●0000003123●
 
 ○0000003124○sys20_adv00
 ●0000003124●
 
-○0000003125○cgm_sz30a
+○0000003125○cgm_sz13a
 ●0000003125●
 
 ○0000003126○sys20_adv00
 ●0000003126●
 
-○0000003127○kuro
+○0000003127○cgm_sz30a
 ●0000003127●
 
 ○0000003128○sys20_adv00
 ●0000003128●
 
-○0000003129○bg010
+○0000003129○kuro
 ●0000003129●
 
 ○0000003130○sys20_adv00
 ●0000003130●
 
-○0000003131○cgm_sz12ah
+○0000003131○bg010
 ●0000003131●
 
 ○0000003132○sys20_adv00
 ●0000003132●
 
-○0000003133○cgm_sz11a
+○0000003133○cgm_sz12ah
 ●0000003133●
 
 ○0000003134○sys20_adv00
 ●0000003134●
 
-○0000003135○cgm_kt11h
+○0000003135○cgm_sz11a
 ●0000003135●
 
 ○0000003136○sys20_adv00
 ●0000003136●
 
-○0000003137○cgm_sz10a
+○0000003137○cgm_kt11h
 ●0000003137●
 
 ○0000003138○sys20_adv00
 ●0000003138●
 
-○0000003139○cgm_sz11a
+○0000003139○cgm_sz10a
 ●0000003139●
 
 ○0000003140○sys20_adv00
 ●0000003140●
 
-○0000003141○kuro
+○0000003141○cgm_sz11a
 ●0000003141●
 
 ○0000003142○sys20_adv00
 ●0000003142●
 
-○0000003143○bg020y
+○0000003143○kuro
 ●0000003143●
 
 ○0000003144○sys20_adv00
 ●0000003144●
 
-○0000003145○cgm_kt31
+○0000003145○bg020y
 ●0000003145●
 
 ○0000003146○sys20_adv00
 ●0000003146●
 
-○0000003147○sys20_adv00
+○0000003147○cgm_kt31
 ●0000003147●
 
-○0000003148○cgm_ch35
+○0000003148○sys20_adv00
 ●0000003148●
 
 ○0000003149○sys20_adv00
 ●0000003149●
 
-○0000003150○cgm_kt13
+○0000003150○cgm_ch35
 ●0000003150●
 
 ○0000003151○sys20_adv00
 ●0000003151●
 
-○0000003152○bg080y
+○0000003152○cgm_kt13
 ●0000003152●
 
 ○0000003153○sys20_adv00
 ●0000003153●
 
-○0000003154○kuro
+○0000003154○bg080y
 ●0000003154●
 
 ○0000003155○sys20_adv00
 ●0000003155●
 
-○0000003156○bg006
+○0000003156○kuro
 ●0000003156●
 
-○0000003157○bgm037
+○0000003157○sys20_adv00
 ●0000003157●
 
-○0000003158○sys20_adv00
+○0000003158○bg006
 ●0000003158●
 
-○0000003159○cgm_sz12
+○0000003159○bgm037
 ●0000003159●
 
 ○0000003160○sys20_adv00
 ●0000003160●
 
-○0000003161○cgm_sz10
+○0000003161○cgm_sz12
 ●0000003161●
 
 ○0000003162○sys20_adv00
 ●0000003162●
 
-○0000003163○cgm_sz10s
+○0000003163○cgm_sz10
 ●0000003163●
 
 ○0000003164○sys20_adv00
 ●0000003164●
 
-○0000003165○cgm_sz11
+○0000003165○cgm_sz10s
 ●0000003165●
 
 ○0000003166○sys20_adv00
 ●0000003166●
 
-○0000003167○cgm_sz10
+○0000003167○cgm_sz11
 ●0000003167●
 
 ○0000003168○sys20_adv00
 ●0000003168●
 
-○0000003169○cgm_sz11h
+○0000003169○cgm_sz10
 ●0000003169●
 
 ○0000003170○sys20_adv00
 ●0000003170●
 
-○0000003171○cgm_sz10
+○0000003171○cgm_sz11h
 ●0000003171●
 
 ○0000003172○sys20_adv00
 ●0000003172●
 
-○0000003173○cgm_sz11
+○0000003173○cgm_sz10
 ●0000003173●
 
 ○0000003174○sys20_adv00
 ●0000003174●
 
-○0000003175○cgm_sz18
+○0000003175○cgm_sz11
 ●0000003175●
 
 ○0000003176○sys20_adv00
 ●0000003176●
 
-○0000003177○cgm_sz19r
+○0000003177○cgm_sz18
 ●0000003177●
 
 ○0000003178○sys20_adv00
 ●0000003178●
 
-○0000003179○cgm_ys10
+○0000003179○cgm_sz19r
 ●0000003179●
 
 ○0000003180○sys20_adv00
 ●0000003180●
 
-○0000003181○cgm_ys17
+○0000003181○cgm_ys10
 ●0000003181●
 
 ○0000003182○sys20_adv00
 ●0000003182●
 
-○0000003183○cgm_sz31y
+○0000003183○cgm_ys17
 ●0000003183●
 
 ○0000003184○sys20_adv00
 ●0000003184●
 
-○0000003185○cgm_ys11
+○0000003185○cgm_sz31y
 ●0000003185●
 
 ○0000003186○sys20_adv00
 ●0000003186●
 
-○0000003187○cgm_ys10
+○0000003187○cgm_ys11
 ●0000003187●
 
 ○0000003188○sys20_adv00
 ●0000003188●
 
-○0000003189○cgm_sz31y
+○0000003189○cgm_ys10
 ●0000003189●
 
 ○0000003190○sys20_adv00
 ●0000003190●
 
-○0000003191○cgm_ys12
+○0000003191○cgm_sz31y
 ●0000003191●
 
 ○0000003192○sys20_adv00
 ●0000003192●
 
-○0000003193○cgm_ys11
+○0000003193○cgm_ys12
 ●0000003193●
 
 ○0000003194○sys20_adv00
 ●0000003194●
 
-○0000003195○cgm_ys10
+○0000003195○cgm_ys11
 ●0000003195●
 
 ○0000003196○sys20_adv00
 ●0000003196●
 
-○0000003197○cgm_ys12
+○0000003197○cgm_ys10
 ●0000003197●
 
 ○0000003198○sys20_adv00
 ●0000003198●
 
-○0000003199○cgm_sz10h
+○0000003199○cgm_ys12
 ●0000003199●
 
 ○0000003200○sys20_adv00
 ●0000003200●
 
-○0000003201○cgm_ys12
+○0000003201○cgm_sz10h
 ●0000003201●
 
 ○0000003202○sys20_adv00
 ●0000003202●
 
-○0000003203○cgm_ys11
+○0000003203○cgm_ys12
 ●0000003203●
 
 ○0000003204○sys20_adv00
 ●0000003204●
 
-○0000003205○cgm_sz27r
+○0000003205○cgm_ys11
 ●0000003205●
 
 ○0000003206○sys20_adv00
 ●0000003206●
 
-○0000003207○sys20_adv00
+○0000003207○cgm_sz27r
 ●0000003207●
 
-○0000003208○cgm_ys12
+○0000003208○sys20_adv00
 ●0000003208●
 
 ○0000003209○sys20_adv00
 ●0000003209●
 
-○0000003210○cgm_ys11
+○0000003210○cgm_ys12
 ●0000003210●
 
 ○0000003211○sys20_adv00
 ●0000003211●
 
-○0000003212○cgm_ys10
+○0000003212○cgm_ys11
 ●0000003212●
 
 ○0000003213○sys20_adv00
 ●0000003213●
 
-○0000003214○cgm_ys12
+○0000003214○cgm_ys10
 ●0000003214●
 
 ○0000003215○sys20_adv00
 ●0000003215●
 
-○0000003216○cgm_ys11
+○0000003216○cgm_ys12
 ●0000003216●
 
 ○0000003217○sys20_adv00
 ●0000003217●
 
-○0000003218○cgm_ys10
+○0000003218○cgm_ys11
 ●0000003218●
 
 ○0000003219○sys20_adv00
 ●0000003219●
 
-○0000003220○cgm_ys12
+○0000003220○cgm_ys10
 ●0000003220●
 
 ○0000003221○sys20_adv00
 ●0000003221●
 
-○0000003222○cgm_sz11r
+○0000003222○cgm_ys12
 ●0000003222●
 
 ○0000003223○sys20_adv00
 ●0000003223●
 
-○0000003224○cgm_sz11h
+○0000003224○cgm_sz11r
 ●0000003224●
 
 ○0000003225○sys20_adv00
 ●0000003225●
 
-○0000003226○cgm_sz11
+○0000003226○cgm_sz11h
 ●0000003226●
 
 ○0000003227○sys20_adv00
 ●0000003227●
 
-○0000003228○cgm_sz14
+○0000003228○cgm_sz11
 ●0000003228●
 
 ○0000003229○sys20_adv00
 ●0000003229●
 
-○0000003230○kuro
+○0000003230○cgm_sz14
 ●0000003230●
 
 ○0000003231○sys20_adv00
 ●0000003231●
 
-○0000003232○bg003
+○0000003232○kuro
 ●0000003232●
 
-○0000003233○bgm003
+○0000003233○sys20_adv00
 ●0000003233●
 
-○0000003234○sys20_adv00
+○0000003234○bg003
 ●0000003234●
 
-○0000003235○cgm_lc13k
+○0000003235○bgm003
 ●0000003235●
 
-○0000003236○cgm_sz10
+○0000003236○sys20_adv00
 ●0000003236●
 
-○0000003237○sys20_adv00
+○0000003237○cgm_lc13k
 ●0000003237●
 
-○0000003238○cgm_lc13k
+○0000003238○cgm_sz10
 ●0000003238●
 
-○0000003239○cgm_sz14
+○0000003239○sys20_adv00
 ●0000003239●
 
-○0000003240○sys20_adv00
+○0000003240○cgm_lc13k
 ●0000003240●
 
-○0000003241○cgm_lc15
+○0000003241○cgm_sz14
 ●0000003241●
 
-○0000003242○cgm_sz14
+○0000003242○sys20_adv00
 ●0000003242●
 
-○0000003243○sys20_adv00
+○0000003243○cgm_lc15
 ●0000003243●
 
-○0000003244○cgm_lc15
+○0000003244○cgm_sz14
 ●0000003244●
 
-○0000003245○cgm_sz11s
+○0000003245○sys20_adv00
 ●0000003245●
 
-○0000003246○sys20_adv00
+○0000003246○cgm_lc15
 ●0000003246●
 
-○0000003247○cgm_lc30
+○0000003247○cgm_sz11s
 ●0000003247●
 
-○0000003248○cgm_sz11s
+○0000003248○sys20_adv00
 ●0000003248●
 
-○0000003249○sys20_adv00
+○0000003249○cgm_lc30
 ●0000003249●
 
-○0000003250○cgm_lc29k
+○0000003250○cgm_sz11s
 ●0000003250●
 
-○0000003251○cgm_sz11s
+○0000003251○sys20_adv00
 ●0000003251●
 
-○0000003252○sys20_adv00
+○0000003252○cgm_lc29k
 ●0000003252●
 
-○0000003253○cgm_lc29k
+○0000003253○cgm_sz11s
 ●0000003253●
 
-○0000003254○cgm_sz22s
+○0000003254○sys20_adv00
 ●0000003254●
 
-○0000003255○sys20_adv00
+○0000003255○cgm_lc29k
 ●0000003255●
 
-○0000003256○cgm_lc14k
+○0000003256○cgm_sz22s
 ●0000003256●
 
-○0000003257○cgm_sz22s
+○0000003257○sys20_adv00
 ●0000003257●
 
-○0000003258○sys20_adv00
+○0000003258○cgm_lc14k
 ●0000003258●
 
-○0000003259○cgm_lc14k
+○0000003259○cgm_sz22s
 ●0000003259●
 
-○0000003260○cgm_sz16r
+○0000003260○sys20_adv00
 ●0000003260●
 
-○0000003261○sys20_adv02
+○0000003261○cgm_lc14k
 ●0000003261●
 
-○0000003262○sys20_adv00
+○0000003262○cgm_sz16r
 ●0000003262●
 
-○0000003263○cgm_lc18k
+○0000003263○sys20_adv02
 ●0000003263●
 
-○0000003264○cgm_sz26r
+○0000003264○sys20_adv00
 ●0000003264●
 
-○0000003265○sys20_adv00
+○0000003265○cgm_lc18k
 ●0000003265●
 
-○0000003266○cgm_lc29k
+○0000003266○cgm_sz26r
 ●0000003266●
 
-○0000003267○cgm_sz26r
+○0000003267○sys20_adv00
 ●0000003267●
 
-○0000003268○sys20_adv00
+○0000003268○cgm_lc29k
 ●0000003268●
 
-○0000003269○cgm_lc31k
+○0000003269○cgm_sz26r
 ●0000003269●
 
-○0000003270○cgm_sz26r
+○0000003270○sys20_adv00
 ●0000003270●
 
-○0000003271○sys20_adv00
+○0000003271○cgm_lc31k
 ●0000003271●
 
-○0000003272○cgm_lc37
+○0000003272○cgm_sz26r
 ●0000003272●
 
-○0000003273○cgm_sz26r
+○0000003273○sys20_adv00
 ●0000003273●
 
-○0000003274○sys20_adv00
+○0000003274○cgm_lc37
 ●0000003274●
 
-○0000003275○cgm_lc37
+○0000003275○cgm_sz26r
 ●0000003275●
 
-○0000003276○cgm_sz28r
+○0000003276○sys20_adv00
 ●0000003276●
 
-○0000003277○sys20_adv00
+○0000003277○cgm_lc37
 ●0000003277●
 
-○0000003278○cgm_lc31k
+○0000003278○cgm_sz28r
 ●0000003278●
 
-○0000003279○cgm_sz28r
+○0000003279○sys20_adv00
 ●0000003279●
 
-○0000003280○sys20_adv00
+○0000003280○cgm_lc31k
 ●0000003280●
 
-○0000003281○cgm_lc31k
+○0000003281○cgm_sz28r
 ●0000003281●
 
-○0000003282○cgm_sz25r
+○0000003282○sys20_adv00
 ●0000003282●
 
-○0000003283○sys20_adv00
+○0000003283○cgm_lc31k
 ●0000003283●
 
-○0000003284○cgm_lc15k
+○0000003284○cgm_sz25r
 ●0000003284●
 
-○0000003285○cgm_sz25r
+○0000003285○sys20_adv00
 ●0000003285●
 
-○0000003286○sys20_adv00
+○0000003286○cgm_lc15k
 ●0000003286●
 
-○0000003287○cgm_lc15k
+○0000003287○cgm_sz25r
 ●0000003287●
 
-○0000003288○cgm_sz27r
+○0000003288○sys20_adv00
 ●0000003288●
 
-○0000003289○sys20_adv00
+○0000003289○cgm_lc15k
 ●0000003289●
 
-○0000003290○cgm_lc13h
+○0000003290○cgm_sz27r
 ●0000003290●
 
-○0000003291○cgm_sz27r
+○0000003291○sys20_adv00
 ●0000003291●
 
-○0000003292○sys20_adv00
+○0000003292○cgm_lc13h
 ●0000003292●
 
-○0000003293○cgm_lc13h
+○0000003293○cgm_sz27r
 ●0000003293●
 
-○0000003294○cgm_sz16
+○0000003294○sys20_adv00
 ●0000003294●
 
-○0000003295○sys20_adv00
+○0000003295○cgm_lc13h
 ●0000003295●
 
-○0000003296○cgm_lc25h
+○0000003296○cgm_sz16
 ●0000003296●
 
-○0000003297○cgm_sz16
+○0000003297○sys20_adv00
 ●0000003297●
 
-○0000003298○sys20_adv00
+○0000003298○cgm_lc25h
 ●0000003298●
 
-○0000003299○cgm_lc12h
+○0000003299○cgm_sz16
 ●0000003299●
 
-○0000003300○cgm_sz16
+○0000003300○sys20_adv00
 ●0000003300●
 
-○0000003301○sys20_adv00
+○0000003301○cgm_lc12h
 ●0000003301●
 
-○0000003302○cgm_lc12h
+○0000003302○cgm_sz16
 ●0000003302●
 
-○0000003303○cgm_sz11
+○0000003303○sys20_adv00
 ●0000003303●
 
-○0000003304○sys20_adv00
+○0000003304○cgm_lc12h
 ●0000003304●
 
-○0000003305○cgm_lc15
+○0000003305○cgm_sz11
 ●0000003305●
 
-○0000003306○cgm_sz19r
+○0000003306○sys20_adv00
 ●0000003306●
 
-○0000003307○sys20_adv00
+○0000003307○cgm_lc15
 ●0000003307●
 
-○0000003308○cgm_lc15
+○0000003308○cgm_sz19r
 ●0000003308●
 
-○0000003309○cgm_sz26r
+○0000003309○sys20_adv00
 ●0000003309●
 
-○0000003310○sys20_adv00
+○0000003310○cgm_lc15
 ●0000003310●
 
-○0000003311○cgm_lc15
+○0000003311○cgm_sz26r
 ●0000003311●
 
-○0000003312○cgm_sz16r
+○0000003312○sys20_adv00
 ●0000003312●
 
-○0000003313○sys20_adv00
+○0000003313○cgm_lc15
 ●0000003313●
 
-○0000003314○cgm_lc29k
+○0000003314○cgm_sz16r
 ●0000003314●
 
-○0000003315○cgm_sz16r
+○0000003315○sys20_adv00
 ●0000003315●
 
-○0000003316○sys20_adv00
+○0000003316○cgm_lc29k
 ●0000003316●
 
-○0000003317○sys20_adv00
+○0000003317○cgm_sz16r
 ●0000003317●
 
-○0000003318○cgm_kt10
+○0000003318○sys20_adv00
 ●0000003318●
 
 ○0000003319○sys20_adv00
 ●0000003319●
 
-○0000003320○cgm_kt12y
+○0000003320○cgm_kt10
 ●0000003320●
 
 ○0000003321○sys20_adv00
 ●0000003321●
 
-○0000003322○cgm_kt14y
+○0000003322○cgm_kt12y
 ●0000003322●
 
 ○0000003323○sys20_adv00
 ●0000003323●
 
-○0000003324○kuro
+○0000003324○cgm_kt14y
 ●0000003324●
 
 ○0000003325○sys20_adv00
 ●0000003325●
 
-○0000003326○bg028
+○0000003326○kuro
 ●0000003326●
 
 ○0000003327○sys20_adv00
 ●0000003327●
 
-○0000003328○cgm_kt14h
+○0000003328○bg028
 ●0000003328●
 
-○0000003329○cgm_ch13u
+○0000003329○sys20_adv00
 ●0000003329●
 
-○0000003330○sys20_adv00
+○0000003330○cgm_kt14h
 ●0000003330●
 
-○0000003331○cgm_kt14h
+○0000003331○cgm_ch13u
 ●0000003331●
 
-○0000003332○cgm_ch14u
+○0000003332○sys20_adv00
 ●0000003332●
 
-○0000003333○sys20_adv00
+○0000003333○cgm_kt14h
 ●0000003333●
 
-○0000003334○cgm_sz12s
+○0000003334○cgm_ch14u
 ●0000003334●
 
-○0000003335○cgm_lc11
+○0000003335○sys20_adv00
 ●0000003335●
 
-○0000003336○sys20_adv00
+○0000003336○cgm_sz12s
 ●0000003336●
 
-○0000003337○cgm_sz12s
+○0000003337○cgm_lc11
 ●0000003337●
 
-○0000003338○cgm_lc36
+○0000003338○sys20_adv00
 ●0000003338●
 
-○0000003339○sys20_adv00
+○0000003339○cgm_sz12s
 ●0000003339●
 
-○0000003340○sys20_adv00
+○0000003340○cgm_lc36
 ●0000003340●
 
-○0000003341○cgm_ch15u
+○0000003341○sys20_adv00
 ●0000003341●
 
-○0000003342○cgm_lc12k
+○0000003342○sys20_adv00
 ●0000003342●
 
-○0000003343○sys20_adv00
+○0000003343○cgm_ch15u
 ●0000003343●
 
-○0000003344○cgm_ch17u
+○0000003344○cgm_lc12k
 ●0000003344●
 
-○0000003345○cgm_lc12k
+○0000003345○sys20_adv00
 ●0000003345●
 
-○0000003346○sys20_adv00
+○0000003346○cgm_ch17u
 ●0000003346●
 
-○0000003347○cgm_ch17u
+○0000003347○cgm_lc12k
 ●0000003347●
 
-○0000003348○cgm_lc11k
+○0000003348○sys20_adv00
 ●0000003348●
 
-○0000003349○sys20_adv00
+○0000003349○cgm_ch17u
 ●0000003349●
 
-○0000003350○cgm_ch15u
+○0000003350○cgm_lc11k
 ●0000003350●
 
-○0000003351○cgm_lc11k
+○0000003351○sys20_adv00
 ●0000003351●
 
-○0000003352○sys20_adv00
+○0000003352○cgm_ch15u
 ●0000003352●
 
-○0000003353○cgm_kt14h
+○0000003353○cgm_lc11k
 ●0000003353●
 
 ○0000003354○sys20_adv00
 ●0000003354●
 
-○0000003355○cgm_lc26h
+○0000003355○cgm_kt14h
 ●0000003355●
 
 ○0000003356○sys20_adv00
 ●0000003356●
 
-○0000003357○cgm_sz11
+○0000003357○cgm_lc26h
 ●0000003357●
 
 ○0000003358○sys20_adv00
 ●0000003358●
 
-○0000003359○cgm_kt20y
+○0000003359○cgm_sz11
 ●0000003359●
 
 ○0000003360○sys20_adv00
 ●0000003360●
 
-○0000003361○cgm_ch27
+○0000003361○cgm_kt20y
 ●0000003361●
 
 ○0000003362○sys20_adv00
 ●0000003362●
 
-○0000003363○cgm_lc20k
+○0000003363○cgm_ch27
 ●0000003363●
 
 ○0000003364○sys20_adv00
 ●0000003364●
 
-○0000003365○cgm_ch16h
+○0000003365○cgm_lc20k
 ●0000003365●
 
 ○0000003366○sys20_adv00
 ●0000003366●
 
-○0000003367○cgm_ch21h
+○0000003367○cgm_ch16h
 ●0000003367●
 
 ○0000003368○sys20_adv00
 ●0000003368●
 
-○0000003369○cgm_lc12k
+○0000003369○cgm_ch21h
 ●0000003369●
 
 ○0000003370○sys20_adv00
 ●0000003370●
 
-○0000003371○cgm_sz28h
+○0000003371○cgm_lc12k
 ●0000003371●
 
 ○0000003372○sys20_adv00
 ●0000003372●
 
-○0000003373○cgm_lc13k
+○0000003373○cgm_sz28h
 ●0000003373●
 
 ○0000003374○sys20_adv00
 ●0000003374●
 
-○0000003375○cgm_ch23u
+○0000003375○cgm_lc13k
 ●0000003375●
 
 ○0000003376○sys20_adv00
 ●0000003376●
 
-○0000003377○cgm_kt14h
+○0000003377○cgm_ch23u
 ●0000003377●
 
 ○0000003378○sys20_adv00
 ●0000003378●
 
-○0000003379○sys20_adv00
+○0000003379○cgm_kt14h
 ●0000003379●
 
-○0000003380○cgm_lc15h
+○0000003380○sys20_adv00
 ●0000003380●
 
 ○0000003381○sys20_adv00
 ●0000003381●
 
-○0000003382○cgm_lc16k
+○0000003382○cgm_lc15h
 ●0000003382●
 
 ○0000003383○sys20_adv00
 ●0000003383●
 
-○0000003384○cgm_lc22k
+○0000003384○cgm_lc16k
 ●0000003384●
 
 ○0000003385○sys20_adv00
 ●0000003385●
 
-○0000003386○cgm_lc12k
+○0000003386○cgm_lc22k
 ●0000003386●
 
 ○0000003387○sys20_adv00
 ●0000003387●
 
-○0000003388○cgm_sz25h
+○0000003388○cgm_lc12k
 ●0000003388●
 
 ○0000003389○sys20_adv00
 ●0000003389●
 
-○0000003390○sys20_adv00
+○0000003390○cgm_sz25h
 ●0000003390●
 
-○0000003391○cgm_ch15u
+○0000003391○sys20_adv00
 ●0000003391●
 
 ○0000003392○sys20_adv00
 ●0000003392●
 
-○0000003393○cgm_ch16u
+○0000003393○cgm_ch15u
 ●0000003393●
 
 ○0000003394○sys20_adv00
 ●0000003394●
 
-○0000003395○cgm_kt14h
+○0000003395○cgm_ch16u
 ●0000003395●
 
 ○0000003396○sys20_adv00
 ●0000003396●
 
-○0000003397○cgm_ch17u
+○0000003397○cgm_kt14h
 ●0000003397●
 
 ○0000003398○sys20_adv00
 ●0000003398●
 
-○0000003399○cgm_ch15u
+○0000003399○cgm_ch17u
 ●0000003399●
 
 ○0000003400○sys20_adv00
 ●0000003400●
 
-○0000003401○sys20_adv00
+○0000003401○cgm_ch15u
 ●0000003401●
 
-○0000003402○cgm_sz30
+○0000003402○sys20_adv00
 ●0000003402●
 
 ○0000003403○sys20_adv00
 ●0000003403●
 
-○0000003404○cgm_kt10h
+○0000003404○cgm_sz30
 ●0000003404●
 
 ○0000003405○sys20_adv00
 ●0000003405●
 
-○0000003406○cgm_kt14h
+○0000003406○cgm_kt10h
 ●0000003406●
 
-○0000003407○cgm_sz32
+○0000003407○sys20_adv00
 ●0000003407●
 
-○0000003408○sys20_adv00
+○0000003408○cgm_kt14h
 ●0000003408●
 
-○0000003409○sys20_adv00
+○0000003409○cgm_sz32
 ●0000003409●
 
-○0000003410○kuro
+○0000003410○sys20_adv00
 ●0000003410●
 
 ○0000003411○sys20_adv00
 ●0000003411●
 
-○0000003412○bg028
+○0000003412○kuro
 ●0000003412●
 
-○0000003413○bgm034
+○0000003413○sys20_adv00
 ●0000003413●
 
-○0000003414○sys00_sys00
+○0000003414○bg028
 ●0000003414●
 
-○0000003415○shock_thunder
+○0000003415○bgm034
 ●0000003415●
 
-○0000003416○sys20_adv02
+○0000003416○sys00_sys00
 ●0000003416●
 
-○0000003417○sys20_adv02
+○0000003417○shock_thunder
 ●0000003417●
 
-○0000003418○sys10_mm02
+○0000003418○sys20_adv02
 ●0000003418●
 
-○0000003419○sys10_mm02
+○0000003419○sys20_adv02
 ●0000003419●
 
-○0000003420○sys20_adv00
+○0000003420○sys10_mm02
 ●0000003420●
 
-○0000003421○kuro
+○0000003421○sys10_mm02
 ●0000003421●
 
-○0000003422○bgm003
+○0000003422○sys20_adv00
 ●0000003422●
 
-○0000003423○sys00_sys00
+○0000003423○kuro
 ●0000003423●
 
-○0000003424○door02
+○0000003424○bgm003
 ●0000003424●
 
-○0000003425○sys20_adv00
+○0000003425○sys00_sys00
 ●0000003425●
 
-○0000003426○bg028
+○0000003426○door02
 ●0000003426●
 
 ○0000003427○sys20_adv00
 ●0000003427●
 
-○0000003428○cgm_kt12
+○0000003428○bg028
 ●0000003428●
 
 ○0000003429○sys20_adv00
 ●0000003429●
 
-○0000003430○sys20_adv00
+○0000003430○cgm_kt12
 ●0000003430●
 
-○0000003431○cgm_sz16r
+○0000003431○sys20_adv00
 ●0000003431●
 
 ○0000003432○sys20_adv00
 ●0000003432●
 
-○0000003433○sys20_adv00
+○0000003433○cgm_sz16r
 ●0000003433●
 
-○0000003434○fglc05a
+○0000003434○sys20_adv00
 ●0000003434●
 
 ○0000003435○sys20_adv00
 ●0000003435●
 
-○0000003436○fglc05b
+○0000003436○fglc05a
 ●0000003436●
 
 ○0000003437○sys20_adv00
 ●0000003437●
 
-○0000003438○fglc05c
+○0000003438○fglc05b
 ●0000003438●
 
 ○0000003439○sys20_adv00
 ●0000003439●
 
-○0000003440○bg028
+○0000003440○fglc05c
 ●0000003440●
 
 ○0000003441○sys20_adv00
 ●0000003441●
 
-○0000003442○cgm_lc12k
+○0000003442○bg028
 ●0000003442●
 
 ○0000003443○sys20_adv00
 ●0000003443●
 
-○0000003444○cgm_lc13k
+○0000003444○cgm_lc12k
 ●0000003444●
 
 ○0000003445○sys20_adv00
 ●0000003445●
 
-○0000003446○cgm_lc14k
+○0000003446○cgm_lc13k
 ●0000003446●
 
 ○0000003447○sys20_adv00
 ●0000003447●
 
-○0000003448○cgm_sz28h
+○0000003448○cgm_lc14k
 ●0000003448●
 
 ○0000003449○sys20_adv00
 ●0000003449●
 
-○0000003450○sys20_adv00
+○0000003450○cgm_sz28h
 ●0000003450●
 
-○0000003451○cgm_kt13h
+○0000003451○sys20_adv00
 ●0000003451●
 
 ○0000003452○sys20_adv00
 ●0000003452●
 
-○0000003453○sys20_adv00
+○0000003453○cgm_kt13h
 ●0000003453●
 
-○0000003454○cgm_lc13h
+○0000003454○sys20_adv00
 ●0000003454●
 
 ○0000003455○sys20_adv00
 ●0000003455●
 
-○0000003456○fglc05c
+○0000003456○cgm_lc13h
 ●0000003456●
 
 ○0000003457○sys20_adv00
 ●0000003457●
 
-○0000003458○kuro
+○0000003458○fglc05c
 ●0000003458●
 
-○0000003459○bgm036
+○0000003459○sys20_adv00
 ●0000003459●
 
-○0000003460○sys20_adv00
+○0000003460○kuro
 ●0000003460●
 
-○0000003461○bg028
+○0000003461○bgm036
 ●0000003461●
 
 ○0000003462○sys20_adv00
 ●0000003462●
 
-○0000003463○cgm_ch38h
+○0000003463○bg028
 ●0000003463●
 
 ○0000003464○sys20_adv00
 ●0000003464●
 
-○0000003465○cgm_ch39h
+○0000003465○cgm_ch38h
 ●0000003465●
 
 ○0000003466○sys20_adv00
 ●0000003466●
 
-○0000003467○cgm_ch38h
+○0000003467○cgm_ch39h
 ●0000003467●
 
 ○0000003468○sys20_adv00
 ●0000003468●
 
-○0000003469○sys20_adv00
+○0000003469○cgm_ch38h
 ●0000003469●
 
-○0000003470○kuro
+○0000003470○sys20_adv00
 ●0000003470●
 
 ○0000003471○sys20_adv00
 ●0000003471●
 
-○0000003472○fglc01b1
+○0000003472○kuro
 ●0000003472●
 
 ○0000003473○sys20_adv00
 ●0000003473●
 
-○0000003474○fglc01b3a
+○0000003474○fglc01b1
 ●0000003474●
 
 ○0000003475○sys20_adv00
 ●0000003475●
 
-○0000003476○fglc01b2
+○0000003476○fglc01b3a
 ●0000003476●
 
 ○0000003477○sys20_adv00
 ●0000003477●
 
-○0000003478○fglc01b3b
+○0000003478○fglc01b2
 ●0000003478●
 
 ○0000003479○sys20_adv00
 ●0000003479●
 
-○0000003480○fglc01b4
+○0000003480○fglc01b3b
 ●0000003480●
 
 ○0000003481○sys20_adv00
 ●0000003481●
 
-○0000003482○bg028
+○0000003482○fglc01b4
 ●0000003482●
 
 ○0000003483○sys20_adv00
 ●0000003483●
 
-○0000003484○cgm_ch19u
+○0000003484○bg028
 ●0000003484●
 
 ○0000003485○sys20_adv00
 ●0000003485●
 
-○0000003486○cgm_ch16u
+○0000003486○cgm_ch19u
 ●0000003486●
 
 ○0000003487○sys20_adv00
 ●0000003487●
 
-○0000003488○cgm_ch15u
+○0000003488○cgm_ch16u
 ●0000003488●
 
 ○0000003489○sys20_adv00
 ●0000003489●
 
-○0000003490○cgm_ch19
+○0000003490○cgm_ch15u
 ●0000003490●
 
 ○0000003491○sys20_adv00
 ●0000003491●
 
-○0000003492○cgm_ch29u
+○0000003492○cgm_ch19
 ●0000003492●
 
 ○0000003493○sys20_adv00
 ●0000003493●
 
-○0000003494○cgm_ch27
+○0000003494○cgm_ch29u
 ●0000003494●
 
 ○0000003495○sys20_adv00
 ●0000003495●
 
-○0000003496○cgm_ch22
+○0000003496○cgm_ch27
 ●0000003496●
 
 ○0000003497○sys20_adv00
 ●0000003497●
 
-○0000003498○cgm_ch18
+○0000003498○cgm_ch22
 ●0000003498●
 
 ○0000003499○sys20_adv00
 ●0000003499●
 
-○0000003500○cgm_ch15
+○0000003500○cgm_ch18
 ●0000003500●
 
 ○0000003501○sys20_adv00
 ●0000003501●
 
-○0000003502○cgm_ch32h
+○0000003502○cgm_ch15
 ●0000003502●
 
 ○0000003503○sys20_adv00
 ●0000003503●
 
-○0000003504○cgm_ch34
+○0000003504○cgm_ch32h
 ●0000003504●
 
 ○0000003505○sys20_adv00
 ●0000003505●
 
-○0000003506○cgm_ch33h
+○0000003506○cgm_ch34
 ●0000003506●
 
-○0000003507○sys00_sys00
+○0000003507○sys20_adv00
 ●0000003507●
 
-○0000003508○shock_thunder
+○0000003508○cgm_ch33h
 ●0000003508●
 
-○0000003509○sys20_adv02
+○0000003509○sys00_sys00
 ●0000003509●
 
-○0000003510○sys20_adv02
+○0000003510○shock_thunder
 ●0000003510●
 
-○0000003511○bgm013
+○0000003511○sys20_adv02
 ●0000003511●
 
-○0000003512○sys20_adv00
+○0000003512○sys20_adv02
 ●0000003512●
 
-○0000003513○cgm_ch39
+○0000003513○bgm013
 ●0000003513●
 
 ○0000003514○sys20_adv00
 ●0000003514●
 
-○0000003515○cgm_ch24h
+○0000003515○cgm_ch39
 ●0000003515●
 
 ○0000003516○sys20_adv00
 ●0000003516●
 
-○0000003517○cgm_ch23h
+○0000003517○cgm_ch24h
 ●0000003517●
 
 ○0000003518○sys20_adv00
 ●0000003518●
 
-○0000003519○cgm_ch19
+○0000003519○cgm_ch23h
 ●0000003519●
 
 ○0000003520○sys20_adv00
 ●0000003520●
 
-○0000003521○sys20_adv00
+○0000003521○cgm_ch19
 ●0000003521●
 
-○0000003522○fglc05d
+○0000003522○sys20_adv00
 ●0000003522●
 
 ○0000003523○sys20_adv00
 ●0000003523●
 
-○0000003524○fglc05e
+○0000003524○fglc05d
 ●0000003524●
 
 ○0000003525○sys20_adv00
 ●0000003525●
 
-○0000003526○bg028
+○0000003526○fglc05e
 ●0000003526●
 
 ○0000003527○sys20_adv00
 ●0000003527●
 
-○0000003528○cgm_sz13
+○0000003528○bg028
 ●0000003528●
 
-○0000003529○cgm_kt11h
+○0000003529○sys20_adv00
 ●0000003529●
 
-○0000003530○sys20_adv00
+○0000003530○cgm_sz13
 ●0000003530●
 
-○0000003531○fglc05e
+○0000003531○cgm_kt11h
 ●0000003531●
 
 ○0000003532○sys20_adv00
 ●0000003532●
 
-○0000003533○kuro
+○0000003533○fglc05e
 ●0000003533●
 
 ○0000003534○sys20_adv00
 ●0000003534●
 
-○0000003535○fglc01b4
+○0000003535○kuro
 ●0000003535●
 
 ○0000003536○sys20_adv00
 ●0000003536●
 
-○0000003537○kuro
+○0000003537○fglc01b4
 ●0000003537●
 
 ○0000003538○sys20_adv00
 ●0000003538●
 
-○0000003539○bg028
+○0000003539○kuro
 ●0000003539●
 
 ○0000003540○sys20_adv00
 ●0000003540●
 
-○0000003541○cgm_sz13s
+○0000003541○bg028
 ●0000003541●
 
-○0000003542○cgm_kt12h
+○0000003542○sys20_adv00
 ●0000003542●
 
-○0000003543○sys20_adv00
+○0000003543○cgm_sz13s
 ●0000003543●
 
-○0000003544○cgm_lc14
+○0000003544○cgm_kt12h
 ●0000003544●
 
 ○0000003545○sys20_adv00
 ●0000003545●
 
-○0000003546○cgm_ch33h
+○0000003546○cgm_lc14
 ●0000003546●
 
 ○0000003547○sys20_adv00
 ●0000003547●
 
-○0000003548○cgm_ch39h
+○0000003548○cgm_ch33h
 ●0000003548●
 
 ○0000003549○sys20_adv00
 ●0000003549●
 
-○0000003550○sys20_adv00
+○0000003550○cgm_ch39h
 ●0000003550●
 
-○0000003551○cgm_lc12
+○0000003551○sys20_adv00
 ●0000003551●
 
 ○0000003552○sys20_adv00
 ●0000003552●
 
-○0000003553○cgm_lc10
+○0000003553○cgm_lc12
 ●0000003553●
 
 ○0000003554○sys20_adv00
 ●0000003554●
 
-○0000003555○cgm_ch39h
+○0000003555○cgm_lc10
 ●0000003555●
 
 ○0000003556○sys20_adv00
 ●0000003556●
 
-○0000003557○sys20_adv02
+○0000003557○cgm_ch39h
 ●0000003557●
 
 ○0000003558○sys20_adv00
 ●0000003558●
 
-○0000003559○cgm_lc20k
+○0000003559○sys20_adv02
 ●0000003559●
 
 ○0000003560○sys20_adv00
 ●0000003560●
 
-○0000003561○cgm_lc22h
+○0000003561○cgm_lc20k
 ●0000003561●
 
 ○0000003562○sys20_adv00
 ●0000003562●
 
-○0000003563○cgm_lc25h
+○0000003563○cgm_lc22h
 ●0000003563●
 
 ○0000003564○sys20_adv00
 ●0000003564●
 
-○0000003565○cgm_lc16k
+○0000003565○cgm_lc25h
 ●0000003565●
 
 ○0000003566○sys20_adv00
 ●0000003566●
 
-○0000003567○cgm_sz11
+○0000003567○cgm_lc16k
 ●0000003567●
 
 ○0000003568○sys20_adv00
 ●0000003568●
 
-○0000003569○cgm_kt20h
+○0000003569○cgm_sz11
 ●0000003569●
 
 ○0000003570○sys20_adv00
 ●0000003570●
 
-○0000003571○cgm_kt12h
+○0000003571○cgm_kt20h
 ●0000003571●
 
 ○0000003572○sys20_adv00
 ●0000003572●
 
-○0000003573○cgm_sz11h
+○0000003573○cgm_kt12h
 ●0000003573●
 
 ○0000003574○sys20_adv00
 ●0000003574●
 
-○0000003575○cgm_lc19
+○0000003575○cgm_sz11h
 ●0000003575●
 
 ○0000003576○sys20_adv00
 ●0000003576●
 
-○0000003577○cgm_kt13
+○0000003577○cgm_lc19
 ●0000003577●
 
 ○0000003578○sys20_adv00
 ●0000003578●
 
-○0000003579○cgm_lc22h
+○0000003579○cgm_kt13
 ●0000003579●
 
 ○0000003580○sys20_adv00
 ●0000003580●
 
-○0000003581○cgm_ch39h
+○0000003581○cgm_lc22h
 ●0000003581●
 
 ○0000003582○sys20_adv00
 ●0000003582●
 
-○0000003583○sys20_adv00
+○0000003583○cgm_ch39h
 ●0000003583●
 
-○0000003584○cgm_lc10
+○0000003584○sys20_adv00
 ●0000003584●
 
 ○0000003585○sys20_adv00
 ●0000003585●
 
-○0000003586○cgm_kt31
+○0000003586○cgm_lc10
 ●0000003586●
 
 ○0000003587○sys20_adv00
 ●0000003587●
 
-○0000003588○sys20_adv00
+○0000003588○cgm_kt31
 ●0000003588●
 
-○0000003589○cgm_lc21k
+○0000003589○sys20_adv00
 ●0000003589●
 
 ○0000003590○sys20_adv00
 ●0000003590●
 
-○0000003591○cgm_sz12h
+○0000003591○cgm_lc21k
 ●0000003591●
 
 ○0000003592○sys20_adv00
 ●0000003592●
 
-○0000003593○cgm_kt34
+○0000003593○cgm_sz12h
 ●0000003593●
 
 ○0000003594○sys20_adv00
 ●0000003594●
 
-○0000003595○cgm_lc21k
+○0000003595○cgm_kt34
 ●0000003595●
 
 ○0000003596○sys20_adv00
 ●0000003596●
 
-○0000003597○cgm_lc19k
+○0000003597○cgm_lc21k
 ●0000003597●
 
 ○0000003598○sys20_adv00
 ●0000003598●
 
-○0000003599○cgm_lc11k
+○0000003599○cgm_lc19k
 ●0000003599●
 
 ○0000003600○sys20_adv00
 ●0000003600●
 
-○0000003601○cgm_lc10
+○0000003601○cgm_lc11k
 ●0000003601●
 
 ○0000003602○sys20_adv00
 ●0000003602●
 
-○0000003603○cgm_lc11
+○0000003603○cgm_lc10
 ●0000003603●
 
 ○0000003604○sys20_adv00
 ●0000003604●
 
-○0000003605○cgm_sz15
+○0000003605○cgm_lc11
 ●0000003605●
 
 ○0000003606○sys20_adv00
 ●0000003606●
 
-○0000003607○cgm_kt10h
+○0000003607○cgm_sz15
 ●0000003607●
 
 ○0000003608○sys20_adv00
 ●0000003608●
 
-○0000003609○cgm_lc18
+○0000003609○cgm_kt10h
 ●0000003609●
 
 ○0000003610○sys20_adv00
 ●0000003610●
 
-○0000003611○cgm_sz11
+○0000003611○cgm_lc18
 ●0000003611●
 
 ○0000003612○sys20_adv00
 ●0000003612●
 
-○0000003613○cgm_lc18
+○0000003613○cgm_sz11
 ●0000003613●
 
 ○0000003614○sys20_adv00
 ●0000003614●
 
-○0000003615○cgm_lc10h
+○0000003615○cgm_lc18
 ●0000003615●
 
 ○0000003616○sys20_adv00
 ●0000003616●
 
-○0000003617○cgm_lc13k
+○0000003617○cgm_lc10h
 ●0000003617●
 
 ○0000003618○sys20_adv00
 ●0000003618●
 
-○0000003619○siro
+○0000003619○cgm_lc13k
 ●0000003619●
 
 ○0000003620○sys20_adv00
 ●0000003620●
 
-○0000003621○kuro
+○0000003621○siro
 ●0000003621●
 
 ○0000003622○sys20_adv00
 ●0000003622●
 
-○0000003623○bg002
+○0000003623○kuro
 ●0000003623●
 
-○0000003624○bgm029
+○0000003624○sys20_adv00
 ●0000003624●
 
-○0000003625○sys20_adv00
+○0000003625○bg002
 ●0000003625●
 
-○0000003626○cgm_kt12y
+○0000003626○bgm029
 ●0000003626●
 
 ○0000003627○sys20_adv00
 ●0000003627●
 
-○0000003628○cgm_ch16h
+○0000003628○cgm_kt12y
 ●0000003628●
 
 ○0000003629○sys20_adv00
 ●0000003629●
 
-○0000003630○sys00_sys00
+○0000003630○cgm_ch16h
 ●0000003630●
 
-○0000003631○door1
+○0000003631○sys20_adv00
 ●0000003631●
 
-○0000003632○sys20_adv00
+○0000003632○sys00_sys00
 ●0000003632●
 
-○0000003633○cgm_lc10
+○0000003633○door1
 ●0000003633●
 
 ○0000003634○sys20_adv00
 ●0000003634●
 
-○0000003635○cgm_lc13h
+○0000003635○cgm_lc10
 ●0000003635●
 
 ○0000003636○sys20_adv00
 ●0000003636●
 
-○0000003637○cgm_ch15u
+○0000003637○cgm_lc13h
 ●0000003637●
 
 ○0000003638○sys20_adv00
 ●0000003638●
 
-○0000003639○cgm_ys17
+○0000003639○cgm_ch15u
 ●0000003639●
 
 ○0000003640○sys20_adv00
 ●0000003640●
 
-○0000003641○cgm_ys11
+○0000003641○cgm_ys17
 ●0000003641●
 
 ○0000003642○sys20_adv00
 ●0000003642●
 
-○0000003643○cgm_ys12
+○0000003643○cgm_ys11
 ●0000003643●
 
 ○0000003644○sys20_adv00
 ●0000003644●
 
-○0000003645○cgm_ys11
+○0000003645○cgm_ys12
 ●0000003645●
 
 ○0000003646○sys20_adv00
 ●0000003646●
 
-○0000003647○cgm_kt16h
+○0000003647○cgm_ys11
 ●0000003647●
 
 ○0000003648○sys20_adv00
 ●0000003648●
 
-○0000003649○cgm_kt20y
+○0000003649○cgm_kt16h
 ●0000003649●
 
 ○0000003650○sys20_adv00
 ●0000003650●
 
-○0000003651○cgm_kt14h
+○0000003651○cgm_kt20y
 ●0000003651●
 
 ○0000003652○sys20_adv00
 ●0000003652●
 
-○0000003653○cgm_kt10h
+○0000003653○cgm_kt14h
 ●0000003653●
 
 ○0000003654○sys20_adv00
 ●0000003654●
 
-○0000003655○bg080
+○0000003655○cgm_kt10h
 ●0000003655●
 
 ○0000003656○sys20_adv00
 ●0000003656●
 
-○0000003657○kuro
+○0000003657○bg080
 ●0000003657●
 
-○0000003658○sys00_sys00
+○0000003658○sys20_adv00
 ●0000003658●
 
-○0000003659○ny_mv_tree03_1
+○0000003659○kuro
 ●0000003659●
 
-○0000003660○seen06000
+○0000003660○sys00_sys00
 ●0000003660●
 
-○0000003661○bgm035
+○0000003661○ny_mv_tree03_1
 ●0000003661●
 
-○0000003662○sys20_adv00
+○0000003662○seen06000
 ●0000003662●
 
-○0000003663○kuro
+○0000003663○bgm035
 ●0000003663●
 
 ○0000003664○sys20_adv00
 ●0000003664●
 
-○0000003665○bg002
+○0000003665○kuro
 ●0000003665●
 
-○0000003666○bgm005
+○0000003666○sys20_adv00
 ●0000003666●
 
-○0000003667○sys20_adv00
+○0000003667○bg002
 ●0000003667●
 
-○0000003668○cgm_kt16
+○0000003668○bgm005
 ●0000003668●
 
 ○0000003669○sys20_adv00
 ●0000003669●
 
-○0000003670○cgm_kt31
+○0000003670○cgm_kt16
 ●0000003670●
 
 ○0000003671○sys20_adv00
 ●0000003671●
 
-○0000003672○cgm_kt14y
+○0000003672○cgm_kt31
 ●0000003672●
 
 ○0000003673○sys20_adv00
 ●0000003673●
 
-○0000003674○sys20_adv00
+○0000003674○cgm_kt14y
 ●0000003674●
 
-○0000003675○cgm_kt11
+○0000003675○sys20_adv00
 ●0000003675●
 
 ○0000003676○sys20_adv00
 ●0000003676●
 
-○0000003677○cgm_kt34
+○0000003677○cgm_kt11
 ●0000003677●
 
 ○0000003678○sys20_adv00
 ●0000003678●
 
-○0000003679○cgm_kt14
+○0000003679○cgm_kt34
 ●0000003679●
 
 ○0000003680○sys20_adv00
 ●0000003680●
 
-○0000003681○cgm_kt10y
+○0000003681○cgm_kt14
 ●0000003681●
 
 ○0000003682○sys20_adv00
 ●0000003682●
 
-○0000003683○cgm_kt11
+○0000003683○cgm_kt10y
 ●0000003683●
 
 ○0000003684○sys20_adv00
 ●0000003684●
 
-○0000003685○cgm_kt12
+○0000003685○cgm_kt11
 ●0000003685●
 
 ○0000003686○sys20_adv00
 ●0000003686●
 
-○0000003687○sys20_adv00
+○0000003687○cgm_kt12
 ●0000003687●
 
-○0000003688○kuro
+○0000003688○sys20_adv00
 ●0000003688●
 
 ○0000003689○sys20_adv00
@@ -10999,48 +10999,54 @@
 ○0000003691○sys20_adv00
 ●0000003691●
 
-○0000003692○bg001y
+○0000003692○kuro
 ●0000003692●
 
-○0000003693○bgm004
+○0000003693○sys20_adv00
 ●0000003693●
 
-○0000003694○sys20_adv00
+○0000003694○bg001y
 ●0000003694●
 
-○0000003695○kuro
+○0000003695○bgm004
 ●0000003695●
 
 ○0000003696○sys20_adv00
 ●0000003696●
 
-○0000003697○bg001n1
+○0000003697○kuro
 ●0000003697●
 
 ○0000003698○sys20_adv00
 ●0000003698●
 
-○0000003699○kuro
+○0000003699○bg001n1
 ●0000003699●
 
 ○0000003700○sys20_adv00
 ●0000003700●
 
-○0000003701○bg001n1
+○0000003701○kuro
 ●0000003701●
 
-○0000003702○bgm004
+○0000003702○sys20_adv00
 ●0000003702●
 
-○0000003703○sys20_adv00
+○0000003703○bg001n1
 ●0000003703●
 
-○0000003704○kuro
+○0000003704○bgm004
 ●0000003704●
 
-○0000003705○sys00_sys00
+○0000003705○sys20_adv00
 ●0000003705●
 
-○0000003706○seen01024
+○0000003706○kuro
 ●0000003706●
+
+○0000003707○sys00_sys00
+●0000003707●
+
+○0000003708○seen01024
+●0000003708●
 

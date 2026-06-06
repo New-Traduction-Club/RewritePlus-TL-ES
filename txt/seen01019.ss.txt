@@ -235,7 +235,7 @@
 ○0000000080○瑚太朗
 ●0000000080●
 
-○0000000081○"Hey, I'm sorry! SORRY!! You're just too funny!"
+○0000000081○"Hey, I'm sorry! SORRY! You're just too funny!"
 ●0000000081●
 
 ○0000000082○吉野
@@ -418,7 +418,7 @@
 ○0000000141○吉野
 ●0000000141●
 
-○0000000142○"I said it...!!"
+○0000000142○"I said it...!"
 ●0000000142●
 
 ○0000000143○吉野
@@ -436,7 +436,7 @@
 ○0000000148○吉野
 ●0000000148●
 
-○0000000149○"Who the hell dropped this goddamn purse?!"
+○0000000149○"Who the hell dropped this god damn purse?!"
 ●0000000149●
 
 ○0000000150○He didn't lie about the screaming part.
@@ -541,7 +541,7 @@
 ○0000000183○Just kidding.
 ●0000000183●
 
-○0000000184○"What on earth is happening here?"... asks Sizuru's befuddled face.
+○0000000184○"What on earth is happening here?"... asks Shizuru's befuddled face.
 ●0000000184●
 
 ○0000000185○Well, not even I'd be able to connect the dots just from seeing Yoshino's behavior.
@@ -610,7 +610,7 @@
 ○0000000206○"...!"
 ●0000000206●
 
-○0000000207○Sizuru hides behind my back.
+○0000000207○Shizuru hides behind my back.
 ●0000000207●
 
 ○0000000208○Guess she still hasn't gotten over her fear of strangers.
@@ -628,7 +628,7 @@
 ○0000000212○"......"
 ●0000000212●
 
-○0000000213○Sizuru lookes pretty scared. Well, I can't blame her, given how Yoshino is acting.
+○0000000213○Shizuru lookes pretty scared. Well, I can't blame her, given how Yoshino is acting.
 ●0000000213●
 
 ○0000000214○吉野
@@ -640,7 +640,7 @@
 ○0000000216○瑚太朗
 ●0000000216●
 
-○0000000217○"Yeah, this is Sizuru from the year below us. She might look like a cute girl initially, but in the underworld, she's known as 'Bloodbath Sizu'. If you mess with her, you'll end up drowning in your own blood in 0.5 seconds."
+○0000000217○"Yeah, this is Shizuru from the year below us. She might look like a cute girl initially, but in the underworld, she's known as 'Bloodbath Shizu.' If you mess with her, you'll end up drowning in your own blood in 0.5 seconds."
 ●0000000217●
 
 ○0000000218○吉野
@@ -664,7 +664,7 @@
 ○0000000224○静流
 ●0000000224●
 
-○0000000225○"I'm not sure what he meant, but I am Sizuru. Nice to meet you."
+○0000000225○"I'm not sure what he meant, but I am Shizuru. Nice to meet you."
 ●0000000225●
 
 ○0000000226○吉野
@@ -718,7 +718,7 @@
 ○0000000242○"......"
 ●0000000242●
 
-○0000000243○Sizuru nods.
+○0000000243○Shizuru nods.
 ●0000000243●
 
 ○0000000244○吉野
@@ -769,7 +769,7 @@
 ○0000000259○"Wow..."
 ●0000000259●
 
-○0000000260○Sizuru seems impressed.
+○0000000260○Shizuru seems impressed.
 ●0000000260●
 
 ○0000000261○吉野
@@ -793,7 +793,7 @@
 ○0000000267○吉野
 ●0000000267●
 
-○0000000268○"That's not my name!!"
+○0000000268○"That's not my name!"
 ●0000000268●
 
 ○0000000269○瑚太朗
@@ -814,7 +814,7 @@
 ○0000000274○"What...?!"
 ●0000000274●
 
-○0000000275○Sizuru is astonished.
+○0000000275○Shizuru is astonished.
 ●0000000275●
 
 ○0000000276○静流
@@ -871,7 +871,7 @@
 ○0000000293○瑚太朗
 ●0000000293●
 
-○0000000294○"Ouch!! What if you dislocated my shoulder?!"
+○0000000294○"Ouch! What if you dislocated my shoulder?!"
 ●0000000294●
 
 ○0000000295○吉野
@@ -889,7 +889,7 @@
 ○0000000299○瑚太朗
 ●0000000299●
 
-○0000000300○"No, Sizuru. It might not be obvious at first glance, but he loves me deeply."
+○0000000300○"No, Shizuru. It might not be obvious at first glance, but he loves me deeply."
 ●0000000300●
 
 ○0000000301○吉野
@@ -922,7 +922,7 @@
 ○0000000310○"I see."
 ●0000000310●
 
-○0000000311○Sizuru believes me.
+○0000000311○Shizuru believes me.
 ●0000000311●
 
 ○0000000312○吉野
@@ -949,7 +949,7 @@
 ○0000000319○瑚太朗
 ●0000000319●
 
-○0000000320○"Tell me if you find someone who's lost their purse recently, Sizuru."
+○0000000320○"Tell me if you find someone who's lost their purse recently, Shizuru."
 ●0000000320●
 
 ○0000000321○静流
@@ -985,7 +985,7 @@
 ○0000000331○吉野
 ●0000000331●
 
-○0000000332○"Shut the hell up!!"
+○0000000332○"Shut the hell up!"
 ●0000000332●
 
 ○0000000333○静流
@@ -997,7 +997,7 @@
 ○0000000335○吉野
 ●0000000335●
 
-○0000000336○"THIS AGAIN?! I haven't even been to Edogawa!!"
+○0000000336○"THIS AGAIN?! I haven't even been to Edogawa!"
 ●0000000336●
 
 ○0000000337○静流
@@ -1009,13 +1009,13 @@
 ○0000000339○吉野
 ●0000000339●
 
-○0000000340○"I DON'T STINK!! Well, my toes might stink a little, but not more than an average person!"
+○0000000340○"I DON'T STINK! Well, my toes might stink a little, but not more than an average person's!"
 ●0000000340●
 
 ○0000000341○吉野
 ●0000000341●
 
-○0000000342○"I'm gonna be a laughing stock among the freshmen now because of you!!"
+○0000000342○"I'm gonna be a laughingstock among the first-years now because of you!"
 ●0000000342●
 
 ○0000000343○瑚太朗
@@ -1024,7 +1024,7 @@
 ○0000000344○"Nah, don't worry about it."
 ●0000000344●
 
-○0000000345○...Sizuru doesn't seem like the kind to spread rumors.
+○0000000345○...Shizuru doesn't seem like the kind to spread rumors.
 ●0000000345●
 
 ○0000000346○Actually...
@@ -1090,7 +1090,7 @@
 ○0000000366○"I see. Guess it's not something you ask about."
 ●0000000366●
 
-○0000000367○After all is said and done, I realize that I don't really know Sizuru that well at all.
+○0000000367○After all is said and done, I realize that I don't really know Shizuru that well at all.
 ●0000000367●
 
 ○0000000368○...Why, then, does she trust me so much?
@@ -1162,7 +1162,7 @@
 ○0000000391○吉野
 ●0000000391●
 
-○0000000392○"Goddamn! I should have never made that stupid oath!"
+○0000000392○"God damn! I should have never made that stupid oath!"
 ●0000000392●
 
 ○0000000393○吉野
@@ -1213,7 +1213,7 @@
 ○0000000408○？？＿咲夜
 ●0000000408●
 
-○0000000409○"Tres bien!"
+○0000000409○"Très bien!"
 ●0000000409●
 
 ○0000000410○瑚太朗
@@ -1471,7 +1471,7 @@
 ○0000000494○咲夜
 ●0000000494●
 
-○0000000495○"Well, as for a more clearcut reason, I think the fact you are a frivolous man with the audacity to approach Lady Chihaya is more than enough."
+○0000000495○"Well, as for a more clear-cut reason, I think the fact you are a frivolous man with the audacity to approach Lady Chihaya is more than enough."
 ●0000000495●
 
 ○0000000496○瑚太朗
@@ -1579,7 +1579,7 @@
 ○0000000530○瑚太朗
 ●0000000530●
 
-○0000000531○"I'm gonna punch your teeth out one of those days."
+○0000000531○"I'm gonna punch your teeth out one of these days."
 ●0000000531●
 
 ○0000000532○ちはや
@@ -1675,7 +1675,7 @@
 ○0000000562○"Ah, here it is. Looks like I missed it somehow. Ehehe."
 ●0000000562●
 
-○0000000563○She pulls out a pink coin purse from the same pocket she'd checked a moment earlier.
+○0000000563○She pulls out a pink coin purse from the same pocket she checked a moment earlier.
 ●0000000563●
 
 ○0000000564○瑚太朗
@@ -2044,7 +2044,7 @@
 ○0000000685○咲夜＿使い回し
 ●0000000685●
 
-○0000000686○"I detest you on a personal level."
+○0000000686○"I must admit that on a personal level, I quite strongly dislike you."
 ●0000000686●
 
 ○0000000687○咲夜＿使い回し
@@ -2062,7 +2062,7 @@
 ○0000000691○咲夜＿使い回し
 ●0000000691●
 
-○0000000692○"Well, as for a more clearcut reason, I think the fact you are a frivolous man with the audacity to approach Lady Chihaya is more than enough."
+○0000000692○"Well, as for a more clear-cut reason, I think the fact you are a frivolous man with the audacity to approach Lady Chihaya is more than enough."
 ●0000000692●
 
 ○0000000693○瑚太朗
@@ -2188,7 +2188,7 @@
 ○0000000733○吉野
 ●0000000733●
 
-○0000000734○"There's no point in me kicking your ass when you're not into it!!"
+○0000000734○"There's no point in me kicking your ass when you're not into it!"
 ●0000000734●
 
 ○0000000735○吉野
@@ -2230,7 +2230,7 @@
 ○0000000747○Everyone's eyes fixate on me the moment I suddenly stand up.
 ●0000000747●
 
-○0000000748○However, it doesn't seem like I got through to them that well, since some are regarding me with confusion, some with exasperation, and some are too busy working on building a plastic model warship.
+○0000000748○However, it doesn't seem like I got through to them that well, since some are regarding me with confusion, some with exasperation, and some are too busy working on building a plastic model GM (RGM-79).
 ●0000000748●
 
 ○0000000749○瑚太朗＿体験版
@@ -2254,7 +2254,7 @@
 ○0000000755○静流＿体験版
 ●0000000755●
 
-○0000000756○"Oh, I thought you said 'rehearsal'."
+○0000000756○"Oh, I thought you said 'rehearsal.'"
 ●0000000756●
 
 ○0000000757○瑚太朗＿体験版
@@ -2308,7 +2308,7 @@
 ○0000000773○瑚太朗＿体験版
 ●0000000773●
 
-○0000000774○"It's a new frontier! The landscape of our dreams!! Nothing can stop us now!!!"
+○0000000774○"It's a new frontier! The landscape of our dreams! Nothing can stop us now!"
 ●0000000774●
 
 ○0000000775○瑚太朗＿体験版
@@ -2329,7 +2329,7 @@
 ○0000000780○朱音＿体験版
 ●0000000780●
 
-○0000000781○"You're such a fool, Tennouji. I honestly didn't think you were this bad. You're so ridiculous, I cannot close my gaping mouth. What a silly man you are. Men are stupid! Ahaha, men are so stupid!"
+○0000000781○"You're such a fool, Tennouji. I honestly didn't think you were this bad. You're so ridiculous, I can't close my gaping mouth. What a silly man you are. Men are stupid! Ahaha, men are so stupid!"
 ●0000000781●
 
 ○0000000782○瑚太朗＿体験版
@@ -2392,7 +2392,7 @@
 ○0000000801○瑚太朗＿体験版
 ●0000000801●
 
-○0000000802○"I appreciate your vote of confidence, but it seems the times have left us behind, Sizuru."
+○0000000802○"I appreciate your vote of confidence, but it seems the times have left us behind, Shizuru."
 ●0000000802●
 
 ○0000000803○静流＿体験版
@@ -2401,7 +2401,7 @@
 ○0000000804○"......"
 ●0000000804●
 
-○0000000805○"That's not true, buddy!!"... Sizuru vigorously shakes her head, but she's also aware that she isn't the type to stand up front and lead other people with her cheesy antics.
+○0000000805○"That's not true, buddy!"... Shizuru vigorously shakes her head, but she's also aware that she isn't the type to stand up front and lead other people with her cheesy antics.
 ●0000000805●
 
 ○0000000806○ルチア＿体験版
@@ -2419,7 +2419,7 @@
 ○0000000810○瑚太朗＿体験版
 ●0000000810●
 
-○0000000811○"I'm not talking about those, really. We can do something on a smaller scale, but still broadcast it to the entire world."
+○0000000811○"I'm not talking about those, really. We can do something on a smaller scale but still broadcast it to the entire world."
 ●0000000811●
 
 ○0000000812○小鳥＿体験版
@@ -2437,7 +2437,7 @@
 ○0000000816○朱音＿体験版
 ●0000000816●
 
-○0000000817○"You're talking about Youbube and Nikoniko, right?"
+○0000000817○"You're talking about YouToob and Nicconico, right?"
 ●0000000817●
 
 ○0000000818○瑚太朗＿体験版
@@ -2467,7 +2467,7 @@
 ○0000000826○瑚太朗＿体験版
 ●0000000826●
 
-○0000000827○"In short, we'll make a video and upload it to the Internet."
+○0000000827○"In short, we'll make a video and upload it to the internet."
 ●0000000827●
 
 ○0000000828○ちはや＿体験版
@@ -2518,7 +2518,7 @@
 ○0000000843○Akane brings a laptop over to the table.
 ●0000000843●
 
-○0000000844○Sizuru leans over to see as well. Apparently, she doesn't know either.
+○0000000844○Shizuru leans over to see as well. Apparently, she doesn't know either.
 ●0000000844●
 
 ○0000000845○ルチア＿体験版
@@ -2572,7 +2572,7 @@
 ○0000000861○瑚太朗＿体験版
 ●0000000861●
 
-○0000000862○"I'll just have to grit my teeth and bear it then."
+○0000000862○"I'll just have to grit my teeth and bear it, then."
 ●0000000862●
 
 ○0000000863○ルチア＿体験版
@@ -2593,7 +2593,7 @@
 ○0000000868○"Hmm... Well, we can try. At least it sounds fun."
 ●0000000868●
 
-○0000000869○"You said it, sister!"... Sizuru gives a big nod next to her.
+○0000000869○"You said it, sister!"... Shizuru gives a big nod next to her.
 ●0000000869●
 
 ○0000000870○瑚太朗＿体験版
@@ -2680,7 +2680,7 @@
 ○0000000897○瑚太朗＿体験版
 ●0000000897●
 
-○0000000898○"Wanna hold the camera, Sizuru?"
+○0000000898○"Wanna hold the camera, Shizuru?"
 ●0000000898●
 
 ○0000000899○静流＿体験版
@@ -2689,7 +2689,7 @@
 ○0000000900○"......"
 ●0000000900●
 
-○0000000901○"No, thanks. I can't touch cameras ever since that bomb incident in LA thirteen years ago"... says Sizuru's face as she turns me down.
+○0000000901○"No, thanks. I can't touch cameras ever since that bomb incident in LA thirteen years ago," says Shizuru's face as she turns me down.
 ●0000000901●
 
 ○0000000902○Just kidding.
@@ -2854,7 +2854,7 @@
 ○0000000955○瑚太朗＿体験版
 ●0000000955●
 
-○0000000956○"OH MY GOD! THE WITCH CURSE IS REAL! THE WITCH CURSE IS REAL!! AAAAAAAAAAAAAAAAAGHHHHHHHHHHH!!"
+○0000000956○"OH MY GOD! THE WITCH CURSE IS REAL! THE WITCH CURSE IS REAL! AAAAAAAAAAAAAAAAAGHHHHHHHHHHH!"
 ●0000000956●
 
 ○0000000957○朱音＿体験版
@@ -2890,7 +2890,7 @@
 ○0000000967○"...Now that I think about it, I might've picked a poor time for this."
 ●0000000967●
 
-○0000000968○After all, I'm already knee-deep in life-threatening supernatural phenomena.
+○0000000968○After all, I'm already knee-deep in inexplicable happenings.
 ●0000000968●
 
 ○0000000969○瑚太朗＿体験版
@@ -2923,7 +2923,7 @@
 ○0000000978○瑚太朗＿体験版
 ●0000000978●
 
-○0000000979○"NOO! I don't want to die!! Neither for real, nor on paper!!"
+○0000000979○"NOO! I don't want to die! Neither for real, nor on paper!"
 ●0000000979●
 
 ○0000000980○朱音＿体験版
@@ -2977,7 +2977,7 @@
 ○0000000996○瑚太朗＿体験版
 ●0000000996●
 
-○0000000997○"Good. Very good. Okay, let's have Sizuru do it next."
+○0000000997○"Good. Very good. Okay, let's have Shizuru do it next."
 ●0000000997●
 
 ○0000000998○静流＿体験版
@@ -3049,7 +3049,7 @@
 ○0000001020○ルチア＿体験版
 ●0000001020●
 
-○0000001021○"Ya..."
+○0000001021○"Y-Y..."
 ●0000001021●
 
 ○0000001022○瑚太朗＿体験版
@@ -3061,7 +3061,7 @@
 ○0000001024○ルチア＿体験版
 ●0000001024●
 
-○0000001025○"Screw you, you shameless slug! I'll straighten you out right now!"
+○0000001025○"You know what, screw you, you shameless slug! I'll straighten you out right now!"
 ●0000001025●
 
 ○0000001026○*BANG* *CLANG* *WHOOSH*
@@ -3097,7 +3097,7 @@
 ○0000001036○ルチア＿体験版
 ●0000001036●
 
-○0000001037○"Ah!! Hey!! Stop filming me!!"
+○0000001037○"Ah! Hey! Stop filming me!"
 ●0000001037●
 
 ○0000001038○瑚太朗＿体験版
@@ -3145,7 +3145,7 @@
 ○0000001052○ルチア＿体験版
 ●0000001052●
 
-○0000001053○"N-No! NO WAY!! Delete it! Delete it RIGHT NOW!!"
+○0000001053○"N-No! NO WAY! Delete it! Delete it RIGHT NOW!"
 ●0000001053●
 
 ○0000001054○小鳥＿体験版
@@ -3202,7 +3202,7 @@
 ○0000001071○瑚太朗＿体験版
 ●0000001071●
 
-○0000001072○"Stop trying to be funny all the time, you wannabe comedian!!"
+○0000001072○"Stop trying to be funny all the time, you wannabe comedian!"
 ●0000001072●
 
 ○0000001073○ちはや＿体験版
@@ -3262,7 +3262,7 @@
 ○0000001091○瑚太朗＿体験版
 ●0000001091●
 
-○0000001092○"I cannot condone forgery. We'll have no choice but to pray we run into a spirit with a penchant for modeling."
+○0000001092○"I can't condone forgery. We'll have no choice but to pray we run into a spirit with a penchant for modeling."
 ●0000001092●
 
 ○0000001093○瑚太朗＿体験版
@@ -3289,7 +3289,7 @@
 ○0000001100○"It sounds complicated..."
 ●0000001100●
 
-○0000001101○Sizuru regards me with a serious look of compassion.
+○0000001101○Shizuru regards me with a serious look of compassion.
 ●0000001101●
 
 ○0000001102○瑚太朗＿体験版
@@ -3298,7 +3298,7 @@
 ○0000001103○"Don't worry. I'm prepared to make any sacrifice if it comes down to it."
 ●0000001103●
 
-○0000001104○"I see... But you won't be in it alone, buddy!"... says Sizuru's face as she nods.
+○0000001104○"I see... But you won't be in it alone, buddy!" says Shizuru's face as she nods.
 ●0000001104●
 
 ○0000001105○朱音＿体験版
@@ -3355,7 +3355,7 @@
 ○0000001122○瑚太朗＿体験版
 ●0000001122●
 
-○0000001123○"I think Sizuru would be the perfect choice for that."
+○0000001123○"I think Shizuru would be the perfect choice for that."
 ●0000001123●
 
 ○0000001124○I'm a bit uncertain about her acting ability.
@@ -3367,7 +3367,7 @@
 ○0000001126○"......"
 ●0000001126●
 
-○0000001127○Sizuru nods.
+○0000001127○Shizuru nods.
 ●0000001127●
 
 ○0000001128○瑚太朗＿体験版
@@ -3472,7 +3472,7 @@
 ○0000001161○瑚太朗＿体験版
 ●0000001161●
 
-○0000001162○"Tch. I guess we've got no choice then."
+○0000001162○"Tch. I guess we've got no choice, then."
 ●0000001162●
 
 ○0000001163○瑚太朗＿体験版
@@ -3553,7 +3553,7 @@
 ○0000001188○小鳥＿体験版
 ●0000001188●
 
-○0000001189○"K...Kyaaaaaaaaaaaaaaaaaa...!!"
+○0000001189○"K...Kyaaaaaaaaaaaaaaaaaa...!"
 ●0000001189●
 
 ○0000001190○小鳥＿体験版
@@ -3745,13 +3745,13 @@
 ○0000001252○"Uh..."
 ●0000001252●
 
-○0000001253○Oh, it looks like Sizuru might be his weak point.
+○0000001253○Oh, it looks like Shizuru might be his weak point.
 ●0000001253●
 
 ○0000001254○瑚太朗＿体験版
 ●0000001254●
 
-○0000001255○"You want him to participate, don't you, Sizuru?"
+○0000001255○"You want him to participate, don't you, Shizuru?"
 ●0000001255●
 
 ○0000001256○静流＿体験版
@@ -3775,7 +3775,7 @@
 ○0000001262○"......"
 ●0000001262●
 
-○0000001263○Sizuru gives me an okay sign.
+○0000001263○Shizuru gives me an okay sign.
 ●0000001263●
 
 ○0000001264○静流＿体験版
@@ -3829,7 +3829,7 @@
 ○0000001280○"......"
 ●0000001280●
 
-○0000001281○Sizuru seems slightly dissatisfied by my suggestion.
+○0000001281○Shizuru seems slightly dissatisfied by my suggestion.
 ●0000001281●
 
 ○0000001282○静流＿体験版
@@ -3847,7 +3847,7 @@
 ○0000001286○"What? Did that asswipe tell you to do something?"
 ●0000001286●
 
-○0000001287○Sizuru shakes her head.
+○0000001287○Shizuru shakes her head.
 ●0000001287●
 
 ○0000001288○静流＿体験版
@@ -3901,7 +3901,7 @@
 ○0000001304○瑚太朗＿体験版
 ●0000001304●
 
-○0000001305○"Kane? Sizuru likes Kane? Why'd she go there, of all things? I don't even know how to comment on that!"
+○0000001305○"Kane? Shizuru likes Kane? Why'd she go there, of all things? I don't even know how to comment on that!"
 ●0000001305●
 
 ○0000001306○吉野＿体験版
@@ -3967,7 +3967,7 @@
 ○0000001326○"Tch... Guess I've got no choice."
 ●0000001326●
 
-○0000001327○Could it be that Sizuru was the beastmaster we needed to get Yoshino under control this whole time?
+○0000001327○Could it be that Shizuru was the beastmaster we needed to get Yoshino under control this whole time?
 ●0000001327●
 
 ○0000001328○瑚太朗＿体験版
@@ -4015,7 +4015,7 @@
 ○0000001342○瑚太朗＿体験版
 ●0000001342●
 
-○0000001343○"Hmm... Look, I want to feel the heat... No, the passion of youth coming from your line!"
+○0000001343○"Hmm... Look, I want to feel the heat... no, the passion of youth coming from your line!"
 ●0000001343●
 
 ○0000001344○ルチア＿体験版
@@ -4117,7 +4117,7 @@
 ○0000001376○吉野＿体験版
 ●0000001376●
 
-○0000001377○"D-DAMMIT!!"
+○0000001377○"D-DAMN IT!"
 ●0000001377●
 
 ○0000001378○He suddenly dashes out of the room.
@@ -4147,7 +4147,7 @@
 ○0000001386○"...?"
 ●0000001386●
 
-○0000001387○"What is it?"... Sizuru regards us with a puzzled expression.
+○0000001387○"What is it?" ...Shizuru regards us with a puzzled expression.
 ●0000001387●
 
 ○0000001388○It was indeed her who pushed Yoshino to that extent.

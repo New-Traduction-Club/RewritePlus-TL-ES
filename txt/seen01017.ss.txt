@@ -256,7 +256,7 @@
 ○0000000087○中年男性＿Ｒ＋
 ●0000000087●
 
-○0000000088○"Th' weirdest thing I've ever seen! Geez! This world is stowed oot o' surprises! "
+○0000000088○"Th' weirdest thing I've ever seen! Geez! This world is stowed oot o' surprises!"
 ●0000000088●
 
 ○0000000089○中年男性＿Ｒ＋
@@ -319,7 +319,7 @@
 ○0000000108○瑚太朗
 ●0000000108●
 
-○0000000109○"...!!"
+○0000000109○"...!"
 ●0000000109●
 
 ○0000000110○I jump to my feet.
@@ -517,7 +517,7 @@
 ○0000000174○安西
 ●0000000174●
 
-○0000000175○"Our motto is 'you're never too old for research projects'."
+○0000000175○"Our motto is 'you're never too old for research projects.'"
 ●0000000175●
 
 ○0000000176○瑚太朗
@@ -544,7 +544,7 @@
 ○0000000183○"All right! Let's go look for clues!"
 ●0000000183●
 
-○0000000184○I decide to spend the evening organizing my clues and investigating stuff on the Internet.
+○0000000184○I decide to spend the evening organizing my clues and investigating stuff on the internet.
 ●0000000184●
 
 ○0000000185○I find quite a few sites dealing with occult happenings in Kazamatsuri.
@@ -928,7 +928,7 @@
 ○0000000311○(Maybe I should prepare myself before going after it.)
 ●0000000311●
 
-○0000000312○Use the power
+○0000000312○Use my power
 ●0000000312●
 
 ○0000000313○Do nothing
@@ -958,7 +958,7 @@
 ○0000000321○...so I can see in the dark.
 ●0000000321●
 
-○0000000322○But... can I really do such a thing?
+○0000000322○But... can I really do something like that?
 ●0000000322●
 
 ○0000000323○It's easy to imagine boosting my physical abilities.
@@ -1084,7 +1084,7 @@
 ○0000000363○瑚太朗
 ●0000000363●
 
-○0000000364○"This is..."
+○0000000364○"What...?"
 ●0000000364●
 
 ○0000000365○I only intended to boost it a little bit...
@@ -1099,7 +1099,7 @@
 ○0000000368○瑚太朗
 ●0000000368●
 
-○0000000369○"Aw crap... I feel like I'm going to puke..."
+○0000000369○"Aw crap... I feel like I'm gonna puke..."
 ●0000000369●
 
 ○0000000370○My body feels light on its feet. It hurts behind my eyes.
@@ -1153,13 +1153,13 @@
 ○0000000386○"......"
 ●0000000386●
 
-○0000000387○Not like I can do such a thing.
+○0000000387○I can't do something like that.
 ●0000000387●
 
 ○0000000388○That's already in superhuman territory.
 ●0000000388●
 
-○0000000389○I can't turn my changes back, so if I ever go that far...
+○0000000389○I can't revert anything I change, so if I ever go that far...
 ●0000000389●
 
 ○0000000390○瑚太朗
@@ -1195,7 +1195,7 @@
 ○0000000400○It takes time to strengthen my body.
 ●0000000400●
 
-○0000000401○Slowly, but surely... I focus the raging fluid towards a single location.
+○0000000401○Slowly, but surely... I focus the raging fluid toward a single location.
 ●0000000401●
 
 ○0000000402○Okay.
@@ -1306,7 +1306,7 @@
 ○0000000437○Maybe the evil spirits would leave me alone if I turned into a breezy sportsman kind of character...
 ●0000000437●
 
-○0000000438○(I mean, I can't imagine Matsuoka getting attacked by ghosts, at least.)
+○0000000438○(I mean, I can't imagine Matsuoka Shuzo getting attacked by ghosts, at least.)
 ●0000000438●
 
 ○0000000439○瑚太朗
@@ -1327,7 +1327,7 @@
 ○0000000444○It just makes sense to finish things at a memorable landmark, right?
 ●0000000444●
 
-○0000000445○And it's the number one spot where a balloon could get stuck in the tree branches.
+○0000000445○And it's the number-one spot where a balloon could get stuck in the tree branches.
 ●0000000445●
 
 ○0000000446○Praying that the silhouette from before shares my aesthetic sensitivities, I continue deeper into the park.
@@ -1600,7 +1600,7 @@
 ○0000000535○おっさん＿ゲンさん
 ●0000000535●
 
-○0000000536○"All right!! Welcome to my meager establishment, first-timer!! I'll get you the best ramen you've ever had in your life!"
+○0000000536○"All right. Welcome to my meager establishment, first-timer! I'll get you the best ramen you've ever had in your life!"
 ●0000000536●
 
 ○0000000537○瑚太朗
@@ -1615,7 +1615,7 @@
 ○0000000540○"Don't be shy, young'un."
 ●0000000540●
 
-○0000000541○He pulls me by the hand towards the ramen establishment.
+○0000000541○He pulls me by the hand toward the ramen establishment.
 ●0000000541●
 
 ○0000000542○瑚太朗
@@ -1627,13 +1627,13 @@
 ○0000000544○Just how strong is this guy?
 ●0000000544●
 
-○0000000545○I end up being pulled the whole way.
+○0000000545○I end up getting pulled the whole way.
 ●0000000545●
 
 ○0000000546○おっさん＿ゲンさん
 ●0000000546●
 
-○0000000547○"Oi!! I got meself one more troubled young'un!!"
+○0000000547○"Oi! I got meself one more troubled young'un!"
 ●0000000547●
 
 ○0000000548○男
@@ -1645,13 +1645,13 @@
 ○0000000550○おっさん＿ゲンさん
 ●0000000550●
 
-○0000000551○"Gahahahaha!! A li'l hero wandering about this place all on his own!!"
+○0000000551○"Gahahahaha! A li'l hero wandering about this place all on his own!"
 ●0000000551●
 
 ○0000000552○メガネの男
 ●0000000552●
 
-○0000000553○"Fantastic!! Let's have a toast together, little bro!!"
+○0000000553○"Fantastic! Let's have a toast together, little bro!"
 ●0000000553●
 
 ○0000000554○瑚太朗
@@ -1684,7 +1684,7 @@
 ○0000000563○おっさん＿ゲンさん
 ●0000000563●
 
-○0000000564○"Gimme a moment and I'll make you the best menra you've ever had!! You can stand down, pal!! And thanks for looking after the shop!!"
+○0000000564○"Gimme a moment and I'll make you the best menra you've ever had! You can stand down, pal! And thanks for looking after the shop!"
 ●0000000564●
 
 ○0000000565○鷲鼻の男
@@ -1978,7 +1978,7 @@
 ○0000000661○紳士＿江坂
 ●0000000661●
 
-○0000000662○"We're professional monster hunters. You're welcome to talk to us if you require advice."
+○0000000662○"We're professional familiar hunters. You're welcome to talk to us if you require advice."
 ●0000000662●
 
 ○0000000663○瑚太朗
@@ -2005,7 +2005,7 @@
 ○0000000670○紳士＿江坂
 ●0000000670●
 
-○0000000671○"I doubt you'll run into any as long as you stay away from abandoned ruins and graveyards. Young people always end up cursed or dead after wandering in places like that in movies, anyway."
+○0000000671○"I doubt you'll run into any as long as you stay away from abandoned ruins and graveyards. Young people always end up cursed or dead after wandering into places like that in movies, anyway."
 ●0000000671●
 
 ○0000000672○瑚太朗
@@ -2041,7 +2041,7 @@
 ○0000000682○瑚太朗
 ●0000000682●
 
-○0000000683○"There's a lot of rumors about cryptids in Kazamatsuri."
+○0000000683○"There are a lot of rumors about cryptids in Kazamatsuri."
 ●0000000683●
 
 ○0000000684○瑚太朗
@@ -2185,7 +2185,7 @@
 ○0000000730○おっさん＿ゲンさん
 ●0000000730●
 
-○0000000731○"Well, you've got time to worry while you're still young!! Gahahahaha!"
+○0000000731○"Well, you've got time to worry while you're still young! Gahahahaha!"
 ●0000000731●
 
 ○0000000732○？？＿静流
@@ -2218,7 +2218,7 @@
 ○0000000741○"Phoo... Phoo..."
 ●0000000741●
 
-○0000000742○Sizuru is doing her best to blow air on her ramen to cool it down.
+○0000000742○Shizuru is doing her best to blow air on her ramen to cool it down.
 ●0000000742●
 
 ○0000000743○静流
@@ -2311,7 +2311,7 @@
 ○0000000772○"A'ight. Guess I've got no choice."
 ●0000000772●
 
-○0000000773○I carry my ramen bowl to the seat next to Sizuru.
+○0000000773○I carry my ramen bowl to the seat next to Shizuru.
 ●0000000773●
 
 ○0000000775○静流
@@ -2338,7 +2338,7 @@
 ○0000000782○"Well, let's eat, I guess."
 ●0000000782●
 
-○0000000783○Sizuru nods.
+○0000000783○Shizuru nods.
 ●0000000783●
 
 ○0000000784○She sucks in a bunch of noodles, letting out a loud yelp.
@@ -2353,10 +2353,10 @@
 ○0000000787○静流
 ●0000000787●
 
-○0000000788○"...!!"
+○0000000788○"...!"
 ●0000000788●
 
-○0000000789○"Wh-What?! N-No way! Not at all!! What are you even talking about?!"... Sizuru provides me with a delicious scene of flustered surprise.
+○0000000789○"Wh-What?! N-No way! Not at all! What are you even talking about?!"... Shizuru provides me with a delicious scene of flustered surprise.
 ●0000000789●
 
 ○0000000790○At the same time, she also tries to breathe heavily to cool down the still-hot noodles within her mouth.
@@ -2401,13 +2401,13 @@
 ○0000000803○"You two look like you're in love already."
 ●0000000803●
 
-○0000000804○Sizuru flushes so fast that I half-expect a cloud of steam to burst out from her head, along with a kettle sound.
+○0000000804○Shizuru flushes so fast that I half-expect a cloud of steam to burst out from her head, along with a kettle sound.
 ●0000000804●
 
 ○0000000805○静流
 ●0000000805●
 
-○0000000806○"...!!"
+○0000000806○"...!"
 ●0000000806●
 
 ○0000000807○She punches the old man on the shoulder.
@@ -2461,7 +2461,7 @@
 ○0000000823○"Mhm."
 ●0000000823●
 
-○0000000824○Sizuru seems to have quite the peculiar circle of acquaintances.
+○0000000824○Shizuru seems to have quite the peculiar circle of acquaintances.
 ●0000000824●
 
 ○0000000825○Oh, my ramen will get cold if I keep on babbling.
@@ -2473,7 +2473,7 @@
 ○0000000828○ゲンさん
 ●0000000828●
 
-○0000000829○"Gahahahaha!! Ain't it great to be young?!"
+○0000000829○"Gahahahaha! Ain't it great to be young?!"
 ●0000000829●
 
 ○0000000830○He suddenly starts laughing.
@@ -2491,7 +2491,7 @@
 ○0000000834○...there isn't much I can do at this point.
 ●0000000834●
 
-○0000000835○These guys seem like fun. They're a bit on the nutty end of the spectrum, but they appear to take good care of Sizuru, so they can't possibly be bad people.
+○0000000835○These guys seem like fun. They're a bit on the nutty end of the spectrum, but they appear to take good care of Shizuru, so they can't possibly be bad people.
 ●0000000835●
 
 ○0000000836○じいさん
@@ -2503,7 +2503,7 @@
 ○0000000838○バンダナの男
 ●0000000838●
 
-○0000000839○"We came to join in! Here's a little token I brought!!"
+○0000000839○"We came to join in! Here's a little token I brought!"
 ●0000000839●
 
 ○0000000840○ゲンさん
@@ -2515,7 +2515,7 @@
 ○0000000842○男
 ●0000000842●
 
-○0000000843○"Aye aye, sir!!"
+○0000000843○"Aye aye, sir!"
 ●0000000843●
 
 ○0000000844○They assemble a table out of beer boxes and a few planks in a matter of seconds.
@@ -2530,13 +2530,13 @@
 ○0000000848○ゲンさん
 ●0000000848●
 
-○0000000849○"Sir, yes, sir! Go screw yourself, sir!"
+○0000000849○"An' apparently, 'Shit, ya fuckin' bastard!' means 'Let out yer turds, ya massive jerkwad!'"
 ●0000000849●
 
 ○0000000850○ゲンさん
 ●0000000850●
 
-○0000000851○"Just like that!! Gyahahaha!!"
+○0000000851○"Just like that! Gyahahaha!"
 ●0000000851●
 
 ○0000000852○江坂
@@ -2578,7 +2578,7 @@
 ○0000000864○江坂
 ●0000000864●
 
-○0000000865○"I can tell Sizuru will grow into a respectable woman."
+○0000000865○"I can tell Shizuru will grow into a respectable woman."
 ●0000000865●
 
 ○0000000866○静流
@@ -2605,7 +2605,7 @@
 ○0000000873○"I'm still in my prime!"
 ●0000000873●
 
-○0000000874○Sizuru seems to be quite popular with these old guys.
+○0000000874○Shizuru seems to be quite popular with these old guys.
 ●0000000874●
 
 ○0000000875○ゲンさん
@@ -2635,7 +2635,7 @@
 ○0000000883○バンダナの男
 ●0000000883●
 
-○0000000884○"I'm singing 'The Hot Summer of Our Boys!'"
+○0000000884○"I'm singing 'The Hot Summer of Our Boys'!"
 ●0000000884●
 
 ○0000000885○メガネの男
@@ -2728,7 +2728,7 @@
 ○0000000914○バンダナの男
 ●0000000914●
 
-○0000000915○"Ouuur suuuummer is overrrrrrrrrr!!"
+○0000000915○"Ouuur suuuummer is overrrrrrrrrr!"
 ●0000000915●
 
 ○0000000916○男
@@ -2746,7 +2746,7 @@
 ○0000000920○じいさん
 ●0000000920●
 
-○0000000921○"Singing is the only thing that keeps me alive!!"
+○0000000921○"Singing is the only thing that keeps me alive!"
 ●0000000921●
 
 ○0000000922○All of them have gone completely wild.
@@ -2782,25 +2782,25 @@
 ○0000000932○ゲンさん
 ●0000000932●
 
-○0000000933○"Fire!!"
+○0000000933○"Fire!"
 ●0000000933●
 
 ○0000000934○男
 ●0000000934●
 
-○0000000935○"Yayy! You're awesome, Mr. Gen!!"
+○0000000935○"Yayy! You're awesome, Mr. Gen!"
 ●0000000935●
 
 ○0000000936○メガネの男
 ●0000000936●
 
-○0000000937○"Hyaaahooooo!!!!"
+○0000000937○"Hyaaahooooo!"
 ●0000000937●
 
 ○0000000938○瑚太朗
 ●0000000938●
 
-○0000000939○"Yaaaaayy!!"
+○0000000939○"Yaaaaayy!"
 ●0000000939●
 
 ○0000000940○I'm partying with everyone before I realize it.
@@ -2821,7 +2821,7 @@
 ○0000000945○...Tomorrow is Monday, but I guess that doesn't matter to those that have abandoned any intent to participate in human society.
 ●0000000945●
 
-○0000000946○They are, after all, the legion of antisocial old men who don't give a crap, just like Mr. Esaka had implied earlier.
+○0000000946○They are, after all, the legion of antisocial old men who don't give a crap, just like Mr. Esaka implied earlier.
 ●0000000946●
 
 ○0000000947○Well, at least they seem to be enjoying their lives.
@@ -2833,7 +2833,7 @@
 ○0000000949○(I wonder if I can be like that when I get older...)
 ●0000000949●
 
-○0000000950○I end up escorting Sizuru home since it's so late.
+○0000000950○I end up escorting Shizuru home since it's so late.
 ●0000000950●
 
 ○0000000951○瑚太朗
@@ -2893,7 +2893,7 @@
 ○0000000969○静流
 ●0000000969●
 
-○0000000970○"...???"
+○0000000970○"...?"
 ●0000000970●
 
 ○0000000971○She doesn't seem to understand.
@@ -2989,7 +2989,7 @@
 ○0000001001○"What?"
 ●0000001001●
 
-○0000001002○Her finger is pointing at an average-looking apartment building.
+○0000001002○She's pointing at an average-looking apartment building.
 ●0000001002●
 
 ○0000001003○It doesn't look exceptionally lavish in any way.
@@ -3037,7 +3037,7 @@
 ○0000001017○I follow her.
 ●0000001017●
 
-○0000001018○Sizuru's home...
+○0000001018○Shizuru's home...
 ●0000001018●
 
 ○0000001019○Nothing happened... I really just saw her to the door.
@@ -3109,7 +3109,7 @@
 ○0000001041○瑚太朗
 ●0000001041●
 
-○0000001042○"I found out that Sizuru lives in an empty room."
+○0000001042○"I found out that Shizuru lives in an empty room."
 ●0000001042●
 
 ○0000001043○I have nothing to contribute to the Occult Research Society.

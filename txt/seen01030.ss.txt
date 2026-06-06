@@ -10,13 +10,13 @@
 ○0000000005○瑚太朗
 ●0000000005●
 
-○0000000006○"The time for my quest is nigh!!"
+○0000000006○"The time for my quest is nigh!"
 ●0000000006●
 
 ○0000000007○瑚太朗
 ●0000000007●
 
-○0000000008○"I don't want to go to school today!!"
+○0000000008○"I don't want to go to school today!"
 ●0000000008●
 
 ○0000000009○瑚太朗
@@ -79,7 +79,7 @@
 ○0000000028○Haunted house on lease with no money down
 ●0000000028●
 
-○0000000029○Monster in the Forest?! The Legend of a Wooden Man!
+○0000000029○Monster in the Forest?! The Legend of the Treefolk!
 ●0000000029●
 
 ○0000000030○Mysterious structure in town / ghost location
@@ -94,10 +94,10 @@
 ○0000000034○"Welcome home."
 ●0000000034●
 
-○0000000035○I find Pani playing video games in my room.
+○0000000035○I find Pani on the PlayStation in my room.
 ●0000000035●
 
-○0000000036○I find Pani playing video games in my room when I return after filling myself up.
+○0000000036○I find Pani on the PlayStation in my room when I return after filling myself up.
 ●0000000036●
 
 ○0000000037○It seems like the two fairies (or whatever they are) are making the best of the shut-in life.
@@ -121,7 +121,7 @@
 ○0000000043○ぱに
 ●0000000043●
 
-○0000000044○"SPOILERS ARE FORBIDDEN IN THIS HOUSE!!"
+○0000000044○"SPOILERS ARE FORBIDDEN IN THIS HOUSE!"
 ●0000000044●
 
 ○0000000045○*thwap*
@@ -130,7 +130,7 @@
 ○0000000046○ぎる
 ●0000000046●
 
-○0000000047○"Gyaaa...!!"
+○0000000047○"Gyaaa...!"
 ●0000000047●
 
 ○0000000048○ぱに
@@ -160,7 +160,7 @@
 ○0000000056○ぱに
 ●0000000056●
 
-○0000000057○"You insulted the developers who poured their souls into this game! You don't have the right to enjoy it! You should go watch movies or play games with no gameplay or something!!"
+○0000000057○"You insulted the developers who poured their souls into this game! You don't have the right to enjoy it! You should go watch movies or play games with no gameplay or something!"
 ●0000000057●
 
 ○0000000058○瑚太朗
@@ -331,7 +331,7 @@
 ○0000000113○ぎる
 ●0000000113●
 
-○0000000114○"What's there to worry about? You should save the toughest character! Father all the way!!"
+○0000000114○"What's there to worry about? You should save the toughest character! Father all the way!"
 ●0000000114●
 
 ○0000000115○瑚太朗
@@ -469,7 +469,7 @@
 ○0000000159○It's not my place to meddle
 ●0000000159●
 
-○0000000160○Might as well do something useless
+○0000000160○Do something useless
 ●0000000160●
 
 ○0000000161○Duh.
@@ -607,7 +607,7 @@
 ○0000000205○元会長
 ●0000000205●
 
-○0000000206○"Dig it up and burn it right away!!"
+○0000000206○"Dig it up and burn it right away!"
 ●0000000206●
 
 ○0000000207○瑚太朗
@@ -841,7 +841,7 @@
 ○0000000283○瑚太朗
 ●0000000283●
 
-○0000000284○"Haha, naw. All Internet meetups just end up in disappointment."
+○0000000284○"Haha, naw. All internet meetups just end up in disappointment."
 ●0000000284●
 
 ○0000000285○元会長
@@ -1030,7 +1030,7 @@
 ○0000000346○"...Hmm."
 ●0000000346●
 
-○0000000347○Thinking back, we found that one above ground, not underneath.
+○0000000347○Thinking back, we found that one aboveground, not underneath.
 ●0000000347●
 
 ○0000000348○井上＿電話

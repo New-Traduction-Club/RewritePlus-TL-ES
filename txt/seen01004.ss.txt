@@ -298,7 +298,7 @@
 ○0000000101○There appears to be some kind of commotion in the classroom.
 ●0000000101●
 
-○0000000102○Everyone turns their eyes towards me the moment I enter.
+○0000000102○Everyone turns their eyes toward me the moment I enter.
 ●0000000102●
 
 ○0000000103○It feels like I've done something horrible.
@@ -934,7 +934,7 @@
 ○0000000314○*rattle* *rattle* *rattle*
 ●0000000314●
 
-○0000000315○It stops around the thirty centimeter mark.
+○0000000315○It stops around the thirty-centimeter mark.
 ●0000000315●
 
 ○0000000316○？＿小鳥＿体験版
@@ -1075,7 +1075,7 @@
 ○0000000361○小鳥＿体験版
 ●0000000361●
 
-○0000000362○"I really thought it was my victory when I managed to slip through a thirty centimeter gap without getting stuck."
+○0000000362○"I really thought it was my victory when I managed to slip through a thirty-centimeter gap without getting stuck."
 ●0000000362●
 
 ○0000000363○小鳥＿体験版
@@ -1150,7 +1150,7 @@
 ○0000000386○"Even if it's God himself!"
 ●0000000386●
 
-○0000000387○He must be a fan of shonen manga.
+○0000000387○He must be a fan of shounen manga.
 ●0000000387●
 
 ○0000000388○瑚太朗＿体験版
@@ -1228,13 +1228,13 @@
 ○0000000412○瑚太朗＿体験版
 ●0000000412●
 
-○0000000413○"Pfft!!"
+○0000000413○"Pfft!"
 ●0000000413●
 
 ○0000000414○吉野＿体験版
 ●0000000414●
 
-○0000000415○"...You bastard!!"
+○0000000415○"...You bastard!"
 ●0000000415●
 
 ○0000000416○小鳥＿体験版
@@ -1255,7 +1255,7 @@
 ○0000000421○吉野＿体験版
 ●0000000421●
 
-○0000000422○"...It has nothing to do with you. This is between men."
+○0000000422○"...It has nothing to do with you. This is between us men."
 ●0000000422●
 
 ○0000000423○小鳥＿体験版
@@ -1342,7 +1342,7 @@
 ○0000000450○吉野＿体験版
 ●0000000450●
 
-○0000000451○"Don't say it! I'll knock your teeth out!!"
+○0000000451○"Don't say it! I'll knock your teeth out!"
 ●0000000451●
 
 ○0000000452○瑚太朗＿体験版
@@ -1429,7 +1429,7 @@
 ○0000000479○"Tennouji...
 ●0000000479●
 
-○0000000480○... Take this!!"
+○0000000480○... Take this!"
 ●0000000480●
 
 ○0000000481○教師＿体験版
@@ -1441,7 +1441,7 @@
 ○0000000483○吉野＿体験版
 ●0000000483●
 
-○0000000484○"...Goddammit."
+○0000000484○"...Ah, shit."
 ●0000000484●
 
 ○0000000485○吉野＿体験版
@@ -1624,7 +1624,7 @@
 ○0000000544○吉野＿体験版
 ●0000000544●
 
-○0000000545○"That's 'cause you keep pestering me all the goddamn time."
+○0000000545○"That's 'cause you keep pestering me all the god damn time."
 ●0000000545●
 
 ○0000000546○瑚太朗＿体験版
@@ -1843,7 +1843,8 @@
 ○0000000617○(I'm starting to feel lonely.)
 ●0000000617●
 
-○0000000618○Still, I'm only in the second semester of my second year. I surely have enough time to find friends that would share their lunch with me... or so I hope.
+○0000000618○Still, I'm only in the second semester of my second year.
+I surely have enough time to find friends that would share their lunch with me... or so I hope.
 ●0000000618●
 
 ○0000000619○I have to do something about this situation eventually.
@@ -1921,7 +1922,7 @@
 ○0000000643○I've decided to eat my ramen in the park.
 ●0000000643●
 
-○0000000644○It's one of my favorite places in town.
+○0000000644○It's one of my favorite places downtown.
 ●0000000644●
 
 ○0000000645○A spot where you can calmly submerge yourself in the absentminded, serene bliss surrounding you.
@@ -1978,10 +1979,10 @@
 ○0000000662○A mysterious dish indeed, this instant ramen.
 ●0000000662●
 
-○0000000663○I wondered if there's a good way to abbreviate that name.
+○0000000663○I wonder if there's a good way to abbreviate that name.
 ●0000000663●
 
-○0000000664○How about "Instamen", maybe?
+○0000000664○How about "Instamen," maybe?
 ●0000000664●
 
 ○0000000665○瑚太朗＿体験版
@@ -2128,7 +2129,7 @@
 ○0000000712○"...It doesn't look like it's planning to change its ways anytime soon."
 ●0000000712●
 
-○0000000713○I wave goodbye to the hissing cat and leave.
+○0000000713○I wave goodbye to Hissy the Cat and leave.
 ●0000000713●
 
 ○0000000714○■友達■　ID:
@@ -2140,10 +2141,10 @@
 ○0000000716○I walk up the slope to school.
 ●0000000716●
 
-○0000000717○Below, a green town extends before my eyes.
+○0000000717○Below, a green city extends before my eyes.
 ●0000000717●
 
-○0000000718○I know no other towns to compare it to, but I'm pretty sure ours is greener than most.
+○0000000718○I don't know any other cities to compare it to, but I'm pretty sure ours is greener than most.
 ●0000000718●
 
 ○0000000719○Countless mountains covered with thick trees surround us on all sides.
@@ -2161,7 +2162,7 @@
 ○0000000723○Those are beautiful memories.
 ●0000000723●
 
-○0000000724○Viva la nature.
+○0000000724○Vive la nature.
 ●0000000724●
 
 ○0000000725○All kids should have to experience insect hunting at least once in their lives.
@@ -2254,7 +2255,7 @@
 ○0000000755○"Whoa..."
 ●0000000755●
 
-○0000000756○A girl fell from the sky.
+○0000000756○A girl has fallen from the sky...
 ●0000000756●
 
 ○0000000757○She's wearing an unfamiliar uniform, so she probably belongs to a different school.
@@ -2263,19 +2264,19 @@
 ○0000000758○I know the situation calls for a quick reaction, but my brain has frozen.
 ●0000000758●
 
-○0000000759○Sunshine filters through the gently rustling foliage.
+○0000000759○The foliage rustles ever so gently, sunlight streaming in betwixt the verdure.
 ●0000000759●
 
-○0000000760○A girl with light-colored hair...
+○0000000760○Before me, a girl with nigh-blonde hair...
 ●0000000760●
 
-○0000000761○...is struggling in the branches like a fish trapped in a net.
+○0000000761○...is flailing around in the branches like a fish trapped in a net.
 ●0000000761●
 
-○0000000762○I don't know if you can call this scene poetic at all, but...
+○0000000762○Poetry, or piscatorial? I honestly can’t tell.
 ●0000000762●
 
-○0000000763○Seriously, she literally fell from above.
+○0000000763○Wait, did she really just plummet straight down?!
 ●0000000763●
 
 ○0000000764○瑚太朗＿体験版
@@ -2341,7 +2342,8 @@
 ○0000000784○The box that almost fell on me most likely belongs to the girl up above.
 ●0000000784●
 
-○0000000785○It doesn't look like a magical item or anything, either. It has a logo of a well-known moving company printed on it.
+○0000000785○It doesn't look like a magical item or anything, either.
+It has a logo of a well-known moving company printed on it.
 ●0000000785●
 
 ○0000000786○That's the first mystery solved. No supernatural happenings to see here.
@@ -2386,10 +2388,10 @@
 ○0000000799○So, basically, she sat around and waited for a dump truck to pass by, and...
 ●0000000799●
 
-○0000000800○"RAHH! Now's my chance!!"
+○0000000800○"RAHH! Now's my chance!"
 ●0000000800●
 
-○0000000801○...jumped at it, getting sent flying towards her destination, but then failed to stick the landing and ended up in this predicament.
+○0000000801○...jumped at it, getting sent flying toward her destination, but then failed to stick the landing and ended up in this predicament.
 ●0000000801●
 
 ○0000000802○That explains everything.
@@ -2470,7 +2472,7 @@
 ○0000000827○女生徒＿ちはや＿体験版
 ●0000000827●
 
-○0000000828○"Wah! Wahh!!"
+○0000000828○"Wah! Wahh!"
 ●0000000828●
 
 ○0000000829○She desperately tries to use her short skirt to cover herself.
@@ -2572,7 +2574,7 @@
 ○0000000861○女生徒＿ちはや＿体験版
 ●0000000861●
 
-○0000000862○"Ahh!! Isn't that a bit mean?!"
+○0000000862○"Ahh! Isn't that a bit mean?!"
 ●0000000862●
 
 ○0000000863○瑚太朗＿体験版
@@ -2602,7 +2604,7 @@
 ○0000000871○瑚太朗＿体験版
 ●0000000871●
 
-○0000000872○"You can stay there, shaking in your boots as you imagine the possibility of a true pervert passing by and taking pictures of you in that position."
+○0000000872○"You can stay there, shaking in your boots as you imagine the possibility of a perverted gentleman passing by and taking pictures of you in that position, yelling 'Nice panties!' all the while."
 ●0000000872●
 
 ○0000000873○女生徒＿ちはや＿体験版
@@ -2620,13 +2622,13 @@
 ○0000000877○瑚太朗＿体験版
 ●0000000877●
 
-○0000000878○"There was this stage show I watched with a bunch of kids at a local park. I ended up totally entranced by the actor playing the former Prime Minister. Might as well do an impression of him."
+○0000000878○"There was this stage show I watched with a bunch of kids at a local park. I ended up totally entranced by the actor playing former Prime Minister Koizumi. Might as well do an impression of him."
 ●0000000878●
 
 ○0000000879○瑚太朗＿体験版
 ●0000000879●
 
-○0000000880○"Attention, all combatants! Oh, the heroes are here! Destroy... this evil organization! My, I am impressed!!"
+○0000000880○"Attention, all combatants! Oh, the heroes are here! Destroy... this evil organization! My, I am impressed!"
 ●0000000880●
 
 ○0000000881○女生徒＿ちはや＿体験版
@@ -2644,7 +2646,7 @@
 ○0000000885○女生徒＿ちはや＿体験版
 ●0000000885●
 
-○0000000886○"W-Well, that was funny and all, but as a boy, I think you should try to save me."
+○0000000886○"W-Well, that was funny and all, but with you being a boy, I think you should try to save me."
 ●0000000886●
 
 ○0000000887○瑚太朗＿体験版
@@ -2656,13 +2658,13 @@
 ○0000000889○女生徒＿ちはや＿体験版
 ●0000000889●
 
-○0000000890○"N-No!!"
+○0000000890○"N-No!"
 ●0000000890●
 
 ○0000000891○瑚太朗＿体験版
 ●0000000891●
 
-○0000000892○"Well, you can look forward to begging for help from that pervert then."
+○0000000892○"Whoa, nice panties!"
 ●0000000892●
 
 ○0000000893○女生徒＿ちはや＿体験版
@@ -2770,7 +2772,7 @@
 ○0000000927○瑚太朗＿体験版
 ●0000000927●
 
-○0000000928○"You spent all morning wandering around town, then?"
+○0000000928○"You spent all morning wandering downtown, then?"
 ●0000000928●
 
 ○0000000929○女生徒＿ちはや＿体験版
@@ -2845,7 +2847,7 @@
 ○0000000952○I point at the box that fell from the sky earlier.
 ●0000000952●
 
-○0000000953○Did she lug that thing all over town...?
+○0000000953○Did she lug that thing all over downtown...?
 ●0000000953●
 
 ○0000000954○I can probably carry it the rest of the way, at least.
@@ -2881,7 +2883,7 @@
 ○0000000964○瑚太朗＿体験版
 ●0000000964●
 
-○0000000965○"Gh... Ghuoooooohhh!!"
+○0000000965○"Gh... Ghuoooooohhh!"
 ●0000000965●
 
 ○0000000966○*bam*
@@ -2905,7 +2907,7 @@
 ○0000000972○瑚太朗＿体験版
 ●0000000972●
 
-○0000000973○"Gh... Ghuoooooohhh!!"
+○0000000973○"Gh... Ghuoooooohhh!"
 ●0000000973●
 
 ○0000000974○What in the world is in there?
@@ -2965,7 +2967,7 @@
 ○0000000992○As such, that whole thing with the box has to be some kind of mistake.
 ●0000000992●
 
-○0000000993○It's absolutely impossible that a girl that thin could lug that monster around town for several hours.
+○0000000993○It's absolutely impossible that a girl that thin could lug that monster around downtown for several hours.
 ●0000000993●
 
 ○0000000994○女生徒＿ちはや＿体験版
@@ -3001,10 +3003,10 @@
 ○0000001004○瑚太朗＿体験版
 ●0000001004●
 
-○0000001005○"Gh... Ghuoooooohhh!!"
+○0000001005○"Gh... Ghuoooooohhh!"
 ●0000001005●
 
-○0000001006○It's heavy as hell...!!
+○0000001006○It's heavy as hell...!
 ●0000001006●
 
 ○0000001007○女生徒＿ちはや＿体験版
@@ -3046,7 +3048,7 @@
 ○0000001019○瑚太朗＿体験版
 ●0000001019●
 
-○0000001020○"There's no way a box that a girl carried all over town for hours could be too heavy for me!"
+○0000001020○"There's no way a box that a girl carried all over downtown for hours could be too heavy for me!"
 ●0000001020●
 
 ○0000001021○女生徒＿ちはや＿体験版
@@ -3076,7 +3078,7 @@
 ○0000001029○瑚太朗＿体験版
 ●0000001029●
 
-○0000001030○"My pride as a man... will not allow it...!!"
+○0000001030○"My pride as a man... will not allow it...!"
 ●0000001030●
 
 ○0000001031○I feel an odd sense of purpose overtake me.
@@ -3148,7 +3150,7 @@
 ○0000001053○女生徒＿ちはや＿体験版
 ●0000001053●
 
-○0000001054○"Seriously, give it back!!"
+○0000001054○"Seriously, give it back!"
 ●0000001054●
 
 ○0000001055○She's starting to get mad.
@@ -3178,7 +3180,7 @@
 ○0000001063○女生徒＿ちはや＿体験版
 ●0000001063●
 
-○0000001064○"WAAAAAAAAAAHHH!!!"
+○0000001064○"WAAAAAAAAAAHHH!"
 ●0000001064●
 
 ○0000001065○*trip*
@@ -3205,7 +3207,7 @@
 ○0000001072○瑚太朗＿体験版
 ●0000001072●
 
-○0000001073○"Heeey, um... Ms. Transfer Student!!"
+○0000001073○"Heeey, um... Ms. Transfer Student!"
 ●0000001073●
 
 ○0000001074○I call out to her.
@@ -3253,7 +3255,7 @@
 ○0000001088○女生徒＿ちはや＿体験版
 ●0000001088●
 
-○0000001089○"Huh? Waaaahh!!"
+○0000001089○"Huh? Waaaahh!"
 ●0000001089●
 
 ○0000001090○Maybe I spoke too soon.
@@ -3319,7 +3321,7 @@
 ○0000001110○女生徒＿ちはや＿体験版
 ●0000001110●
 
-○0000001111○"Hey! Like I said, I'm okay! Listen to me!!"
+○0000001111○"Hey! Like I said, I'm okay! Listen to me!"
 ●0000001111●
 
 ○0000001112○*wee-oo* *wee-oo*
@@ -3382,7 +3384,7 @@
 ○0000001131○瑚太朗＿体験版
 ●0000001131●
 
-○0000001132○"Alrighty then."
+○0000001132○"Alrighty, then."
 ●0000001132●
 
 ○0000001133○I shift gears and ascend the slope.
@@ -3595,7 +3597,7 @@
 ○0000001202○瑚太朗＿体験版
 ●0000001202●
 
-○0000001203○"Yahoo!!"
+○0000001203○"Yahoo!"
 ●0000001203●
 
 ○0000001204○吉野＿体験版
@@ -3607,7 +3609,7 @@
 ○0000001206○瑚太朗＿体験版
 ●0000001206●
 
-○0000001207○"Yay!! Behold my super speed!"
+○0000001207○"Yay! Behold my super speed!"
 ●0000001207●
 
 ○0000001208○*rattle* *rattle*
@@ -3628,7 +3630,7 @@
 ○0000001214○吉野＿体験版
 ●0000001214●
 
-○0000001215○"The senior girls are laughing at us, you numbskull!!"
+○0000001215○"The third-year girls are laughing at us, you numbskull!"
 ●0000001215●
 
 ○0000001216○瑚太朗＿体験版
@@ -3652,7 +3654,7 @@
 ○0000001222○吉野＿体験版
 ●0000001222●
 
-○0000001223○"I do!!"
+○0000001223○"I do!"
 ●0000001223●
 
 ○0000001224○He kicks me in the stomach.
@@ -3748,7 +3750,7 @@
 ○0000001255○吉野＿体験版
 ●0000001255●
 
-○0000001256○"The very fact we're running around on a stupid cart is what makes us look like little kids!!"
+○0000001256○"The very fact we're running around on a stupid cart is what makes us look like little kids!"
 ●0000001256●
 
 ○0000001257○瑚太朗＿体験版
@@ -3808,7 +3810,7 @@
 ○0000001275○瑚太朗＿体験版
 ●0000001275●
 
-○0000001276○"Ah, we've only got five left minutes till class starts."
+○0000001276○"Ah, we've only got five minutes left till class starts."
 ●0000001276●
 
 ○0000001277○吉野＿体験版
@@ -3871,7 +3873,7 @@
 ○0000001296○瑚太朗＿体験版
 ●0000001296●
 
-○0000001297○"After wandering the town for a few hours looking for the school, she fell from a tree and got taken away by an ambulance, leaving only this box behind."
+○0000001297○"After wandering downtown for a few hours looking for the school, she fell from a tree and got taken away by an ambulance, leaving only this box behind."
 ●0000001297●
 
 ○0000001298○担任＿体験版
@@ -3889,7 +3891,7 @@
 ○0000001302○瑚太朗＿体験版
 ●0000001302●
 
-○0000001303○"After wandering the town for a few hours looking for the school, she fell from a tree and got taken away by an ambulance, leaving only this box behind."
+○0000001303○"After wandering downtown for a few hours looking for the school, she fell from a tree and got taken away by an ambulance, leaving only this box behind."
 ●0000001303●
 
 ○0000001304○担任＿体験版
@@ -4177,7 +4179,7 @@
 ○0000001398○担任＿体験版
 ●0000001398●
 
-○0000001399○"Okay, then let's clearly give him a 'thank you', Ohtori."
+○0000001399○"Okay, then let's clearly give him a 'thank you,' Ohtori."
 ●0000001399●
 
 ○0000001400○鳳＿体験版
@@ -4309,7 +4311,7 @@
 ○0000001442○鳳＿体験版
 ●0000001442●
 
-○0000001443○"Listen to meeeeeee!!"
+○0000001443○"Listen to meeeeeee!"
 ●0000001443●
 
 ○0000001444○瑚太朗＿体験版
@@ -4363,7 +4365,7 @@
 ○0000001460○鳳＿体験版
 ●0000001460●
 
-○0000001461○"Uaaahh!! I hate you all!!!"
+○0000001461○"Uaaahh! I hate you all!"
 ●0000001461●
 
 ○0000001462○瑚太朗＿体験版
@@ -4423,7 +4425,7 @@
 ○0000001480○鳳＿体験版
 ●0000001480●
 
-○0000001481○"Gyaaaaaahh! Now I know when you saw the cherries!!!"
+○0000001481○"Gyaaaaaahh! Now I know when you saw the cherries!"
 ●0000001481●
 
 ○0000001482○Ah, it took a while, but she finally caught on.
@@ -4912,7 +4914,7 @@
 ○0000001643○I have to research whatever subject matter I want to write about myself, though.
 ●0000001643●
 
-○0000001644○However, anything was fine, whether it's a report on local events, or something involving the writer's own hobbies.
+○0000001644○However, anything is fine, whether it's a report on local events, or something involving the writer's own hobbies.
 ●0000001644●
 
 ○0000001645○They value your ability to entertain over the actual content of the writing.
@@ -5125,7 +5127,7 @@
 ○0000001714○瑚太朗＿体験版
 ●0000001714●
 
-○0000001715○"Eh...?"
+○0000001715○"Huh...?"
 ●0000001715●
 
 ○0000001716○入れ墨をした男＿体験版
@@ -5182,7 +5184,7 @@
 ○0000001733○福顔の男＿体験版
 ●0000001733●
 
-○0000001734○"They start at 1000 yen."
+○0000001734○"They start at 1,000 yen."
 ●0000001734●
 
 ○0000001735○瑚太朗＿体験版
@@ -5200,7 +5202,7 @@
 ○0000001739○福顔の男＿体験版
 ●0000001739●
 
-○0000001740○"It'll be 2000 yen for three of them."
+○0000001740○"It'll be 2,000 yen for three of them."
 ●0000001740●
 
 ○0000001741○瑚太朗＿体験版
@@ -5368,13 +5370,13 @@
 ○0000001795○今時の男＿今宮＿体験版
 ●0000001795●
 
-○0000001796○"You're from Kazamatsuri Academy?"
+○0000001796○"Nice uniform. You from Kaz High?"
 ●0000001796●
 
 ○0000001797○瑚太朗＿体験版
 ●0000001797●
 
-○0000001798○"Yes. I'm Tennouji Kotarou, second year."
+○0000001798○"Yes. I'm Tennouji Kotarou, second-year."
 ●0000001798●
 
 ○0000001799○今時の男＿今宮＿体験版
@@ -5431,13 +5433,13 @@
 ○0000001816○今時の男＿今宮＿体験版
 ●0000001816●
 
-○0000001817○"Hmm. Part-time job, huh..."
+○0000001817○"Hmm, a part-time job?"
 ●0000001817●
 
 ○0000001818○今時の男＿今宮＿体験版
 ●0000001818●
 
-○0000001819○"Is it for the Harvest Festival?"
+○0000001819○"Oh, is it for the Harvest Festival?"
 ●0000001819●
 
 ○0000001820○瑚太朗＿体験版
@@ -5569,7 +5571,7 @@
 ○0000001862○(Have I seen him somewhere before?)
 ●0000001862●
 
-○0000001863○But no matter how hard I wrack my brains, I can't remember anything.
+○0000001863○But no matter how hard I rack my brains, I can't remember anything.
 ●0000001863●
 
 ○0000001864○瑚太朗＿体験版

@@ -31,7 +31,7 @@
 ○0000000012○瑚太朗＿体験版
 ●0000000012●
 
-○0000000013○"Yo, Ohtori. They say 'see Naples and die', but it's not like seeing Naples is what kills you, you know."
+○0000000013○"Yo, Ohtori. They say 'see Naples and die,' but it's not like seeing Naples is what kills you, you know."
 ●0000000013●
 
 ○0000000014○鳳＿体験版
@@ -43,7 +43,7 @@
 ○0000000016○瑚太朗＿体験版
 ●0000000016●
 
-○0000000017○"It'd be pretty awful if the saying was 'you'll die if you see Naples', huh..."
+○0000000017○"It'd be pretty awful if the saying was 'you'll die if you see Naples,' huh..."
 ●0000000017●
 
 ○0000000018○鳳＿体験版
@@ -73,10 +73,10 @@
 ○0000000026○I spot her rummaging through her bag with a typically brusque expression on her face.
 ●0000000026●
 
-○0000000027○Well then, where should I eat...
+○0000000027○Well then, where should I eat...?
 ●0000000027●
 
-○0000000028○Classroom
+○0000000028○The classroom would be nice
 ●0000000028●
 
 ○0000000029○Maybe I should eat outside
@@ -214,7 +214,7 @@
 ○0000000073○瑚太朗＿体験版
 ●0000000073●
 
-○0000000074○"The Madam's personality really comes through ― perfection with no room for compromise."
+○0000000074○"The Madam's personality really comes through―perfection with no room for compromise."
 ●0000000074●
 
 ○0000000075○瑚太朗＿体験版
@@ -274,7 +274,7 @@
 ○0000000093○瑚太朗＿体験版
 ●0000000093●
 
-○0000000094○"We men are sad creatures who cannot resist the allure of risking their lives, even during a quiet and peaceful lunch break."
+○0000000094○"We men are sad creatures who can't resist the allure of risking their lives, even during a quiet and peaceful lunch break."
 ●0000000094●
 
 ○0000000095○小鳥＿体験版
@@ -985,19 +985,19 @@
 ○0000000330○ルチア＿体験版
 ●0000000330●
 
-○0000000331○"Fghaaaaaah!!! Tennouji Kotarou!! I will kill youuuuuuuu!!"
+○0000000331○"Fghaaaaaah! Tennouji Kotarou! I will kill youuuuuuuu!"
 ●0000000331●
 
 ○0000000332○瑚太朗＿体験版
 ●0000000332●
 
-○0000000333○"Nghuooh! Kotori, you fool!!"
+○0000000333○"Nghuooh! Kotori, you fool!"
 ●0000000333●
 
 ○0000000334○瑚太朗＿体験版
 ●0000000334●
 
-○0000000335○"Stop it, Class Rep! Stop it, please! You're strangling me!! I'm going to die! Seriously!! Ughghghghghg...!!!"
+○0000000335○"Stop it, Class Rep! Stop it, please! You're strangling me! I'm going to die! Seriously! Ughghghghghg...!"
 ●0000000335●
 
 ○0000000336○Huh? What was that all about? Psst, psst, psst.
@@ -1015,25 +1015,25 @@
 ○0000000340○ルチア＿体験版
 ●0000000340●
 
-○0000000341○"Die, you pervert! Die!! You beast! You monster!"
+○0000000341○"Die, you pervert! Die! You beast! You monster!"
 ●0000000341●
 
 ○0000000342○ルチア＿体験版
 ●0000000342●
 
-○0000000343○"Offer your body as compost and contribute to the biological capture of carbon dioxide!!"
+○0000000343○"Offer your body as compost and contribute to the biological capture of carbon dioxide!"
 ●0000000343●
 
 ○0000000344○瑚太朗＿体験版
 ●0000000344●
 
-○0000000345○"Fghwhw... Fhghwhghwghwh...!!"
+○0000000345○"Fghwhw... Fhghwhghwghwh...!"
 ●0000000345●
 
 ○0000000346○瑚太朗＿体験版
 ●0000000346●
 
-○0000000347○"S-Stop... You're gonna crush... my throat... for real...!!"
+○0000000347○"S-Stop... You're gonna crush... my throat... for real...!"
 ●0000000347●
 
 ○0000000348○ルチア＿体験版
@@ -1057,7 +1057,7 @@
 ○0000000354○瑚太朗＿体験版
 ●0000000354●
 
-○0000000355○"Khehh! Khohh... Khehh... Khehh!!"
+○0000000355○"Khehh! Khohh... Khehh... Khehh!"
 ●0000000355●
 
 ○0000000356○瑚太朗＿体験版
@@ -1189,7 +1189,7 @@
 ○0000000398○ルチア＿体験版
 ●0000000398●
 
-○0000000399○"Grrrrrrrrrr!! Grrrrrrrrrrrrrrrrrrrrrrr... Pshhhh..."
+○0000000399○"Grrrrrrrrrr! Grrrrrrrrrrrrrrrrrrrrrrr... Pshhhh..."
 ●0000000399●
 
 ○0000000400○It looks like she's starting to cool down a little.
@@ -1474,7 +1474,7 @@
 ○0000000493○瑚太朗＿体験版
 ●0000000493●
 
-○0000000494○"Yeah. Everything in Class Rep's lunchbox looks pretty good, too."
+○0000000494○"Yeah. Everything in Class Rep's lunch box looks pretty good, too."
 ●0000000494●
 
 ○0000000495○瑚太朗＿体験版
@@ -1855,7 +1855,7 @@
 ○0000000620○(This might give me a glimpse at the path she took to building up that superhuman spice resistance.)
 ●0000000620●
 
-○0000000621○But as the lunchbox draws closer to my nose, I hear something...
+○0000000621○But as the lunch box draws closer to my nose, I hear something...
 ●0000000621●
 
 ○0000000622○It's the sound of Class Rep dropping the class journal on the floor.
@@ -1888,10 +1888,10 @@
 ○0000000631○ルチア＿体験版
 ●0000000631●
 
-○0000000632○"DIE, YOU PERVERT! YOU FREAK! YOU DISGUSING, FILTHY, GROSS ENEMY OF WOMEN! YOU BEAST! MONSTER!! TENNOUJI KOTAROUUU!!"
+○0000000632○"DIE, YOU PERVERT! YOU FREAK! YOU DISGUSING, FILTHY, GROSS ENEMY OF WOMEN! YOU BEAST! MONSTER! TENNOUJI KOTAROUUU!"
 ●0000000632●
 
-○0000000633○You've received title "Boy Who Licked Up a Girl's Leftovers Level 3".
+○0000000633○You've received title "Boy Who Licked Up a Girl's Leftovers Level 3."
 ●0000000633●
 
 ○0000000634○瑚太朗＿体験版
@@ -2089,7 +2089,7 @@
 ○0000000699○安西＿体験版
 ●0000000699●
 
-○0000000700○"It's in regards to your application."
+○0000000700○"It's in regard to your application."
 ●0000000700●
 
 ○0000000701○瑚太朗＿体験版
@@ -2146,7 +2146,7 @@
 ○0000000718○安西＿体験版
 ●0000000718●
 
-○0000000719○"Training, by the way, is basically just me explaining a few things to you in person, so we can do it any time you're free."
+○0000000719○"Training, by the way, is basically just me explaining a few things to you in person, so we can do it anytime you're free."
 ●0000000719●
 
 ○0000000720○瑚太朗＿体験版
@@ -2479,7 +2479,7 @@
 ○0000000829○瑚太朗＿体験版
 ●0000000829●
 
-○0000000830○"Dammiiiiiiiittt!!"
+○0000000830○"Dammiiiiiiiittt!"
 ●0000000830●
 
 ○0000000831○井上＿体験版
@@ -2728,7 +2728,7 @@
 ○0000000912○瑚太朗＿体験版
 ●0000000912●
 
-○0000000913○"...A bizarre one, that's for sure."
+○0000000913○"...An insane one, that's for sure."
 ●0000000913●
 
 ○0000000914○小鳥＿体験版
@@ -2938,7 +2938,7 @@
 ○0000000982○瑚太朗＿体験版
 ●0000000982●
 
-○0000000983○"And I thought to use this opportunity to investigate a few supernatural phenomena I've encountered."
+○0000000983○"And I thought to use this opportunity to investigate a few paranormal phenomena I've encountered."
 ●0000000983●
 
 ○0000000984○小鳥＿体験版
@@ -3049,7 +3049,7 @@
 ○0000001019○小鳥＿体験版
 ●0000001019●
 
-○0000001020○"How could you make a bet like that...?"
+○0000001020○"How could you make such a naughty bet...?"
 ●0000001020●
 
 ○0000001021○Her whole body trembles in silent anger.
@@ -3151,7 +3151,7 @@
 ○0000001053○小鳥＿体験版
 ●0000001053●
 
-○0000001054○"That total lack of restraint towards the idea of using someone..."
+○0000001054○"That total lack of restraint toward the idea of using someone..."
 ●0000001054●
 
 ○0000001055○小鳥＿体験版
@@ -3223,7 +3223,7 @@
 ○0000001077○朱音＿体験版
 ●0000001077●
 
-○0000001078○"I definitely cannot see him in a sports club, at least."
+○0000001078○"I definitely can't see him in a sports club, at least."
 ●0000001078●
 
 ○0000001079○瑚太朗＿体験版
@@ -3331,7 +3331,7 @@
 ○0000001114○小鳥＿体験版
 ●0000001114●
 
-○0000001115○"Thank you, Prez."
+○0000001115○"Here you are, Prez."
 ●0000001115●
 
 ○0000001116○朱音＿体験版
@@ -3397,13 +3397,13 @@
 ○0000001136○小鳥＿体験版
 ●0000001136●
 
-○0000001137○"What supernatural phenomena did you have in mind?"
+○0000001137○"What paranormal phenomena did you have in mind?"
 ●0000001137●
 
 ○0000001138○瑚太朗＿体験版
 ●0000001138●
 
-○0000001139○"Well, superpowers. Or magic. UFOs and aliens would do, too. Ah, and stuff like Bigfoot could work."
+○0000001139○"Well, superpowers. Or magecraft. UFOs and aliens would do, too. Ah, and stuff like Bigfoot could work."
 ●0000001139●
 
 ○0000001140○瑚太朗＿体験版
@@ -3664,22 +3664,23 @@
 ○0000001225○Those are also the most boring.
 ●0000001225●
 
-○0000001226○"Heyho, it's me, Occult Research Society President Rumi-bun!"
+○0000001226○"Heyho, it's me, Occult Research Society President Rumi-pyon!"
 ●0000001226●
 
 ○0000001227○"Has your day been as rad as mine?!"
 ●0000001227●
 
-○0000001228○"My fist of demonic destruction will grasp your heart! It's time for the Occult Research Society's weekly paper, The Netherworld!"
+○0000001228○"My fist of demonic destruction will grasp your heart!
+It's time for the Occult Research Society's weekly paper, The ORS Netherworld!"
 ●0000001228●
 
-○0000001229○"I said it's time, but it's not like we're on the radio, hah hah hah! You can read this whenever you want! Whenever you want! You want! (echo)"
+○0000001229○"I said it's time, but it's not like we're on the radio! You can read this whenever you want! Whenever you want! You want! (echo)"
 ●0000001229●
 
 ○0000001230○"Idols are all over the place lately, don't you think?"
 ●0000001230●
 
-○0000001231○"Huh? It's rumored that Murofushi of The Desmonds (16) is in a relationship with the idol Fukutani Yui? No way! I won't believe it! I can't believe it! I don't want to believe it!"
+○0000001231○"Huh? It's rumored that Murofushi (16) of MURASAKI Shikibu is in a relationship with the idol Fukaya Yui? No way! I won't believe it! I can't believe it! I don't want to believe it!"
 ●0000001231●
 
 ○0000001232○"And so I write this heartwrenching report after days of moistening my pillow with my tears! Anyway, that's it for recent news!"
@@ -3772,7 +3773,7 @@
 ○0000001261○"Remember that the people who wrote those are now around the same age as your mother, if not your grandmother."
 ●0000001261●
 
-○0000001262○That idol group, The Desmonds, has long been disbanded by now.
+○0000001262○That idol group, MURASAKI Shikibu, has long been disbanded by now.
 ●0000001262●
 
 ○0000001263○They used to be huge, apparently, but that was before we were even born.
@@ -4177,7 +4178,7 @@
 ○0000001396○瑚太朗＿体験版
 ●0000001396●
 
-○0000001397○"Prez, do you happen to have Internet here?"
+○0000001397○"Prez, do you happen to have internet here?"
 ●0000001397●
 
 ○0000001398○朱音＿体験版
@@ -4264,7 +4265,7 @@
 ○0000001425○朱音＿体験版
 ●0000001425●
 
-○0000001426○"You can connect to the Internet through a wireless connection. The ID and password should be in your email already."
+○0000001426○"You can connect to the internet through a wireless connection. The ID and password should be in your email already."
 ●0000001426●
 
 ○0000001427○瑚太朗＿体験版
@@ -4273,10 +4274,10 @@
 ○0000001428○"Thanks."
 ●0000001428●
 
-○0000001429○I immediately turn the thing on.
+○0000001429○I immediately turn the thing on...
 ●0000001429●
 
-○0000001430○..And access the school's website.
+○0000001430○..and access the school's website.
 ●0000001430●
 
 ○0000001431○There's our blog! Yay! Not like it has anything on it yet, though.
@@ -4306,7 +4307,7 @@
 ○0000001439○瑚太朗＿体験版
 ●0000001439●
 
-○0000001440○(Well, that's fine. I'm just glad to have Internet.)
+○0000001440○(Well, that's fine. I'm just glad to have internet.)
 ●0000001440●
 
 ○0000001441○朱音＿体験版
@@ -4345,7 +4346,7 @@
 ○0000001452○ > Use the best stuff for my part-time job
 ●0000001452●
 
-○0000001453○ > Prove the existence of the supernatural
+○0000001453○ > Prove the existence of the paranormal
 ●0000001453●
 
 ○0000001454○> Touch Akane's boobs
@@ -4372,7 +4373,7 @@
 ○0000001461○Yes, I've realized one important truth.
 ●0000001461●
 
-○0000001462○The occult and the Internet have fantastic chemistry.
+○0000001462○The occult and the internet have fantastic chemistry.
 ●0000001462●
 
 ○0000001463○I can use the blog both to express myself and to gather information.
@@ -4486,13 +4487,13 @@
 ○0000001499○瑚太朗＿体験版
 ●0000001499●
 
-○0000001500○"I hate to break it to you, but those kind of final boss lines don't really work when your punches only have healing properties."
+○0000001500○"I hate to break it to you, but those kinds of final boss lines don't really work when your punches only have healing properties."
 ●0000001500●
 
 ○0000001501○小鳥＿体験版
 ●0000001501●
 
-○0000001502○"That cannot be true!"
+○0000001502○"That can't be true!"
 ●0000001502●
 
 ○0000001503○瑚太朗＿体験版
@@ -4717,7 +4718,7 @@
 ○0000001576○瑚太朗＿体験版
 ●0000001576●
 
-○0000001577○"Wait, my heart isn't ready yet."
+○0000001577○"Wait, I'm not quite ready yet."
 ●0000001577●
 
 ○0000001578○I fidget even harder.
@@ -4885,13 +4886,13 @@
 ○0000001632○"Anyway, I'd like to ask something of you, my dear readers."
 ●0000001632●
 
-○0000001633○"Inform us of any supernatural phenomena you may have heard of or encountered in our town. Thank you!"
+○0000001633○"Inform us of any dubious events you may have heard of or encountered in our town. Thank you!"
 ●0000001633●
 
 ○0000001634○"We'll promptly dispatch our team of certified experts to investigate any good leads."
 ●0000001634●
 
-○0000001635○"I'm expecting good stuff from all of ya!! Got it?!"
+○0000001635○"I'm expecting good stuff from all of ya! Got it?!"
 ●0000001635●
 
 ○0000001636○"You can contact us through the form below!"
@@ -4942,7 +4943,7 @@
 ○0000001651○瑚太朗＿体験版
 ●0000001651●
 
-○0000001652○"Really! Yay! You think I'll win?"
+○0000001652○"Really?! Yay! You think I'll win?"
 ●0000001652●
 
 ○0000001653○小鳥＿体験版
@@ -4990,7 +4991,7 @@
 ○0000001667○小鳥＿体験版
 ●0000001667●
 
-○0000001668○"I'm sure your parents would throw down their work and start dancing in joy, if they only saw this article!"
+○0000001668○"I'm sure your parents would throw down their work and start dancing in joy if they only saw this article!"
 ●0000001668●
 
 ○0000001669○瑚太朗＿体験版
@@ -5011,7 +5012,7 @@
 ○0000001674○瑚太朗＿体験版
 ●0000001674●
 
-○0000001675○"Gotta practice my signature while I still have time."
+○0000001675○"Gotta practice my autograph while I still have time."
 ●0000001675●
 
 ○0000001676○小鳥＿体験版
@@ -5071,7 +5072,7 @@
 ○0000001694○瑚太朗＿体験版
 ●0000001694●
 
-○0000001695○"To confess, some of my fans even told me it was so good that they wouldn't be surprised if it had the power to bring life to the dead! Hah hah hah!"
+○0000001695○"To confess, some of my fans even told me it was so good that they wouldn't be surprised if it had the power to bring life to the dead!"
 ●0000001695●
 
 ○0000001696○朱音＿体験版
@@ -5101,7 +5102,7 @@
 ○0000001704○小鳥＿体験版
 ●0000001704●
 
-○0000001705○"Yeah, let's do it at a laidback frantic pace."
+○0000001705○"Yeah, let's do it at a laid-back frantic pace."
 ●0000001705●
 
 ○0000001706○瑚太朗＿体験版
@@ -5347,10 +5348,11 @@
 ○0000001786○小鳥＿体験版
 ●0000001786●
 
-○0000001787○"Phuu!!"
+○0000001787○"Phuu!"
 ●0000001787●
 
-○0000001788○ID: "Lost Soul/Secret Class, First Year" 
+○0000001788○ID: "Lost Soul/Secret Class, First Year"
+
 ●0000001788●
 
 ○0000001789○Title: "Exams" 
@@ -5389,10 +5391,10 @@
 ○0000001800○And not even trying to hide it.
 ●0000001800●
 
-○0000001801○That little squirt... How dare he undermine the illustrious (apparently) fifty-year history of the venerable Occult Research Society!
+○0000001801○That little shit... How dare he undermine the illustrious (apparently) fifty-year history of the venerable Occult Research Society!
 ●0000001801●
 
-○0000001802○That's a transgression worthy of the death penalty.
+○0000001802○That's a transgression worthy of a thousand deaths.
 ●0000001802●
 
 ○0000001803○瑚太朗＿体験版
@@ -5443,7 +5445,7 @@
 ○0000001818○朱音＿体験版
 ●0000001818●
 
-○0000001819○"...I believe you should be made aware that there is a 8000 yen penalty for causing trouble in the club room."
+○0000001819○"...I believe you should be made aware that there is an 8000-yen penalty for causing trouble in the club room."
 ●0000001819●
 
 ○0000001820○Akane lowers her head, long hair falling over her eyes.
@@ -5533,13 +5535,13 @@
 ○0000001848○朱音＿体験版
 ●0000001848●
 
-○0000001849○"However, only when you learn to gracefully deflect such comments will you prove yourself to be an advanced Internet user."
+○0000001849○"However, only when you learn to gracefully deflect such comments will you prove yourself to be an advanced internet user."
 ●0000001849●
 
 ○0000001850○瑚太朗＿体験版
 ●0000001850●
 
-○0000001851○"Since when are there different ranks of Internet user...?"
+○0000001851○"Since when are there different ranks of internet user...?"
 ●0000001851●
 
 ○0000001852○瑚太朗＿体験版
@@ -5569,7 +5571,7 @@
 ○0000001860○小鳥＿体験版
 ●0000001860●
 
-○0000001861○"Yo, Prime Minister!"
+○0000001861○"Yo, President!"
 ●0000001861●
 
 ○0000001862○小鳥＿体験版
@@ -5587,7 +5589,7 @@
 ○0000001866○瑚太朗＿体験版
 ●0000001866●
 
-○0000001867○"Well, I can't possibly refuse after hearing that! Hah hah hah!"
+○0000001867○"Well, I can't possibly refuse after hearing that!"
 ●0000001867●
 
 ○0000001868○瑚太朗＿体験版
@@ -5599,19 +5601,19 @@
 ○0000001870○小鳥＿体験版
 ●0000001870●
 
-○0000001871○"Just don't forget to act like an adult."
+○0000001871○"Just don't forget: you're an adult, act your age."
 ●0000001871●
 
 ○0000001872○瑚太朗＿体験版
 ●0000001872●
 
-○0000001873○"'Course I won't. I'm gonna go full adult on the guy, no worries."
+○0000001873○"'Course I won't forget. I've played enough Brain Age on DS to know my age, no worries."
 ●0000001873●
 
 ○0000001874○瑚太朗＿体験版
 ●0000001874●
 
-○0000001875○"Make sure to find me a stylus so I may celebrate my victory, Kotori."
+○0000001875○"Make sure to find me a stylus so I can celebrate my victory in style, Kotori."
 ●0000001875●
 
 ○0000001876○小鳥＿体験版
@@ -5629,7 +5631,8 @@
 ○0000001880○I hit the send button as soon as I finish writing the message.
 ●0000001880●
 
-○0000001881○ID: "Special Forces Commander" 
+○0000001881○ID: "Special Forces Commander"
+
 ●0000001881●
 
 ○0000001882○Title: "Re: Exams"
@@ -5638,25 +5641,25 @@
 ○0000001883○Thank you for your comment! 
 ●0000001883●
 
-○0000001884○Unfortunately, we are not that kind of club.
+○0000001884○Unfortunately, we're not that kind of club!
 ●0000001884●
 
-○0000001885○I would advise you to study if you wish to improve your grades. 
+○0000001885○I would advise you to study if you wish to improve your grades... 
 ●0000001885●
 
-○0000001886○But feel free to contact us if you get attacked by an evil spirit, and we will dispatch a team of professionals to assist you.
+○0000001886○But feel free to contact us if you get attacked by an evil spirit, we'll dispatch a team of professionals to assist you!
 ●0000001886●
 
 ○0000001887○小鳥＿体験版
 ●0000001887●
 
-○0000001888○"What an adult! I'd have fallen in love here and now if I was younger!"
+○0000001888○"What an adult! Oh, take me here and now!"
 ●0000001888●
 
 ○0000001889○瑚太朗＿体験版
 ●0000001889●
 
-○0000001890○"Well, you know, I've matured quite early. Hah hah hah."
+○0000001890○"Yeah, I suppose I do give off a mature impression."
 ●0000001890●
 
 ○0000001891○朱音＿体験版
@@ -5692,7 +5695,7 @@
 ○0000001901○"Lost Soul" is the name I've chosen for the default anonymous users on our board.
 ●0000001901●
 
-○0000001902○And if you don't specify your class, I set it up so it displays as "Secret".
+○0000001902○And if you don't specify your class, I set it up so it displays as "Secret."
 ●0000001902●
 
 ○0000001903○瑚太朗＿体験版
@@ -5701,7 +5704,8 @@
 ○0000001904○"That was fast. Is he constantly refreshing the page or something?"
 ●0000001904●
 
-○0000001905○ID: "Lost Soul/Secret Class, First Year" 
+○0000001905○ID: "Lost Soul/Secret Class, First Year"
+
 ●0000001905●
 
 ○0000001906○Title: "Re: Re: Exams"
@@ -5716,10 +5720,10 @@
 ○0000001909○I was asking for a charm to help me with the test, lol. 
 ●0000001909●
 
-○0000001910○If u can't do it, just admit it, ur delusional losers, lmao.
+○0000001910○if u cant do it just admit it, ur delusional losers, lmao.
 ●0000001910●
 
-○0000001911○-
+○0000001911○rofl. just fess up you little crybaby and admit u cant do shit. 
 ●0000001911●
 
 ○0000001912○can you even speak Japanese, you moron? lol.
@@ -5749,13 +5753,13 @@
 ○0000001920○瑚太朗＿体験版
 ●0000001920●
 
-○0000001921○"I understand, Kotori."
+○0000001921○"Like I said, Kotori, no worries."
 ●0000001921●
 
 ○0000001922○瑚太朗＿体験版
 ●0000001922●
 
-○0000001923○"This only means it's gotten a bit harder to solve this in a mature manner. That's all."
+○0000001923○"This just means my Brain Age training on DS wasn't enough. That's all."
 ●0000001923●
 
 ○0000001924○瑚太朗＿体験版
@@ -5773,7 +5777,8 @@
 ○0000001928○"I'll give him the most amicable reply ever. Just watch me."
 ●0000001928●
 
-○0000001929○ID: "Special Forces Commander" 
+○0000001929○ID: "Special Forces Commander"
+
 ●0000001929●
 
 ○0000001930○Title: "Re: Re: Re: Exams"
@@ -5794,7 +5799,7 @@
 ○0000001935○瑚太朗＿体験版
 ●0000001935●
 
-○0000001936○"I managed... to control myself... to suppress... my fury... even though... the rage is burning me from the inside... I want to... strangle the little squirt... with my bare hands... to bathe... in his blood..."
+○0000001936○"I managed... to control myself... to suppress... my fury... even though... the rage is burning me from the inside... I want to... strangle the little shit... with my bare hands... to bathe... in his blood..."
 ●0000001936●
 
 ○0000001937○小鳥＿体験版
@@ -5860,7 +5865,8 @@
 ○0000001957○"Again?"
 ●0000001957●
 
-○0000001958○ID: "Lost Soul/Secret Class, First Year" 
+○0000001958○ID: "Lost Soul/Secret Class, First Year"
+
 ●0000001958●
 
 ○0000001959○Title: "Re: Re: Re: Re: Exams"
@@ -5872,7 +5878,7 @@
 ○0000001961○are u, like, actually brain damaged or something? lmaaaaooo.
 ●0000001961●
 
-○0000001962○what's up with complaining about how I write? lol.
+○0000001962○what's up with complaining about how I write? lol. 
 ●0000001962●
 
 ○0000001963○I didn't mean anything by it. lmao.
@@ -5998,7 +6004,7 @@
 ○0000002003○瑚太朗＿体験版
 ●0000002003●
 
-○0000002004○"Mgaaaghh!!"
+○0000002004○"Mgaaaghh!"
 ●0000002004●
 
 ○0000002005○I actually managed to tear the phone book in half.
@@ -6055,7 +6061,7 @@
 ○0000002022○朱音＿体験版
 ●0000002022●
 
-○0000002023○"You may not have done anything wrong per se, but you certainly did something 'lame', as far as the Internet is concerned."
+○0000002023○"You may not have done anything wrong per se, but you certainly did something 'lame,' as far as the internet is concerned."
 ●0000002023●
 
 ○0000002024○瑚太朗＿体験版
@@ -6079,7 +6085,7 @@
 ○0000002030○瑚太朗＿体験版
 ●0000002030●
 
-○0000002031○"Yeah... I guess a first-year like him just hasn't learned how to express himself over the interwebs just yet. Hah hah hah."
+○0000002031○"Yeah... I guess a first-year like him just hasn't learned how to express himself over the interwebs just yet."
 ●0000002031●
 
 ○0000002032○朱音＿体験版
@@ -6091,7 +6097,8 @@
 ○0000002034○Only a few minutes have passed, but a new comment has already appeared on the board.
 ●0000002034●
 
-○0000002035○ID: "Lost Soul/Secret Class, First Year" 
+○0000002035○ID: "Lost Soul/Secret Class, First Year"
+
 ●0000002035●
 
 ○0000002036○Title: "r u scared, lol?"
@@ -6199,7 +6206,7 @@
 ○0000002070○瑚太朗＿体験版
 ●0000002070●
 
-○0000002071○"Anyway, we'll be off now, president."
+○0000002071○"Anyway, we'll be off now, President."
 ●0000002071●
 
 ○0000002072○小鳥＿体験版
@@ -6274,7 +6281,8 @@
 ○0000002095○"......"
 ●0000002095●
 
-○0000002096○ID: "Special Forces Commander" 
+○0000002096○ID: "Special Forces Commander"
+
 ●0000002096●
 
 ○0000002097○Title: "Re: r u scared, lol?"

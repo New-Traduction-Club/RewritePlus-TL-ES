@@ -4,7 +4,7 @@
 ○0000000001○"How about this one?"
 ●0000000001●
 
-○0000000002○"I've been plagued with inexplicable showers of refuse from the sky lately. There is no wind in the area ― it is just a long road surrounded by buildings on both sides. I have no idea where this refuse is coming from."
+○0000000002○"I've been plagued with inexplicable showers of refuse from the sky lately. There is no wind in the area―it's just a long road surrounded by buildings on both sides. I have no idea where this refuse is coming from."
 ●0000000002●
 
 ○0000000003○瑚太朗
@@ -91,7 +91,7 @@
 ○0000000030○"......"
 ●0000000030●
 
-○0000000031○Sizuru stands up.
+○0000000031○Shizuru stands up.
 ●0000000031●
 
 ○0000000032○静流
@@ -157,7 +157,7 @@
 ○0000000052○瑚太朗
 ●0000000052●
 
-○0000000053○"Indeed. The Occult Research Society cannot let this come to pass without a proper investigation."
+○0000000053○"Indeed. The Occult Research Society can't let this come to pass without a proper investigation."
 ●0000000053●
 
 ○0000000054○瑚太朗
@@ -178,7 +178,7 @@
 ○0000000059○"......"
 ●0000000059●
 
-○0000000060○The only one that followed me out of the room is Sizuru, still holding her sketchbook with scribbles of the sauryman.
+○0000000060○The only one that followed me out of the room is Shizuru, still holding her sketchbook with scribbles of the sauryman.
 ●0000000060●
 
 ○0000000061○瑚太朗
@@ -370,7 +370,7 @@
 ○0000000123○ちはや
 ●0000000123●
 
-○0000000124○"I can't do that!!"
+○0000000124○"I can't do that!"
 ●0000000124●
 
 ○0000000125○ルチア
@@ -391,7 +391,7 @@
 ○0000000130○ルチア
 ●0000000130●
 
-○0000000131○"That's not doable!!"
+○0000000131○"That's not doable!"
 ●0000000131●
 
 ○0000000132○ちはや
@@ -409,7 +409,7 @@
 ○0000000136○ちはや
 ●0000000136●
 
-○0000000137○"I'm human!!"
+○0000000137○"I'm human!"
 ●0000000137●
 
 ○0000000138○瑚太朗
@@ -430,7 +430,7 @@
 ○0000000143○"Hm? What is it?"
 ●0000000143●
 
-○0000000144○I follow Sizuru's gaze.
+○0000000144○I follow Shizuru's gaze.
 ●0000000144●
 
 ○0000000145○There's an old guy eating bread.
@@ -460,7 +460,7 @@
 ○0000000153○瑚太朗
 ●0000000153●
 
-○0000000154○"I FOUND YOU, VISITOR FROM THE STARS!!!!!!!"
+○0000000154○"I FOUND YOU, VISITOR FROM THE STARS!"
 ●0000000154●
 
 ○0000000155○オッサン
@@ -472,7 +472,7 @@
 ○0000000157○静流
 ●0000000157●
 
-○0000000158○"Kotarou! I am sorry to disappoint, but this person is just an average old man!!"
+○0000000158○"Kotarou! I am sorry to disappoint, but this person is just an average old man!"
 ●0000000158●
 
 ○0000000159○瑚太朗
@@ -490,13 +490,13 @@
 ○0000000163○瑚太朗
 ●0000000163●
 
-○0000000164○"YOUR LUCK HAS RUN OUT, BAD OLD MAN!!"
+○0000000164○"YOUR LUCK HAS RUN OUT, BAD OLD MAN!"
 ●0000000164●
 
 ○0000000165○静流
 ●0000000165●
 
-○0000000166○"Stop it, Kotarou! You can't hit him!!"
+○0000000166○"Stop it, Kotarou! You can't hit him!"
 ●0000000166●
 
 ○0000000167○ちはや
@@ -517,7 +517,7 @@
 ○0000000172○瑚太朗
 ●0000000172●
 
-○0000000173○"You just threw your garbage on the ground!! Are you the one responsible for this place?!"
+○0000000173○"You just threw your garbage on the ground! Are you the one responsible for this place?!"
 ●0000000173●
 
 ○0000000174○オッサン
@@ -571,7 +571,7 @@
 ○0000000190○オッサン
 ●0000000190●
 
-○0000000191○"A-As you command!!"
+○0000000191○"A-As you command!"
 ●0000000191●
 
 ○0000000192○...The old man picks up his trash and runs away.
@@ -586,7 +586,7 @@
 ○0000000195○瑚太朗
 ●0000000195●
 
-○0000000196○"Yoshino...!!"
+○0000000196○"Yoshino...!"
 ●0000000196●
 
 ○0000000197○吉野
@@ -598,13 +598,13 @@
 ○0000000199○瑚太朗
 ●0000000199●
 
-○0000000200○"How're you not embarrassed to be called the King of Wolves? OH MY GOOOOOD!!"
+○0000000200○"How're you not embarrassed to be called the King of Wolves? OH MY GOOOOOD!"
 ●0000000200●
 
 ○0000000201○吉野
 ●0000000201●
 
-○0000000202○"Shut up!! Why should I be?! I'm the King of Wolves! Got a problem with that?!"
+○0000000202○"Shut up! Why should I be?! I'm the King of Wolves! Got a problem with that?!"
 ●0000000202●
 
 ○0000000203○瑚太朗
@@ -679,13 +679,13 @@
 ○0000000226○静流
 ●0000000226●
 
-○0000000227○"If you write it in kanji, it would become Mr. Gloomy."
+○0000000227○"Something being dark means that it's gloomy."
 ●0000000227●
 
 ○0000000228○瑚太朗
 ●0000000228●
 
-○0000000229○"Yep, you're Super Gloomy, Yoshino!"
+○0000000229○"Yep, you're definitely Super Gloomy, Yoshino!"
 ●0000000229●
 
 ○0000000230○吉野
@@ -709,19 +709,19 @@
 ○0000000236○吉野
 ●0000000236●
 
-○0000000237○"The existence of pure evil that shuns all those around him. I'm the apex of villains."
+○0000000237○"I am as the purest of evils, the apex of villainy shunning all around him!"
 ●0000000237●
 
 ○0000000238○静流
 ●0000000238●
 
-○0000000239○"If you write it in kanji, it would be 'The Worst'."
+○0000000239○"Something being the most evil means that it's the worst."
 ●0000000239●
 
 ○0000000240○瑚太朗
 ●0000000240●
 
-○0000000241○"Yep, you're definitely The Worst, Yoshino!"
+○0000000241○"Yep, you're definitely The Super Worst, Yoshino!"
 ●0000000241●
 
 ○0000000242○吉野
@@ -784,13 +784,13 @@
 ○0000000261○瑚太朗
 ●0000000261●
 
-○0000000262○"Yep! You're really a bath towel, Yoshino!"
+○0000000262○"Yep! You're definitely the Super Bath Towel, Yoshino!"
 ●0000000262●
 
 ○0000000263○吉野
 ●0000000263●
 
-○0000000264○"I'll send you flying to the other world!!"
+○0000000264○"I'll send you flying to the other world!"
 ●0000000264●
 
 ○0000000265○瑚太朗
@@ -808,7 +808,7 @@
 ○0000000269○吉野
 ●0000000269●
 
-○0000000270○"You bastards are screwing with me all the time!"
+○0000000270○"You bastards are always messing with me!"
 ●0000000270●
 
 ○0000000271○吉野
@@ -1051,7 +1051,7 @@
 ○0000000350○吉野
 ●0000000350●
 
-○0000000351○"I'LL KILL YOU!!"
+○0000000351○"I'LL KILL YOU!"
 ●0000000351●
 
 ○0000000352○瑚太朗
@@ -1192,7 +1192,7 @@
 ○0000000397○ちはや
 ●0000000397●
 
-○0000000398○"Huh?"
+○0000000398○"Huuuh?"
 ●0000000398●
 
 ○0000000399○瑚太朗
@@ -1288,7 +1288,7 @@
 ○0000000429○吉野
 ●0000000429●
 
-○0000000430○"Uooooooghhh!!"
+○0000000430○"Uooooooghhh!"
 ●0000000430●
 
 ○0000000431○瑚太朗
@@ -1306,10 +1306,10 @@
 ○0000000435○吉野
 ●0000000435●
 
-○0000000436○"Shut up! ...I don't... need help...!!"
+○0000000436○"Shut up! ...I don't... need help...!"
 ●0000000436●
 
-○0000000437○Yoshino staggers towards the junkyard truck.
+○0000000437○Yoshino staggers toward the junkyard truck.
 ●0000000437●
 
 ○0000000438○*SQUISH*
@@ -1390,7 +1390,7 @@
 ○0000000463○ちはや
 ●0000000463●
 
-○0000000464○"Who are you calling a monster?! I'm human!!"
+○0000000464○"Who are you calling a monster?! I'm human!"
 ●0000000464●
 
 ○0000000465○咲夜
@@ -1483,13 +1483,13 @@
 ○0000000494○ゲンさん
 ●0000000494●
 
-○0000000495○"Don't sweat it! 
+○0000000495○"Don't sweat it!"
 ●0000000495●
 
 ○0000000496○静流
 ●0000000496●
 
-○0000000497○"Mh... You're old fashioned, as usual."
+○0000000497○"Mh... You're old-fashioned, as usual."
 ●0000000497●
 
 ○0000000498○ゲンさん
@@ -1555,13 +1555,13 @@
 ○0000000518○"Is this the one bothering you...?"
 ●0000000518●
 
-○0000000519○Sizuru suddenly reaches her hand out and catches something black.
+○0000000519○Shizuru suddenly reaches her hand out and catches something black.
 ●0000000519●
 
 ○0000000520○瑚太朗
 ●0000000520●
 
-○0000000521○"Gyaaaaa...!!"
+○0000000521○"Gyaaaaa...!"
 ●0000000521●
 
 ○0000000522○It's a life form known as a cockroach.
@@ -1723,13 +1723,13 @@
 ○0000000574○ちはや
 ●0000000574●
 
-○0000000575○"Gyaaaaa...!!"
+○0000000575○"Gyaaaaa...!"
 ●0000000575●
 
 ○0000000576○瑚太朗
 ●0000000576●
 
-○0000000577○"The truth came out!!"
+○0000000577○"The truth came out!"
 ●0000000577●
 
 ○0000000578○ちはや
@@ -1747,7 +1747,7 @@
 ○0000000582○ちはや
 ●0000000582●
 
-○0000000583○"Aaaaaaah, but it still feels awful!!"
+○0000000583○"Aaaaaaah, but it still feels awful!"
 ●0000000583●
 
 ○0000000584○静流
@@ -1756,7 +1756,7 @@
 ○0000000585○"......"
 ●0000000585●
 
-○0000000586○"Be strong"... says Sizuru's back as she slowly walks off.
+○0000000586○"Be strong," says Shizuru's back as she slowly walks off.
 ●0000000586●
 
 ○0000000587○The area is mostly clean by the evening.
@@ -1819,7 +1819,7 @@
 ○0000000606○咲夜
 ●0000000606●
 
-○0000000607○"As such, Ms. Akane, Ms. Kotori, Ms. Sizuru, and Ms. Lucia. I hope to see you all another day."
+○0000000607○"As such, Ms. Akane, Ms. Kotori, Ms. Shizuru, and Ms. Lucia. I hope to see you all another day."
 ●0000000607●
 
 ○0000000608○小鳥
@@ -1930,7 +1930,7 @@
 ○0000000643○ゲンさん
 ●0000000643●
 
-○0000000644○"Nah, no need fer thanks ― protectin' the peace and order of this town is our job."
+○0000000644○"Nah, no need fer thanks―protectin' the peace and order of this town is our job."
 ●0000000644●
 
 ○0000000645○ルチア
@@ -1960,13 +1960,13 @@
 ○0000000653○ゲンさん
 ●0000000653●
 
-○0000000654○"A'ight! I reckon it's time to hit the bar, fellas!!"
+○0000000654○"A'ight! I reckon it's time to hit the bar, fellas!"
 ●0000000654●
 
 ○0000000655○男たち
 ●0000000655●
 
-○0000000656○"Aye!!"
+○0000000656○"Aye!"
 ●0000000656●
 
 ○0000000657○The rowdy men leave with a cheer.
@@ -2044,7 +2044,7 @@
 ○0000000681○ちはや
 ●0000000681●
 
-○0000000682○"Wh-What's that supposed to mean?! Wasn't that our objective?! You said it was!!"
+○0000000682○"Wh-What's that supposed to mean?! Wasn't that our objective?! You said it was!"
 ●0000000682●
 
 ○0000000683○吉野
@@ -2080,7 +2080,7 @@
 ○0000000693○吉野
 ●0000000693●
 
-○0000000694○"Shut up! Tennouji! You tricked me!!"
+○0000000694○"Shut up! Tennouji! You tricked me!"
 ●0000000694●
 
 ○0000000695○瑚太朗
@@ -2272,7 +2272,7 @@
 ○0000000757○"......"
 ●0000000757●
 
-○0000000758○Sizuru nods.
+○0000000758○Shizuru nods.
 ●0000000758●
 
 ○0000000759○ルチア
@@ -2320,7 +2320,7 @@
 ○0000000773○ルチア
 ●0000000773●
 
-○0000000774○"Let's go, Sizuru."
+○0000000774○"Let's go, Shizuru."
 ●0000000774●
 
 ○0000000775○静流

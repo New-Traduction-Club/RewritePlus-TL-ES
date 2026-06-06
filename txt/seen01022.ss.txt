@@ -43,7 +43,7 @@
 ○0000000016○瑚太朗
 ●0000000016●
 
-○0000000017○"YOSHINOOOOOOOOOOO!!!!!!"
+○0000000017○"YOSHINOOOOOOOOOOO!"
 ●0000000017●
 
 ○0000000018○吉野
@@ -283,7 +283,7 @@
 ○0000000096○ルチア
 ●0000000096●
 
-○0000000097○"H-HEY!! You almost hit me in the face! Be careful over there!"
+○0000000097○"H-HEY! You almost hit me in the face! Be careful over there!"
 ●0000000097●
 
 ○0000000098○生徒Ａ
@@ -463,7 +463,7 @@
 ○0000000156○"Tch, what a bunch of losers. I'll show you how a real man kicks a ball. Follow me."
 ●0000000156●
 
-○0000000157○Yoshino snatches the ball out of their hands, throws it to the ground, and begins dribbling towards their playing field at a surprisingly fast pace.
+○0000000157○Yoshino snatches the ball out of their hands, throws it to the ground, and begins dribbling toward their playing field at a surprisingly fast pace.
 ●0000000157●
 
 ○0000000158○The guys give Class Rep one last indignant look before chasing after him.
@@ -601,7 +601,7 @@
 ○0000000202○瑚太朗
 ●0000000202●
 
-○0000000203○"Preeeet! Chihaya gets a red card! Kotori, could you get her out of here so she can cool her head?"
+○0000000203○"Fweeeet! Chihaya gets a red card! Kotori, could you get her out of here so she can cool her head?"
 ●0000000203●
 
 ○0000000204○小鳥
@@ -820,7 +820,7 @@
 ○0000000275○ちはや
 ●0000000275●
 
-○0000000276○"But then...! How can you say these flowers are dirty?! These flowers!!"
+○0000000276○"But then...! How can you say these flowers are dirty?! These flowers!"
 ●0000000276●
 
 ○0000000277○Aw geez, she's totally lost it.
@@ -1039,7 +1039,7 @@
 ○0000000348○瑚太朗
 ●0000000348●
 
-○0000000349○"Are we not doing anything today then..."
+○0000000349○"Are we not doing anything today, then...?"
 ●0000000349●
 
 ○0000000350○In that case, I'll have nothing to do.
@@ -1123,7 +1123,7 @@
 ○0000000376○ルチア
 ●0000000376●
 
-○0000000377○"Both Sizuru and I joined the club recently, so we don't know much about what kind of person the president really is."
+○0000000377○"Both Shizuru and I joined the club recently, so we don't know much about what kind of person the president really is."
 ●0000000377●
 
 ○0000000378○瑚太朗
@@ -1231,1837 +1231,1837 @@
 ○0000000412○瑚太朗
 ●0000000412●
 
-○0000000413○"The more I think about it, the more mysterious it seems."
+○0000000413○"For all I know, she's an avatar of Sai Baba."
 ●0000000413●
 
-○0000000414○Everyone in the room falls into thoughtful silence.
+○0000000414○小鳥
 ●0000000414●
 
-○0000000415○Well, except for the one who's eating cake, but nobody's paying attention to her.
+○0000000415○"Prez, the avatar of Sai Baba!"
 ●0000000415●
 
-○0000000416○朱音
+○0000000416○I can definitely imagine her clenched fists spilling out ashes.
 ●0000000416●
 
-○0000000417○"...What are you all racking your brains over?"
+○0000000417○瑚太朗
 ●0000000417●
 
-○0000000418○Akane returns.
+○0000000418○"The more I think about it, the more mysterious it seems."
 ●0000000418●
 
-○0000000419○小鳥
+○0000000419○Everyone in the room falls into thoughtful silence.
 ●0000000419●
 
-○0000000420○"Um, we're wondering what your house looks like."
+○0000000420○Well, except for the one who's eating cake, but nobody's paying attention to her.
 ●0000000420●
 
 ○0000000421○朱音
 ●0000000421●
 
-○0000000422○"My home?"
+○0000000422○"...What are you all racking your brains over?"
 ●0000000422●
 
-○0000000423○朱音
+○0000000423○Akane returns.
 ●0000000423●
 
-○0000000424○"What do you mean? You're inside of it."
+○0000000424○小鳥
 ●0000000424●
 
-○0000000425○She just seriously called a classroom in school her home.
+○0000000425○"Um, we're wondering what your house looks like."
 ●0000000425●
 
-○0000000426○瑚太朗
+○0000000426○朱音
 ●0000000426●
 
-○0000000427○"No, uh, we're talking about your real home. Where your parents live."
+○0000000427○"My home?"
 ●0000000427●
 
 ○0000000428○朱音
 ●0000000428●
 
-○0000000429○"My real home..."
+○0000000429○"What do you mean? You're inside of it."
 ●0000000429●
 
-○0000000430○朱音
+○0000000430○She just seriously called a classroom in school her home.
 ●0000000430●
 
-○0000000431○"...Indeed. I suppose I could go back for a change of pace."
+○0000000431○瑚太朗
 ●0000000431●
 
-○0000000432○瑚太朗
+○0000000432○"No, uh, we're talking about your real home. Where your parents live."
 ●0000000432●
 
-○0000000433○"Seriously?"
+○0000000433○朱音
 ●0000000433●
 
-○0000000434○朱音
+○0000000434○"My real home..."
 ●0000000434●
 
-○0000000435○"Once it gets slightly darker, anyway."
+○0000000435○朱音
 ●0000000435●
 
-○0000000436○瑚太朗
+○0000000436○"...Indeed. I suppose I could go back for a change of pace."
 ●0000000436●
 
-○0000000437○"...It's autumn already."
+○0000000437○瑚太朗
 ●0000000437●
 
-○0000000438○Just how weak to sunlight is she?
+○0000000438○"Seriously?"
 ●0000000438●
 
-○0000000440○朱音
+○0000000439○朱音
+●0000000439●
+
+○0000000440○"Once it gets slightly darker, anyway."
 ●0000000440●
 
-○0000000441○"Okay, I'll be locking up."
+○0000000441○瑚太朗
 ●0000000441●
 
-○0000000442○小鳥
+○0000000442○"...It's autumn already."
 ●0000000442●
 
-○0000000443○"Roger."
+○0000000443○Just how weak to sunlight is she?
 ●0000000443●
 
-○0000000444○瑚太朗
-●0000000444●
-
-○0000000445○"Thanks for coming, everyone."
+○0000000445○朱音
 ●0000000445●
 
-○0000000446○ちはや
+○0000000446○"Okay, I'll be locking up."
 ●0000000446●
 
-○0000000447○"Let's go home!"
+○0000000447○小鳥
 ●0000000447●
 
-○0000000449○朱音
+○0000000448○"Roger."
+●0000000448●
+
+○0000000449○瑚太朗
 ●0000000449●
 
-○0000000450○"I'm going this way."
+○0000000450○"Thanks for coming, everyone."
 ●0000000450●
 
-○0000000451○Akane is the first to separate from the group.
+○0000000451○ちはや
 ●0000000451●
 
-○0000000452○瑚太朗
+○0000000452○"Let's go home!"
 ●0000000452●
-
-○0000000453○"I see. So that's it for today, I guess."
-●0000000453●
 
 ○0000000454○朱音
 ●0000000454●
 
-○0000000455○"Yes."
+○0000000455○"I'm going this way."
 ●0000000455●
 
-○0000000456○静流
+○0000000456○Akane is the first to separate from the group.
 ●0000000456●
 
-○0000000457○"Goodbye."
+○0000000457○瑚太朗
 ●0000000457●
 
-○0000000458○小鳥
+○0000000458○"I see. So that's it for today, I guess."
 ●0000000458●
 
-○0000000459○"See you tomorrow."
+○0000000459○朱音
 ●0000000459●
 
-○0000000460○We begin walking away in the most natural way possible.
+○0000000460○"Yes."
 ●0000000460●
 
-○0000000461○......
+○0000000461○静流
 ●0000000461●
 
-○0000000462○But as soon as we turn the corner, we glue ourselves to the wall and observe Akane's behavior.
+○0000000462○"Goodbye."
 ●0000000462●
 
 ○0000000463○小鳥
 ●0000000463●
 
-○0000000464○"I'm not sure if we need to go this far..."
+○0000000464○"See you tomorrow."
 ●0000000464●
 
-○0000000465○瑚太朗
+○0000000465○We begin walking away in the most natural way possible.
 ●0000000465●
 
-○0000000466○"We're talking about Prez here. If she catches on, she'll use everything at her disposal to shake us off."
+○0000000466○......
 ●0000000466●
 
-○0000000467○She might use Invisibility (smokescreen), or summon a bunch of shadow warriors to dispose of us (secret service), or cast Petrify (reveal embarrassing details about our past).
+○0000000467○But as soon as we turn the corner, we glue ourselves to the wall and observe Akane's behavior.
 ●0000000467●
 
-○0000000468○ちはや
+○0000000468○小鳥
 ●0000000468●
 
-○0000000469○"That's true. I doubt she'd guide us to her home if we simply asked."
+○0000000469○"I'm not sure if we need to go this far..."
 ●0000000469●
 
-○0000000470○静流
+○0000000470○瑚太朗
 ●0000000470●
 
-○0000000471○"......"
+○0000000471○"We're talking about Prez here. If she catches on, she'll use everything at her disposal to shake us off."
 ●0000000471●
 
-○0000000472○瑚太朗
+○0000000472○She might use Invisibility (smokescreen), or summon a bunch of shadow warriors to dispose of us (secret service), or cast Petrify (reveal embarrassing details about our past).
 ●0000000472●
 
-○0000000473○"You seem to be quite into this as well, Sizuru."
+○0000000473○ちはや
 ●0000000473●
 
-○0000000474○静流
+○0000000474○"That's true. I doubt she'd guide us to her home if we simply asked."
 ●0000000474●
 
-○0000000475○"Yup."
+○0000000475○静流
 ●0000000475●
 
-○0000000476○ルチア
+○0000000476○"......"
 ●0000000476●
 
-○0000000477○"Hmph. This is stupid. I'm going home."
+○0000000477○瑚太朗
 ●0000000477●
 
-○0000000478○静流
+○0000000478○"You seem to be quite into this as well, Shizuru."
 ●0000000478●
 
-○0000000479○"Are you sure?"
+○0000000479○静流
 ●0000000479●
 
-○0000000480○ルチア
+○0000000480○"Yup."
 ●0000000480●
 
-○0000000481○"......"
+○0000000481○ルチア
 ●0000000481●
 
-○0000000482○静流
+○0000000482○"Hmph. This is stupid. I'm going home."
 ●0000000482●
 
-○0000000483○"......"
+○0000000483○静流
 ●0000000483●
 
-○0000000484○ルチア
+○0000000484○"Are you sure?"
 ●0000000484●
 
-○0000000485○"......"
+○0000000485○ルチア
 ●0000000485●
 
-○0000000487○ルチア
+○0000000486○"......"
+●0000000486●
+
+○0000000487○静流
 ●0000000487●
 
-○0000000488○"Wh-Why do I have to be a part of this contemptible act?!"
+○0000000488○"......"
 ●0000000488●
 
-○0000000489○Class Rep can't refuse Sizuru in the end.
+○0000000489○ルチア
 ●0000000489●
 
-○0000000490○瑚太朗
+○0000000490○"......"
 ●0000000490●
 
-○0000000491○"Okay... We've gotta be careful and follow her without getting noticed."
-●0000000491●
-
-○0000000492○静流
+○0000000492○ルチア
 ●0000000492●
 
-○0000000493○"Copy."
+○0000000493○"Wh-Why do I have to be a part of this contemptible act?!"
 ●0000000493●
 
-○0000000494○瑚太朗
+○0000000494○Class Rep can't refuse Shizuru in the end.
 ●0000000494●
 
-○0000000495○"I'm putting all my hopes on you, Sizuru."
+○0000000495○瑚太朗
 ●0000000495●
 
-○0000000496○静流
+○0000000496○"Okay... We've gotta be careful and follow her without getting noticed."
 ●0000000496●
 
-○0000000497○"......"
+○0000000497○静流
 ●0000000497●
 
-○0000000498○"Roger"... Sizuru gestures.
+○0000000498○"Copy."
 ●0000000498●
 
-○0000000499○小鳥
+○0000000499○瑚太朗
 ●0000000499●
 
-○0000000500○Akane turns a corner.
+○0000000500○"I'm putting all my hopes on you, Shizuru."
 ●0000000500●
 
-○0000000501○瑚太朗
+○0000000501○静流
 ●0000000501●
 
-○0000000502○"Silently dash to that corner now!"
+○0000000502○"......"
 ●0000000502●
 
-○0000000503○ちはや
+○0000000503○"Roger"...Shizuru gestures.
 ●0000000503●
 
-○0000000504○"Wah!"
+○0000000504○小鳥
 ●0000000504●
 
-○0000000505○I accidentally stumble on Chihaya's leg as I turn.
+○0000000505○"She's turning."
 ●0000000505●
 
-○0000000506○She falls face-first onto the ground.
+○0000000506○瑚太朗
 ●0000000506●
 
-○0000000507○瑚太朗
+○0000000507○"Silently dash to that corner now!"
 ●0000000507●
 
-○0000000508○"Ah, crap... Sorry."
+○0000000508○ちはや
 ●0000000508●
 
-○0000000509○ちはや
+○0000000509○"Wah!"
 ●0000000509●
 
-○0000000510○"Aww..."
+○0000000510○I accidentally stumble on Chihaya's leg as I turn.
 ●0000000510●
 
-○0000000511○瑚太朗
+○0000000511○She falls face-first onto the ground.
 ●0000000511●
 
-○0000000512○"Shut up! You want her to spot us?!"
+○0000000512○瑚太朗
 ●0000000512●
 
-○0000000513○ちはや
+○0000000513○"Ah, crap... Sorry."
 ●0000000513●
 
-○0000000514○"You made me trip!!"
+○0000000514○ちはや
 ●0000000514●
 
-○0000000515○瑚太朗
+○0000000515○"Oww..."
 ●0000000515●
 
-○0000000516○"And I apologized."
+○0000000516○瑚太朗
 ●0000000516●
 
-○0000000517○ちはや
+○0000000517○"Shut up! You want her to spot us?!"
 ●0000000517●
 
-○0000000518○"It didn't sound genuine at all!"
+○0000000518○ちはや
 ●0000000518●
 
-○0000000519○小鳥
+○0000000519○"You made me trip!"
 ●0000000519●
 
-○0000000520○"...She's gonna notice us!"
+○0000000520○瑚太朗
 ●0000000520●
 
-○0000000522○小鳥
+○0000000521○"And I apologized."
+●0000000521●
+
+○0000000522○ちはや
 ●0000000522●
 
-○0000000523○"Hmm, there's more people around here."
+○0000000523○"It didn't sound genuine at all!"
 ●0000000523●
 
-○0000000524○瑚太朗
+○0000000524○小鳥
 ●0000000524●
 
-○0000000525○"Oh no! It's the post-5 p.m. businessman rush!"
+○0000000525○"...She's gonna notice us!"
 ●0000000525●
 
-○0000000526○瑚太朗
-●0000000526●
-
-○0000000527○"By the way, 'Post 5 p.m. Rush' sounds like a special attack or something. How awesome is that?"
+○0000000527○小鳥
 ●0000000527●
 
-○0000000528○静流
+○0000000528○"Hmm, there's more people around here."
 ●0000000528●
 
-○0000000529○"......"
+○0000000529○瑚太朗
 ●0000000529●
 
-○0000000530○Sizuru agrees with a big nod.
+○0000000530○"Oh no! It's the post-5 p.m. businessman rush!"
 ●0000000530●
 
-○0000000531○ちはや
+○0000000531○瑚太朗
 ●0000000531●
 
-○0000000532○"More importantly, we're going to lose her if we don't do something."
+○0000000532○"By the way, 'Post-5 p.m. Rush' sounds like a special attack or something. How awesome is that?"
 ●0000000532●
 
-○0000000533○瑚太朗
+○0000000533○静流
 ●0000000533●
 
-○0000000534○"We have no choice. We'll have to use Chihaya's beam to open the path."
+○0000000534○"......"
 ●0000000534●
 
-○0000000535○ちはや
+○0000000535○Shizuru agrees with a big nod.
 ●0000000535●
 
-○0000000536○"I can't do that!"
+○0000000536○ちはや
 ●0000000536●
 
-○0000000537○ルチア
+○0000000537○"More importantly, we're going to lose her if we don't do something."
 ●0000000537●
 
-○0000000538○"But wouldn't we just attract attention if we used Chihaya's beam here?"
+○0000000538○瑚太朗
 ●0000000538●
 
-○0000000539○ちはや
+○0000000539○"We have no choice. We'll have to use Chihaya's beam to open the path."
 ●0000000539●
 
-○0000000540○"Why are you talking as though I can do something like that?"
+○0000000540○ちはや
 ●0000000540●
 
-○0000000541○静流
+○0000000541○"I can't do that!"
 ●0000000541●
 
-○0000000542○"This way!"
+○0000000542○ルチア
 ●0000000542●
 
-○0000000543○Sizuru gracefully whisks through the crowd.
+○0000000543○"But wouldn't we just attract attention if we used Chihaya's beam here?"
 ●0000000543●
 
-○0000000544○小鳥
+○0000000544○ちはや
 ●0000000544●
 
-○0000000545○"Sh-She's fast!"
+○0000000545○"Why are you talking as though I can do something like that?"
 ●0000000545●
 
-○0000000546○瑚太朗
+○0000000546○静流
 ●0000000546●
 
-○0000000547○"Follow her!"
+○0000000547○"This way!"
 ●0000000547●
 
-○0000000548○We continue the pursuit for about ten minutes.
+○0000000548○Shizuru gracefully whisks through the crowd.
 ●0000000548●
 
-○0000000549○瑚太朗
+○0000000549○小鳥
 ●0000000549●
 
-○0000000550○"Just how far is it?"
+○0000000550○"Sh-She's fast!"
 ●0000000550●
 
-○0000000551○ちはや
+○0000000551○瑚太朗
 ●0000000551●
 
-○0000000552○"I'm pretty sure her house should be inside the city."
+○0000000552○"Follow her!"
 ●0000000552●
 
-○0000000553○静流
+○0000000553○We continue the pursuit for about ten minutes.
 ●0000000553●
 
-○0000000554○"......"
+○0000000554○瑚太朗
 ●0000000554●
 
-○0000000555○瑚太朗
+○0000000555○"Just how far is it?"
 ●0000000555●
 
-○0000000556○"Where'd she go, Sizuru?"
+○0000000556○ちはや
 ●0000000556●
 
-○0000000557○Sizuru points to the right.
+○0000000557○"I'm pretty sure her house should be inside the city."
 ●0000000557●
 
-○0000000558○It doesn't seem like we'll have to worry about losing her with Sizuru's super sight.
+○0000000558○静流
 ●0000000558●
 
-○0000000559○小鳥
+○0000000559○"......"
 ●0000000559●
 
-○0000000560○"I just hope nothing unexpected happens."
+○0000000560○瑚太朗
 ●0000000560●
 
-○0000000561○瑚太朗
+○0000000561○"Where'd she go, Shizuru?"
 ●0000000561●
 
-○0000000562○"What do you..."
+○0000000562○Shizuru points to the right.
 ●0000000562●
 
-○0000000563○瑚太朗
+○0000000563○It doesn't seem like we'll have to worry about losing her with Shizuru's super sight.
 ●0000000563●
 
-○0000000564○"...?!"
+○0000000564○小鳥
 ●0000000564●
 
-○0000000565○A black cat crosses the road in front of us.
+○0000000565○"I just hope nothing unexpected happens."
 ●0000000565●
 
 ○0000000566○瑚太朗
 ●0000000566●
 
-○0000000567○"N-No...!!"
+○0000000567○"What do you..."
 ●0000000567●
 
 ○0000000568○瑚太朗
 ●0000000568●
 
-○0000000569○"Oh my god! It's a whole family of black cats crossing the road!"
+○0000000569○"...?!"
 ●0000000569●
 
-○0000000570○小鳥
+○0000000570○A black cat crosses the road in front of us.
 ●0000000570●
 
-○0000000571○"Talk about bad omens."
+○0000000571○瑚太朗
 ●0000000571●
 
-○0000000572○ちはや
+○0000000572○"N-No...!"
 ●0000000572●
 
-○0000000573○"Huh?!"
+○0000000573○瑚太朗
 ●0000000573●
 
-○0000000574○ちはや
+○0000000574○"Oh my god! It's a whole family of black cats crossing the road!"
 ●0000000574●
 
-○0000000575○"A flock of crows is circling around us..."
+○0000000575○小鳥
 ●0000000575●
 
-○0000000576○ルチア
+○0000000576○"Talk about bad omens."
 ●0000000576●
 
-○0000000577○"Look at that intersection..."
+○0000000577○ちはや
 ●0000000577●
 
-○0000000578○瑚太朗
+○0000000578○"Huh?!"
 ●0000000578●
 
-○0000000579○"What?! The leading cars on all four roads are hearses?!"
+○0000000579○ちはや
 ●0000000579●
 
-○0000000580○瑚太朗
+○0000000580○"A flock of crows is circling around us..."
 ●0000000580●
 
-○0000000581○"G-Geez. I need to look at something green to calm myself."
+○0000000581○ルチア
 ●0000000581●
 
-○0000000582○瑚太朗
+○0000000582○"Look at that intersection..."
 ●0000000582●
 
-○0000000583○"Hm? What a beautiful flower, but..."
+○0000000583○瑚太朗
 ●0000000583●
 
-○0000000584○小鳥
+○0000000584○"What?! The leading cars on all four roads are hearses?!"
 ●0000000584●
 
-○0000000585○"Wah! That's a bamboo flower!"
+○0000000585○瑚太朗
 ●0000000585●
 
-○0000000586○瑚太朗
+○0000000586○"G-Geez. I need to look at something green to calm myself."
 ●0000000586●
 
-○0000000587○"Is that a bad omen, too?!"
+○0000000587○瑚太朗
 ●0000000587●
 
-○0000000588○瑚太朗
+○0000000588○"Hm? What a beautiful flower, but..."
 ●0000000588●
 
-○0000000589○"Wh-What is going on here...
+○0000000589○小鳥
 ●0000000589●
 
-○0000000590○ Wah?!"
+○0000000590○"Wah! That's a bamboo flower!"
 ●0000000590●
 
 ○0000000591○瑚太朗
 ●0000000591●
 
-○0000000592○"My shoelaces snapped in four separate places?!"
+○0000000592○"Is that a bad omen, too?!"
 ●0000000592●
 
-○0000000593○小鳥
+○0000000593○瑚太朗
 ●0000000593●
 
-○0000000594○"I've heard that one of your comrades will be defeated for each."
+○0000000594○"Wh-What is going on here...
 ●0000000594●
 
-○0000000595○ちはや
+○0000000595○ Wah?!"
 ●0000000595●
 
-○0000000596○"In that case, one of us should survive in the end."
+○0000000596○瑚太朗
 ●0000000596●
 
-○0000000597○瑚太朗
+○0000000597○"My shoelaces snapped in four separate places?!"
 ●0000000597●
 
-○0000000598○"About that... The elastic in my sock snapped, too."
+○0000000598○小鳥
 ●0000000598●
 
-○0000000599○ちはや
+○0000000599○"I've heard that one of your comrades will be defeated for each."
 ●0000000599●
 
-○0000000600○"Oh..."
+○0000000600○ちはや
 ●0000000600●
 
-○0000000601○The sock is so loose that it feels like it might slip off with every step.
+○0000000601○"In that case, one of us should survive in the end."
 ●0000000601●
 
-○0000000602○静流
+○0000000602○瑚太朗
 ●0000000602●
 
-○0000000603○"...!"
+○0000000603○"About that... The elastic in my sock snapped, too."
 ●0000000603●
 
-○0000000604○静流
+○0000000604○ちはや
 ●0000000604●
 
-○0000000605○"That's...?!"
+○0000000605○"Oh..."
 ●0000000605●
 
-○0000000606○男
+○0000000606○The sock is so loose that it feels like it might slip off with every step.
 ●0000000606●
 
-○0000000607○"Aiiyooo!!"
+○0000000607○静流
 ●0000000607●
 
-○0000000608○A man dressed like a track-and-field athlete jumps over us using a long pole.
+○0000000608○"...!"
 ●0000000608●
 
-○0000000609○小鳥
+○0000000609○静流
 ●0000000609●
 
-○0000000610○"That's the 'Aiiyoo Man' from the urban legend! He was real all along!"
+○0000000610○"That's...?!"
 ●0000000610●
 
-○0000000611○瑚太朗
+○0000000611○男
 ●0000000611●
 
-○0000000612○"Huh? I've never even heard of that one."
+○0000000612○"Aiiyooo!"
 ●0000000612●
 
-○0000000613○瑚太朗
+○0000000613○A man dressed like a track-and-field athlete jumps over us using a long pole.
 ●0000000613●
 
-○0000000614○"Hm?"
+○0000000614○小鳥
 ●0000000614●
 
-○0000000615○I realize Sizuru is trembling.
+○0000000615○"That's the 'Aiiyoo Man' from the urban legend! He was real all along!"
 ●0000000615●
 
-○0000000616○ルチア
+○0000000616○瑚太朗
 ●0000000616●
 
-○0000000617○"What's wrong, Sizuru?"
+○0000000617○"Huh? I've never even heard of that one."
 ●0000000617●
 
-○0000000618○静流
+○0000000618○瑚太朗
 ●0000000618●
 
-○0000000619○"I-If someone jumps over you..."
+○0000000619○"Hm?"
 ●0000000619●
 
-○0000000620○静流
+○0000000620○I realize Shizuru is trembling.
 ●0000000620●
 
-○0000000621○"And you don't jump over them back..."
+○0000000621○ルチア
 ●0000000621●
 
-○0000000622○静流
+○0000000622○"What's wrong, Shizuru?"
 ●0000000622●
 
-○0000000623○"You'll stop growing!!"
+○0000000623○静流
 ●0000000623●
 
-○0000000624○瑚太朗
+○0000000624○"I-If someone jumps over you..."
 ●0000000624●
 
-○0000000625○"Ah, I can feel... the sincerity in your voice."
+○0000000625○静流
 ●0000000625●
 
-○0000000626○ルチア
+○0000000626○"And you don't jump over them back..."
 ●0000000626●
 
-○0000000627○"That's just superstition, no matter how you look at it."
+○0000000627○静流
 ●0000000627●
 
-○0000000628○静流
+○0000000628○"You'll stop growing!"
 ●0000000628●
 
-○0000000629○"...!!"
+○0000000629○瑚太朗
 ●0000000629●
 
-○0000000630○"Wait!!"... screams Sizuru's demeanor as she blindly dashes after the old man.
+○0000000630○"Ah, I can feel... the sincerity in your voice."
 ●0000000630●
 
-○0000000631○瑚太朗
+○0000000631○ルチア
 ●0000000631●
 
-○0000000632○"What the...! Both of them are way too fast! I lost them already!"
+○0000000632○"That's just superstition, no matter how you look at it."
 ●0000000632●
 
-○0000000633○Sizuru eventually manages to jump over the old man (via an impressive acrobatic leap from a fence) and finally returns to her senses.
+○0000000633○静流
 ●0000000633●
 
-○0000000634○瑚太朗
+○0000000634○"...!"
 ●0000000634●
 
-○0000000635○"I wonder if other towns have this many weirdos hanging around."
+○0000000635○"Wait!"... screams Shizuru's demeanor as she blindly dashes after the old man.
 ●0000000635●
 
-○0000000636○I imagine each has to have at least one whistling man, one rapping man, and one running man.
+○0000000636○瑚太朗
 ●0000000636●
 
-○0000000637○小鳥
+○0000000637○"What the...! Both of them are way too fast! I lost them already!"
 ●0000000637●
 
-○0000000638○"What should we do? We lost Prez in the chaos, didn't we?"
+○0000000638○Shizuru eventually manages to jump over the old man (via an impressive acrobatic leap from a fence) and finally returns to her senses.
 ●0000000638●
 
-○0000000639○ルチア
+○0000000639○瑚太朗
 ●0000000639●
 
-○0000000640○"This is it, then."
+○0000000640○"I wonder if other towns have this many weirdos hanging around."
 ●0000000640●
 
-○0000000641○瑚太朗
+○0000000641○I imagine each has to have at least one whistling man, one rapping man, and one running man.
 ●0000000641●
 
-○0000000642○"Yeah... My sock was half-pulled off, and it's really uncomfortable to walk with my heel in direct contact with the shoe."
+○0000000642○小鳥
 ●0000000642●
 
-○0000000643○小鳥
+○0000000643○"What should we do? We lost Prez in the chaos, didn't we?"
 ●0000000643●
 
-○0000000644○"Just what could have caused this continuous spiral of misery?"
+○0000000644○ルチア
 ●0000000644●
 
-○0000000645○瑚太朗
+○0000000645○"This is it, then."
 ●0000000645●
 
-○0000000646○"I dunno, but I think I've learned the true extent of Prez's terror, as well as how important elastic is to our daily lives."
+○0000000646○瑚太朗
 ●0000000646●
 
-○0000000647○ルチア
+○0000000647○"Yeah... My sock was half-pulled off, and it's really uncomfortable to walk with my heel in direct contact with the shoe."
 ●0000000647●
 
-○0000000648○"Uh... I think it's very commendable you've learned the latter, but..."
+○0000000648○小鳥
 ●0000000648●
 
-○0000000649○静流
+○0000000649○"Just what could have caused this continuous spiral of misery?"
 ●0000000649●
 
-○0000000650○"No worries about tracking."
+○0000000650○瑚太朗
 ●0000000650●
 
-○0000000651○ちはや
+○0000000651○"I dunno, but I think I've learned the true extent of Prez's terror, as well as how important elastic is to our daily lives."
 ●0000000651●
 
-○0000000652○"Huh? You know where she went?"
+○0000000652○ルチア
 ●0000000652●
 
-○0000000653○静流
+○0000000653○"Uh... I think it's very commendable you've learned the latter, but..."
 ●0000000653●
 
-○0000000654○"She entered this building when I last saw her."
+○0000000654○静流
 ●0000000654●
 
-○0000000655○瑚太朗
+○0000000655○"No worries about tracking."
 ●0000000655●
 
-○0000000656○"Seriously?! So that's Prez's house?!"
+○0000000656○ちはや
 ●0000000656●
 
-○0000000657○Or so we thought, but when we enter, we realize it's an apartment building with an Internet café on the first floor.
+○0000000657○"Huh? You know where she went?"
 ●0000000657●
 
-○0000000658○瑚太朗
+○0000000658○静流
 ●0000000658●
 
-○0000000659○"Chihaya..."
+○0000000659○"She entered this building when I last saw her."
 ●0000000659●
 
-○0000000660○ちはや
+○0000000660○瑚太朗
 ●0000000660●
 
-○0000000661○"What?"
+○0000000661○"Seriously?! So that's Prez's house?!"
 ●0000000661●
 
-○0000000662○瑚太朗
+○0000000662○Or so we thought, but when we enter, we realize it's an apartment building with an internet café on the first floor.
 ●0000000662●
 
-○0000000663○"Is our president... actually homeless or something?"
+○0000000663○瑚太朗
 ●0000000663●
 
-○0000000664○ちはや
+○0000000664○"Chihaya..."
 ●0000000664●
 
-○0000000665○"...Maybe she just wanted to drop by this place before going home."
+○0000000665○ちはや
 ●0000000665●
 
-○0000000666○That's possible, but...
+○0000000666○"What?"
 ●0000000666●
 
 ○0000000667○瑚太朗
 ●0000000667●
 
-○0000000668○"What do we do now?"
+○0000000668○"Is our president... actually homeless or something?"
 ●0000000668●
 
-○0000000669○小鳥
+○0000000669○ちはや
 ●0000000669●
 
-○0000000670○"Want to sneak in and investigate further?"
+○0000000670○"...Maybe she just wanted to drop by this place before going home."
 ●0000000670●
 
-○0000000671○瑚太朗
+○0000000671○That's possible, but...
 ●0000000671●
 
-○0000000672○"You're really into this, Kotori!"
+○0000000672○瑚太朗
 ●0000000672●
 
-○0000000673○小鳥
+○0000000673○"What do we do now?"
 ●0000000673●
 
-○0000000674○"We already came all this way, so..."
+○0000000674○小鳥
 ●0000000674●
 
-○0000000675○ルチア
+○0000000675○"Want to sneak in and investigate further?"
 ●0000000675●
 
-○0000000676○"I don't care either way."
+○0000000676○瑚太朗
 ●0000000676●
 
-○0000000677○静流
+○0000000677○"You're really into this, Kotori!"
 ●0000000677●
 
-○0000000678○"......"
+○0000000678○小鳥
 ●0000000678●
 
-○0000000679○"Follow me! Onwards!"... exclaims Sizuru's nodding head in its usual imperious fashion.
+○0000000679○"We already came all this way, so..."
 ●0000000679●
 
-○0000000680○Okay, maybe I'm embellishing that a little.
+○0000000680○ルチア
 ●0000000680●
 
-○0000000681○ちはや
+○0000000681○"I don't care either way."
 ●0000000681●
 
-○0000000682○"I've never been in a place like this..."
+○0000000682○静流
 ●0000000682●
 
-○0000000683○小鳥
+○0000000683○"......"
 ●0000000683●
 
-○0000000684○"Me neither."
+○0000000684○"Follow me! Onwards!"... exclaims Shizuru's nodding head in its usual imperious fashion.
 ●0000000684●
 
-○0000000685○瑚太朗
+○0000000685○Okay, maybe I'm embellishing that a little.
 ●0000000685●
 
-○0000000686○"Nor me."
+○0000000686○ちはや
 ●0000000686●
 
-○0000000687○小鳥
+○0000000687○"I've never been in a place like this..."
 ●0000000687●
 
-○0000000688○"Is it the kind of place you can enter as a group?"
+○0000000688○小鳥
 ●0000000688●
 
-○0000000689○小鳥
+○0000000689○"Me neither."
 ●0000000689●
 
-○0000000690○"My image of an Internet café is reading manga or surfing the Internet in a dark, dead-silent interior."
+○0000000690○瑚太朗
 ●0000000690●
 
-○0000000691○小鳥
+○0000000691○"Nor me."
 ●0000000691●
 
-○0000000692○"And if you make a loud sound, burly men come out cracking their knuckles."
+○0000000692○小鳥
 ●0000000692●
 
-○0000000693○瑚太朗
+○0000000693○"Is it the kind of place you can enter as a group?"
 ●0000000693●
 
-○0000000694○"I think we should be okay if we're not loud then."
+○0000000694○小鳥
 ●0000000694●
 
-○0000000695○ルチア
+○0000000695○"My image of an internet café is reading manga or surfing the internet in a dark, dead-silent interior."
 ●0000000695●
 
-○0000000696○"According to the board here, you can't enter unless you register as a member."
+○0000000696○小鳥
 ●0000000696●
 
-○0000000697○瑚太朗
+○0000000697○"And if you make a loud sound, burly men come out cracking their knuckles."
 ●0000000697●
 
-○0000000698○"Ugh. They need your ID. I didn't bring mine."
+○0000000698○瑚太朗
 ●0000000698●
 
-○0000000699○ちはや
+○0000000699○"I think we should be okay if we're not loud, then."
 ●0000000699●
 
-○0000000700○"Me neither."
+○0000000700○ルチア
 ●0000000700●
 
-○0000000701○小鳥
+○0000000701○"According to the board here, you can't enter unless you register as a member."
 ●0000000701●
 
-○0000000702○"Sounds like we're in a pickle."
+○0000000702○瑚太朗
 ●0000000702●
 
-○0000000703○咲夜
+○0000000703○"Ugh. They need your ID. I didn't bring mine."
 ●0000000703●
 
-○0000000704○"You need not worry. I thought this might happen, so I prepared five special member cards ahead of time."
+○0000000704○ちはや
 ●0000000704●
 
-○0000000705○ちはや
+○0000000705○"Me neither."
 ●0000000705●
 
-○0000000706○"Ah, Sakuya!"
+○0000000706○小鳥
 ●0000000706●
 
-○0000000707○瑚太朗
+○0000000707○"Sounds like we're in a pickle."
 ●0000000707●
 
-○0000000708○"Where'd you pop out of?"
+○0000000708○咲夜
 ●0000000708●
 
-○0000000709○咲夜
+○0000000709○"You need not worry. I thought this might happen, so I prepared five special member cards ahead of time."
 ●0000000709●
 
-○0000000710○"That is of little significance. More importantly, you should be able to enter this establishment for no charge with these."
+○0000000710○ちはや
 ●0000000710●
 
-○0000000711○ちはや
+○0000000711○"Ah, Sakuya!"
 ●0000000711●
 
-○0000000712○"I knew we could trust you!"
+○0000000712○瑚太朗
 ●0000000712●
 
-○0000000713○ルチア
+○0000000713○"Where'd you pop out of?"
 ●0000000713●
 
-○0000000714○"Huh? Are you sure you just want to hand those over to us?"
+○0000000714○咲夜
 ●0000000714●
 
-○0000000715○咲夜
+○0000000715○"That is of little significance. More importantly, you should be able to enter this establishment for no charge with these."
 ●0000000715●
 
-○0000000716○"Yes. Please do not concern yourselves with me. I'm actually an acquaintance of the owner of this place."
+○0000000716○ちはや
 ●0000000716●
 
-○0000000717○He hands the cards to the other four as he talks.
+○0000000717○"I knew we could trust you!"
 ●0000000717●
 
-○0000000718○瑚太朗
+○0000000718○ルチア
 ●0000000718●
 
-○0000000719○"What about me?"
+○0000000719○"Huh? Are you sure you just want to hand those over to us?"
 ●0000000719●
 
 ○0000000720○咲夜
 ●0000000720●
 
-○0000000721○"Huh? My apologies, but I only have five. I need one for myself."
+○0000000721○"Yes. Please do not concern yourselves with me. I'm actually an acquaintance of the owner of this place."
 ●0000000721●
 
-○0000000722○瑚太朗
+○0000000722○He hands the cards to the other four as he talks.
 ●0000000722●
 
-○0000000723○"You scummy bastard!"
+○0000000723○瑚太朗
 ●0000000723●
 
-○0000000724○Now I know how Ntarou felt while clutching the blue cat robot with tears in his eyes when he was told it only had space for three.
+○0000000724○"What about me?"
 ●0000000724●
 
-○0000000725○ちはや
+○0000000725○咲夜
 ●0000000725●
 
-○0000000726○"Kotarou came up with this plan, so I think you should stay behind this time, Sakuya."
+○0000000726○"Huh? My apologies, but I only have five. I need one for myself."
 ●0000000726●
 
-○0000000727○咲夜
+○0000000727○瑚太朗
 ●0000000727●
 
-○0000000728○"Oh, it was just a little jest on my part. Here's your card, Atarou."
+○0000000728○"You scummy bastard!"
 ●0000000728●
 
-○0000000729○瑚太朗
+○0000000729○Now I know how N***ta felt as he clutched the blue cat robot with tears in his eyes, all while being told it was only meant for three.
 ●0000000729●
 
-○0000000730○"I'm Kotarou."
+○0000000730○ちはや
 ●0000000730●
 
-○0000000731○One way or the other, I end up getting a card.
+○0000000731○"Kotarou came up with this plan, so I think you should stay behind this time, Sakuya."
 ●0000000731●
 
 ○0000000732○咲夜
 ●0000000732●
 
-○0000000733○"I leave the rest to you. Make sure to show them the right way."
+○0000000733○"Oh, it was just a little jest on my part. Here's your card, Atarou."
 ●0000000733●
 
 ○0000000734○瑚太朗
 ●0000000734●
 
-○0000000735○"...?"
+○0000000735○"I'm not a protagonist in Akatsuka's manga."
 ●0000000735●
 
-○0000000736○静流
+○0000000736○One way or the other, I end up getting a card.
 ●0000000736●
 
-○0000000737○"Leave it to me."
+○0000000737○咲夜
 ●0000000737●
 
-○0000000738○咲夜
+○0000000738○"I leave the rest to you. Make sure to show them the right way."
 ●0000000738●
 
-○0000000739○"That's very reassuring to hear. In that case, I'd like to ask you to be their bodyguard as well for the time being."
+○0000000739○瑚太朗
 ●0000000739●
 
-○0000000740○静流
+○0000000740○"...?"
 ●0000000740●
 
-○0000000741○"......"
+○0000000741○静流
 ●0000000741●
 
-○0000000742○"Hmph. That's nothing. They'll be as safe as sailing a dreadnought with me"... says Sizuru's determined eye.
+○0000000742○"Leave it to me."
 ●0000000742●
 
 ○0000000743○咲夜
 ●0000000743●
 
-○0000000744○"Lady Chihaya has little experience with establishments of this kind, so..."
+○0000000744○"That's very reassuring to hear. In that case, I'd like to ask you to be their bodyguard as well for the time being."
 ●0000000744●
 
-○0000000745○咲夜
+○0000000745○静流
 ●0000000745●
 
-○0000000746○"As her acting guardian, I'm truly delighted to see her having fun in town with everyone."
+○0000000746○"......"
 ●0000000746●
 
-○0000000747○ちはや
+○0000000747○"Hmph. That's nothing. They'll be as safe as sailing a dreadnought with me," says Shizuru's determined eye.
 ●0000000747●
 
-○0000000748○"Y-You don't have to say that out loud!!"
+○0000000748○咲夜
 ●0000000748●
 
-○0000000749○咲夜
+○0000000749○"Lady Chihaya has little experience with establishments of this kind, so..."
 ●0000000749●
 
-○0000000750○"Hahaha, my apologies."
+○0000000750○咲夜
 ●0000000750●
 
-○0000000751○咲夜
+○0000000751○"As her acting guardian, I'm truly delighted to see her having fun in town with everyone."
 ●0000000751●
 
-○0000000752○"By the way, Lady Akane is in the VIP room on the sixth floor. I hope this information will benefit your stalking endeavors, Atarou."
+○0000000752○ちはや
 ●0000000752●
 
-○0000000753○瑚太朗
+○0000000753○"Y-You don't have to say that out loud!"
 ●0000000753●
 
-○0000000754○"You know, you'd be a nice guy if you kept some of your comments to yourself."
+○0000000754○咲夜
 ●0000000754●
 
-○0000000755○咲夜
+○0000000755○"Hahaha, my apologies."
 ●0000000755●
 
-○0000000756○"I see. Thank you very much."
+○0000000756○咲夜
 ●0000000756●
 
-○0000000757○咲夜
+○0000000757○"By the way, Lady Akane is in the VIP room on the sixth floor. I hope this information will benefit your stalking endeavors, Atarou."
 ●0000000757●
 
-○0000000758○"Well then. If there is anything else, do not hesitate to contact me again."
+○0000000758○瑚太朗
 ●0000000758●
 
-○0000000759○ちはや
+○0000000759○"You know, you'd be a nice guy if you kept some of your comments to yourself."
 ●0000000759●
 
-○0000000760○"Thanks!"
+○0000000760○咲夜
 ●0000000760●
 
-○0000000761○瑚太朗
+○0000000761○"I see. Thank you very much."
 ●0000000761●
 
-○0000000762○"And my name's Kotarou."
+○0000000762○咲夜
 ●0000000762●
 
-○0000000763○小鳥
+○0000000763○"Well then. If there is anything else, do not hesitate to contact me again."
 ●0000000763●
 
-○0000000764○"Let's go in!"
+○0000000764○ちはや
 ●0000000764●
 
-○0000000765○We enter the establishment, leaving Sakuya behind.
+○0000000765○"Thanks!"
 ●0000000765●
 
 ○0000000766○瑚太朗
 ●0000000766●
 
-○0000000767○"Uooooh! They've got the entire collection of Dragon Goal's new books! I've been wanting to read the interview with Torio Akira for the longest time!"
+○0000000767○"And my name's Kotarou."
 ●0000000767●
 
 ○0000000768○小鳥
 ●0000000768●
 
-○0000000769○"Extra-huge widescreen monitors with luxury headphones and 3D sound! I want to watch a movie here!"
+○0000000769○"Let's go in!"
 ●0000000769●
 
-○0000000770○ちはや
+○0000000770○We enter the establishment, leaving Sakuya behind.
 ●0000000770●
 
-○0000000771○"Wow. They're giving out free cocoa here."
+○0000000771○瑚太朗
 ●0000000771●
 
-○0000000772○静流
+○0000000772○"Uooooh! They've got the entire collection of Dragon Goal's new books! I've been wanting to read the interview with Torio Akira for the longest time!"
 ●0000000772●
 
-○0000000773○"...(A copy of the first volume of 'Onwards to the Sun!' safely secured.)"
+○0000000773○小鳥
 ●0000000773●
 
-○0000000774○......
+○0000000774○"Extra-huge widescreen monitors with luxury headphones and 3D sound! I want to watch a movie here!"
 ●0000000774●
 
-○0000000775○.........
+○0000000775○ちはや
 ●0000000775●
 
-○0000000776○瑚太朗
+○0000000776○"Wow. They're giving out free cocoa here."
 ●0000000776●
 
-○0000000777○"Haah."
+○0000000777○静流
 ●0000000777●
 
-○0000000778○小鳥
+○0000000778○"...(A copy of the first volume of 'Onwards to the Sun!' safely secured.)"
 ●0000000778●
 
-○0000000779○"What is it, Kotarou?"
+○0000000779○......
 ●0000000779●
 
-○0000000780○瑚太朗
+○0000000780○.........
 ●0000000780●
 
-○0000000781○"It was too good!"
+○0000000781○瑚太朗
 ●0000000781●
 
-○0000000782○I forgot our original objective the moment we went inside.
+○0000000782○"Haah."
 ●0000000782●
 
-○0000000783○瑚太朗
+○0000000783○小鳥
 ●0000000783●
 
-○0000000784○"Th-This isn't good! We have to regroup and continue to the target!"
+○0000000784○"What is it, Kotarou?"
 ●0000000784●
 
-○0000000786○静流
+○0000000785○瑚太朗
+●0000000785●
+
+○0000000786○"It was too good!"
 ●0000000786●
 
-○0000000787○"......"
+○0000000787○I forgot our original objective the moment we went inside.
 ●0000000787●
 
-○0000000788○Sizuru is tracing the movements of some dramatic scene playing on her monitor.
+○0000000788○瑚太朗
 ●0000000788●
 
-○0000000789○瑚太朗
+○0000000789○"Th-This isn't good! We have to regroup and continue to the target!"
 ●0000000789●
-
-○0000000790○"I'm glad I didn't interrupt anything."
-●0000000790●
 
 ○0000000791○静流
 ●0000000791●
 
-○0000000792○"The acting in that movie was wonderful..."
+○0000000792○"......"
 ●0000000792●
 
-○0000000793○Sizuru joins me after her movie ends.
+○0000000793○Shizuru is tracing the movements of some dramatic scene playing on her monitor.
 ●0000000793●
 
-○0000000795○ちはや
+○0000000794○瑚太朗
+●0000000794●
+
+○0000000795○"I'm glad I didn't interrupt anything."
 ●0000000795●
 
-○0000000796○"Munch, munch."
+○0000000796○静流
 ●0000000796●
 
-○0000000797○Chihaya is reading shoujo manga and stuffing her face with a rice ball from the vending machine.
+○0000000797○"The acting in that movie was wonderful..."
 ●0000000797●
 
-○0000000798○Countless paper cups are lined up on her table.
+○0000000798○Shizuru joins me after her movie ends.
 ●0000000798●
 
-○0000000799○瑚太朗
-●0000000799●
-
-○0000000800○"...I bet the staff here already hates you."
+○0000000800○ちはや
 ●0000000800●
 
-○0000000801○ちはや
+○0000000801○"Munch, munch."
 ●0000000801●
 
-○0000000802○"Wh-What? I can do whatever I want!"
+○0000000802○Chihaya is reading shoujo manga and stuffing her face with a rice ball from the vending machine.
 ●0000000802●
 
-○0000000803○瑚太朗
+○0000000803○Countless paper cups are lined up on her table.
 ●0000000803●
 
-○0000000804○"Gotta look for Class Rep now."
+○0000000804○瑚太朗
 ●0000000804●
 
-○0000000805○瑚太朗
+○0000000805○"...I bet the staff here already hate you."
 ●0000000805●
 
-○0000000806○"I thought she'd be the first to come to her senses, but I can't even find her anywhere."
+○0000000806○ちはや
 ●0000000806●
 
-○0000000807○小鳥
+○0000000807○"Wh-What? I can do whatever I want!"
 ●0000000807●
 
-○0000000808○"I wonder if she got distracted by something, too."
+○0000000808○瑚太朗
 ●0000000808●
 
-○0000000809○瑚太朗
+○0000000809○"Gotta look for Class Rep now."
 ●0000000809●
 
-○0000000810○"I kinda have a hard time picturing her liking any of the stuff they have here."
+○0000000810○瑚太朗
 ●0000000810●
 
-○0000000812○ルチア
+○0000000811○"I thought she'd be the first to come to her senses, but I can't even find her anywhere."
+●0000000811●
+
+○0000000812○小鳥
 ●0000000812●
 
-○0000000813○"Uhhh... D-Don't say you're returning to the forest...!"
+○0000000813○"I wonder if she got distracted by something, too."
 ●0000000813●
 
 ○0000000814○瑚太朗
 ●0000000814●
 
-○0000000815○"......"
+○0000000815○"I kinda have a hard time picturing her liking any of the stuff they have here."
 ●0000000815●
 
-○0000000816○小鳥
-●0000000816●
-
-○0000000817○"......"
+○0000000817○ルチア
 ●0000000817●
 
-○0000000818○It seems like she managed to find some tear-jerker about animals.
+○0000000818○"*sob*... D-Don't say you're returning to the forest...!"
 ●0000000818●
 
-○0000000819○ルチア
+○0000000819○瑚太朗
 ●0000000819●
 
-○0000000820○"Huh?!"
+○0000000820○"......"
 ●0000000820●
 
-○0000000821○静流
+○0000000821○小鳥
 ●0000000821●
 
-○0000000822○"...It's time to look for Prez."
+○0000000822○"......"
 ●0000000822●
 
-○0000000823○ルチア
+○0000000823○It seems like she managed to find some tear-jerker about animals.
 ●0000000823●
 
-○0000000824○"Y-You should've told me right away!"
+○0000000824○ルチア
 ●0000000824●
 
-○0000000825○瑚太朗
+○0000000825○"Huh?!"
 ●0000000825●
 
-○0000000826○"No, uh... We couldn't find you."
+○0000000826○静流
 ●0000000826●
 
-○0000000827○ルチア
+○0000000827○"...It's time to look for Prez."
 ●0000000827●
 
-○0000000828○"That's because you started rummaging through the shelves like starved dogs!"
+○0000000828○ルチア
 ●0000000828●
 
-○0000000829○小鳥
+○0000000829○"Y-You should've told me right away!"
 ●0000000829●
 
-○0000000830○"Ah. I saw that one, too. Really turns on the waterworks, doesn't it?"
+○0000000830○瑚太朗
 ●0000000830●
 
-○0000000831○ちはや
+○0000000831○"No, uh... We couldn't find you."
 ●0000000831●
 
-○0000000832○"Does it?"
+○0000000832○ルチア
 ●0000000832●
 
-○0000000833○ルチア
+○0000000833○"That's because you started rummaging through the shelves like starved dogs!"
 ●0000000833●
 
-○0000000834○"Sh-Shut up! I thought you wanted to get back to the original objective!"
+○0000000834○小鳥
 ●0000000834●
 
-○0000000835○瑚太朗
+○0000000835○"Ah. I saw that one, too. Really turns on the waterworks, doesn't it?"
 ●0000000835●
 
-○0000000836○"Okay... The room at the very end of the sixth floor... This looks like it."
+○0000000836○ちはや
 ●0000000836●
 
-○0000000837○小鳥
+○0000000837○"Does it?"
 ●0000000837●
 
-○0000000838○"Wow! This is as spacious as a hotel."
+○0000000838○ルチア
 ●0000000838●
 
-○0000000839○瑚太朗
+○0000000839○"Sh-Shut up! I thought you wanted to get back to the original objective!"
 ●0000000839●
 
-○0000000840○"I bet that's what she's using it as."
+○0000000840○瑚太朗
 ●0000000840●
 
-○0000000842○ちはや
+○0000000841○"Okay... The room at the very end of the sixth floor... This looks like it."
+●0000000841●
+
+○0000000842○小鳥
 ●0000000842●
 
-○0000000843○"Umm..."
+○0000000843○"Wow! This is as spacious as a hotel."
 ●0000000843●
 
-○0000000844○静流
+○0000000844○瑚太朗
 ●0000000844●
 
-○0000000845○"No one's here."
+○0000000845○"I bet that's what she's using it as."
 ●0000000845●
 
-○0000000846○瑚太朗
-●0000000846●
-
-○0000000847○"What?"
+○0000000847○ちはや
 ●0000000847●
 
-○0000000848○店員
+○0000000848○"Umm..."
 ●0000000848●
 
-○0000000849○"If you're looking for the guest of this VIP room, she left just a few minutes ago."
+○0000000849○静流
 ●0000000849●
 
-○0000000850○瑚太朗
+○0000000850○"No one's here."
 ●0000000850●
 
-○0000000851○"......"
+○0000000851○瑚太朗
 ●0000000851●
 
-○0000000852○小鳥＿不要
+○0000000852○"What?"
 ●0000000852●
 
-○0000000853○"......"
+○0000000853○店員
 ●0000000853●
 
-○0000000854○ちはや＿不要
+○0000000854○"If you're looking for the guest of this VIP room, she left just a few minutes ago."
 ●0000000854●
 
-○0000000855○"......"
+○0000000855○瑚太朗
 ●0000000855●
 
-○0000000857○静流
+○0000000856○"......"
+●0000000856●
+
+○0000000857○小鳥＿不要
 ●0000000857●
 
 ○0000000858○"......"
 ●0000000858●
 
-○0000000859○ルチア
+○0000000859○ちはや＿不要
 ●0000000859●
 
-○0000000860○"I'm sorry. It was all my fault."
+○0000000860○"......"
 ●0000000860●
 
-○0000000861○小鳥
-●0000000861●
-
-○0000000862○"No way. Why would you even think that?"
+○0000000862○静流
 ●0000000862●
 
-○0000000863○瑚太朗
+○0000000863○"......"
 ●0000000863●
 
-○0000000864○"We're all equally responsible."
+○0000000864○ルチア
 ●0000000864●
 
-○0000000865○静流
+○0000000865○"I'm sorry. It was all my fault."
 ●0000000865●
 
-○0000000866○"We have underestimated... Internet cafés..."
+○0000000866○小鳥
 ●0000000866●
 
-○0000000867○Sizuru mutters, clutching the member card in her hand.
+○0000000867○"No way. Why would you even think that?"
 ●0000000867●
 
 ○0000000868○瑚太朗
 ●0000000868●
 
-○0000000869○"Huh? You made one for yourself?"
+○0000000869○"We're all equally responsible."
 ●0000000869●
 
 ○0000000870○静流
 ●0000000870●
 
-○0000000871○"But... I'm too afraid to go by myself..."
+○0000000871○"We have underestimated... internet cafés..."
 ●0000000871●
 
-○0000000872○小鳥
+○0000000872○Shizuru mutters, clutching the member card in her hand.
 ●0000000872●
 
-○0000000873○"Then let's go together sometime."
+○0000000873○瑚太朗
 ●0000000873●
 
-○0000000874○静流
+○0000000874○"Huh? You made one for yourself?"
 ●0000000874●
 
-○0000000875○"......"
+○0000000875○静流
 ●0000000875●
 
-○0000000876○"Copy"... she nods.
+○0000000876○"But... I'm too afraid to go by myself..."
 ●0000000876●
 
-○0000000877○ちはや
+○0000000877○小鳥
 ●0000000877●
 
-○0000000878○"Then what should we do now? Go home?"
+○0000000878○"Then let's go together sometime."
 ●0000000878●
 
-○0000000879○瑚太朗
+○0000000879○静流
 ●0000000879●
 
-○0000000880○"That's all we can do at this point."
+○0000000880○"......"
 ●0000000880●
 
-○0000000881○ルチア
+○0000000881○"Copy"... she nods.
 ●0000000881●
 
-○0000000882○"It's grown quite late. Take care on your way back, everyone."
+○0000000882○ちはや
 ●0000000882●
 
-○0000000883○静流
+○0000000883○"Then what should we do now? Go home?"
 ●0000000883●
 
-○0000000884○"......"
+○0000000884○瑚太朗
 ●0000000884●
 
-○0000000885○"So long"... says Sizuru's waving hand.
+○0000000885○"That's all we can do at this point."
 ●0000000885●
 
-○0000000886○小鳥
+○0000000886○ルチア
 ●0000000886●
 
-○0000000887○"Time to go home."
+○0000000887○"It's grown quite late. Take care on your way back, everyone."
 ●0000000887●
 
-○0000000888○瑚太朗
+○0000000888○静流
 ●0000000888●
 
-○0000000889○"Yep."
+○0000000889○"......"
 ●0000000889●
 
-○0000000890○Everyone goes their own way.
+○0000000890○"So long," says Shizuru's waving hand.
 ●0000000890●
 
-○0000000892○小鳥
+○0000000891○小鳥
+●0000000891●
+
+○0000000892○"Time to go home."
 ●0000000892●
 
-○0000000893○"Phew, after all that was said and done, it was a pretty fun day."
+○0000000893○瑚太朗
 ●0000000893●
 
-○0000000894○瑚太朗
+○0000000894○"Yep."
 ●0000000894●
 
-○0000000895○"I'm glad to hear that."
+○0000000895○Everyone goes their own way.
 ●0000000895●
 
-○0000000896○Today's activities might have been perfect for an indoor person like Kotori.
-●0000000896●
-
-○0000000897○朱音
+○0000000897○小鳥
 ●0000000897●
 
-○0000000898○"...Tennouji."
+○0000000898○"Phew, after all that was said and done, it was a pretty fun day."
 ●0000000898●
 
-○0000000899○I hear a voice from behind.
+○0000000899○瑚太朗
 ●0000000899●
 
-○0000000900○瑚太朗
+○0000000900○"I'm glad to hear that."
 ●0000000900●
 
-○0000000901○"Ugh."
+○0000000901○Today's activities might have been perfect for an indoor person like Kotori.
 ●0000000901●
 
 ○0000000902○朱音
 ●0000000902●
 
-○0000000903○"That's quite a way to greet someone."
+○0000000903○"...Tennouji."
 ●0000000903●
 
-○0000000904○小鳥
+○0000000904○I hear a voice from behind.
 ●0000000904●
 
-○0000000905○"Huh? Did you notice us, Prez?"
+○0000000905○瑚太朗
 ●0000000905●
 
-○0000000906○朱音
+○0000000906○"Ugh."
 ●0000000906●
 
-○0000000907○"I can monitor the entire café from my room."
+○0000000907○朱音
 ●0000000907●
 
-○0000000908○瑚太朗
+○0000000908○"That's quite a way to greet someone."
 ●0000000908●
 
-○0000000909○"What do you mean, your room?"
+○0000000909○小鳥
 ●0000000909●
 
-○0000000910○朱音
+○0000000910○"Huh? Did you notice us, Prez?"
 ●0000000910●
 
-○0000000911○"You could say a part of that establishment actually belongs to me."
+○0000000911○朱音
 ●0000000911●
 
-○0000000912○瑚太朗
+○0000000912○"I can monitor the entire café from my room."
 ●0000000912●
 
-○0000000913○"......"
+○0000000913○瑚太朗
 ●0000000913●
 
-○0000000914○I shouldn't be surprised by anything coming from her at this point.
+○0000000914○"What do you mean, your room?"
 ●0000000914●
 
 ○0000000915○朱音
 ●0000000915●
 
-○0000000916○"That said... What was that all about? Were you planning to turn me into one of your little articles?"
+○0000000916○"You could say a part of that establishment actually belongs to me."
 ●0000000916●
 
 ○0000000917○瑚太朗
 ●0000000917●
 
-○0000000918○"Huh? No, I wasn't even thinking that."
+○0000000918○"......"
 ●0000000918●
 
-○0000000919○朱音
+○0000000919○I shouldn't be surprised by anything coming from her at this point.
 ●0000000919●
 
-○0000000920○"If that was the case..."
+○0000000920○朱音
 ●0000000920●
 
-○0000000921○朱音
+○0000000921○"That said... What was that all about? Were you planning to turn me into one of your little articles?"
 ●0000000921●
 
-○0000000922○"Bang!"
+○0000000922○瑚太朗
 ●0000000922●
 
-○0000000923○She makes a pistol with her right hand.
+○0000000923○"Huh? No, I wasn't even thinking that."
 ●0000000923●
 
-○0000000924○瑚太朗
+○0000000924○朱音
 ●0000000924●
 
-○0000000925○"......"
+○0000000925○"If that was the case..."
 ●0000000925●
 
-○0000000926○小鳥
+○0000000926○朱音
 ●0000000926●
 
-○0000000927○"Assassination..."
+○0000000927○"Bang!"
 ●0000000927●
 
-○0000000928○瑚太朗
+○0000000928○She makes a pistol with her right hand.
 ●0000000928●
 
-○0000000929○"Don't say it out loud. That just makes it feel more real."
+○0000000929○瑚太朗
 ●0000000929●
 
-○0000000930○朱音
+○0000000930○"......"
 ●0000000930●
 
-○0000000931○"I forbid you from doing anything of this nature from now on."
+○0000000931○小鳥
 ●0000000931●
 
-○0000000932○瑚太朗
+○0000000932○"Assassination..."
 ●0000000932●
 
-○0000000933○"No, uh... I wasn't planning to turn you into an article anyway."
+○0000000933○瑚太朗
 ●0000000933●
 
-○0000000934○Actually, she just gave me an idea.
+○0000000934○"Don't say it out loud. That just makes it feel more real."
 ●0000000934●
 
-○0000000935○瑚太朗
+○0000000935○朱音
 ●0000000935●
 
-○0000000936○"Wait, maybe it'd actually be good for you to have an article written about yourself."
+○0000000936○"I forbid you from doing anything of this nature from now on."
 ●0000000936●
 
-○0000000937○朱音
+○0000000937○瑚太朗
 ●0000000937●
 
-○0000000938○"Huh?"
+○0000000938○"No, uh... I wasn't planning to turn you into an article anyway."
 ●0000000938●
 
-○0000000939○瑚太朗
+○0000000939○Actually, she just gave me an idea.
 ●0000000939●
 
-○0000000940○"Mysterious schoolgirl... You might turn into an Internet idol."
+○0000000940○瑚太朗
 ●0000000940●
 
-○0000000941○朱音
+○0000000941○"Wait, maybe it'd actually be good for you to have an article written about yourself."
 ●0000000941●
 
-○0000000942○"I'm sorry to disappoint, but I'm interested in neither idols nor scandals."
+○0000000942○朱音
 ●0000000942●
 
-○0000000943○朱音
+○0000000943○"Huh?"
 ●0000000943●
 
-○0000000944○"If you try again, I'll make sure to crush you socially so you can just barely keep your life together."
+○0000000944○瑚太朗
 ●0000000944●
 
-○0000000945○瑚太朗
+○0000000945○"Mysterious schoolgirl... You might turn into an internet idol."
 ●0000000945●
 
-○0000000946○"What's with that, 'I'm holding back cause you're my friend' kind of attitude?! Are you even worse to others?!"
+○0000000946○朱音
 ●0000000946●
 
-○0000000947○朱音
+○0000000947○"I'm sorry to disappoint, but I'm interested in neither idols nor scandals."
 ●0000000947●
 
-○0000000948○"I like to leave a sliver of hope for those I destroy."
+○0000000948○朱音
 ●0000000948●
 
-○0000000949○朱音
+○0000000949○"If you try again, I'll make sure to crush you socially so you can just barely keep your life together."
 ●0000000949●
 
-○0000000950○"You'll end up looking for breadcrumbs in the darkest corner of society, suffering and fighting just to survive on a daily basis."
+○0000000950○瑚太朗
 ●0000000950●
 
-○0000000951○瑚太朗
+○0000000951○"What's with that, 'I'm holding back 'cause you're my friend' kind of attitude?! Are you even worse to others?!"
 ●0000000951●
 
-○0000000952○"That sounds even more sadistic than simply killing me!"
+○0000000952○朱音
 ●0000000952●
 
-○0000000953○朱音
+○0000000953○"I like to leave a sliver of hope for those I destroy."
 ●0000000953●
 
-○0000000954○"Anyway, that's how serious I am about it."
+○0000000954○朱音
 ●0000000954●
 
-○0000000955○小鳥
+○0000000955○"You'll end up looking for breadcrumbs in the darkest corner of society, suffering and fighting just to survive on a daily basis."
 ●0000000955●
 
-○0000000956○"Are you really that against it, Prez?"
+○0000000956○瑚太朗
 ●0000000956●
 
-○0000000957○朱音
+○0000000957○"That sounds even more sadistic than simply killing me!"
 ●0000000957●
 
-○0000000958○"...Yes."
+○0000000958○朱音
 ●0000000958●
 
-○0000000959○朱音
+○0000000959○"Anyway, that's how serious I am about it."
 ●0000000959●
 
-○0000000960○"Stay away from my private life. Seriously."
+○0000000960○小鳥
 ●0000000960●
 
-○0000000961○瑚太朗
+○0000000961○"Are you really that against it, Prez?"
 ●0000000961●
 
-○0000000962○"...Okay."
+○0000000962○朱音
 ●0000000962●
 
-○0000000963○It definitely doesn't sound like she's kidding around this time.
+○0000000963○"...Yes."
 ●0000000963●
 
-○0000000964○瑚太朗
+○0000000964○朱音
 ●0000000964●
 
-○0000000965○"I'll be more careful from now on."
+○0000000965○"Stay away from my private life. Seriously."
 ●0000000965●
 
-○0000000966○朱音
+○0000000966○瑚太朗
 ●0000000966●
 
-○0000000967○"Good."
+○0000000967○"...Okay."
 ●0000000967●
 
-○0000000968○朱音
+○0000000968○It definitely doesn't sound like she's kidding around this time.
 ●0000000968●
 
-○0000000969○"Haah. I'm exhausted. I'm going home."
+○0000000969○瑚太朗
 ●0000000969●
 
-○0000000970○瑚太朗
+○0000000970○"I'll be more careful from now on."
 ●0000000970●
 
-○0000000971○"Weren't you on your way there to begin with?"
+○0000000971○朱音
 ●0000000971●
 
-○0000000972○朱音
+○0000000972○"Good."
 ●0000000972●
 
-○0000000973○"No, I'm going back to my place."
+○0000000973○朱音
 ●0000000973●
 
-○0000000974○瑚太朗
+○0000000974○"Haah. I'm exhausted. I'm going home."
 ●0000000974●
 
-○0000000975○"...You're talking about the club room, aren't you?"
+○0000000975○瑚太朗
 ●0000000975●
 
-○0000000976○It would probably be unwise to pry further.
+○0000000976○"Weren't you on your way there to begin with?"
 ●0000000976●
 
-○0000000977○dummy
+○0000000977○朱音
 ●0000000977●
 
-○0000000978○sys30_cl00
+○0000000978○"No, I'm going back to my place."
 ●0000000978●
 
-○0000000979○sys20_adv00
+○0000000979○瑚太朗
 ●0000000979●
 
-○0000000980○bg001
+○0000000980○"...You're talking about the club room, aren't you?"
 ●0000000980●
 
-○0000000981○bgm001
+○0000000981○It would probably be unwise to pry further.
 ●0000000981●
 
-○0000000982○sys20_adv00
+○0000000982○dummy
 ●0000000982●
 
-○0000000983○kuro
+○0000000983○sys30_cl00
 ●0000000983●
 
 ○0000000984○sys20_adv00
 ●0000000984●
 
-○0000000985○bg008
+○0000000985○bg001
 ●0000000985●
 
-○0000000986○bgm038
+○0000000986○bgm001
 ●0000000986●
 
 ○0000000987○sys20_adv00
 ●0000000987●
 
-○0000000988○cgm_ys20
+○0000000988○kuro
 ●0000000988●
 
 ○0000000989○sys20_adv00
 ●0000000989●
 
-○0000000990○sys20_adv02
+○0000000990○bg008
 ●0000000990●
 
-○0000000991○sys00_sys00
+○0000000991○bgm038
 ●0000000991●
 
-○0000000992○dogan
+○0000000992○sys20_adv00
 ●0000000992●
 
-○0000000993○sys20_adv00
+○0000000993○cgm_ys20
 ●0000000993●
 
-○0000000994○cgm_ys14
+○0000000994○sys20_adv00
 ●0000000994●
 
-○0000000995○sys20_adv00
+○0000000995○sys20_adv02
 ●0000000995●
 
-○0000000996○cgm_ys20
+○0000000996○sys00_sys00
 ●0000000996●
 
-○0000000997○sys20_adv00
+○0000000997○dogan
 ●0000000997●
 
-○0000000998○sys20_adv02
+○0000000998○sys20_adv00
 ●0000000998●
 
-○0000000999○sys00_sys00
+○0000000999○cgm_ys14
 ●0000000999●
 
-○0000001000○kick
+○0000001000○sys20_adv00
 ●0000001000●
 
-○0000001001○sys20_adv00
+○0000001001○cgm_ys20
 ●0000001001●
 
-○0000001002○cgm_ys20
+○0000001002○sys20_adv00
 ●0000001002●
 
-○0000001003○sys20_adv00
+○0000001003○sys20_adv02
 ●0000001003●
 
 ○0000001004○sys00_sys00
 ●0000001004●
 
-○0000001005○dogan
+○0000001005○kick
 ●0000001005●
 
-○0000001006○sys20_adv02
+○0000001006○sys20_adv00
 ●0000001006●
 
-○0000001007○sys00_sys00
+○0000001007○cgm_ys20
 ●0000001007●
 
-○0000001008○kick
+○0000001008○sys20_adv00
 ●0000001008●
 
-○0000001009○sys20_adv02
+○0000001009○sys00_sys00
 ●0000001009●
 
-○0000001010○sys00_sys00
+○0000001010○dogan
 ●0000001010●
 
-○0000001011○dogan
+○0000001011○sys20_adv02
 ●0000001011●
 
-○0000001012○sys20_adv02
+○0000001012○sys00_sys00
 ●0000001012●
 
-○0000001013○sys00_sys00
+○0000001013○kick
 ●0000001013●
 
-○0000001014○kick
+○0000001014○sys20_adv02
 ●0000001014●
 
-○0000001015○sys20_adv02
+○0000001015○sys00_sys00
 ●0000001015●
 
-○0000001016○sys20_adv00
+○0000001016○dogan
 ●0000001016●
 
-○0000001017○cgm_kt14
+○0000001017○sys20_adv02
 ●0000001017●
 
-○0000001018○cgm_ch13
+○0000001018○sys00_sys00
 ●0000001018●
 
-○0000001019○sys20_adv00
+○0000001019○kick
 ●0000001019●
 
-○0000001020○cgm_kt14
+○0000001020○sys20_adv02
 ●0000001020●
 
-○0000001021○cgm_ch17
+○0000001021○sys20_adv00
 ●0000001021●
 
-○0000001022○sys20_adv00
+○0000001022○cgm_kt14
 ●0000001022●
 
-○0000001023○sys20_adv00
+○0000001023○cgm_ch13
 ●0000001023●
 
-○0000001024○cgm_ys17
+○0000001024○sys20_adv00
 ●0000001024●
 
-○0000001025○sys20_adv00
+○0000001025○cgm_kt14
 ●0000001025●
 
-○0000001026○cgm_ys15
+○0000001026○cgm_ch17
 ●0000001026●
 
 ○0000001027○sys20_adv00
 ●0000001027●
 
-○0000001028○cgm_ys21
+○0000001028○sys20_adv00
 ●0000001028●
 
-○0000001029○sys20_adv00
+○0000001029○cgm_ys17
 ●0000001029●
 
-○0000001030○cgm_ys12
+○0000001030○sys20_adv00
 ●0000001030●
 
-○0000001031○sys20_adv00
+○0000001031○cgm_ys15
 ●0000001031●
 
-○0000001032○cgm_ys19
+○0000001032○sys20_adv00
 ●0000001032●
 
-○0000001033○sys20_adv00
+○0000001033○cgm_ys21
 ●0000001033●
 
 ○0000001034○sys20_adv00
@@ -3073,7 +3073,7 @@
 ○0000001036○sys20_adv00
 ●0000001036●
 
-○0000001037○cgm_ys11
+○0000001037○cgm_ys19
 ●0000001037●
 
 ○0000001038○sys20_adv00
@@ -3082,58 +3082,58 @@
 ○0000001039○sys20_adv00
 ●0000001039●
 
-○0000001040○cgm_lc14
+○0000001040○cgm_ys12
 ●0000001040●
 
 ○0000001041○sys20_adv00
 ●0000001041●
 
-○0000001042○cgm_lc15
+○0000001042○cgm_ys11
 ●0000001042●
 
 ○0000001043○sys20_adv00
 ●0000001043●
 
-○0000001044○cgm_lc36
+○0000001044○sys20_adv00
 ●0000001044●
 
-○0000001045○sys20_adv00
+○0000001045○cgm_lc14
 ●0000001045●
 
-○0000001046○cgm_lc12
+○0000001046○sys20_adv00
 ●0000001046●
 
-○0000001047○sys20_adv00
+○0000001047○cgm_lc15
 ●0000001047●
 
-○0000001048○cgm_ys17
+○0000001048○sys20_adv00
 ●0000001048●
 
-○0000001049○bgm011
+○0000001049○cgm_lc36
 ●0000001049●
 
 ○0000001050○sys20_adv00
 ●0000001050●
 
-○0000001051○sys20_adv00
+○0000001051○cgm_lc12
 ●0000001051●
 
-○0000001052○cgm_lc12
+○0000001052○sys20_adv00
 ●0000001052●
 
-○0000001053○sys20_adv00
+○0000001053○cgm_ys17
 ●0000001053●
 
-○0000001054○sys20_adv00
+○0000001054○bgm011
 ●0000001054●
 
-○0000001055○cgm_ys10
+○0000001055○sys20_adv00
 ●0000001055●
 
 ○0000001056○sys20_adv00
 ●0000001056●
 
-○0000001057○cgm_ys17
+○0000001057○cgm_lc12
 ●0000001057●
 
 ○0000001058○sys20_adv00
@@ -3142,262 +3142,262 @@
 ○0000001059○sys20_adv00
 ●0000001059●
 
-○0000001060○cgm_lc12
+○0000001060○cgm_ys10
 ●0000001060●
 
 ○0000001061○sys20_adv00
 ●0000001061●
 
-○0000001062○cgm_lc14
+○0000001062○cgm_ys17
 ●0000001062●
 
 ○0000001063○sys20_adv00
 ●0000001063●
 
-○0000001064○cgm_kt25
+○0000001064○sys20_adv00
 ●0000001064●
 
-○0000001065○sys20_adv00
+○0000001065○cgm_lc12
 ●0000001065●
 
-○0000001066○cgm_kt25
+○0000001066○sys20_adv00
 ●0000001066●
 
-○0000001067○cgm_ch15
+○0000001067○cgm_lc14
 ●0000001067●
 
 ○0000001068○sys20_adv00
 ●0000001068●
 
-○0000001069○sys20_adv00
+○0000001069○cgm_kt25
 ●0000001069●
 
-○0000001070○cgm_ys17
+○0000001070○sys20_adv00
 ●0000001070●
 
-○0000001071○sys20_adv00
+○0000001071○cgm_kt25
 ●0000001071●
 
-○0000001072○sys20_adv00
+○0000001072○cgm_ch15
 ●0000001072●
 
-○0000001073○cgm_ys19
+○0000001073○sys20_adv00
 ●0000001073●
 
 ○0000001074○sys20_adv00
 ●0000001074●
 
-○0000001075○sys20_adv00
+○0000001075○cgm_ys17
 ●0000001075●
 
-○0000001076○cgm_lc44
+○0000001076○sys20_adv00
 ●0000001076●
 
 ○0000001077○sys20_adv00
 ●0000001077●
 
-○0000001078○cgm_ch22h
+○0000001078○cgm_ys19
 ●0000001078●
 
-○0000001079○cgm_lc44
+○0000001079○sys20_adv00
 ●0000001079●
 
 ○0000001080○sys20_adv00
 ●0000001080●
 
-○0000001081○cgm_ch22h
+○0000001081○cgm_lc44
 ●0000001081●
 
-○0000001082○cgm_lc12
+○0000001082○sys20_adv00
 ●0000001082●
 
-○0000001083○sys20_adv00
+○0000001083○cgm_ch22h
 ●0000001083●
 
-○0000001084○cgm_ch15
+○0000001084○cgm_lc44
 ●0000001084●
 
-○0000001085○cgm_lc44
+○0000001085○sys20_adv00
 ●0000001085●
 
-○0000001086○sys20_adv00
+○0000001086○cgm_ch22h
 ●0000001086●
 
-○0000001087○cgm_ch22h
+○0000001087○cgm_lc12
 ●0000001087●
 
-○0000001088○cgm_kt14
+○0000001088○sys20_adv00
 ●0000001088●
 
-○0000001089○sys20_adv00
+○0000001089○cgm_ch15
 ●0000001089●
 
-○0000001090○sys20_adv00
+○0000001090○cgm_lc44
 ●0000001090●
 
-○0000001091○cgm_kt14y
+○0000001091○sys20_adv00
 ●0000001091●
 
-○0000001092○sys20_adv00
+○0000001092○cgm_ch22h
 ●0000001092●
 
-○0000001093○cgm_ch15
+○0000001093○cgm_kt14
 ●0000001093●
 
 ○0000001094○sys20_adv00
 ●0000001094●
 
-○0000001095○cgm_ch35
+○0000001095○sys20_adv00
 ●0000001095●
 
-○0000001096○sys20_adv00
+○0000001096○cgm_kt14y
 ●0000001096●
 
-○0000001097○cgm_lc12
+○0000001097○sys20_adv00
 ●0000001097●
 
-○0000001098○sys20_adv00
+○0000001098○cgm_ch15
 ●0000001098●
 
-○0000001099○cgm_lc14
+○0000001099○sys20_adv00
 ●0000001099●
 
-○0000001100○sys20_adv00
+○0000001100○cgm_ch35
 ●0000001100●
 
-○0000001101○cgm_ch15
+○0000001101○sys20_adv00
 ●0000001101●
 
-○0000001102○sys20_adv00
+○0000001102○cgm_lc12
 ●0000001102●
 
-○0000001103○cgm_ch18
+○0000001103○sys20_adv00
 ●0000001103●
 
-○0000001104○sys20_adv00
+○0000001104○cgm_lc14
 ●0000001104●
 
-○0000001105○cgm_ch23u
+○0000001105○sys20_adv00
 ●0000001105●
 
-○0000001106○sys20_adv00
+○0000001106○cgm_ch15
 ●0000001106●
 
-○0000001107○cgm_kt14
+○0000001107○sys20_adv00
 ●0000001107●
 
-○0000001108○sys20_adv00
+○0000001108○cgm_ch18
 ●0000001108●
 
-○0000001109○cgm_lc44
+○0000001109○sys20_adv00
 ●0000001109●
 
-○0000001110○sys20_adv00
+○0000001110○cgm_ch23u
 ●0000001110●
 
-○0000001111○cgm_ch23
+○0000001111○sys20_adv00
 ●0000001111●
 
-○0000001112○sys20_adv00
+○0000001112○cgm_kt14
 ●0000001112●
 
-○0000001113○cgm_ch19u
+○0000001113○sys20_adv00
 ●0000001113●
 
-○0000001114○sys20_adv00
+○0000001114○cgm_lc44
 ●0000001114●
 
-○0000001115○cgm_kt25
+○0000001115○sys20_adv00
 ●0000001115●
 
-○0000001116○sys20_adv00
+○0000001116○cgm_ch23
 ●0000001116●
 
-○0000001117○cgm_lc21
+○0000001117○sys20_adv00
 ●0000001117●
 
-○0000001118○sys20_adv00
+○0000001118○cgm_ch19u
 ●0000001118●
 
-○0000001119○cgm_ch23u
+○0000001119○sys20_adv00
 ●0000001119●
 
-○0000001120○sys20_adv00
+○0000001120○cgm_kt25
 ●0000001120●
 
 ○0000001121○sys20_adv00
 ●0000001121●
 
-○0000001122○cgm_ch29
+○0000001122○cgm_lc21
 ●0000001122●
 
 ○0000001123○sys20_adv00
 ●0000001123●
 
-○0000001124○sys20_adv00
+○0000001124○cgm_ch23u
 ●0000001124●
 
-○0000001125○cgm_ch19
+○0000001125○sys20_adv00
 ●0000001125●
 
 ○0000001126○sys20_adv00
 ●0000001126●
 
-○0000001127○cgm_lc21
+○0000001127○cgm_ch29
 ●0000001127●
 
 ○0000001128○sys20_adv00
 ●0000001128●
 
-○0000001129○cgm_ch23
+○0000001129○sys20_adv00
 ●0000001129●
 
-○0000001130○sys20_adv00
+○0000001130○cgm_ch19
 ●0000001130●
 
 ○0000001131○sys20_adv00
 ●0000001131●
 
-○0000001132○cgm_lc12
+○0000001132○cgm_lc21
 ●0000001132●
 
-○0000001133○bgm037
+○0000001133○sys20_adv00
 ●0000001133●
 
-○0000001134○sys20_adv00
+○0000001134○cgm_ch23
 ●0000001134●
 
-○0000001135○cgm_kt16
+○0000001135○sys20_adv00
 ●0000001135●
 
 ○0000001136○sys20_adv00
 ●0000001136●
 
-○0000001137○cgm_ch23
+○0000001137○cgm_lc12
 ●0000001137●
 
-○0000001138○sys20_adv00
+○0000001138○bgm037
 ●0000001138●
 
-○0000001139○cgm_lc12
+○0000001139○sys20_adv00
 ●0000001139●
 
-○0000001140○sys20_adv00
+○0000001140○cgm_kt16
 ●0000001140●
 
 ○0000001141○sys20_adv00
 ●0000001141●
 
-○0000001142○cgm_ch19u
+○0000001142○cgm_ch23
 ●0000001142●
 
 ○0000001143○sys20_adv00
 ●0000001143●
 
-○0000001144○sys20_adv00
+○0000001144○cgm_lc12
 ●0000001144●
 
-○0000001145○cgm_ch23u
+○0000001145○sys20_adv00
 ●0000001145●
 
 ○0000001146○sys20_adv00
@@ -3409,775 +3409,775 @@
 ○0000001148○sys20_adv00
 ●0000001148●
 
-○0000001149○cgm_lc21
+○0000001149○sys20_adv00
 ●0000001149●
 
-○0000001150○sys20_adv00
+○0000001150○cgm_ch23u
 ●0000001150●
 
-○0000001151○cgm_ch19
+○0000001151○sys20_adv00
 ●0000001151●
 
-○0000001152○sys20_adv00
+○0000001152○cgm_ch19u
 ●0000001152●
 
 ○0000001153○sys20_adv00
 ●0000001153●
 
-○0000001154○cgm_kt17
+○0000001154○cgm_lc21
 ●0000001154●
 
 ○0000001155○sys20_adv00
 ●0000001155●
 
-○0000001156○cgm_kt32
+○0000001156○cgm_ch19
 ●0000001156●
 
 ○0000001157○sys20_adv00
 ●0000001157●
 
-○0000001158○cgm_ch23
+○0000001158○sys20_adv00
 ●0000001158●
 
-○0000001159○sys20_adv00
+○0000001159○cgm_kt17
 ●0000001159●
 
-○0000001160○cgm_ch16
+○0000001160○sys20_adv00
 ●0000001160●
 
-○0000001161○sys20_adv00
+○0000001161○cgm_kt32
 ●0000001161●
 
-○0000001162○cgm_ch23
+○0000001162○sys20_adv00
 ●0000001162●
 
-○0000001163○sys20_adv00
+○0000001163○cgm_ch23
 ●0000001163●
 
-○0000001164○cgm_lc21
+○0000001164○sys20_adv00
 ●0000001164●
 
-○0000001165○sys20_adv00
+○0000001165○cgm_ch16
 ●0000001165●
 
-○0000001166○cgm_ch15
+○0000001166○sys20_adv00
 ●0000001166●
 
-○0000001167○sys20_adv00
+○0000001167○cgm_ch23
 ●0000001167●
 
-○0000001168○cgm_kt34
+○0000001168○sys20_adv00
 ●0000001168●
 
-○0000001169○sys20_adv00
+○0000001169○cgm_lc21
 ●0000001169●
 
-○0000001170○cgm_ch23
+○0000001170○sys20_adv00
 ●0000001170●
 
-○0000001171○sys20_adv00
+○0000001171○cgm_ch15
 ●0000001171●
 
 ○0000001172○sys20_adv00
 ●0000001172●
 
-○0000001173○cgm_lc44
+○0000001173○cgm_kt34
 ●0000001173●
 
 ○0000001174○sys20_adv00
 ●0000001174●
 
-○0000001175○cgm_lc21
+○0000001175○cgm_ch23
 ●0000001175●
 
 ○0000001176○sys20_adv00
 ●0000001176●
 
-○0000001177○cgm_lc12
+○0000001177○sys20_adv00
 ●0000001177●
 
-○0000001178○sys20_adv00
+○0000001178○cgm_lc44
 ●0000001178●
 
-○0000001179○cgm_lc23
+○0000001179○sys20_adv00
 ●0000001179●
 
-○0000001180○sys20_adv00
+○0000001180○cgm_lc21
 ●0000001180●
 
 ○0000001181○sys20_adv00
 ●0000001181●
 
-○0000001182○kuro
+○0000001182○cgm_lc12
 ●0000001182●
 
 ○0000001183○sys20_adv00
 ●0000001183●
 
-○0000001184○kuro
+○0000001184○cgm_lc23
 ●0000001184●
 
 ○0000001185○sys20_adv00
 ●0000001185●
 
-○0000001186○bg004
+○0000001186○sys20_adv00
 ●0000001186●
 
-○0000001187○bgm007
+○0000001187○kuro
 ●0000001187●
 
 ○0000001188○sys20_adv00
 ●0000001188●
 
-○0000001189○cgm_ak23
+○0000001189○kuro
 ●0000001189●
 
 ○0000001190○sys20_adv00
 ●0000001190●
 
-○0000001191○cgm_ak23
+○0000001191○bg004
 ●0000001191●
 
-○0000001192○sys20_adv00
+○0000001192○bgm007
 ●0000001192●
 
 ○0000001193○sys20_adv00
 ●0000001193●
 
-○0000001194○cgm_ch13h
+○0000001194○cgm_ak23
 ●0000001194●
 
 ○0000001195○sys20_adv00
 ●0000001195●
 
-○0000001196○cgm_kt14
+○0000001196○cgm_ak23
 ●0000001196●
 
 ○0000001197○sys20_adv00
 ●0000001197●
 
-○0000001198○cgm_sz30y
+○0000001198○sys20_adv00
 ●0000001198●
 
-○0000001199○sys20_adv00
+○0000001199○cgm_ch13h
 ●0000001199●
 
-○0000001200○cgm_sz30y
+○0000001200○sys20_adv00
 ●0000001200●
 
-○0000001201○cgm_lc11
+○0000001201○cgm_kt14
 ●0000001201●
 
 ○0000001202○sys20_adv00
 ●0000001202●
 
-○0000001203○cgm_sz12
+○0000001203○cgm_sz30y
 ●0000001203●
 
-○0000001204○cgm_lc11
+○0000001204○sys20_adv00
 ●0000001204●
 
-○0000001205○sys20_adv00
+○0000001205○cgm_sz30y
 ●0000001205●
 
-○0000001206○cgm_sz30y
+○0000001206○cgm_lc11
 ●0000001206●
 
-○0000001207○cgm_lc19h
+○0000001207○sys20_adv00
 ●0000001207●
 
-○0000001208○sys20_adv00
+○0000001208○cgm_sz12
 ●0000001208●
 
-○0000001209○cgm_kt16
+○0000001209○cgm_lc11
 ●0000001209●
 
-○0000001210○cgm_ch18
+○0000001210○sys20_adv00
 ●0000001210●
 
-○0000001211○sys20_adv00
+○0000001211○cgm_sz30y
 ●0000001211●
 
-○0000001212○cgm_kt16
+○0000001212○cgm_lc19h
 ●0000001212●
 
-○0000001213○cgm_ch14h
+○0000001213○sys20_adv00
 ●0000001213●
 
-○0000001214○sys20_adv00
+○0000001214○cgm_kt16
 ●0000001214●
 
-○0000001215○cgm_kt16
+○0000001215○cgm_ch18
 ●0000001215●
 
-○0000001216○cgm_ch13
+○0000001216○sys20_adv00
 ●0000001216●
 
-○0000001217○sys20_adv00
+○0000001217○cgm_kt16
 ●0000001217●
 
-○0000001218○cgm_kt16
+○0000001218○cgm_ch14h
 ●0000001218●
 
-○0000001219○cgm_ch10
+○0000001219○sys20_adv00
 ●0000001219●
 
-○0000001220○sys20_adv00
+○0000001220○cgm_kt16
 ●0000001220●
 
-○0000001221○sys20_adv00
+○0000001221○cgm_ch13
 ●0000001221●
 
-○0000001222○cgm_ch30
+○0000001222○sys20_adv00
 ●0000001222●
 
-○0000001223○sys20_adv00
+○0000001223○cgm_kt16
 ●0000001223●
 
-○0000001224○cgm_ch29
+○0000001224○cgm_ch10
 ●0000001224●
 
 ○0000001225○sys20_adv00
 ●0000001225●
 
-○0000001226○cgm_kt16y
+○0000001226○sys20_adv00
 ●0000001226●
 
-○0000001227○cgm_ch29
+○0000001227○cgm_ch30
 ●0000001227●
 
 ○0000001228○sys20_adv00
 ●0000001228●
 
-○0000001229○cgm_kt16y
+○0000001229○cgm_ch29
 ●0000001229●
 
-○0000001230○cgm_ch13
+○0000001230○sys20_adv00
 ●0000001230●
 
-○0000001231○sys20_adv00
+○0000001231○cgm_kt16y
 ●0000001231●
 
-○0000001232○cgm_kt14
+○0000001232○cgm_ch29
 ●0000001232●
 
-○0000001233○cgm_ch32h
+○0000001233○sys20_adv00
 ●0000001233●
 
-○0000001234○sys20_adv00
+○0000001234○cgm_kt16y
 ●0000001234●
 
-○0000001235○sys20_adv00
+○0000001235○cgm_ch13
 ●0000001235●
 
 ○0000001236○sys20_adv00
 ●0000001236●
 
-○0000001237○cgm_lc16
+○0000001237○cgm_kt14
 ●0000001237●
 
-○0000001238○cgm_sz40h
+○0000001238○cgm_ch32h
 ●0000001238●
 
 ○0000001239○sys20_adv00
 ●0000001239●
 
-○0000001240○cgm_ch11
+○0000001240○sys20_adv00
 ●0000001240●
 
-○0000001241○sys20_adv00
+○0000001241○cgm_kt17
 ●0000001241●
 
-○0000001242○cgm_ak15
+○0000001242○sys20_adv00
 ●0000001242●
 
 ○0000001243○sys20_adv00
 ●0000001243●
 
-○0000001244○cgm_kt16h
+○0000001244○cgm_lc16
 ●0000001244●
 
-○0000001245○sys20_adv00
+○0000001245○cgm_sz40h
 ●0000001245●
 
-○0000001246○cgm_kt16h
+○0000001246○sys20_adv00
 ●0000001246●
 
-○0000001247○cgm_ak15
+○0000001247○cgm_ch11
 ●0000001247●
 
 ○0000001248○sys20_adv00
 ●0000001248●
 
-○0000001249○cgm_kt16h
+○0000001249○cgm_ak15
 ●0000001249●
 
-○0000001250○cgm_ak23h
+○0000001250○sys20_adv00
 ●0000001250●
 
-○0000001251○sys20_adv00
+○0000001251○cgm_kt16h
 ●0000001251●
 
-○0000001252○cgm_kt25
+○0000001252○sys20_adv00
 ●0000001252●
 
-○0000001253○cgm_ak23h
+○0000001253○cgm_kt16h
 ●0000001253●
 
-○0000001254○sys20_adv00
+○0000001254○cgm_ak15
 ●0000001254●
 
 ○0000001255○sys20_adv00
 ●0000001255●
 
-○0000001256○cgm_ak15
+○0000001256○cgm_kt16h
 ●0000001256●
 
-○0000001257○sys20_adv00
+○0000001257○cgm_ak23h
 ●0000001257●
 
-○0000001258○cgm_ak11
+○0000001258○sys20_adv00
 ●0000001258●
 
-○0000001259○sys20_adv00
+○0000001259○cgm_kt25
 ●0000001259●
 
-○0000001260○cgm_ak23
+○0000001260○cgm_ak23h
 ●0000001260●
 
 ○0000001261○sys20_adv00
 ●0000001261●
 
-○0000001262○kuro
+○0000001262○sys20_adv00
 ●0000001262●
 
-○0000001263○sys20_adv00
+○0000001263○cgm_ak15
 ●0000001263●
 
-○0000001264○bg004y
+○0000001264○sys20_adv00
 ●0000001264●
 
-○0000001265○sys20_adv00
+○0000001265○cgm_ak11
 ●0000001265●
 
-○0000001266○cgm_ak11h
+○0000001266○sys20_adv00
 ●0000001266●
 
-○0000001267○sys20_adv00
+○0000001267○cgm_ak23
 ●0000001267●
 
-○0000001268○cgm_kt11
+○0000001268○sys20_adv00
 ●0000001268●
 
-○0000001269○sys20_adv00
+○0000001269○kuro
 ●0000001269●
 
-○0000001270○cgm_ch12
+○0000001270○sys20_adv00
 ●0000001270●
 
-○0000001271○sys20_adv00
+○0000001271○bg004y
 ●0000001271●
 
-○0000001272○kuro
+○0000001272○sys20_adv00
 ●0000001272●
 
-○0000001273○sys20_adv00
+○0000001273○cgm_ak11h
 ●0000001273●
 
-○0000001274○bg012y
+○0000001274○sys20_adv00
 ●0000001274●
 
-○0000001275○bgm003
+○0000001275○cgm_kt11
 ●0000001275●
 
 ○0000001276○sys20_adv00
 ●0000001276●
 
-○0000001277○cgm_ak23
+○0000001277○cgm_ch12
 ●0000001277●
 
 ○0000001278○sys20_adv00
 ●0000001278●
 
-○0000001279○cgm_ak11
+○0000001279○kuro
 ●0000001279●
 
 ○0000001280○sys20_adv00
 ●0000001280●
 
-○0000001281○cgm_sz10h
+○0000001281○bg012y
 ●0000001281●
 
-○0000001282○sys20_adv00
+○0000001282○bgm003
 ●0000001282●
 
-○0000001283○cgm_kt11
+○0000001283○sys20_adv00
 ●0000001283●
 
-○0000001284○sys20_adv00
+○0000001284○cgm_ak23
 ●0000001284●
 
 ○0000001285○sys20_adv00
 ●0000001285●
 
-○0000001286○kuro
+○0000001286○cgm_ak11
 ●0000001286●
 
 ○0000001287○sys20_adv00
 ●0000001287●
 
-○0000001288○bg012y
+○0000001288○cgm_sz10h
 ●0000001288●
 
-○0000001289○bgm035
+○0000001289○sys20_adv00
 ●0000001289●
 
-○0000001290○sys20_adv00
+○0000001290○cgm_kt11
 ●0000001290●
 
-○0000001291○cgm_kt14
+○0000001291○sys20_adv00
 ●0000001291●
 
 ○0000001292○sys20_adv00
 ●0000001292●
 
-○0000001293○sys20_adv00
+○0000001293○kuro
 ●0000001293●
 
-○0000001294○cgm_sz10
+○0000001294○sys20_adv00
 ●0000001294●
 
-○0000001295○cgm_ch13
+○0000001295○bg012y
 ●0000001295●
 
-○0000001296○sys20_adv00
+○0000001296○bgm035
 ●0000001296●
 
-○0000001297○cgm_sz10s
+○0000001297○sys20_adv00
 ●0000001297●
 
-○0000001298○cgm_ch13
+○0000001298○cgm_kt14
 ●0000001298●
 
 ○0000001299○sys20_adv00
 ●0000001299●
 
-○0000001300○cgm_sz10s
+○0000001300○sys20_adv00
 ●0000001300●
 
-○0000001301○sys20_adv00
+○0000001301○cgm_sz10
 ●0000001301●
 
-○0000001302○cgm_sz40h
+○0000001302○cgm_ch13
 ●0000001302●
 
 ○0000001303○sys20_adv00
 ●0000001303●
 
-○0000001304○cgm_lc19h
+○0000001304○cgm_sz10s
 ●0000001304●
 
-○0000001305○sys20_adv00
+○0000001305○cgm_ch13
 ●0000001305●
 
-○0000001306○cgm_lc19h
+○0000001306○sys20_adv00
 ●0000001306●
 
-○0000001307○cgm_sz41
+○0000001307○cgm_sz10s
 ●0000001307●
 
 ○0000001308○sys20_adv00
 ●0000001308●
 
-○0000001309○cgm_lc11h
+○0000001309○cgm_sz40h
 ●0000001309●
 
-○0000001310○cgm_sz41
+○0000001310○sys20_adv00
 ●0000001310●
 
-○0000001311○sys20_adv00
+○0000001311○cgm_lc19h
 ●0000001311●
 
-○0000001312○cgm_lc11h
+○0000001312○sys20_adv00
 ●0000001312●
 
-○0000001313○cgm_sz43h
+○0000001313○cgm_lc19h
 ●0000001313●
 
-○0000001314○sys20_adv00
+○0000001314○cgm_sz41
 ●0000001314●
 
-○0000001315○cgm_lc36
+○0000001315○sys20_adv00
 ●0000001315●
 
-○0000001316○cgm_sz43h
+○0000001316○cgm_lc11h
 ●0000001316●
 
-○0000001317○sys20_adv00
+○0000001317○cgm_sz41
 ●0000001317●
 
-○0000001318○kuro
+○0000001318○sys20_adv00
 ●0000001318●
 
-○0000001319○sys20_adv00
+○0000001319○cgm_lc11h
 ●0000001319●
 
-○0000001320○bg012y
+○0000001320○cgm_sz43h
 ●0000001320●
 
 ○0000001321○sys20_adv00
 ●0000001321●
 
-○0000001322○cgm_lc12
+○0000001322○cgm_lc36
 ●0000001322●
 
-○0000001323○cgm_sz11
+○0000001323○cgm_sz43h
 ●0000001323●
 
 ○0000001324○sys20_adv00
 ●0000001324●
 
-○0000001325○sys20_adv00
+○0000001325○kuro
 ●0000001325●
 
-○0000001326○cgm_sz40h
+○0000001326○sys20_adv00
 ●0000001326●
 
-○0000001327○sys20_adv00
+○0000001327○bg012y
 ●0000001327●
 
-○0000001328○cgm_sz10h
+○0000001328○sys20_adv00
 ●0000001328●
 
-○0000001329○sys20_adv00
+○0000001329○cgm_lc12
 ●0000001329●
 
-○0000001330○cgm_kt16
+○0000001330○cgm_sz11
 ●0000001330●
 
 ○0000001331○sys20_adv00
 ●0000001331●
 
-○0000001332○cgm_ch32h
+○0000001332○sys20_adv00
 ●0000001332●
 
-○0000001333○sys20_adv00
+○0000001333○cgm_sz40h
 ●0000001333●
 
 ○0000001334○sys20_adv00
 ●0000001334●
 
-○0000001335○cgm_ch22h
+○0000001335○cgm_sz10h
 ●0000001335●
 
 ○0000001336○sys20_adv00
 ●0000001336●
 
-○0000001337○cgm_ch19u
+○0000001337○cgm_kt16
 ●0000001337●
 
 ○0000001338○sys20_adv00
 ●0000001338●
 
-○0000001339○cgm_kt18
+○0000001339○cgm_ch32h
 ●0000001339●
 
 ○0000001340○sys20_adv00
 ●0000001340●
 
-○0000001341○kuro
+○0000001341○sys20_adv00
 ●0000001341●
 
-○0000001342○sys20_adv00
+○0000001342○cgm_ch22h
 ●0000001342●
 
-○0000001343○bg012y
+○0000001343○sys20_adv00
 ●0000001343●
 
-○0000001344○sys20_adv00
+○0000001344○cgm_ch19u
 ●0000001344●
 
-○0000001345○cgm_kt31
+○0000001345○sys20_adv00
 ●0000001345●
 
-○0000001346○sys20_adv00
+○0000001346○cgm_kt18
 ●0000001346●
 
 ○0000001347○sys20_adv00
 ●0000001347●
 
-○0000001348○cgm_sz22s
+○0000001348○kuro
 ●0000001348●
 
 ○0000001349○sys20_adv00
 ●0000001349●
 
-○0000001350○cgm_ch13
+○0000001350○bg012y
 ●0000001350●
 
 ○0000001351○sys20_adv00
 ●0000001351●
 
-○0000001352○cgm_ch33h
+○0000001352○cgm_kt31
 ●0000001352●
 
 ○0000001353○sys20_adv00
 ●0000001353●
 
-○0000001354○cgm_ch33h
+○0000001354○sys20_adv00
 ●0000001354●
 
-○0000001355○cgm_lc11h
+○0000001355○cgm_sz22s
 ●0000001355●
 
 ○0000001356○sys20_adv00
 ●0000001356●
 
-○0000001357○cgm_ch22
+○0000001357○cgm_ch13
 ●0000001357●
 
-○0000001358○cgm_lc11h
+○0000001358○sys20_adv00
 ●0000001358●
 
-○0000001359○sys20_adv00
+○0000001359○cgm_ch33h
 ●0000001359●
 
-○0000001360○cgm_sz40
+○0000001360○sys20_adv00
 ●0000001360●
 
-○0000001361○sys20_adv00
+○0000001361○cgm_ch33h
 ●0000001361●
 
-○0000001362○sys20_adv00
+○0000001362○cgm_lc11h
 ●0000001362●
 
-○0000001363○cgm_kt25
+○0000001363○sys20_adv00
 ●0000001363●
 
-○0000001364○sys20_adv00
+○0000001364○cgm_ch22
 ●0000001364●
 
-○0000001365○kuro
+○0000001365○cgm_lc11h
 ●0000001365●
 
 ○0000001366○sys20_adv00
 ●0000001366●
 
-○0000001367○bg011y
+○0000001367○cgm_sz40
 ●0000001367●
 
 ○0000001368○sys20_adv00
 ●0000001368●
 
-○0000001369○cgm_ch29
+○0000001369○sys20_adv00
 ●0000001369●
 
-○0000001370○sys20_adv00
+○0000001370○cgm_kt25
 ●0000001370●
 
-○0000001371○cgm_sz41
+○0000001371○sys20_adv00
 ●0000001371●
 
-○0000001372○sys20_adv00
+○0000001372○kuro
 ●0000001372●
 
-○0000001373○cgm_sz10h
+○0000001373○sys20_adv00
 ●0000001373●
 
-○0000001374○sys20_adv00
+○0000001374○bg011y
 ●0000001374●
 
-○0000001375○cgm_kt33
+○0000001375○sys20_adv00
 ●0000001375●
 
-○0000001376○sys20_adv00
+○0000001376○cgm_ch29
 ●0000001376●
 
-○0000001377○bgm012
+○0000001377○sys20_adv00
 ●0000001377●
 
-○0000001378○sys00_sys00
+○0000001378○cgm_sz41
 ●0000001378●
 
-○0000001379○neko3
+○0000001379○sys20_adv00
 ●0000001379●
 
-○0000001380○sys00_sys00
+○0000001380○cgm_sz10h
 ●0000001380●
 
-○0000001381○neko2
+○0000001381○sys20_adv00
 ●0000001381●
 
-○0000001382○sys00_sys00
+○0000001382○cgm_kt33
 ●0000001382●
 
-○0000001383○neko4
+○0000001383○sys20_adv00
 ●0000001383●
 
-○0000001384○sys00_sys00
+○0000001384○bgm012
 ●0000001384●
 
-○0000001385○sys20_adv00
+○0000001385○sys00_sys00
 ●0000001385●
 
-○0000001386○cgm_kt25
+○0000001386○neko3
 ●0000001386●
 
-○0000001387○sys20_adv00
+○0000001387○sys00_sys00
 ●0000001387●
 
-○0000001388○cgm_ch32h
+○0000001388○neko2
 ●0000001388●
 
 ○0000001389○sys00_sys00
 ●0000001389●
 
-○0000001390○karasu
+○0000001390○neko4
 ●0000001390●
 
-○0000001391○sys20_adv00
+○0000001391○sys00_sys00
 ●0000001391●
 
-○0000001392○cgm_ch33h
+○0000001392○sys20_adv00
 ●0000001392●
 
-○0000001393○sys00_sys00
+○0000001393○cgm_kt25
 ●0000001393●
 
 ○0000001394○sys20_adv00
 ●0000001394●
 
-○0000001395○cgm_lc36h
+○0000001395○cgm_ch32h
 ●0000001395●
 
-○0000001396○sys20_adv00
+○0000001396○sys00_sys00
 ●0000001396●
 
-○0000001397○sys20_adv00
+○0000001397○karasu
 ●0000001397●
 
-○0000001398○cgm_kt18
+○0000001398○sys20_adv00
 ●0000001398●
 
-○0000001399○sys20_adv00
+○0000001399○cgm_ch33h
 ●0000001399●
 
-○0000001400○sys20_adv00
+○0000001400○sys00_sys00
 ●0000001400●
 
-○0000001401○cgm_kt25
+○0000001401○sys20_adv00
 ●0000001401●
 
-○0000001402○sys20_adv00
+○0000001402○cgm_lc36h
 ●0000001402●
 
-○0000001403○cgm_ch29
+○0000001403○sys20_adv00
 ●0000001403●
 
 ○0000001404○sys20_adv00
 ●0000001404●
 
-○0000001405○cgm_ch13
+○0000001405○cgm_kt18
 ●0000001405●
 
 ○0000001406○sys20_adv00
@@ -4186,325 +4186,325 @@
 ○0000001407○sys20_adv00
 ●0000001407●
 
-○0000001408○cgm_sz13
+○0000001408○cgm_kt25
 ●0000001408●
 
 ○0000001409○sys20_adv00
 ●0000001409●
 
-○0000001410○cgm_sz20s
+○0000001410○cgm_ch29
 ●0000001410●
 
 ○0000001411○sys20_adv00
 ●0000001411●
 
-○0000001412○bgm013
+○0000001412○cgm_ch13
 ●0000001412●
 
 ○0000001413○sys20_adv00
 ●0000001413●
 
-○0000001414○cgm_kt18
+○0000001414○sys20_adv00
 ●0000001414●
 
-○0000001415○sys20_adv00
+○0000001415○cgm_sz13
 ●0000001415●
 
 ○0000001416○sys20_adv00
 ●0000001416●
 
-○0000001417○cgm_sz13s
+○0000001417○cgm_sz20s
 ●0000001417●
 
 ○0000001418○sys20_adv00
 ●0000001418●
 
-○0000001419○cgm_sz15r
+○0000001419○bgm013
 ●0000001419●
 
 ○0000001420○sys20_adv00
 ●0000001420●
 
-○0000001421○cgm_sz12
+○0000001421○cgm_kt18
 ●0000001421●
 
-○0000001422○bgm038
+○0000001422○sys20_adv00
 ●0000001422●
 
 ○0000001423○sys20_adv00
 ●0000001423●
 
-○0000001424○cgm_sz20
+○0000001424○cgm_sz13s
 ●0000001424●
 
 ○0000001425○sys20_adv00
 ●0000001425●
 
-○0000001426○cgm_lc36h
+○0000001426○cgm_sz15r
 ●0000001426●
 
 ○0000001427○sys20_adv00
 ●0000001427●
 
-○0000001428○cgm_sz26h
+○0000001428○cgm_sz12
 ●0000001428●
 
-○0000001429○sys20_adv00
+○0000001429○bgm038
 ●0000001429●
 
 ○0000001430○sys20_adv00
 ●0000001430●
 
-○0000001431○kuro
+○0000001431○cgm_sz20
 ●0000001431●
 
 ○0000001432○sys20_adv00
 ●0000001432●
 
-○0000001433○bg011y
+○0000001433○cgm_lc36h
 ●0000001433●
 
-○0000001434○bgm035
+○0000001434○sys20_adv00
 ●0000001434●
 
-○0000001435○sys20_adv00
+○0000001435○cgm_sz26h
 ●0000001435●
 
-○0000001436○cgm_sz10
+○0000001436○sys20_adv00
 ●0000001436●
 
 ○0000001437○sys20_adv00
 ●0000001437●
 
-○0000001438○sys20_adv00
+○0000001438○kuro
 ●0000001438●
 
-○0000001439○cgm_kt25
+○0000001439○sys20_adv00
 ●0000001439●
 
-○0000001440○sys20_adv00
+○0000001440○bg011y
 ●0000001440●
 
-○0000001441○cgm_lc19
+○0000001441○bgm035
 ●0000001441●
 
 ○0000001442○sys20_adv00
 ●0000001442●
 
-○0000001443○sys20_adv00
+○0000001443○cgm_sz10
 ●0000001443●
 
-○0000001444○cgm_kt25
+○0000001444○sys20_adv00
 ●0000001444●
 
 ○0000001445○sys20_adv00
 ●0000001445●
 
-○0000001446○cgm_lc36
+○0000001446○cgm_kt25
 ●0000001446●
 
 ○0000001447○sys20_adv00
 ●0000001447●
 
-○0000001448○cgm_sz41
+○0000001448○cgm_lc19
 ●0000001448●
 
 ○0000001449○sys20_adv00
 ●0000001449●
 
-○0000001450○cgm_sz41
+○0000001450○sys20_adv00
 ●0000001450●
 
-○0000001451○cgm_ch29
+○0000001451○cgm_kt25
 ●0000001451●
 
 ○0000001452○sys20_adv00
 ●0000001452●
 
-○0000001453○cgm_sz10
+○0000001453○cgm_lc36
 ●0000001453●
 
-○0000001454○cgm_ch29
+○0000001454○sys20_adv00
 ●0000001454●
 
-○0000001455○sys20_adv00
+○0000001455○cgm_sz41
 ●0000001455●
 
-○0000001456○cgm_sz41
+○0000001456○sys20_adv00
 ●0000001456●
 
-○0000001457○cgm_ch29
+○0000001457○cgm_sz41
 ●0000001457●
 
-○0000001458○sys20_adv00
+○0000001458○cgm_ch29
 ●0000001458●
 
-○0000001459○kuro
+○0000001459○sys20_adv00
 ●0000001459●
 
-○0000001460○sys20_adv00
+○0000001460○cgm_sz10
 ●0000001460●
 
-○0000001461○bg011y
+○0000001461○cgm_ch29
 ●0000001461●
 
 ○0000001462○sys20_adv00
 ●0000001462●
 
-○0000001463○cgm_ch14
+○0000001463○cgm_sz41
 ●0000001463●
 
-○0000001464○sys20_adv00
+○0000001464○cgm_ch29
 ●0000001464●
 
-○0000001465○cgm_ch13
+○0000001465○sys20_adv00
 ●0000001465●
 
-○0000001466○sys20_adv00
+○0000001466○kuro
 ●0000001466●
 
 ○0000001467○sys20_adv00
 ●0000001467●
 
-○0000001468○cgm_kt16
+○0000001468○bg011y
 ●0000001468●
 
 ○0000001469○sys20_adv00
 ●0000001469●
 
-○0000001470○cgm_kt20
+○0000001470○cgm_ch14
 ●0000001470●
 
 ○0000001471○sys20_adv00
 ●0000001471●
 
-○0000001472○cgm_lc19
+○0000001472○cgm_ch13
 ●0000001472●
 
 ○0000001473○sys20_adv00
 ●0000001473●
 
-○0000001474○cgm_sz10s
+○0000001474○sys20_adv00
 ●0000001474●
 
-○0000001475○sys20_adv00
+○0000001475○cgm_kt16
 ●0000001475●
 
-○0000001476○cgm_sz40h
+○0000001476○sys20_adv00
 ●0000001476●
 
-○0000001477○sys20_adv00
+○0000001477○cgm_kt20
 ●0000001477●
 
-○0000001478○cgm_ch29
+○0000001478○sys20_adv00
 ●0000001478●
 
-○0000001479○sys20_adv00
+○0000001479○cgm_lc19
 ●0000001479●
 
-○0000001480○cgm_kt16
+○0000001480○sys20_adv00
 ●0000001480●
 
-○0000001481○cgm_ch29
+○0000001481○cgm_sz10s
 ●0000001481●
 
 ○0000001482○sys20_adv00
 ●0000001482●
 
-○0000001483○cgm_kt14
+○0000001483○cgm_sz40h
 ●0000001483●
 
 ○0000001484○sys20_adv00
 ●0000001484●
 
-○0000001485○cgm_kt31
+○0000001485○cgm_ch29
 ●0000001485●
 
 ○0000001486○sys20_adv00
 ●0000001486●
 
-○0000001487○cgm_kt26y
+○0000001487○cgm_kt16
 ●0000001487●
 
-○0000001488○sys20_adv00
+○0000001488○cgm_ch29
 ●0000001488●
 
-○0000001489○cgm_lc11h
+○0000001489○sys20_adv00
 ●0000001489●
 
-○0000001490○sys20_adv00
+○0000001490○cgm_kt14
 ●0000001490●
 
-○0000001491○cgm_ch29
+○0000001491○sys20_adv00
 ●0000001491●
 
-○0000001492○sys20_adv00
+○0000001492○cgm_kt31
 ●0000001492●
 
-○0000001493○cgm_kt16
+○0000001493○sys20_adv00
 ●0000001493●
 
-○0000001494○sys20_adv00
+○0000001494○cgm_kt26y
 ●0000001494●
 
-○0000001495○cgm_sk15
+○0000001495○sys20_adv00
 ●0000001495●
 
-○0000001496○sys20_adv00
+○0000001496○cgm_lc11h
 ●0000001496●
 
-○0000001497○cgm_sk11
+○0000001497○sys20_adv00
 ●0000001497●
 
-○0000001498○cgm_ch10
+○0000001498○cgm_ch29
 ●0000001498●
 
 ○0000001499○sys20_adv00
 ●0000001499●
 
-○0000001500○cgm_sk15
+○0000001500○cgm_kt16
 ●0000001500●
 
 ○0000001501○sys20_adv00
 ●0000001501●
 
-○0000001502○cgm_sk11
+○0000001502○cgm_sk15
 ●0000001502●
 
-○0000001503○cgm_ch11
+○0000001503○sys20_adv00
 ●0000001503●
 
-○0000001504○sys20_adv00
+○0000001504○cgm_sk11
 ●0000001504●
 
-○0000001505○cgm_lc26
+○0000001505○cgm_ch10
 ●0000001505●
 
 ○0000001506○sys20_adv00
 ●0000001506●
 
-○0000001507○cgm_sk11
+○0000001507○cgm_sk15
 ●0000001507●
 
 ○0000001508○sys20_adv00
 ●0000001508●
 
-○0000001509○cgm_sk15
+○0000001509○cgm_sk11
 ●0000001509●
 
-○0000001510○sys20_adv00
+○0000001510○cgm_ch11
 ●0000001510●
 
 ○0000001511○sys20_adv00
 ●0000001511●
 
-○0000001512○cgm_sk12
+○0000001512○cgm_lc26
 ●0000001512●
 
 ○0000001513○sys20_adv00
 ●0000001513●
 
-○0000001514○cgm_ch13
+○0000001514○cgm_sk11
 ●0000001514●
 
 ○0000001515○sys20_adv00
@@ -4519,265 +4519,265 @@
 ○0000001518○sys20_adv00
 ●0000001518●
 
-○0000001519○cgm_sk10
+○0000001519○cgm_sk12
 ●0000001519●
 
 ○0000001520○sys20_adv00
 ●0000001520●
 
-○0000001521○cgm_sz10
+○0000001521○cgm_ch13
 ●0000001521●
 
 ○0000001522○sys20_adv00
 ●0000001522●
 
-○0000001523○cgm_sk12
+○0000001523○cgm_sk15
 ●0000001523●
 
-○0000001524○cgm_sz10
+○0000001524○sys20_adv00
 ●0000001524●
 
 ○0000001525○sys20_adv00
 ●0000001525●
 
-○0000001526○cgm_sk12
+○0000001526○cgm_sk10
 ●0000001526●
 
-○0000001527○cgm_sz43h
+○0000001527○sys20_adv00
 ●0000001527●
 
-○0000001528○sys20_adv00
+○0000001528○cgm_sz10
 ●0000001528●
 
-○0000001529○cgm_sk15
+○0000001529○sys20_adv00
 ●0000001529●
 
-○0000001530○sys20_adv00
+○0000001530○cgm_sk12
 ●0000001530●
 
-○0000001531○cgm_sk25
+○0000001531○cgm_sz10
 ●0000001531●
 
 ○0000001532○sys20_adv00
 ●0000001532●
 
-○0000001533○cgm_sk25
+○0000001533○cgm_sk12
 ●0000001533●
 
-○0000001534○cgm_ch32h
+○0000001534○cgm_sz43h
 ●0000001534●
 
 ○0000001535○sys20_adv00
 ●0000001535●
 
-○0000001536○cgm_sk12h
+○0000001536○cgm_sk15
 ●0000001536●
 
-○0000001537○cgm_ch32h
+○0000001537○sys20_adv00
 ●0000001537●
 
-○0000001538○sys20_adv00
+○0000001538○cgm_sk25
 ●0000001538●
 
-○0000001539○cgm_sk31
+○0000001539○sys20_adv00
 ●0000001539●
 
-○0000001540○sys20_adv00
+○0000001540○cgm_sk25
 ●0000001540●
 
-○0000001541○cgm_sk11
+○0000001541○cgm_ch32h
 ●0000001541●
 
 ○0000001542○sys20_adv00
 ●0000001542●
 
-○0000001543○cgm_sk10
+○0000001543○cgm_sk12h
 ●0000001543●
 
-○0000001544○sys20_adv00
+○0000001544○cgm_ch32h
 ●0000001544●
 
-○0000001545○cgm_ch12
+○0000001545○sys20_adv00
 ●0000001545●
 
-○0000001546○sys20_adv00
+○0000001546○cgm_sk31
 ●0000001546●
 
-○0000001547○cgm_kt11
+○0000001547○sys20_adv00
 ●0000001547●
 
-○0000001548○sys20_adv00
+○0000001548○cgm_sk11
 ●0000001548●
 
-○0000001549○cgm_sk11
+○0000001549○sys20_adv00
 ●0000001549●
 
-○0000001550○sys20_adv00
+○0000001550○cgm_sk10
 ●0000001550●
 
-○0000001551○kuro
+○0000001551○sys20_adv00
 ●0000001551●
 
-○0000001552○bgm013
+○0000001552○cgm_ch12
 ●0000001552●
 
 ○0000001553○sys20_adv00
 ●0000001553●
 
-○0000001554○bg011y
+○0000001554○cgm_kt11
 ●0000001554●
 
 ○0000001555○sys20_adv00
 ●0000001555●
 
-○0000001556○kuro
+○0000001556○cgm_sk11
 ●0000001556●
 
 ○0000001557○sys20_adv00
 ●0000001557●
 
-○0000001558○bg011y
+○0000001558○kuro
 ●0000001558●
 
-○0000001559○sys20_adv00
+○0000001559○bgm013
 ●0000001559●
 
-○0000001560○kuro
+○0000001560○sys20_adv00
 ●0000001560●
 
-○0000001561○sys20_adv00
+○0000001561○bg011y
 ●0000001561●
 
-○0000001562○bg011y
+○0000001562○sys20_adv00
 ●0000001562●
 
-○0000001563○sys20_adv00
+○0000001563○kuro
 ●0000001563●
 
-○0000001564○kuro
+○0000001564○sys20_adv00
 ●0000001564●
 
-○0000001565○sys20_adv00
+○0000001565○bg011y
 ●0000001565●
 
-○0000001566○bg011y
+○0000001566○sys20_adv00
 ●0000001566●
 
-○0000001567○sys20_adv00
+○0000001567○kuro
 ●0000001567●
 
-○0000001568○kuro
+○0000001568○sys20_adv00
 ●0000001568●
 
-○0000001569○sys20_adv00
+○0000001569○bg011y
 ●0000001569●
 
-○0000001570○bg011y
+○0000001570○sys20_adv00
 ●0000001570●
 
-○0000001571○sys20_adv00
+○0000001571○kuro
 ●0000001571●
 
-○0000001572○kuro
+○0000001572○sys20_adv00
 ●0000001572●
 
-○0000001573○sys20_adv00
+○0000001573○bg011y
 ●0000001573●
 
-○0000001574○bg012n
+○0000001574○sys20_adv00
 ●0000001574●
 
-○0000001575○bgm004
+○0000001575○kuro
 ●0000001575●
 
 ○0000001576○sys20_adv00
 ●0000001576●
 
-○0000001577○cgm_sz12
+○0000001577○bg011y
 ●0000001577●
 
 ○0000001578○sys20_adv00
 ●0000001578●
 
-○0000001579○cgm_lc19
+○0000001579○kuro
 ●0000001579●
 
 ○0000001580○sys20_adv00
 ●0000001580●
 
-○0000001581○cgm_lc19
+○0000001581○bg012n
 ●0000001581●
 
-○0000001582○cgm_kt14
+○0000001582○bgm004
 ●0000001582●
 
 ○0000001583○sys20_adv00
 ●0000001583●
 
-○0000001584○cgm_sz43h
+○0000001584○cgm_sz12
 ●0000001584●
 
 ○0000001585○sys20_adv00
 ●0000001585●
 
-○0000001586○cgm_sz42
+○0000001586○cgm_lc19
 ●0000001586●
 
 ○0000001587○sys20_adv00
 ●0000001587●
 
-○0000001588○cgm_kt14y
+○0000001588○cgm_lc19
 ●0000001588●
 
-○0000001589○cgm_sz42
+○0000001589○cgm_kt14
 ●0000001589●
 
 ○0000001590○sys20_adv00
 ●0000001590●
 
-○0000001591○cgm_kt14y
+○0000001591○cgm_sz43h
 ●0000001591●
 
-○0000001592○cgm_sz10
+○0000001592○sys20_adv00
 ●0000001592●
 
-○0000001593○sys20_adv00
+○0000001593○cgm_sz42
 ●0000001593●
 
-○0000001594○cgm_ch29h
+○0000001594○sys20_adv00
 ●0000001594●
 
-○0000001595○sys20_adv00
+○0000001595○cgm_kt14y
 ●0000001595●
 
-○0000001596○cgm_lc10
+○0000001596○cgm_sz42
 ●0000001596●
 
 ○0000001597○sys20_adv00
 ●0000001597●
 
-○0000001598○cgm_sz10h
+○0000001598○cgm_kt14y
 ●0000001598●
 
-○0000001599○sys20_adv00
+○0000001599○cgm_sz10
 ●0000001599●
 
-○0000001600○cgm_kt11
+○0000001600○sys20_adv00
 ●0000001600●
 
-○0000001601○sys20_adv00
+○0000001601○cgm_ch29h
 ●0000001601●
 
 ○0000001602○sys20_adv00
 ●0000001602●
 
-○0000001603○kuro
+○0000001603○cgm_lc10
 ●0000001603●
 
 ○0000001604○sys20_adv00
 ●0000001604●
 
-○0000001605○bg012n
+○0000001605○cgm_sz10h
 ●0000001605●
 
 ○0000001606○sys20_adv00
@@ -4792,160 +4792,160 @@
 ○0000001609○sys20_adv00
 ●0000001609●
 
-○0000001610○cgm_ak11
+○0000001610○kuro
 ●0000001610●
 
 ○0000001611○sys20_adv00
 ●0000001611●
 
-○0000001612○cgm_ak15
+○0000001612○bg012n
 ●0000001612●
 
 ○0000001613○sys20_adv00
 ●0000001613●
 
-○0000001614○cgm_kt25
+○0000001614○cgm_kt11
 ●0000001614●
 
-○0000001615○cgm_ak15
+○0000001615○sys20_adv00
 ●0000001615●
 
 ○0000001616○sys20_adv00
 ●0000001616●
 
-○0000001617○cgm_kt25
+○0000001617○cgm_ak11
 ●0000001617●
 
-○0000001618○cgm_ak11h
+○0000001618○sys20_adv00
 ●0000001618●
 
-○0000001619○sys20_adv00
+○0000001619○cgm_ak15
 ●0000001619●
 
-○0000001620○cgm_kt25
+○0000001620○sys20_adv00
 ●0000001620●
 
-○0000001621○cgm_ak30
+○0000001621○cgm_kt25
 ●0000001621●
 
-○0000001622○sys20_adv00
+○0000001622○cgm_ak15
 ●0000001622●
 
-○0000001623○cgm_ak11
+○0000001623○sys20_adv00
 ●0000001623●
 
-○0000001624○sys20_adv00
+○0000001624○cgm_kt25
 ●0000001624●
 
-○0000001625○cgm_ak34
+○0000001625○cgm_ak11h
 ●0000001625●
 
 ○0000001626○sys20_adv00
 ●0000001626●
 
-○0000001627○cgm_ak33
+○0000001627○cgm_kt25
 ●0000001627●
 
-○0000001628○sys20_adv00
+○0000001628○cgm_ak30
 ●0000001628●
 
 ○0000001629○sys20_adv00
 ●0000001629●
 
-○0000001630○cgm_kt25
+○0000001630○cgm_ak11
 ●0000001630●
 
 ○0000001631○sys20_adv00
 ●0000001631●
 
-○0000001632○cgm_ak23
+○0000001632○cgm_ak34
 ●0000001632●
 
 ○0000001633○sys20_adv00
 ●0000001633●
 
-○0000001634○sys20_adv00
+○0000001634○cgm_ak33
 ●0000001634●
 
-○0000001635○cgm_ak15
+○0000001635○sys20_adv00
 ●0000001635●
 
 ○0000001636○sys20_adv00
 ●0000001636●
 
-○0000001637○cgm_ak31
+○0000001637○cgm_kt25
 ●0000001637●
 
 ○0000001638○sys20_adv00
 ●0000001638●
 
-○0000001639○cgm_ak34
+○0000001639○cgm_ak23
 ●0000001639●
 
 ○0000001640○sys20_adv00
 ●0000001640●
 
-○0000001641○cgm_ak12h
+○0000001641○sys20_adv00
 ●0000001641●
 
-○0000001642○sys20_adv00
+○0000001642○cgm_ak15
 ●0000001642●
 
-○0000001643○cgm_ak33
+○0000001643○sys20_adv00
 ●0000001643●
 
-○0000001644○sys20_adv00
+○0000001644○cgm_ak31
 ●0000001644●
 
-○0000001645○cgm_ak23
+○0000001645○sys20_adv00
 ●0000001645●
 
-○0000001646○sys20_adv00
+○0000001646○cgm_ak34
 ●0000001646●
 
-○0000001647○cgm_kt31
+○0000001647○sys20_adv00
 ●0000001647●
 
-○0000001648○cgm_ak23
+○0000001648○cgm_ak12h
 ●0000001648●
 
 ○0000001649○sys20_adv00
 ●0000001649●
 
-○0000001650○cgm_kt31
+○0000001650○cgm_ak33
 ●0000001650●
 
-○0000001651○cgm_ak13
+○0000001651○sys20_adv00
 ●0000001651●
 
-○0000001652○sys20_adv00
+○0000001652○cgm_ak23
 ●0000001652●
 
-○0000001653○cgm_kt31
+○0000001653○sys20_adv00
 ●0000001653●
 
-○0000001654○cgm_ak11
+○0000001654○cgm_kt31
 ●0000001654●
 
-○0000001655○sys20_adv00
+○0000001655○cgm_ak23
 ●0000001655●
 
 ○0000001656○sys20_adv00
 ●0000001656●
 
-○0000001657○cgm_ak12
+○0000001657○cgm_kt31
 ●0000001657●
 
-○0000001658○sys20_adv00
+○0000001658○cgm_ak13
 ●0000001658●
 
-○0000001659○cgm_ak31
+○0000001659○sys20_adv00
 ●0000001659●
 
-○0000001660○sys20_adv00
+○0000001660○cgm_kt31
 ●0000001660●
 
-○0000001661○cgm_ak30
+○0000001661○cgm_ak11
 ●0000001661●
 
 ○0000001662○sys20_adv00
@@ -4954,12 +4954,33 @@
 ○0000001663○sys20_adv00
 ●0000001663●
 
-○0000001664○kuro
+○0000001664○cgm_ak12
 ●0000001664●
 
-○0000001665○sys00_sys00
+○0000001665○sys20_adv00
 ●0000001665●
 
-○0000001666○seen01023
+○0000001666○cgm_ak31
 ●0000001666●
+
+○0000001667○sys20_adv00
+●0000001667●
+
+○0000001668○cgm_ak30
+●0000001668●
+
+○0000001669○sys20_adv00
+●0000001669●
+
+○0000001670○sys20_adv00
+●0000001670●
+
+○0000001671○kuro
+●0000001671●
+
+○0000001672○sys00_sys00
+●0000001672●
+
+○0000001673○seen01023
+●0000001673●
 

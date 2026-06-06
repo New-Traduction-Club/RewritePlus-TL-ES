@@ -19,7 +19,7 @@
 ○0000000006○篝
 ●0000000006●
 
-○0000000007○"Destructioooooon!!"
+○0000000007○"Destructioooooon!"
 ●0000000007●
 
 ○0000000008○瑚太朗
@@ -40,7 +40,7 @@
 ○0000000013○瑚太朗
 ●0000000013●
 
-○0000000014○"Gaaaaaaaaaaaaaaaaaaaaaah, boobs will save the world!!"
+○0000000014○"Gaaaaaaaaaaaaaaaaaaaaaah, boobs will save the world!"
 ●0000000014●
 
 ○0000000015○篝
@@ -94,7 +94,7 @@
 ○0000000031○瑚太朗
 ●0000000031●
 
-○0000000032○"Boobs are the friggin' beeeeeeeeeeeeeeeeeeeeeeeeeest!!"
+○0000000032○"Boobs are the friggin' beeeeeeeeeeeeeeeeeeeeeeeeeest!"
 ●0000000032●
 
 ○0000000033○snull
@@ -130,7 +130,7 @@
 ○0000000044○Man
 ●0000000044●
 
-○0000000045○"We cannot afford to lose... the hearts of boob-lovers!"
+○0000000045○"We can't afford to lose... the hearts of boob-lovers!"
 ●0000000045●
 
 ○0000000046○瑚太朗
@@ -181,7 +181,7 @@
 ○0000000061○Gentleman
 ●0000000061●
 
-○0000000062○"Falter not! Our hearts are one!!"
+○0000000062○"Falter not! Our hearts are one!"
 ●0000000062●
 
 ○0000000063○瑚太朗
@@ -274,13 +274,13 @@
 ○0000000092○瑚太朗
 ●0000000092●
 
-○0000000093○"And traveling off to space isn't something I can dooooooooooooooooooooooo!!"
+○0000000093○"And traveling off to space isn't something I can dooooooooooooooooooooooo!"
 ●0000000093●
 
 ○0000000094○瑚太朗
 ●0000000094●
 
-○0000000095○"Gaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!!"
+○0000000095○"Gaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!"
 ●0000000095●
 
 ○0000000096○ef_ak_oppai_moji

@@ -196,7 +196,7 @@
 ○0000000067○吉野
 ●0000000067●
 
-○0000000068○"...Goddammit. Why'd I have to get stuck with you, of all people?"
+○0000000068○"...God damn it. Why'd I have to get stuck with you, of all people?"
 ●0000000068●
 
 ○0000000069○瑚太朗
@@ -283,7 +283,7 @@
 ○0000000096○瑚太朗
 ●0000000096●
 
-○0000000097○"We already used 'bad'. You can't just add 'taste' to it and act like it's a new word."
+○0000000097○"We already used 'bad.' You can't just add 'taste' to it and act like it's a new word."
 ●0000000097●
 
 ○0000000098○吉野
@@ -370,7 +370,7 @@
 ○0000000125○吉野
 ●0000000125●
 
-○0000000126○"Ugh, creepy... Besides, aren't you always going to your whatever after school?"
+○0000000126○"Yuck... Besides, aren't you always going to your whatever after school?"
 ●0000000126●
 
 ○0000000127○瑚太朗
@@ -388,7 +388,7 @@
 ○0000000131○瑚太朗
 ●0000000131●
 
-○0000000132○"What impression is that, Yanagizawa?"
+○0000000132○"What impression is that, Yanagizawa Shingo?"
 ●0000000132●
 
 ○0000000133○吉野
@@ -406,7 +406,7 @@
 ○0000000137○吉野
 ●0000000137●
 
-○0000000138○"It's from blackjack!!"
+○0000000138○"It's from blackjack!"
 ●0000000138●
 
 ○0000000139○瑚太朗
@@ -463,7 +463,7 @@
 ○0000000156○I glance at the inner yard.
 ●0000000156●
 
-○0000000157○Sizuru doesn't seem to be there today.
+○0000000157○Shizuru doesn't seem to be there today.
 ●0000000157●
 
 ○0000000158○瑚太朗
@@ -484,13 +484,13 @@
 ○0000000163○瑚太朗
 ●0000000163●
 
-○0000000164○"Yeah. Is Sizuru with you?"
+○0000000164○"Yeah. Is Shizuru with you?"
 ●0000000164●
 
 ○0000000165○小鳥
 ●0000000165●
 
-○0000000166○"Sizu didn't come today."
+○0000000166○"Shizu didn't come today."
 ●0000000166●
 
 ○0000000167○瑚太朗
@@ -526,7 +526,7 @@
 ○0000000177○Hurry, like Kotori asked
 ●0000000177●
 
-○0000000178○Go look for Sizuru
+○0000000178○Go look for Shizuru
 ●0000000178●
 
 ○0000000179○Hmm. Whatever.
@@ -538,7 +538,7 @@
 ○0000000181○Well, whatever. I can afford to make a detour or two.
 ●0000000181●
 
-○0000000182○I swing by the first year floor.
+○0000000182○I swing by the first-year floor.
 ●0000000182●
 
 ○0000000183○瑚太朗
@@ -550,7 +550,7 @@
 ○0000000185○What class did I see her in before?
 ●0000000185●
 
-○0000000186○I continue down the corridor while observing the many first years out of the corner of my eye.
+○0000000186○I continue down the corridor while observing the many first-years out of the corner of my eye.
 ●0000000186●
 
 ○0000000187○瑚太朗
@@ -580,7 +580,7 @@
 ○0000000195○女生徒
 ●0000000195●
 
-○0000000196○"Goodbye then, Nakatsu."
+○0000000196○"Goodbye, then, Nakatsu."
 ●0000000196●
 
 ○0000000197○A tall, timid-looking girl bids someone farewell in front of an open door.
@@ -640,7 +640,7 @@
 ○0000000215○"......"
 ●0000000215●
 
-○0000000216○Sizuru nods twice.
+○0000000216○Shizuru nods twice.
 ●0000000216●
 
 ○0000000217○瑚太朗
@@ -820,7 +820,7 @@
 ○0000000275○"......"
 ●0000000275●
 
-○0000000276○Sizuru still seems to have mixed feelings about this, but nonetheless, she moves to clean the blackboard.
+○0000000276○Shizuru still seems to have mixed feelings about this, but nonetheless, she moves to clean the blackboard.
 ●0000000276●
 
 ○0000000277○瑚太朗
@@ -835,13 +835,13 @@
 ○0000000280○"Wow..."
 ●0000000280●
 
-○0000000281○Sizuru seems impressed by my knowledge.
+○0000000281○Shizuru seems impressed by my knowledge.
 ●0000000281●
 
 ○0000000282○瑚太朗
 ●0000000282●
 
-○0000000283○"Some people call erasers 'dusters'."
+○0000000283○"Some people call erasers 'dusters.'"
 ●0000000283●
 
 ○0000000284○静流
@@ -850,7 +850,7 @@
 ○0000000285○"Wow..."
 ●0000000285●
 
-○0000000286○Sizuru is even more impressed.
+○0000000286○Shizuru is even more impressed.
 ●0000000286●
 
 ○0000000287○静流
@@ -922,7 +922,7 @@
 ○0000000309○"......"
 ●0000000309●
 
-○0000000310○Sizuru nods a few times.
+○0000000310○Shizuru nods a few times.
 ●0000000310●
 
 ○0000000311○静流
@@ -1015,7 +1015,7 @@
 ○0000000340○The members currently present are Prez, the Ohtori siblings, and Kotori.
 ●0000000340●
 
-○0000000341○Sizuru and Lucia haven't officially joined the club, so I'm happy enough to see them show up when they have time.
+○0000000341○Shizuru and Lucia haven't officially joined the club, so I'm happy enough to see them show up when they have time.
 ●0000000341●
 
 ○0000000342○Things with those two will most likely remain lax for the foreseeable future.
@@ -1141,7 +1141,7 @@
 ○0000000382○ちはや
 ●0000000382●
 
-○0000000383○"Eghh?"
+○0000000383○"Really?"
 ●0000000383●
 
 ○0000000384○小鳥
@@ -1159,7 +1159,7 @@
 ○0000000388○咲夜
 ●0000000388●
 
-○0000000389○"Insipidrou, I would appreciate if you could carry out your asinine, inane, and worthless ramblings in a more silent voice."
+○0000000389○"Insipidrou, I would appreciate if you could carry out your foolish, boorish, and churlish ramblings in a more silent voice."
 ●0000000389●
 
 ○0000000390○瑚太朗
@@ -1387,7 +1387,7 @@
 ○0000000464○瑚太朗
 ●0000000464●
 
-○0000000465○"The Internet is amazing!"
+○0000000465○"The internet is amazing!"
 ●0000000465●
 
 ○0000000466○朱音
@@ -1537,13 +1537,13 @@
 ○0000000514○瑚太朗
 ●0000000514●
 
-○0000000515○"Well yeah, but..."
+○0000000515○"Well, yeah, but..."
 ●0000000515●
 
 ○0000000516○ちはや
 ●0000000516●
 
-○0000000517○"I'll be going ahead then."
+○0000000517○"I'll be going ahead, then."
 ●0000000517●
 
 ○0000000518○瑚太朗
@@ -1600,7 +1600,7 @@
 ○0000000535○Now that I think about it, although he's her guardian, that ninja dude is a bit weird in the head, too. It might be a good idea to look for Chihaya and make sure she doesn't get herself killed.
 ●0000000535●
 
-○0000000536○Look out for Chihaya on my own
+○0000000536○Go solo and follow Chihaya
 ●0000000536●
 
 ○0000000537○Stay behind
@@ -1618,7 +1618,7 @@
 ○0000000541○"Hmm."
 ●0000000541●
 
-○0000000542○Look out for Chihaya on my own
+○0000000542○Go solo and follow Chihaya
 ●0000000542●
 
 ○0000000543○Stay behind
@@ -1717,7 +1717,7 @@
 ○0000000574○I'm stopped at step four.
 ●0000000574●
 
-○0000000575○I turn around and find an unfamiliar freshman girl.
+○0000000575○I turn around and find an unfamiliar first-year girl.
 ●0000000575●
 
 ○0000000576○瑚太朗
@@ -1792,7 +1792,7 @@
 ○0000000599○瑚太朗
 ●0000000599●
 
-○0000000600○"...What's your name, first year?"
+○0000000600○"...What's your name, first-year?"
 ●0000000600●
 
 ○0000000601○女子生徒
@@ -1918,7 +1918,7 @@
 ○0000000641○"I-I see."
 ●0000000641●
 
-○0000000642○Nishinari bows and and scurries away.
+○0000000642○Nishinari bows and scurries away.
 ●0000000642●
 
 ○0000000643○瑚太朗
@@ -2242,7 +2242,7 @@
 ○0000000750○朱音
 ●0000000750●
 
-○0000000751○"In other words, you want to verify supernatural phenomena."
+○0000000751○"In other words, you want to verify paranormal phenomena."
 ●0000000751●
 
 ○0000000752○朱音
@@ -2281,7 +2281,7 @@
 ○0000000763○朱音
 ●0000000763●
 
-○0000000764○"Do you know what this is, Mr. Supernatural Phenomena Lover?"
+○0000000764○"Do you know what this is, Mr. Paranormal Phenomena Lover?"
 ●0000000764●
 
 ○0000000765○瑚太朗
@@ -2398,7 +2398,7 @@
 ○0000000802○The question itself is important here...
 ●0000000802●
 
-○0000000803○Lewd question
+○0000000803○Dirty question
 ●0000000803●
 
 ○0000000804○Romantic question
@@ -2449,7 +2449,7 @@
 ○0000000819○"I won't lie. If I had to sum it up, the one thing I'm most interested in right now is world peace."
 ●0000000819●
 
-○0000000820○The planchette suddenly darts to the word "NO".
+○0000000820○The planchette suddenly darts to the word "NO."
 ●0000000820●
 
 ○0000000821○朱音
@@ -2461,7 +2461,7 @@
 ○0000000823○瑚太朗
 ●0000000823●
 
-○0000000824○"No. This is... the power of the spirits! We're experiencing a supernatural phenomenon firsthand!"
+○0000000824○"No. This is... the power of the spirits! We're experiencing a spiritual phenomenon firsthand!"
 ●0000000824●
 
 ○0000000825○瑚太朗
@@ -2545,7 +2545,7 @@
 ○0000000851○"At least... not in this room..."
 ●0000000851●
 
-○0000000852○The fickleness of my lewd heart led me to be subjugated by her power.
+○0000000852○The fickleness of my dirty mind led me to be subjugated by her power.
 ●0000000852●
 
 ○0000000853○瑚太朗
@@ -2632,7 +2632,7 @@
 ○0000000880○瑚太朗
 ●0000000880●
 
-○0000000881○"DAAAAAMN!!"
+○0000000881○"DAAAAAMN!"
 ●0000000881●
 
 ○0000000882○But in that moment, history... or rather, the planchette... moves.
@@ -2644,7 +2644,7 @@
 ○0000000884○"What?!"
 ●0000000884●
 
-○0000000885○The heart-shaped piece of wood stops on "YES".
+○0000000885○The heart-shaped piece of wood stops on "YES."
 ●0000000885●
 
 ○0000000886○瑚太朗
@@ -2872,7 +2872,7 @@
 ○0000000960○瑚太朗
 ●0000000960●
 
-○0000000961○"And just how do you think you're― Guaaahhhh?!"
+○0000000961○"And just how do you think you're―Guaaahhhh?!"
 ●0000000961●
 
 ○0000000962○Akane calmly twists my arm.
@@ -2884,7 +2884,7 @@
 ○0000000964○瑚太朗
 ●0000000964●
 
-○0000000965○"I've never been in this much PAIN in my life!!"
+○0000000965○"I've never been in this much PAIN in my life!"
 ●0000000965●
 
 ○0000000966○朱音
@@ -3061,7 +3061,7 @@
 ○0000001023○After a few moments, the planchette slowly moves.
 ●0000001023●
 
-○0000001024○It stops on "NO".
+○0000001024○It stops on "NO."
 ●0000001024●
 
 ○0000001025○瑚太朗
@@ -3097,7 +3097,7 @@
 ○0000001035○The planchette moves to the other side of the board.
 ●0000001035●
 
-○0000001036○"YES".
+○0000001036○"YES."
 ●0000001036●
 
 ○0000001037○瑚太朗
@@ -3112,7 +3112,7 @@
 ○0000001040○"Will I ever have a girlfriend?"
 ●0000001040●
 
-○0000001041○"YES".
+○0000001041○"YES."
 ●0000001041●
 
 ○0000001042○瑚太朗
@@ -3127,7 +3127,7 @@
 ○0000001045○"Will that happen within a year?"
 ●0000001045●
 
-○0000001046○"YES".
+○0000001046○"YES."
 ●0000001046●
 
 ○0000001047○瑚太朗
@@ -3142,7 +3142,7 @@
 ○0000001050○"Umm... Will I be rich?"
 ●0000001050●
 
-○0000001051○"YES".
+○0000001051○"YES."
 ●0000001051●
 
 ○0000001052○瑚太朗
@@ -3151,7 +3151,7 @@
 ○0000001053○"Could you convey the amount of my wealth in a number? Let's say 1 stands for part-time worker, and 9 for oil tycoon."
 ●0000001053●
 
-○0000001054○"9".
+○0000001054○"9."
 ●0000001054●
 
 ○0000001055○瑚太朗
@@ -3178,7 +3178,7 @@
 ○0000001062○"Oh, right. Does Senri Akane love me? I know it's a no, but you can't blame a man for tryin', right?"
 ●0000001062●
 
-○0000001063○"YES".
+○0000001063○"YES."
 ●0000001063●
 
 ○0000001064○瑚太朗
@@ -3211,7 +3211,7 @@
 ○0000001073○"Is there anyone else in our group that loves me?"
 ●0000001073●
 
-○0000001074○"YES".
+○0000001074○"YES."
 ●0000001074●
 
 ○0000001075○瑚太朗
@@ -3220,7 +3220,7 @@
 ○0000001076○"H-How many?"
 ●0000001076●
 
-○0000001077○"4".
+○0000001077○"4."
 ●0000001077●
 
 ○0000001078○瑚太朗
@@ -3430,7 +3430,7 @@
 ○0000001146○瑚太朗
 ●0000001146●
 
-○0000001147○"Sounds professional... and kind of like 'Cry Ant'."
+○0000001147○"Sounds professional... and kind of like 'Cry Ant.'"
 ●0000001147●
 
 ○0000001148○瑚太朗
@@ -3760,7 +3760,7 @@
 ○0000001257○瑚太朗
 ●0000001257●
 
-○0000001258○"DAAAAAMN!!"
+○0000001258○"DAAAAAMN!"
 ●0000001258●
 
 ○0000001259○I knew this would happen, but it still frustrates me.
@@ -3796,7 +3796,7 @@
 ○0000001269○"Idiot."
 ●0000001269●
 
-○0000001270○Sender: Sizuru 
+○0000001270○Sender: Shizuru 
 ●0000001270●
 
 ○0000001271○"Hello."

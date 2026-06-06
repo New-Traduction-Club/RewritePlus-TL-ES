@@ -112,13 +112,13 @@
 ○0000000039○I have no idea what it was.
 ●0000000039●
 
-○0000000040○It's just a beast of the forest.
+○0000000040○It's just a familiar of the forest.
 ●0000000040●
 
 ○0000000041○瑚太朗
 ●0000000041●
 
-○0000000042○"...The Monster Investigation Unit."
+○0000000042○"...The Familiar Investigation Unit."
 ●0000000042●
 
 ○0000000043○It sounds pretty fake when I try vocalizing it.
@@ -160,7 +160,7 @@
 ○0000000055○It'll eventually turn into a proper river.
 ●0000000055●
 
-○0000000056○Would the beast really go upstream if the flow is this strong, though?
+○0000000056○Would the familiar really go upstream if the flow is this strong, though?
 ●0000000056●
 
 ○0000000057○I have no way of following its trail underwater.
@@ -274,7 +274,7 @@
 ○0000000093○瑚太朗
 ●0000000093●
 
-○0000000094○"...Mhh!!"
+○0000000094○"...Mhh!"
 ●0000000094●
 
 ○0000000095○I feel the presence of something powerful.
@@ -295,7 +295,7 @@
 ○0000000100○I hold my breath...
 ●0000000100●
 
-○0000000101○...and slowly sneak towards it.
+○0000000101○...and slowly sneak toward it.
 ●0000000101●
 
 ○0000000102○Hyaaaah...
@@ -367,7 +367,7 @@
 ○0000000125○瑚太朗
 ●0000000125●
 
-○0000000126○"You've gotta be kidding me!!"
+○0000000126○"You've gotta be kidding me!"
 ●0000000126●
 
 ○0000000127○吉野
@@ -403,10 +403,10 @@
 ○0000000137○瑚太朗
 ●0000000137●
 
-○0000000138○"Uoooohh!!"
+○0000000138○"Uoooohh!"
 ●0000000138●
 
-○0000000139○We force each other forwards and backwards, refusing to give up ground.
+○0000000139○We force each other forward and backward, refusing to give up ground.
 ●0000000139●
 
 ○0000000140○瑚太朗
@@ -505,7 +505,7 @@
 ○0000000171○First the martial artist yesterday, and now this. Is this kind of thing popular nowadays?
 ●0000000171●
 
-○0000000172○No wonder people keep mistaking training dummies for wooden men living in the forest when everyone and their moms are doing stuff like this.
+○0000000172○No wonder people keep mistaking training dummies for treefolk living in the forest when everyone and their moms are doing stuff like this.
 ●0000000172●
 
 ○0000000173○吉野
@@ -523,7 +523,7 @@
 ○0000000177○吉野
 ●0000000177●
 
-○0000000178○"It does! That's why I'm doing it!!"
+○0000000178○"It does! That's why I'm doing it!"
 ●0000000178●
 
 ○0000000179○瑚太朗
@@ -646,7 +646,7 @@
 ○0000000218○吉野
 ●0000000218●
 
-○0000000219○"I'll hit you so hard that he'll have no choice but to come out. Make sure to wash up, as I'll be sending you to an early―"
+○0000000219○"I'll hit you so hard that he'll have no choice but to come out. Make sure to wash up, as I'll be sending you―"
 ●0000000219●
 
 ○0000000220○瑚太朗
@@ -658,7 +658,7 @@
 ○0000000222○吉野
 ●0000000222●
 
-○0000000223○"I'm not talking about sending you a pie!!"
+○0000000223○"I'm not talking about sending you a pie!"
 ●0000000223●
 
 ○0000000224○瑚太朗
@@ -763,7 +763,7 @@
 ○0000000257○This guy sounds like his brain is stuck in puberty.
 ●0000000257●
 
-○0000000258○Yoshino... We're second years in high school already...
+○0000000258○Yoshino... We're second-years in high school already...
 ●0000000258●
 
 ○0000000259○瑚太朗
@@ -775,7 +775,7 @@
 ○0000000261○瑚太朗
 ●0000000261●
 
-○0000000262○"There might be monsters here."
+○0000000262○"There might be familiars here."
 ●0000000262●
 
 ○0000000263○吉野
@@ -859,13 +859,13 @@
 ○0000000289○I stop and strain my ears.
 ●0000000289●
 
-○0000000290○It might have been the beast.
+○0000000290○It might have been the familiar.
 ●0000000290●
 
 ○0000000291○Anxiety begins welling up in my heart.
 ●0000000291●
 
-○0000000292○I'm following a potential monster, but I haven't quite figured out what I'm going to do if I actually find it.
+○0000000292○I'm following a potential familiar, but I haven't quite figured out what I'm going to do if I actually find it.
 ●0000000292●
 
 ○0000000293○I better come up with a plan.
@@ -940,7 +940,7 @@
 ○0000000316○I need to be ready to spring into action at any moment.
 ●0000000316●
 
-○0000000317○I focus all my senses towards where I heard the sound.
+○0000000317○I focus all my senses toward where I heard the sound.
 ●0000000317●
 
 ○0000000318○*rustle* *rustle*
@@ -985,7 +985,7 @@
 ○0000000331○瑚太朗
 ●0000000331●
 
-○0000000332○"Got you!!"
+○0000000332○"Got you!"
 ●0000000332●
 
 ○0000000333○I stretch out my right arm and grab hold of the animal and some leaves.
@@ -1015,13 +1015,13 @@
 ○0000000341○瑚太朗
 ●0000000341●
 
-○0000000342○"Gyaaaaaaaaaaa...!!"
+○0000000342○"Gyaaaaaaaaaaa...!"
 ●0000000342●
 
-○0000000343○Disgusting!! Gross!!
+○0000000343○Ewww! Gross!
 ●0000000343●
 
-○0000000344○It's wriggling all over the place!!
+○0000000344○It's wriggling all over the place!
 ●0000000344●
 
 ○0000000345○Why is it so long?!
@@ -1030,19 +1030,19 @@
 ○0000000346○And brown?!
 ●0000000346●
 
-○0000000347○Its body is so squishy... in my hands...!!
+○0000000347○Its body is so squishy... in my hands...!
 ●0000000347●
 
 ○0000000348○瑚太朗
 ●0000000348●
 
-○0000000349○"GROSS!!"
+○0000000349○"GROSS!"
 ●0000000349●
 
 ○0000000350○瑚太朗
 ●0000000350●
 
-○0000000351○"Gyaabwh!!"
+○0000000351○"Gyaabwh!"
 ●0000000351●
 
 ○0000000352○I throw it into the distance.
@@ -1357,7 +1357,7 @@
 ○0000000455○...Is this even a snake?
 ●0000000455●
 
-○0000000456○It looks like nothing more than a mountain of humus.
+○0000000456○It looks like nothing more than a mountain of mulch.
 ●0000000456●
 
 ○0000000457○Some land that's been forced up from underground...
@@ -1513,7 +1513,7 @@
 ○0000000507○朱音
 ●0000000507●
 
-○0000000508○"You went all alone? You know... You're taking this a bit too seriously."
+○0000000508○"You went all alone? You know... you're taking this a bit too seriously."
 ●0000000508●
 
 ○0000000509○瑚太朗

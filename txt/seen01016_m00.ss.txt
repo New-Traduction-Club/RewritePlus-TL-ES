@@ -4,13 +4,13 @@
 ○0000000001○ルチア
 ●0000000001●
 
-○0000000002○"Haaaah!!"
+○0000000002○"Haaaah!"
 ●0000000002●
 
 ○0000000003○瑚太朗
 ●0000000003●
 
-○0000000004○"Guehh!!"
+○0000000004○"Guehh!"
 ●0000000004●
 
 ○0000000005○瑚太朗
@@ -52,7 +52,7 @@
 ○0000000018○瑚太朗
 ●0000000018●
 
-○0000000019○"I can rewrite this to read 'be careful of infernonza'."
+○0000000019○"I can rewrite this to read 'be careful of infernonza.'"
 ●0000000019●
 
 ○0000000020○瑚太朗
@@ -76,13 +76,13 @@
 ○0000000027○瑚太朗
 ●0000000027●
 
-○0000000028○"There's graffiti on the wall saying 'HONATSU☆LOVE'."
+○0000000028○"There's graffiti on the wall saying 'HONATSU☆LOVE.'"
 ●0000000028●
 
 ○0000000029○瑚太朗
 ●0000000029●
 
-○0000000030○"I'll change it to 'HONATSU☆LIVE'."
+○0000000030○"I'll change it to 'HONATSU☆LIVE.'"
 ●0000000030●
 
 ○0000000031○瑚太朗
@@ -94,7 +94,7 @@
 ○0000000034○瑚太朗
 ●0000000034●
 
-○0000000035○"There's more graffiti on the wall saying 'SHINATSU♪LOVE'."
+○0000000035○"There's more graffiti on the wall saying 'SHINATSU♪LOVE.'"
 ●0000000035●
 
 ○0000000036○瑚太朗
@@ -106,7 +106,7 @@
 ○0000000038○瑚太朗
 ●0000000038●
 
-○0000000039○"I'll change this to 'SHINATSU♪LOVA'."
+○0000000039○"I'll change this to 'SHINATSU♪LOVA.'"
 ●0000000039●
 
 ○0000000040○瑚太朗
@@ -202,7 +202,7 @@
 ○0000000074○瑚太朗
 ●0000000074●
 
-○0000000075○"Did you see Gaki no Tsukai yesterday?"
+○0000000075○"Did you catch GakiTsuka yesterday?"
 ●0000000075●
 
 ○0000000077○生徒
@@ -214,7 +214,7 @@
 ○0000000079○生徒
 ●0000000079●
 
-○0000000080○"Yamasaki can produce some real hits sometimes."
+○0000000080○"Yamazaki can produce some real hits sometimes."
 ●0000000080●
 
 ○0000000081○瑚太朗
@@ -517,13 +517,13 @@
 ○0000000203○ルチア
 ●0000000203●
 
-○0000000204○"YOU'RE THE WORST MAN IN THE WORLD!!"
+○0000000204○"YOU'RE THE WORST MAN IN THE WORLD!"
 ●0000000204●
 
 ○0000000205○瑚太朗
 ●0000000205●
 
-○0000000206○"Guehh!!"
+○0000000206○"Guehh!"
 ●0000000206●
 
 ○0000000207○ルチア
@@ -589,13 +589,13 @@
 ○0000000230○ルチア
 ●0000000230●
 
-○0000000231○"STOP MAKING UP NONSENSE!!"
+○0000000231○"STOP MAKING UP NONSENSE!"
 ●0000000231●
 
 ○0000000232○瑚太朗
 ●0000000232●
 
-○0000000233○"Guehh!!"
+○0000000233○"Guehh!"
 ●0000000233●
 
 ○0000000234○Even a light joke is enough to trigger her rage at this point.
@@ -715,13 +715,13 @@
 ○0000000276○ルチア
 ●0000000276●
 
-○0000000277○"YOU PERVERT!!!"
+○0000000277○"YOU PERVERT!"
 ●0000000277●
 
 ○0000000278○瑚太朗
 ●0000000278●
 
-○0000000279○"Guehh!!"
+○0000000279○"Guehh!"
 ●0000000279●
 
 ○0000000280○ルチア
@@ -862,7 +862,7 @@
 ○0000000331○瑚太朗
 ●0000000331●
 
-○0000000332○"Let's write up a request on it. I'm sure Batman will do it for me."
+○0000000332○"Let's write up a request on it under the name XYZ. I'm sure our guy Saiba Ryo would help a brother out."
 ●0000000332●
 
 ○0000000333○瑚太朗
@@ -952,7 +952,7 @@
 ○0000000365○瑚太朗
 ●0000000365●
 
-○0000000366○"Namihe. Let's traverse the Arizona skies."
+○0000000366○"Namihei. Let's traverse the Arizona skies."
 ●0000000366●
 
 ○0000000367○瑚太朗
@@ -1303,7 +1303,7 @@
 ○0000000497○ルチア
 ●0000000497●
 
-○0000000498○"I am not!!"
+○0000000498○"I am not!"
 ●0000000498●
 
 ○0000000499○This kind of approach seems like the most fun.
@@ -1345,7 +1345,7 @@
 ○0000000513○瑚太朗
 ●0000000513●
 
-○0000000514○"Guehh!!"
+○0000000514○"Guehh!"
 ●0000000514●
 
 ○0000000515○■マッピー／既読■　ID:

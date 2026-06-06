@@ -166,7 +166,8 @@
 ○0000000055○I check the comments on our blog again.
 ●0000000055●
 
-○0000000056○ID: "Anonymous/second year of [redacted] class" 
+○0000000056○ID: "Anonymous/second year of [redacted] class"
+
 ●0000000056●
 
 ○0000000057○Title: "Ghost Location"
@@ -175,7 +176,8 @@
 ○0000000058○There're some woods close to my house. 
 ●0000000058●
 
-○0000000059○I heard a murder happened there and they're closed to the public now. 
+○0000000059○I heard a murder happened there and they're closed to the public now.
+
 ●0000000059●
 
 ○0000000060○Investigate it for me. Thankies.
@@ -193,2889 +195,2893 @@
 ○0000000064○"The content is perfectly fine, though. You've got to control yourself here."
 ●0000000064●
 
-○0000000065○ID: "Anonymous/first year of [redacted] class" 
+○0000000065○ID: "Anonymous/first year of [redacted] class"
+
 ●0000000065●
 
 ○0000000066○Title: "Re: Ghost Location"
 ●0000000066●
 
-○0000000067○I remember hearing boys in elementary school talking about that!
+○0000000067○Oh, that's where it is? I might be nearby!
 ●0000000067●
 
-○0000000068○Like, there were rooms with lots of charms attached to the wall. 
+○0000000068○I remember hearing boys in elementary school talking about that!
 ●0000000068●
 
-○0000000069○And there were letters spelling out curses on them and so on.
+○0000000069○Like, there were rooms with lots of charms attached to the wall. 
 ●0000000069●
 
-○0000000070○It'd be cool if ORS could check it out. 
+○0000000070○And there were letters spelling out curses on them and so on.
 ●0000000070●
 
-○0000000071○I'd be too scared to go there myself.
+○0000000071○It'd be cool if ORS could check it out. 
 ●0000000071●
 
-○0000000072○瑚太朗
+○0000000072○I'd be too scared to go there myself.
 ●0000000072●
 
-○0000000073○"Oh, that girl's a first year. I see, I see."
+○0000000073○瑚太朗
 ●0000000073●
 
-○0000000074○ちはや
+○0000000074○"Oh, that girl's a first-year. I see, I see."
 ●0000000074●
 
-○0000000075○"How is that important?"
+○0000000075○ちはや
 ●0000000075●
 
-○0000000076○小鳥
+○0000000076○"How is that important?"
 ●0000000076●
 
-○0000000077○"But I believe we can agree that this coincides with the information I have shared."
+○0000000077○小鳥
 ●0000000077●
 
-○0000000078○瑚太朗
+○0000000078○"But I believe we can agree that this coincides with the information I have shared."
 ●0000000078●
 
-○0000000079○"Yeah... All right, let's go and check it out then."
+○0000000079○瑚太朗
 ●0000000079●
 
-○0000000080○朱音
+○0000000080○"Yeah... All right, let's go and check it out then."
 ●0000000080●
 
-○0000000081○"I'll catch up later."
+○0000000081○朱音
 ●0000000081●
 
-○0000000082○瑚太朗
+○0000000082○"I'll catch up later."
 ●0000000082●
 
-○0000000083○"Huh? Will you really come?"
+○0000000083○瑚太朗
 ●0000000083●
 
-○0000000084○朱音
+○0000000084○"Huh? Will you really come?"
 ●0000000084●
 
-○0000000085○"I won't if you don't need me."
+○0000000085○朱音
 ●0000000085●
 
-○0000000086○瑚太朗
+○0000000086○"I won't if you don't need me."
 ●0000000086●
 
-○0000000087○"No, uh... I'd love for you to come with us."
+○0000000087○瑚太朗
 ●0000000087●
 
-○0000000088○ちはや
+○0000000088○"No, uh... I'd love for you to come with us."
 ●0000000088●
 
-○0000000089○"I think it'd be more fun if you came with us from the start."
+○0000000089○ちはや
 ●0000000089●
 
-○0000000090○朱音
+○0000000090○"I think it'd be more fun if you came with us from the start."
 ●0000000090●
 
-○0000000091○"Do you know whose property that abandoned building is? I can come right away if in your investigation you don't mind including an overnight stay in prison."
+○0000000091○朱音
 ●0000000091●
 
-○0000000092○In short, she's going to make sure our activities won't attract the eyes of law enforcement.
+○0000000092○"Do you know whose property that abandoned building is? I can come right away if in your investigation you don't mind including an overnight stay in prison."
 ●0000000092●
 
-○0000000093○瑚太朗
+○0000000093○In short, she's going to make sure our activities won't attract the eyes of law enforcement.
 ●0000000093●
 
-○0000000094○"Uh... Your help is much appreciated."
+○0000000094○瑚太朗
 ●0000000094●
 
-○0000000095○朱音
+○0000000095○"Uh... Your help is much appreciated."
 ●0000000095●
 
-○0000000096○"...Yes."
+○0000000096○朱音
 ●0000000096●
 
-○0000000097○ルチア
+○0000000097○"...Yes."
 ●0000000097●
 
-○0000000098○"An abandoned building... I hope it hasn't turned into a secret ground for delinquents."
+○0000000098○ルチア
 ●0000000098●
 
-○0000000099○瑚太朗
+○0000000099○"An abandoned building... I hope it hasn't turned into a secret ground for delinquents."
 ●0000000099●
 
-○0000000100○"We've got two damage dealers and two support/healers in the party. It'll be a piece of cake."
+○0000000100○瑚太朗
 ●0000000100●
 
-○0000000101○Damage dealers.
+○0000000101○"We've got two damage dealers and two support/healers in the party. It'll be a piece of cake."
 ●0000000101●
 
-○0000000102○Support/healers.
+○0000000102○Damage dealers.
 ●0000000102●
 
-○0000000103○小鳥
+○0000000103○Support/healers.
 ●0000000103●
 
-○0000000104○"...What about you?"
+○0000000104○小鳥
 ●0000000104●
 
-○0000000105○瑚太朗
+○0000000105○"...What about you?"
 ●0000000105●
 
-○0000000106○"My main weapon is courage."
+○0000000106○瑚太朗
 ●0000000106●
 
-○0000000107○小鳥
+○0000000107○"My main weapon is courage."
 ●0000000107●
 
-○0000000108○"A villager?"
+○0000000108○小鳥
 ●0000000108●
 
-○0000000109○ルチア
+○0000000109○"A villager?"
 ●0000000109●
 
-○0000000110○"A villager."
+○0000000110○ルチア
 ●0000000110●
 
-○0000000111○ちはや
+○0000000111○"A villager."
 ●0000000111●
 
-○0000000112○"Sounds like a villager."
+○0000000112○ちはや
 ●0000000112●
 
-○0000000113○瑚太朗
+○0000000113○"Sounds like a villager."
 ●0000000113●
 
-○0000000114○"......"
+○0000000114○瑚太朗
 ●0000000114●
 
-○0000000115○瑚太朗
+○0000000115○"......"
 ●0000000115●
 
-○0000000116○"Sizuru, you're the only one I can trust."
+○0000000116○瑚太朗
 ●0000000116●
 
-○0000000117○静流
+○0000000117○"Shizuru, you're the only one I can trust."
 ●0000000117●
 
-○0000000118○"......"
+○0000000118○静流
 ●0000000118●
 
-○0000000119○静流
+○0000000119○"......"
 ●0000000119●
 
-○0000000120○"......"
+○0000000120○静流
 ●0000000120●
 
-○0000000121○静流
+○0000000121○"......"
 ●0000000121●
 
-○0000000122○"A... florist...?"
+○0000000122○静流
 ●0000000122●
 
-○0000000123○In short, a villager.
+○0000000123○"A... florist...?"
 ●0000000123●
 
-○0000000124○瑚太朗
+○0000000124○In short, a villager.
 ●0000000124●
 
-○0000000125○"It should be somewhere near here."
+○0000000125○瑚太朗
 ●0000000125●
 
-○0000000126○We're in the woods in the middle of the residential district.
+○0000000126○"It should be somewhere near here."
 ●0000000126●
 
-○0000000127○That's not so rare in Kazamatsuri; any land left untended would soon turn into thick woods here.
+○0000000127○We're in the woods in the middle of the residential district.
 ●0000000127●
 
-○0000000128○瑚太朗
+○0000000128○That's not so rare in Kazamatsuri; any land left untended would soon turn into thick woods here.
 ●0000000128●
 
-○0000000129○"......"
+○0000000129○瑚太朗
 ●0000000129●
 
-○0000000130○I sense hesitation in the girls' steps.
+○0000000130○"......"
 ●0000000130●
 
-○0000000131○To be honest, I feel the same way. It may be an abandoned building, but we can't rule out the possibility of getting reported to police for trespassing.
+○0000000131○I sense hesitation in the girls' steps.
 ●0000000131●
 
-○0000000132○Akane may be able to do something with whoever's managing this place, but I have to wonder if even her influence can extend to the actual government.
+○0000000132○To be honest, I feel the same way. It may be an abandoned building, but we can't rule out the possibility of getting reported to police for trespassing.
 ●0000000132●
 
-○0000000133○瑚太朗
+○0000000133○Akane may be able to do something with whoever's managing this place, but I have to wonder if even her influence can extend to the actual government.
 ●0000000133●
 
-○0000000134○(I need to say something to cheer everyone up before things start turning sour!)
+○0000000134○瑚太朗
 ●0000000134●
 
-○0000000135○瑚太朗
+○0000000135○(I need to say something to cheer everyone up before things start turning sour!)
 ●0000000135●
 
-○0000000136○"Kotori."
+○0000000136○瑚太朗
 ●0000000136●
 
-○0000000137○小鳥
+○0000000137○"Kotori."
 ●0000000137●
 
-○0000000138○"Hm?"
+○0000000138○小鳥
 ●0000000138●
 
-○0000000139○瑚太朗
+○0000000139○"Hm?"
 ●0000000139●
 
-○0000000140○"Can you say something that would brighten the atmosphere a little? It looks like everyone's out of it from foreboding terror."
+○0000000140○瑚太朗
 ●0000000140●
 
-○0000000141○小鳥
+○0000000141○"Can you say something that would brighten the atmosphere a little? It looks like everyone's out of it from foreboding terror."
 ●0000000141●
 
-○0000000142○"Isn't that your job?"
+○0000000142○小鳥
 ●0000000142●
 
-○0000000143○瑚太朗
+○0000000143○"Isn't that your job?"
 ●0000000143●
 
-○0000000144○"I think a gag of yours would work better in this case, as mine don't carry as much healing power."
+○0000000144○瑚太朗
 ●0000000144●
 
-○0000000145○小鳥
+○0000000145○"I think a gag of yours would work better in this case, as mine don't carry as much healing power."
 ●0000000145●
 
-○0000000146○"If I went all serious, you'd be unable to continue from the pain in your stomachs."
+○0000000146○小鳥
 ●0000000146●
 
-○0000000147○瑚太朗
+○0000000147○"If I went all serious, you'd be unable to continue from the pain in your stomachs."
 ●0000000147●
 
-○0000000148○"Yeah, something like that would do."
+○0000000148○瑚太朗
 ●0000000148●
 
-○0000000149○小鳥
+○0000000149○"Yeah, something like that would do."
 ●0000000149●
 
-○0000000150○"In that case..."
+○0000000150○小鳥
 ●0000000150●
 
-○0000000151○小鳥
+○0000000151○"In that case..."
 ●0000000151●
 
-○0000000152○"I'll do an impression of our elementary school's PE teacher, Mr. Washizuka."
+○0000000152○小鳥
 ●0000000152●
 
-○0000000153○小鳥
+○0000000153○"I'll do an impression of our elementary school's PE teacher, Mr. Washizuka."
 ●0000000153●
 
-○0000000154○"Assemble...
+○0000000154○小鳥
 ●0000000154●
 
-○0000000155○ in group gymnastics formation...
+○0000000155○"Assemble...
 ●0000000155●
 
-○0000000156○ Initiate! (raspy voice)"
+○0000000156○ in group gymnastics formation...
 ●0000000156●
 
-○0000000157○ルチア
+○0000000157○ Initiate! (raspy voice)"
 ●0000000157●
 
-○0000000158○"...What's that?"
+○0000000158○ルチア
 ●0000000158●
 
-○0000000159○静流
+○0000000159○"...What's that?"
 ●0000000159●
 
-○0000000160○"......"
+○0000000160○静流
 ●0000000160●
 
-○0000000161○瑚太朗
+○0000000161○"......"
 ●0000000161●
 
-○0000000162○"Ah, yeah... that brings back memories..."
+○0000000162○瑚太朗
 ●0000000162●
 
-○0000000163○That was a bit too much of an inside joke.
+○0000000163○"Ah, yeah... that brings back memories..."
 ●0000000163●
 
-○0000000164○小鳥
+○0000000164○That was a bit too much of an inside joke.
 ●0000000164●
 
-○0000000165○"Ahah, I captured his voice perfectly."
+○0000000165○小鳥
 ●0000000165●
 
-○0000000166○瑚太朗
+○0000000166○"Ahah, I captured his voice perfectly."
 ●0000000166●
 
-○0000000167○"Yeah, that was pretty impressive."
+○0000000167○瑚太朗
 ●0000000167●
 
-○0000000168○I'm pretty sure he didn't sound THAT old, though.
+○0000000168○"Yeah, that was pretty impressive."
 ●0000000168●
 
-○0000000169○小鳥
+○0000000169○I'm pretty sure he didn't sound THAT old, though.
 ●0000000169●
 
-○0000000170○"That's my best joke from elementary school."
+○0000000170○小鳥
 ●0000000170●
 
-○0000000171○瑚太朗
+○0000000171○"That's my best joke from elementary school."
 ●0000000171●
 
-○0000000172○"Yeah..."
+○0000000172○瑚太朗
 ●0000000172●
 
-○0000000173○It seems that I've made a fatal tactical error in assigning personnel.
+○0000000173○"Yeah..."
 ●0000000173●
 
-○0000000174○ちはや
+○0000000174○It seems that I've made a fatal tactical error in assigning personnel.
 ●0000000174●
 
-○0000000175○"Ahahaha! What was that?!"
+○0000000175○ちはや
 ●0000000175●
 
-○0000000176○Though it still seems to have worked on a few easily amused members.
+○0000000176○"Ahahaha! What was that?!"
 ●0000000176●
 
-○0000000177○小鳥
+○0000000177○Though it still seems to have worked on a few easily amused members.
 ●0000000177●
 
-○0000000178○"As expected of Chii! I always knew she was a woman with a good sense of humor!"
+○0000000178○小鳥
 ●0000000178●
 
-○0000000179○瑚太朗
+○0000000179○"As expected of Chii! I always knew she was a woman with a good sense of humor!"
 ●0000000179●
 
-○0000000180○"Ah, yeah..."
+○0000000180○瑚太朗
 ●0000000180●
 
-○0000000181○After a while, we reach something that looks like a building.
+○0000000181○"Ah, yeah..."
 ●0000000181●
 
-○0000000182○瑚太朗
+○0000000182○After a while, we reach something that looks like a building.
 ●0000000182●
 
-○0000000183○"This is it."
+○0000000183○瑚太朗
 ●0000000183●
 
-○0000000184○I can barely make out the structure through all the trees growing around it. It looks like a prefab house built on top of an even older building.
+○0000000184○"This is it."
 ●0000000184●
 
-○0000000185○ルチア
+○0000000185○I can barely make out the structure through all the trees growing around it. It looks like a prefab house built on top of an even older building.
 ●0000000185●
 
-○0000000186○"Mh... Look."
+○0000000186○ルチア
 ●0000000186●
 
-○0000000187○瑚太朗
+○0000000187○"Mh... Look."
 ●0000000187●
 
-○0000000188○"Hm?"
+○0000000188○瑚太朗
 ●0000000188●
 
-○0000000189○ルチア
+○0000000189○"Hm?"
 ●0000000189●
 
-○0000000190○"The entrance is boarded up. We can't enter like this."
+○0000000190○ルチア
 ●0000000190●
 
-○0000000191○瑚太朗
+○0000000191○"The entrance is boarded up. We can't enter like this."
 ●0000000191●
 
-○0000000192○"I see. We've got to open it up somehow."
+○0000000192○瑚太朗
 ●0000000192●
 
-○0000000193○小鳥
+○0000000193○"I see. We've got to open it up somehow."
 ●0000000193●
 
-○0000000194○"Open! (raspy voice)"
+○0000000194○小鳥
 ●0000000194●
 
-○0000000195○瑚太朗
+○0000000195○"Open! (raspy voice)"
 ●0000000195●
 
-○0000000196○"I've heard enough of Washizuka for today."
+○0000000196○瑚太朗
 ●0000000196●
 
-○0000000197○ちはや
+○0000000197○"I've heard enough of Washizuka for today."
 ●0000000197●
 
-○0000000198○"Ahahahaha!"
+○0000000198○ちはや
 ●0000000198●
 
-○0000000199○小鳥
+○0000000199○"Ahahahaha!"
 ●0000000199●
 
-○0000000200○"Heh!"
+○0000000200○小鳥
 ●0000000200●
 
-○0000000201○瑚太朗
+○0000000201○"Heh!"
 ●0000000201●
 
-○0000000202○"I guess we've got no choice but to pull those planks away."
+○0000000202○瑚太朗
 ●0000000202●
 
-○0000000203○ルチア
+○0000000203○"I guess we've got no choice but to pull those planks away."
 ●0000000203●
 
-○0000000204○"What? Are you sure that's okay...?"
+○0000000204○ルチア
 ●0000000204●
 
-○0000000205○瑚太朗
+○0000000205○"What? Are you sure that's okay...?"
 ●0000000205●
 
-○0000000206○"We just have to return it to how it was later."
+○0000000206○瑚太朗
 ●0000000206●
 
-○0000000207○I start pulling on a plank.
+○0000000207○"We just have to return it to how it was later."
 ●0000000207●
 
-○0000000208○瑚太朗
+○0000000208○I start pulling on a plank.
 ●0000000208●
 
-○0000000209○"Kh..."
+○0000000209○瑚太朗
 ●0000000209●
 
-○0000000210○瑚太朗
+○0000000210○"Kh..."
 ●0000000210●
 
-○0000000211○"Nghaaah!!"
+○0000000211○瑚太朗
 ●0000000211●
 
-○0000000212○瑚太朗
+○0000000212○"Nghaaah!"
 ●0000000212●
 
-○0000000213○"Okay, that's not working."
+○0000000213○瑚太朗
 ●0000000213●
 
-○0000000214○ルチア
+○0000000214○"Okay, that's not working."
 ●0000000214●
 
-○0000000215○"There'd be little meaning in barricades if they came off that easily."
+○0000000215○ルチア
 ●0000000215●
 
-○0000000216○瑚太朗
+○0000000216○"There'd be little meaning in barricades if they came off that easily."
 ●0000000216●
 
-○0000000217○"Fine, let's use the Chihaya Cannon to blow through this obnoxious door."
+○0000000217○瑚太朗
 ●0000000217●
 
-○0000000218○ちはや
+○0000000218○"Fine, let's use the Chihaya Cannon to blow through this obnoxious door."
 ●0000000218●
 
-○0000000219○"I can't do that stuff."
+○0000000219○ちはや
 ●0000000219●
 
-○0000000220○ルチア
+○0000000220○"I can't do that stuff."
 ●0000000220●
 
-○0000000221○"There's very little we can do about this if the Chihaya Cannon is not an option."
+○0000000221○ルチア
 ●0000000221●
 
-○0000000222○ちはや
+○0000000222○"There's very little we can do about this if the Chihaya Cannon is not an option."
 ●0000000222●
 
-○0000000223○"We can just pull those planks away like normal people."
+○0000000223○ちはや
 ●0000000223●
 
-○0000000224○瑚太朗
+○0000000224○"We can just pull those planks away like normal people."
 ●0000000224●
 
-○0000000225○"I feel you'd pull the whole wall away if I let you do that."
+○0000000225○瑚太朗
 ●0000000225●
 
-○0000000226○ちはや
+○0000000226○"I feel you'd pull the whole wall away if I let you do that."
 ●0000000226●
 
-○0000000227○"That won't happen. Look."
+○0000000227○ちはや
 ●0000000227●
 
-○0000000228○She places her hand on one of the planks.
+○0000000228○"That won't happen. Look."
 ●0000000228●
 
-○0000000229○ちはや
+○0000000229○She places her hand on one of the planks.
 ●0000000229●
 
-○0000000230○"Mph."
+○0000000230○ちはや
 ●0000000230●
 
-○0000000231○She puts some strength into it.
+○0000000231○"Mph."
 ●0000000231●
 
-○0000000232○瑚太朗
+○0000000232○She puts some strength into it.
 ●0000000232●
 
-○0000000233○"......"
+○0000000233○瑚太朗
 ●0000000233●
 
-○0000000234○Sand begins trickling from underneath the plank.
+○0000000234○"......"
 ●0000000234●
 
-○0000000235○静流
+○0000000235○Sand begins trickling from underneath the plank.
 ●0000000235●
 
-○0000000236○"Stop it, Chii! You're going to collapse the house on yourself!"
+○0000000236○静流
 ●0000000236●
 
-○0000000237○瑚太朗
+○0000000237○"Stop it, Chii! You're going to collapse the house on yourself!"
 ●0000000237●
 
-○0000000238○"They must have hammered those with extra thick nails into the main pillar or something."
+○0000000238○瑚太朗
 ●0000000238●
 
-○0000000239○小鳥
+○0000000239○"They must have hammered those with extra thick nails into the main pillar or something."
 ●0000000239●
 
-○0000000240○"Well, that's a pickle."
+○0000000240○小鳥
 ●0000000240●
 
-○0000000241○瑚太朗
+○0000000241○"Well, that's a pickle."
 ●0000000241●
 
-○0000000242○"I didn't know a normal person could crack concrete with their bare hands."
+○0000000242○瑚太朗
 ●0000000242●
 
-○0000000243○静流
+○0000000243○"I didn't know a normal person could crack concrete with their bare hands."
 ●0000000243●
 
-○0000000244○"......"
+○0000000244○静流
 ●0000000244●
 
-○0000000245○Sizuru gestures at the rear of the building.
+○0000000245○"......"
 ●0000000245●
 
-○0000000246○瑚太朗
+○0000000246○Shizuru gestures at the rear of the building.
 ●0000000246●
 
-○0000000247○"What is it? You want to use the Chihaya Drill to open holes at that wall?"
+○0000000247○瑚太朗
 ●0000000247●
 
-○0000000248○静流
+○0000000248○"What is it? You want to use the Chihaya Drill to open holes at that wall?"
 ●0000000248●
 
-○0000000249○"......"
+○0000000249○静流
 ●0000000249●
 
-○0000000250○ちはや
+○0000000250○"......"
 ●0000000250●
 
-○0000000251○"I don't have a drill either, okay?"
+○0000000251○ちはや
 ●0000000251●
 
-○0000000252○ルチア
+○0000000252○"I don't have a drill either, okay?"
 ●0000000252●
 
-○0000000253○"The Chihaya Drill might not be the best option, but there might be another entrance on the opposite side."
+○0000000253○ルチア
 ●0000000253●
 
-○0000000254○瑚太朗
+○0000000254○"The Chihaya Drill might not be the best option, but there might be another entrance on the opposite side."
 ●0000000254●
 
-○0000000255○"Let's check."
+○0000000255○瑚太朗
 ●0000000255●
 
-○0000000256○We circle around the building.
+○0000000256○"Let's check."
 ●0000000256●
 
-○0000000257○瑚太朗
+○0000000257○We circle around the building.
 ●0000000257●
 
-○0000000258○"Ah, there's something."
+○0000000258○瑚太朗
 ●0000000258●
 
-○0000000259○It looks like there's a back entrance that's been left half open.
+○0000000259○"Ah, there's something."
 ●0000000259●
 
-○0000000260○Rust covers the doorknob, while the sides of the door are rotting away.
+○0000000260○It looks like there's a back entrance that's been left half open.
 ●0000000260●
 
-○0000000261○I peek through the gap, but it's too dark to see inside. Light stretches across the floor for a few steps, but it fails to illuminate anything on the sides of the room.
+○0000000261○Rust covers the doorknob, while the sides of the door are rotting away.
 ●0000000261●
 
-○0000000262○瑚太朗
+○0000000262○I peek through the gap, but it's too dark to see inside. Light stretches across the floor for a few steps, but it fails to illuminate anything on the sides of the room.
 ●0000000262●
 
-○0000000263○"Uh, I'm having second thoughts about this."
+○0000000263○瑚太朗
 ●0000000263●
 
-○0000000264○ルチア
+○0000000264○"Uh, I'm having second thoughts about this."
 ●0000000264●
 
-○0000000265○"What are you saying after we came so far? We are here to investigate!"
+○0000000265○ルチア
 ●0000000265●
 
-○0000000266○瑚太朗
+○0000000266○"What are you saying after we came so far? We are here to investigate!"
 ●0000000266●
 
-○0000000267○"But..."
+○0000000267○瑚太朗
 ●0000000267●
 
-○0000000268○ちはや
+○0000000268○"But..."
 ●0000000268●
 
-○0000000269○"Just stop complaining and go see how it looks inside."
+○0000000269○ちはや
 ●0000000269●
 
-○0000000270○瑚太朗
+○0000000270○"Just stop complaining and go see how it looks inside."
 ●0000000270●
 
-○0000000271○"Stupid! What if I get killed by someone wearing a bloody mask the moment I get in?!"
+○0000000271○瑚太朗
 ●0000000271●
 
-○0000000272○ちはや
+○0000000272○"Stupid! What if I get killed by someone wearing a bloody mask the moment I get in?!"
 ●0000000272●
 
-○0000000273○"Wh-Why are you calling me stupid?! I think being scared of things like that is much more stupid!!"
+○0000000273○ちはや
 ●0000000273●
 
-○0000000274○静流
+○0000000274○"Wh-Why are you calling me stupid?! I think being scared of things like that is much more stupid!"
 ●0000000274●
 
-○0000000275○"......"
+○0000000275○静流
 ●0000000275●
 
-○0000000276○Sizuru silently places her hand on the doorknob.
+○0000000276○"......"
 ●0000000276●
 
-○0000000277○瑚太朗
+○0000000277○Shizuru silently places her hand on the doorknob.
 ●0000000277●
 
-○0000000278○"H-Hey..."
+○0000000278○瑚太朗
 ●0000000278●
 
-○0000000279○ルチア
+○0000000279○"H-Hey..."
 ●0000000279●
 
-○0000000280○"Be careful, Sizuru."
+○0000000280○ルチア
 ●0000000280●
 
-○0000000281○静流
+○0000000281○"Be careful, Shizuru."
 ●0000000281●
 
-○0000000282○"......"
+○0000000282○静流
 ●0000000282●
 
-○0000000283○Sizuru nods.
+○0000000283○"......"
 ●0000000283●
 
-○0000000284○瑚太朗
+○0000000284○Shizuru nods.
 ●0000000284●
 
-○0000000285○"Hey, wait. If we're going, then I might as well be in the front."
+○0000000285○瑚太朗
 ●0000000285●
 
-○0000000286○I make Sizuru step away as I walk inside.
+○0000000286○"Hey, wait. If we're going, then I might as well be in the front."
 ●0000000286●
 
-○0000000287○瑚太朗
+○0000000287○I make Shizuru step away as I walk inside.
 ●0000000287●
 
-○0000000288○"...I can't see anything."
+○0000000288○瑚太朗
 ●0000000288●
 
-○0000000289○I turn on the flashlight I brought and shine some light on the wall in front of me.
+○0000000289○"...I can't see anything."
 ●0000000289●
 
-○0000000290○I can make out crimson lines painting a picture of a deformed face staring back at me.
+○0000000290○I turn on the flashlight I brought and shine some light on the wall in front of me.
 ●0000000290●
 
-○0000000291○瑚太朗
+○0000000291○I can make out crimson lines painting a picture of a deformed face staring back at me.
 ●0000000291●
 
-○0000000292○"......"
+○0000000292○瑚太朗
 ●0000000292●
 
-○0000000293○瑚太朗
+○0000000293○"......"
 ●0000000293●
 
-○0000000294○"K..."
+○0000000294○瑚太朗
 ●0000000294●
 
-○0000000295○瑚太朗
+○0000000295○"K..."
 ●0000000295●
 
-○0000000296○"Kyaaaaaaa...!!"
+○0000000296○瑚太朗
 ●0000000296●
 
-○0000000297○ちはや
+○0000000297○"Kyaaaaaaa...!"
 ●0000000297●
 
-○0000000298○"Why are you screaming like a little girl?"
+○0000000298○ちはや
 ●0000000298●
 
-○0000000299○瑚太朗
+○0000000299○"Why are you screaming like a little girl?"
 ●0000000299●
 
-○0000000300○"L-Look! Oh my god!! What is this?!"
+○0000000300○瑚太朗
 ●0000000300●
 
-○0000000301○小鳥
+○0000000301○"L-Look! Oh my god! What is this?!"
 ●0000000301●
 
-○0000000302○"Wow... I wonder if it's someone's prank..."
+○0000000302○小鳥
 ●0000000302●
 
-○0000000303○瑚太朗
+○0000000303○"Wow... I wonder if it's someone's prank..."
 ●0000000303●
 
-○0000000304○"It looks like something a lunatic would draw with blood on the wall."
+○0000000304○瑚太朗
 ●0000000304●
 
-○0000000305○瑚太朗
+○0000000305○"It looks like something a lunatic would draw with blood on the wall."
 ●0000000305●
 
-○0000000306○"Gyaaa...! There's 'help me' written on that wall!"
+○0000000306○瑚太朗
 ●0000000306●
 
-○0000000307○小鳥
+○0000000307○"Gyaaa...! There's 'help me' written on that wall!"
 ●0000000307●
 
-○0000000308○"Calm down already."
+○0000000308○小鳥
 ●0000000308●
 
-○0000000309○瑚太朗
+○0000000309○"Calm down already."
 ●0000000309●
 
-○0000000310○"I'm scared! Shit just got real!"
+○0000000310○瑚太朗
 ●0000000310●
 
-○0000000311○ルチア
+○0000000311○"I'm scared! Shit just got real!"
 ●0000000311●
 
-○0000000312○"Good grief. We're not going to get far with you acting like this."
+○0000000312○ルチア
 ●0000000312●
 
-○0000000313○瑚太朗
+○0000000313○"Good grief. We're not going to get far with you acting like this."
 ●0000000313●
 
-○0000000314○"You can take the lead, Class Rep! I'm too scared!"
+○0000000314○瑚太朗
 ●0000000314●
 
-○0000000315○ルチア
+○0000000315○"You can take the lead, Class Rep! I'm too scared!"
 ●0000000315●
 
-○0000000316○"...I'm just a helping hand."
+○0000000316○ルチア
 ●0000000316●
 
-○0000000317○瑚太朗
+○0000000317○"...I'm just a helping hand."
 ●0000000317●
 
-○0000000318○"Then you can go ahead, Sizuru!"
+○0000000318○瑚太朗
 ●0000000318●
 
-○0000000319○静流
+○0000000319○"Then you can go ahead, Shizuru!"
 ●0000000319●
 
-○0000000320○"......"
+○0000000320○静流
 ●0000000320●
 
-○0000000321○"I would not dare to assume the position of leadership, my lord. The straggler's way is carved too deep in my flesh and bones"... I imagine her saying.
+○0000000321○"......"
 ●0000000321●
 
-○0000000322○瑚太朗
+○0000000322○"I would not dare to assume the position of leadership, my lord. The straggler's way is carved too deep in my flesh and bones," I imagine her saying.
 ●0000000322●
 
-○0000000323○"Kotori..."
+○0000000323○瑚太朗
 ●0000000323●
 
-○0000000324○小鳥
+○0000000324○"Kotori..."
 ●0000000324●
 
-○0000000325○"I'm fine being just a face in the crowd."
+○0000000325○小鳥
 ●0000000325●
 
-○0000000326○瑚太朗
+○0000000326○"I'm fine being just a face in the crowd."
 ●0000000326●
 
-○0000000327○"......"
+○0000000327○瑚太朗
 ●0000000327●
 
-○0000000328○ちはや
+○0000000328○"......"
 ●0000000328●
 
-○0000000329○"What?"
+○0000000329○ちはや
 ●0000000329●
 
-○0000000330○瑚太朗
+○0000000330○"What?"
 ●0000000330●
 
-○0000000331○"Class Rep!"
+○0000000331○瑚太朗
 ●0000000331●
 
-○0000000332○ちはや
+○0000000332○"Class Rep!"
 ●0000000332●
 
-○0000000333○"Why didn't you ask me?!"
+○0000000333○ちはや
 ●0000000333●
 
-○0000000334○瑚太朗
+○0000000334○"Why didn't you ask me?!"
 ●0000000334●
 
-○0000000335○"No, uh... I may be panicked, but I'm not so far gone that I'd think putting you in the lead is a good idea."
+○0000000335○瑚太朗
 ●0000000335●
 
-○0000000336○ちはや
+○0000000336○"No, uh... I may be panicked, but I'm not so far gone that I'd think putting you in the lead is a good idea."
 ●0000000336●
 
-○0000000337○"It's not like I want to, but the way you put it is quite irritating."
+○0000000337○ちはや
 ●0000000337●
 
-○0000000338○小鳥
+○0000000338○"It's not like I want to, but the way you put it is quite irritating."
 ●0000000338●
 
-○0000000339○"We're not going to get anywhere if you don't get a grip on yourself, Kotarou."
+○0000000339○小鳥
 ●0000000339●
 
-○0000000340○瑚太朗
+○0000000340○"We're not going to get anywhere if you don't get a grip on yourself, Kotarou."
 ●0000000340●
 
-○0000000341○"I'm scared..."
+○0000000341○瑚太朗
 ●0000000341●
 
-○0000000342○小鳥
+○0000000342○"I'm scared..."
 ●0000000342●
 
-○0000000343○"But we've got no one else who wants to take the lead."
+○0000000343○小鳥
 ●0000000343●
 
-○0000000344○瑚太朗
+○0000000344○"But we've got no one else who wants to take the lead."
 ●0000000344●
 
-○0000000345○"Then at least tell one of your jokes to brighten the mood, Kotori!"
+○0000000345○瑚太朗
 ●0000000345●
 
-○0000000346○小鳥
+○0000000346○"Then at least tell one of your jokes to brighten the mood, Kotori!"
 ●0000000346●
 
-○0000000347○"The young master wishes me to blow his fear away with humor?"
+○0000000347○小鳥
 ●0000000347●
 
-○0000000348○More like the healing effect that comes after, but I don't want to shatter her confidence.
+○0000000348○"The young master wishes me to blow his fear away with humor?"
 ●0000000348●
 
-○0000000349○小鳥
+○0000000349○More like the healing effect that comes after, but I don't want to shatter her confidence.
 ●0000000349●
 
-○0000000350○"Then... I'll do one of my many impressions."
+○0000000350○小鳥
 ●0000000350●
 
-○0000000351○小鳥
+○0000000351○"Then... I'll do one of my many impressions."
 ●0000000351●
 
-○0000000352○"Throw something at me and I'll roll with it."
+○0000000352○小鳥
 ●0000000352●
 
-○0000000353○瑚太朗
+○0000000353○"Throw something at me and I'll roll with it."
 ●0000000353●
 
-○0000000354○"Something to soothe my soul..."
+○0000000354○瑚太朗
 ●0000000354●
 
-○0000000355○Do it like a horror story narrator
+○0000000355○"Something to soothe my soul..."
 ●0000000355●
 
-○0000000356○Do it like that travel show guy
+○0000000356○Narrate it like a horror story
 ●0000000356●
 
-○0000000357○Do it with passion
+○0000000357○Narrate it like a travel show
 ●0000000357●
 
-○0000000358○瑚太朗
+○0000000358○Do it with passion
 ●0000000358●
 
-○0000000359○"Do it like Mr. Inagawa from the horror channel."
+○0000000359○瑚太朗
 ●0000000359●
 
-○0000000360○小鳥
+○0000000360○"Do it like Mr. Inagawa from the horror channel."
 ●0000000360●
 
-○0000000361○"Roger."
+○0000000361○小鳥
 ●0000000361●
 
-○0000000362○小鳥
+○0000000362○"Roger."
 ●0000000362●
 
-○0000000363○"This is something I've heard from an acquaintance."
+○0000000363○小鳥
 ●0000000363●
 
-○0000000364○小鳥
+○0000000364○"This is something I've heard from an acquaintance."
 ●0000000364●
 
-○0000000365○"There was an abandoned building in a certain mountain village."
+○0000000365○小鳥
 ●0000000365●
 
-○0000000366○小鳥
+○0000000366○"There was an abandoned building in a certain mountain village."
 ●0000000366●
 
-○0000000367○"The men in the village were the rowdy sort that liked to brag about their bravery, and so one time they decided to test their courage by going to that house."
+○0000000367○小鳥
 ●0000000367●
 
-○0000000368○小鳥
+○0000000368○"The men in the village were the rowdy sort that liked to brag about their bravery, and so one time they decided to test their courage by going to that house."
 ●0000000368●
 
-○0000000369○"However, the man who went ahead to investigate the building before the others wouldn't return, no matter how much time passed."
+○0000000369○小鳥
 ●0000000369●
 
-○0000000370○小鳥
+○0000000370○"However, the man who went ahead to investigate the building before the others wouldn't return, no matter how much time passed."
 ●0000000370●
 
-○0000000371○"Peculiar. Strange. Thinking that, everyone went to that abandoned building."
+○0000000371○小鳥
 ●0000000371●
 
-○0000000372○小鳥
+○0000000372○"Peculiar. Strange. Thinking that, everyone went to that abandoned building."
 ●0000000372●
 
-○0000000373○"And when they did, they suddenly saw a moving light in the window."
+○0000000373○小鳥
 ●0000000373●
 
-○0000000374○瑚太朗
+○0000000374○"And when they did, they suddenly saw a moving light in the window."
 ●0000000374●
 
-○0000000375○"I can't listen to this anymore! Also, Inagawa's stories almost always end with everyone disappearing!"
+○0000000375○瑚太朗
 ●0000000375●
 
-○0000000376○I made the wrong choice.
+○0000000376○"I can't listen to this anymore! Also, Inagawa's stories almost always end with everyone disappearing!"
 ●0000000376●
 
-○0000000377○瑚太朗
+○0000000377○I made the wrong choice.
 ●0000000377●
 
-○0000000378○"Do it like that travel show guy."
+○0000000378○瑚太朗
 ●0000000378●
 
-○0000000379○小鳥
+○0000000379○"Do it like that travel show guy."
 ●0000000379●
 
-○0000000380○"Roger."
+○0000000380○小鳥
 ●0000000380●
 
-○0000000381○小鳥
+○0000000381○"Roger."
 ●0000000381●
 
-○0000000382○"The leader... of the Occult Research Society..."
+○0000000382○小鳥
 ●0000000382●
 
-○0000000383○小鳥
+○0000000383○"The leader... of the Occult Research Society..."
 ●0000000383●
 
-○0000000384○"...in the darkness of an abandoned building..."
+○0000000384○小鳥
 ●0000000384●
 
-○0000000385○小鳥
+○0000000385○"...in the darkness of an abandoned building..."
 ●0000000385●
 
-○0000000386○"...full of terrifying supernatural phenomena..."
+○0000000386○小鳥
 ●0000000386●
 
-○0000000387○小鳥
+○0000000387○"...full of terrifying spiritual phenomena..."
 ●0000000387●
 
-○0000000388○"...has had a fateful encounter!"
+○0000000388○小鳥
 ●0000000388●
 
-○0000000389○瑚太朗
+○0000000389○"...has had a fateful encounter!"
 ●0000000389●
 
-○0000000390○"That hasn't happened yet! Is this supposed to be a prophecy?!"
+○0000000390○瑚太朗
 ●0000000390●
 
-○0000000391○瑚太朗
+○0000000391○"That hasn't happened yet! Is this supposed to be a prophecy?!"
 ●0000000391●
 
-○0000000392○"Do it with passion."
+○0000000392○瑚太朗
 ●0000000392●
 
-○0000000393○小鳥
+○0000000393○"Do it with passion."
 ●0000000393●
 
-○0000000394○"Roger."
+○0000000394○小鳥
 ●0000000394●
 
-○0000000395○小鳥
+○0000000395○"Roger."
 ●0000000395●
 
-○0000000396○"What do you mean scared?! Isn't this just an excuse?!"
+○0000000396○小鳥
 ●0000000396●
 
-○0000000397○小鳥
+○0000000397○"What do you mean scared?! Isn't this just an excuse?!"
 ●0000000397●
 
-○0000000398○"Why're you giving up there?! Don't give up!"
+○0000000398○小鳥
 ●0000000398●
 
-○0000000399○小鳥
+○0000000399○"Why're you giving up there?! Don't give up!"
 ●0000000399●
 
-○0000000400○"You can do it! Yes, you can! Do it! Do it! Just do it, Mr. Okamura!"
+○0000000400○小鳥
 ●0000000400●
 
-○0000000401○小鳥
+○0000000401○"You can do it! Yes, you can! Do it! Do it! Just do it, Mr. Okamura!"
 ●0000000401●
 
-○0000000402○"Mt. Fuji might not sweat, but we do!"
+○0000000402○小鳥
 ●0000000402●
 
-○0000000403○瑚太朗
+○0000000403○"Mt. Fuji might not sweat, but we do!"
 ●0000000403●
 
-○0000000404○"My name's not Okamura, and I didn't even get that last line."
+○0000000404○瑚太朗
 ●0000000404●
 
-○0000000405○But I got soothed by Kotori's energy nonetheless.
+○0000000405○"My name's not Okamura, and I didn't even get that last line."
 ●0000000405●
 
-○0000000406○ちはや
+○0000000406○But I've been soothed by Kotori's energy nonetheless.
 ●0000000406●
 
-○0000000407○"I don't understand."
+○0000000407○ちはや
 ●0000000407●
 
-○0000000408○Chihaya trots over to the bloody picture on the wall.
+○0000000408○"I don't understand."
 ●0000000408●
 
-○0000000409○瑚太朗
+○0000000409○Chihaya trots over to the bloody picture on the wall.
 ●0000000409●
 
-○0000000410○"Ah! STOP! You're going to activate the curse!!"
+○0000000410○瑚太朗
 ●0000000410●
 
-○0000000411○ちはや
+○0000000411○"Ah! STOP! You're going to activate the curse!"
 ●0000000411●
 
-○0000000412○"It looks like spray paint."
+○0000000412○ちはや
 ●0000000412●
 
-○0000000413○瑚太朗
+○0000000413○"It looks like spray paint."
 ●0000000413●
 
-○0000000414○"What? Are you implying those aren't records of murder written in the blood of the victims?"
+○0000000414○瑚太朗
 ●0000000414●
 
-○0000000415○ちはや
+○0000000415○"What? Are you implying those aren't records of murder written in the blood of the victims?"
 ●0000000415●
 
-○0000000416○"Just where do you get those ideas?"
+○0000000416○ちはや
 ●0000000416●
 
-○0000000417○小鳥
+○0000000417○"Just where do you get those ideas?"
 ●0000000417●
 
-○0000000418○"Kotarou is always like that."
+○0000000418○小鳥
 ●0000000418●
 
-○0000000419○ちはや
+○0000000419○"Kotarou is always like that."
 ●0000000419●
 
-○0000000420○"I suppose that's right..."
+○0000000420○ちはや
 ●0000000420●
 
-○0000000421○静流
+○0000000421○"I suppose that's right..."
 ●0000000421●
 
-○0000000422○"......"
+○0000000422○静流
 ●0000000422●
 
-○0000000423○Sizuru, too, approaches the wall and gives it a long look.
+○0000000423○"......"
 ●0000000423●
 
-○0000000424○瑚太朗
+○0000000424○Shizuru, too, approaches the wall and gives it a long look.
 ●0000000424●
 
-○0000000425○"What is it? You want to destroy this wall with your Chihaya Bunker?"
+○0000000425○瑚太朗
 ●0000000425●
 
-○0000000426○ちはや
+○0000000426○"What is it? You want to destroy this wall with your Chihaya Bunker?"
 ●0000000426●
 
-○0000000427○"Stop treating me like a robot!"
+○0000000427○ちはや
 ●0000000427●
 
-○0000000428○静流
+○0000000428○"Stop treating me like a robot!"
 ●0000000428●
 
-○0000000429○"......"
+○0000000429○静流
 ●0000000429●
 
-○0000000430○静流
+○0000000430○"......"
 ●0000000430●
 
-○0000000431○".........Yes."
+○0000000431○静流
 ●0000000431●
 
-○0000000432○静流
+○0000000432○".........Yes."
 ●0000000432●
 
-○0000000433○"Your name shall be Mr. Terror."
+○0000000433○静流
 ●0000000433●
 
-○0000000434○瑚太朗
+○0000000434○"Your name shall be Mr. Terror."
 ●0000000434●
 
-○0000000435○"Any child would cry if they were named like that."
+○0000000435○瑚太朗
 ●0000000435●
 
-○0000000436○静流
+○0000000436○"Any child would cry if they were named like that."
 ●0000000436●
 
-○0000000437○"Mh."
+○0000000437○静流
 ●0000000437●
 
-○0000000438○ルチア
+○0000000438○"Mh."
 ●0000000438●
 
-○0000000439○"It doesn't seem like anyone's paying too much attention to this place if other people can come here as they please."
+○0000000439○ルチア
 ●0000000439●
 
-○0000000440○静流
+○0000000440○"It doesn't seem like anyone's paying too much attention to this place if other people can come here as they please."
 ●0000000440●
 
-○0000000441○"Lucia."
+○0000000441○静流
 ●0000000441●
 
-○0000000442○ルチア
+○0000000442○"Lucia."
 ●0000000442●
 
-○0000000443○"Hm? What? Did you find something?"
+○0000000443○ルチア
 ●0000000443●
 
-○0000000444○静流
+○0000000444○"Hm? What? Did you find something?"
 ●0000000444●
 
-○0000000445○"What do you think about Mr. Terror?"
+○0000000445○静流
 ●0000000445●
 
-○0000000446○ルチア
+○0000000446○"What do you think about Mr. Terror?"
 ●0000000446●
 
-○0000000447○"Uh? I... don't have an opinion in particular."
+○0000000447○ルチア
 ●0000000447●
 
-○0000000448○ちはや
+○0000000448○"Uh? I... don't have an opinion in particular."
 ●0000000448●
 
-○0000000449○"It looks pretty new."
+○0000000449○ちはや
 ●0000000449●
 
-○0000000450○静流
+○0000000450○"It looks pretty new."
 ●0000000450●
 
-○0000000451○"Chii. What―"
+○0000000451○静流
 ●0000000451●
 
-○0000000452○ちはや
+○0000000452○"Chii. What―"
 ●0000000452●
 
-○0000000453○"I don't have a strong opinion either."
+○0000000453○ちはや
 ●0000000453●
 
-○0000000454○静流
+○0000000454○"I don't have a strong opinion either."
 ●0000000454●
 
-○0000000455○"Mh... no one understands me..."
+○0000000455○静流
 ●0000000455●
 
-○0000000456○瑚太朗
+○0000000456○"Mh... no one understands me..."
 ●0000000456●
 
-○0000000457○"Hm? Wait, wasn't this place sealed and stuff?"
+○0000000457○瑚太朗
 ●0000000457●
 
-○0000000458○ルチア
+○0000000458○"Hm? Wait, wasn't this place sealed and stuff?"
 ●0000000458●
 
-○0000000459○"That doesn't seem to be the case. There are relatively new-looking cans and plastic bottles lying on the floor."
+○0000000459○ルチア
 ●0000000459●
 
-○0000000460○瑚太朗
+○0000000460○"That doesn't seem to be the case. There are relatively new-looking cans and plastic bottles lying on the floor."
 ●0000000460●
 
-○0000000461○"Running into someone actually living here would be a whole different kind of scary..."
+○0000000461○瑚太朗
 ●0000000461●
 
-○0000000462○小鳥
+○0000000462○"Running into someone actually living here would be a whole different kind of scary..."
 ●0000000462●
 
-○0000000463○"A fateful encounter...!"
+○0000000463○小鳥
 ●0000000463●
 
-○0000000464○瑚太朗
+○0000000464○"A fateful encounter...!"
 ●0000000464●
 
-○0000000465○"One thing I know is that it's not gonna be like a travel show."
+○0000000465○瑚太朗
 ●0000000465●
 
-○0000000466○小鳥
+○0000000466○"One thing I know is that it's not gonna be like a travel show."
 ●0000000466●
 
-○0000000467○"Let's look around and see what we can find."
+○0000000467○小鳥
 ●0000000467●
 
-○0000000468○瑚太朗
+○0000000468○"Let's look around and see what we can find."
 ●0000000468●
 
-○0000000469○"Yeah. If you find yourself unable to escape, remember to use the shotgun against zombies, everyone! And take care not to end up as a researcher sandwich!"
+○0000000469○瑚太朗
 ●0000000469●
 
-○0000000470○小鳥
+○0000000470○"Yeah. If you find yourself unable to escape, remember to use the shotgun against zombies, everyone! And take care not to end up as a researcher sandwich!"
 ●0000000470●
 
-○0000000471○"I detect a biohazard."
+○0000000471○小鳥
 ●0000000471●
 
-○0000000472○And so we begin the investigation.
+○0000000472○"Let's hope the residents aren't evil."
 ●0000000472●
 
-○0000000473○The investigation has reached its end, more or less.
+○0000000473○And so we begin the investigation.
 ●0000000473●
 
-○0000000474○瑚太朗
+○0000000474○The investigation has reached its end, more or less.
 ●0000000474●
 
-○0000000475○"I managed to take quite a few scary-looking pictures."
+○0000000475○瑚太朗
 ●0000000475●
 
-○0000000476○Dolls and mannequins lying scattered among the dimly lit rubble.
+○0000000476○"I managed to take quite a few scary-looking pictures."
 ●0000000476●
 
-○0000000477○This must have been an office building or something.
+○0000000477○Dolls and mannequins lying scattered among the dimly lit rubble.
 ●0000000477●
 
-○0000000478○The sight of a once-inhabited place rotting away into nothingness had quite an impact.
+○0000000478○This must have been an office building or something.
 ●0000000478●
 
-○0000000479○小鳥
+○0000000479○The sight of a once-inhabited place rotting away into nothingness had quite an impact.
 ●0000000479●
 
-○0000000480○"But we didn't find anything occult."
+○0000000480○小鳥
 ●0000000480●
 
-○0000000481○ルチア
+○0000000481○"But we didn't find anything occult."
 ●0000000481●
 
-○0000000482○"It's not something that can happen all the time. If you've got your pictures, then let's pack up and leave."
+○0000000482○ルチア
 ●0000000482●
 
-○0000000483○瑚太朗
+○0000000483○"It's not something that can happen all the time. If you've got your pictures, then let's pack up and leave."
 ●0000000483●
 
-○0000000484○"Oh? Is the lady perhaps scared?"
+○0000000484○瑚太朗
 ●0000000484●
 
-○0000000485○静流
+○0000000485○"Oh? Is the lady perhaps scared?"
 ●0000000485●
 
-○0000000486○"Scared?"
+○0000000486○静流
 ●0000000486●
 
-○0000000487○ルチア
+○0000000487○"Scared?"
 ●0000000487●
 
-○0000000488○"I-I'm not scared, but I don't want to spend too much time in a place like this."
+○0000000488○ルチア
 ●0000000488●
 
-○0000000489○Lucia is carrying a few pairs of dirty gloves she'd changed out of over the course of our excursion.
+○0000000489○"I-I'm not scared, but I don't want to spend too much time in a place like this."
 ●0000000489●
 
-○0000000490○Well, the place was pretty dirty after all.
+○0000000490○Lucia is carrying a few pairs of dirty gloves she'd changed out of over the course of our excursion.
 ●0000000490●
 
-○0000000491○瑚太朗
+○0000000491○Well, the place was pretty dirty after all.
 ●0000000491●
 
-○0000000492○"'Kay, let's leave."
+○0000000492○瑚太朗
 ●0000000492●
 
-○0000000493○小鳥
+○0000000493○"'Kay, let's leave."
 ●0000000493●
 
-○0000000494○"Roger."
+○0000000494○小鳥
 ●0000000494●
 
-○0000000495○The light outside is dazzling even in the shade of the trees.
+○0000000495○"Roger."
 ●0000000495●
 
-○0000000496○朱音
+○0000000496○The light outside is dazzling even in the shade of the trees.
 ●0000000496●
 
-○0000000497○"Welcome back."
+○0000000497○朱音
 ●0000000497●
 
-○0000000498○瑚太朗
+○0000000498○"Welcome back."
 ●0000000498●
 
-○0000000499○"Huh? Prez?"
+○0000000499○瑚太朗
 ●0000000499●
 
-○0000000500○Akane stands in front of the entrance with her secretary behind her back.
+○0000000500○"Huh? Prez?"
 ●0000000500●
 
-○0000000501○ちはや
+○0000000501○Akane stands in front of the entrance with her secretary behind her back.
 ●0000000501●
 
-○0000000502○"You could have gone inside and found us."
+○0000000502○ちはや
 ●0000000502●
 
-○0000000503○朱音
+○0000000503○"You could have gone inside and found us."
 ●0000000503●
 
-○0000000504○"I was waiting here because that was precisely what I didn't want to do."
+○0000000504○朱音
 ●0000000504●
 
-○0000000505○朱音
+○0000000505○"I was waiting here because that was precisely what I didn't want to do."
 ●0000000505●
 
-○0000000506○"Although I must say I am a bit curious about how it looks inside."
+○0000000506○朱音
 ●0000000506●
 
-○0000000507○Akane gestures to her secretary, and the latter hands her a stack of papers.
+○0000000507○"Although I must say I am a bit curious about how it looks inside."
 ●0000000507●
 
-○0000000508○朱音
+○0000000508○Akane gestures to her secretary, and the latter hands her a stack of papers.
 ●0000000508●
 
-○0000000509○"This building has quite a history. It's been here for over fifty years."
+○0000000509○朱音
 ●0000000509●
 
-○0000000510○瑚太朗
+○0000000510○"This building has quite a history. It's been here for over fifty years."
 ●0000000510●
 
-○0000000511○"Ah, so you looked it up for us."
+○0000000511○瑚太朗
 ●0000000511●
 
-○0000000512○朱音
+○0000000512○"Ah, so you looked it up for us."
 ●0000000512●
 
-○0000000513○"It used to be a factory belonging to a printing company, but due to its terrible geographical location it ended up being closed by its parent company within ten years."
+○0000000513○朱音
 ●0000000513●
 
-○0000000514○朱音
+○0000000514○"It used to be a factory belonging to a printing company, but due to its terrible geographical location it ended up being closed by its parent company within ten years."
 ●0000000514●
 
-○0000000515○"At the same time, all sorts of rumors about terrible working conditions in it came to light, and the family that ran it ended up committing suicide as a result."
+○0000000515○朱音
 ●0000000515●
 
-○0000000516○小鳥
+○0000000516○"At the same time, all sorts of rumors about terrible working conditions in it came to light, and the family that ran it ended up committing suicide as a result."
 ●0000000516●
 
-○0000000517○"Wh-What kind of rumors?"
+○0000000517○小鳥
 ●0000000517●
 
-○0000000518○朱音
+○0000000518○"Wh-What kind of rumors?"
 ●0000000518●
 
-○0000000519○"They had a lot of incidents with... their cutting machines."
+○0000000519○朱音
 ●0000000519●
 
-○0000000520○瑚太朗
+○0000000520○"They had a lot of incidents with... their cutting machines."
 ●0000000520●
 
-○0000000521○"Splatter..."
+○0000000521○瑚太朗
 ●0000000521●
 
-○0000000522○朱音
+○0000000522○"Splatter..."
 ●0000000522●
 
-○0000000523○"It'd be unthinkable nowadays, but in the past, a lot of poorly made equipment circulated in the market."
+○0000000523○朱音
 ●0000000523●
 
-○0000000524○朱音
+○0000000524○"It'd be unthinkable nowadays, but in the past, a lot of poorly made equipment circulated in the market."
 ●0000000524●
 
-○0000000525○"Another company ended up buying the building later and used it as a warehouse."
+○0000000525○朱音
 ●0000000525●
 
-○0000000526○朱音
+○0000000526○"Another company ended up buying the building later and used it as a warehouse."
 ●0000000526●
 
-○0000000527○"Eventually, that company also went bankrupt, and the factory was dismantled."
+○0000000527○朱音
 ●0000000527●
 
-○0000000528○朱音
+○0000000528○"Eventually, that company also went bankrupt, and the factory was dismantled."
 ●0000000528●
 
-○0000000529○"The building that's currently still standing here used to be a prefab office that oversaw the factory. They probably didn't have enough money to dismantle it."
+○0000000529○朱音
 ●0000000529●
 
-○0000000530○朱音
+○0000000530○"The building that's currently still standing here used to be a prefab office that oversaw the factory. They probably didn't have enough money to dismantle it."
 ●0000000530●
 
-○0000000531○"You could probably find traces of the factory if you investigate these woods."
+○0000000531○朱音
 ●0000000531●
 
-○0000000532○瑚太朗
+○0000000532○"You could probably find traces of the factory if you investigate these woods."
 ●0000000532●
 
-○0000000533○"I see..."
+○0000000533○瑚太朗
 ●0000000533●
 
-○0000000534○ちはや
+○0000000534○"I see..."
 ●0000000534●
 
-○0000000535○"So it really was abandoned."
+○0000000535○ちはや
 ●0000000535●
 
-○0000000536○朱音
+○0000000536○"So it really was abandoned."
 ●0000000536●
 
-○0000000537○"Any mountain has one or two abandoned buildings that never got dismantled."
+○0000000537○朱音
 ●0000000537●
 
-○0000000538○瑚太朗
+○0000000538○"Any mountain has one or two abandoned buildings that never got dismantled."
 ●0000000538●
 
-○0000000539○"And it doesn't take long for greenery to overgrow them in these parts."
+○0000000539○瑚太朗
 ●0000000539●
 
-○0000000540○The demolition crew couldn't do much when the building got swallowed by the forest.
+○0000000540○"And it doesn't take long for greenery to overgrow them in these parts."
 ●0000000540●
 
-○0000000541○There are no roads that could transport large-scale equipment leading here.
+○0000000541○The demolition crew couldn't do much when the building got swallowed by the forest.
 ●0000000541●
 
-○0000000542○朱音
+○0000000542○There are no roads that could transport large-scale equipment leading here.
 ●0000000542●
 
-○0000000543○"As for all the ghost stories... There's a good explanation for that too."
+○0000000543○朱音
 ●0000000543●
 
-○0000000544○瑚太朗
+○0000000544○"As for all the ghost stories... There's a good explanation for that too."
 ●0000000544●
 
-○0000000545○"Huh? What is it?"
+○0000000545○瑚太朗
 ●0000000545●
 
-○0000000546○朱音
+○0000000546○"Huh? What is it?"
 ●0000000546●
 
-○0000000547○"The warehouse here used to store toys. I imagine you must have found at least something hinting at that inside."
+○0000000547○朱音
 ●0000000547●
 
-○0000000548○ルチア
+○0000000548○"The warehouse here used to store toys. I imagine you must have found at least something hinting at that inside."
 ●0000000548●
 
-○0000000549○"True. There were quite a few dolls lying on the floor."
+○0000000549○ルチア
 ●0000000549●
 
-○0000000550○朱音
+○0000000550○"True. There were quite a few dolls lying on the floor."
 ●0000000550●
 
-○0000000551○"Do you know what a laughing bag is?"
+○0000000551○朱音
 ●0000000551●
 
-○0000000552○静流
+○0000000552○"Do you know what a laughing bag is?"
 ●0000000552●
 
-○0000000553○"......"
+○0000000553○静流
 ●0000000553●
 
-○0000000554○Sizuru shakes her head.
+○0000000554○"......"
 ●0000000554●
 
-○0000000555○瑚太朗
+○0000000555○Shizuru shakes her head.
 ●0000000555●
 
-○0000000556○"What's that?"
+○0000000556○瑚太朗
 ●0000000556●
 
-○0000000557○朱音
+○0000000557○"What's that?"
 ●0000000557●
 
-○0000000558○"It's a joke item that lets out a shrill laugh when you push a button."
+○0000000558○朱音
 ●0000000558●
 
-○0000000559○朱音
+○0000000559○"It's a joke item that lets out a shrill laugh when you push a button."
 ●0000000559●
 
-○0000000560○"And the last owner of this place used to manufacture animals with these things installed in them."
+○0000000560○朱音
 ●0000000560●
 
-○0000000561○瑚太朗
+○0000000561○"And the last owner of this place used to manufacture animals with these things installed in them."
 ●0000000561●
 
-○0000000562○"Ah, I'm starting to see the picture..."
+○0000000562○瑚太朗
 ●0000000562●
 
-○0000000563○ちはや
+○0000000563○"Ah, I'm starting to see the picture..."
 ●0000000563●
 
-○0000000564○"What picture?"
+○0000000564○ちはや
 ●0000000564●
 
-○0000000565○瑚太朗
+○0000000565○"What picture?"
 ●0000000565●
 
-○0000000566○"I mean, we've found lots of weird things inside, right?"
+○0000000566○瑚太朗
 ●0000000566●
 
-○0000000567○瑚太朗
+○0000000567○"I mean, we've found lots of weird things inside, right?"
 ●0000000567●
 
-○0000000568○"And Prez's basically saying they were the cause of the ghost stories."
+○0000000568○瑚太朗
 ●0000000568●
 
-○0000000569○瑚太朗
+○0000000569○"And Prez's basically saying they were the cause of the ghost stories."
 ●0000000569●
 
-○0000000570○"How long can these laughing bags function?"
+○0000000570○瑚太朗
 ●0000000570●
 
-○0000000571○朱音
+○0000000571○"How long can these laughing bags function?"
 ●0000000571●
 
-○0000000572○"I don't know. But they are powered by batteries, so they probably hold up for a while if you don't use them."
+○0000000572○朱音
 ●0000000572●
 
-○0000000573○瑚太朗
+○0000000573○"I don't know. But they are powered by batteries, so they probably hold up for a while if you don't use them."
 ●0000000573●
 
-○0000000574○"There used to be plushies that'd laugh or cry when you shook them."
+○0000000574○瑚太朗
 ●0000000574●
 
-○0000000575○瑚太朗
+○0000000575○"There used to be plushies that'd laugh or cry when you shook them."
 ●0000000575●
 
-○0000000576○"And I imagine that was exactly what this place was filled with."
+○0000000576○瑚太朗
 ●0000000576●
 
-○0000000577○ルチア
+○0000000577○"And I imagine that was exactly what this place was filled with."
 ●0000000577●
 
-○0000000578○"I see. And if they got activated by something, the people around would hear odd voices coming from the building."
+○0000000578○ルチア
 ●0000000578●
 
-○0000000579○瑚太朗
+○0000000579○"I see. And if they got activated by something, the people around would hear odd voices coming from the building."
 ●0000000579●
 
-○0000000580○"We saw traces of animals inside, so I wouldn't be surprised if some bit through the packaging and got the toys out."
+○0000000580○瑚太朗
 ●0000000580●
 
-○0000000581○ちはや
+○0000000581○"We saw traces of animals inside, so I wouldn't be surprised if some bit through the packaging and got the toys out."
 ●0000000581●
 
-○0000000582○"I can totally imagine a cat playing with one."
+○0000000582○ちはや
 ●0000000582●
 
-○0000000583○瑚太朗
+○0000000583○"I can totally imagine a cat playing with one."
 ●0000000583●
 
-○0000000584○"They were too trashed to let out any voices now, though."
+○0000000584○瑚太朗
 ●0000000584●
 
-○0000000585○瑚太朗
+○0000000585○"They were too trashed to let out any voices now, though."
 ●0000000585●
 
-○0000000586○"Anyway, those inexplicable voices became a rumor, and we ended up with a ghost location on our hands."
+○0000000586○瑚太朗
 ●0000000586●
 
-○0000000587○朱音
+○0000000587○"Anyway, those inexplicable voices became a rumor, and we ended up with a ghost location on our hands."
 ●0000000587●
 
-○0000000588○"I imagine that's how it happened."
+○0000000588○朱音
 ●0000000588●
 
-○0000000589○瑚太朗
+○0000000589○"I imagine that's how it happened."
 ●0000000589●
 
-○0000000590○"...Ueh. We solved this in a single afternoon."
+○0000000590○瑚太朗
 ●0000000590●
 
-○0000000591○There was not a sliver of the occult in any of this.
+○0000000591○"...Ueh. We solved this in a single afternoon."
 ●0000000591●
 
-○0000000592○小鳥
+○0000000592○There was not a sliver of the occult in any of this.
 ●0000000592●
 
-○0000000593○"But you can make an interesting article out of this, I think. You got lots of nice pictures too."
+○0000000593○小鳥
 ●0000000593●
 
-○0000000594○瑚太朗
+○0000000594○"But you can make an interesting article out of this, I think. You got lots of nice pictures too."
 ●0000000594●
 
-○0000000595○"Yeah, I guess so..."
+○0000000595○瑚太朗
 ●0000000595●
 
-○0000000596○For now, we decide to leave.
+○0000000596○"Yeah, I guess so..."
 ●0000000596●
 
-○0000000597○I'll think about the article once I get back.
+○0000000597○For now, we decide to leave.
 ●0000000597●
 
-○0000000598○瑚太朗
+○0000000598○I'll think about the article once I get back.
 ●0000000598●
 
-○0000000599○"...But Prez."
+○0000000599○瑚太朗
 ●0000000599●
 
-○0000000600○I address Akane on our way back.
+○0000000600○"...But Prez."
 ●0000000600●
 
-○0000000601○朱音
+○0000000601○I address Akane on our way back.
 ●0000000601●
 
-○0000000602○"What?"
+○0000000602○朱音
 ●0000000602●
 
-○0000000603○瑚太朗
+○0000000603○"What?"
 ●0000000603●
 
-○0000000604○"Why would someone build a factory in the middle of nowhere like that?"
+○0000000604○瑚太朗
 ●0000000604●
 
-○0000000605○瑚太朗
+○0000000605○"Why would someone build a factory in the middle of nowhere like that?"
 ●0000000605●
 
-○0000000606○"Kazamatsuri was a small village before this whole greenery business started, right? It doesn't make sense to build a factory so far from civilization."
+○0000000606○瑚太朗
 ●0000000606●
 
-○0000000607○瑚太朗
+○0000000607○"Kazamatsuri was a small village before this whole greenery business started, right? It doesn't make sense to build a factory so far from civilization."
 ●0000000607●
 
-○0000000608○"And the same applies to a warehouse. They must've paid a fortune just for the shipping costs."
+○0000000608○瑚太朗
 ●0000000608●
 
-○0000000609○小鳥
+○0000000609○"And the same applies to a warehouse. They must've paid a fortune just for the shipping costs."
 ●0000000609●
 
-○0000000610○"This is strange. Most odd."
+○0000000610○小鳥
 ●0000000610●
 
-○0000000611○瑚太朗
+○0000000611○"This is strange. Most odd."
 ●0000000611●
 
-○0000000612○"You can stop your impersonation already."
+○0000000612○瑚太朗
 ●0000000612●
 
-○0000000613○朱音
+○0000000613○"You can stop your impersonation already."
 ●0000000613●
 
-○0000000614○"I don't know. My investigation didn't reach that far."
+○0000000614○朱音
 ●0000000614●
 
-○0000000615○朱音
+○0000000615○"I don't know. My investigation didn't reach that far."
 ●0000000615●
 
-○0000000616○"Maybe they went bankrupt because whoever ran the business didn't have the brains to even figure that out."
+○0000000616○朱音
 ●0000000616●
 
-○0000000617○瑚太朗
+○0000000617○"Maybe they went bankrupt because whoever ran the business didn't have the brains to even figure that out."
 ●0000000617●
 
-○0000000618○"I guess that would explain it..."
+○0000000618○瑚太朗
 ●0000000618●
 
-○0000000619○I still feel like there's more to it.
+○0000000619○"I guess that would explain it..."
 ●0000000619●
 
-○0000000620○But it's just a feeling.
+○0000000620○I still feel like there's more to it.
 ●0000000620●
 
-○0000000621○瑚太朗
+○0000000621○But it's just a feeling.
 ●0000000621●
 
-○0000000622○(I won't be able to turn this into an occult article at this rate...)
+○0000000622○瑚太朗
 ●0000000622●
 
-○0000000623○Well, I could weave my suspicion into the text; it may have more of an effect if I leave it a little bit open-ended.
+○0000000623○(I won't be able to turn this into an occult article at this rate...)
 ●0000000623●
 
-○0000000624○dummy
+○0000000624○Well, I could weave my suspicion into the text; it may have more of an effect if I leave it a little bit open-ended.
 ●0000000624●
 
-○0000000625○sys20_adv00
+○0000000625○dummy
 ●0000000625●
 
-○0000000626○kuro
+○0000000626○sys20_adv00
 ●0000000626●
 
-○0000000627○sys20_adv00
+○0000000627○kuro
 ●0000000627●
 
-○0000000628○bg004
+○0000000628○sys20_adv00
 ●0000000628●
 
-○0000000629○sys20_adv00
+○0000000629○bg004
 ●0000000629●
 
-○0000000630○cgm_ak11h
+○0000000630○sys20_adv00
 ●0000000630●
 
-○0000000631○sys20_adv00
+○0000000631○cgm_ak11h
 ●0000000631●
 
 ○0000000632○sys20_adv00
 ●0000000632●
 
-○0000000633○cgm_ak11h
+○0000000633○sys20_adv00
 ●0000000633●
 
-○0000000634○sys20_adv00
+○0000000634○cgm_ak11h
 ●0000000634●
 
-○0000000635○cgm_kt31
+○0000000635○sys20_adv00
 ●0000000635●
 
-○0000000636○sys20_adv00
+○0000000636○cgm_kt31
 ●0000000636●
 
-○0000000637○cgm_kt16
+○0000000637○sys20_adv00
 ●0000000637●
 
-○0000000638○sys20_adv00
+○0000000638○cgm_kt16
 ●0000000638●
 
-○0000000639○cgm_kt21y
+○0000000639○sys20_adv00
 ●0000000639●
 
-○0000000640○sys20_adv00
+○0000000640○cgm_kt21y
 ●0000000640●
 
-○0000000641○cgm_kt16
+○0000000641○sys20_adv00
 ●0000000641●
 
-○0000000642○sys20_adv00
+○0000000642○cgm_kt16
 ●0000000642●
 
-○0000000643○cgm_kt21y
+○0000000643○sys20_adv00
 ●0000000643●
 
-○0000000644○sys20_adv00
+○0000000644○cgm_kt21y
 ●0000000644●
 
-○0000000645○cgm_ak23
+○0000000645○sys20_adv00
 ●0000000645●
 
-○0000000646○sys20_adv00
+○0000000646○cgm_ak23
 ●0000000646●
 
-○0000000647○cgm_ak11h
+○0000000647○sys20_adv00
 ●0000000647●
 
-○0000000648○sys20_adv00
+○0000000648○cgm_ak11h
 ●0000000648●
 
-○0000000649○cgm_ak30
+○0000000649○sys20_adv00
 ●0000000649●
 
-○0000000650○sys20_adv00
+○0000000650○cgm_ak30
 ●0000000650●
 
-○0000000651○cgm_ak30
+○0000000651○sys20_adv00
 ●0000000651●
 
-○0000000652○cgm_ch13
+○0000000652○cgm_ak30
 ●0000000652●
 
-○0000000653○sys20_adv00
+○0000000653○cgm_ch13
 ●0000000653●
 
-○0000000654○cgm_ak33
+○0000000654○sys20_adv00
 ●0000000654●
 
-○0000000655○sys20_adv00
+○0000000655○cgm_ak33
 ●0000000655●
 
-○0000000656○cgm_lc19
+○0000000656○sys20_adv00
 ●0000000656●
 
-○0000000657○sys20_adv00
+○0000000657○cgm_lc19
 ●0000000657●
 
-○0000000658○cgm_ak30
+○0000000658○sys20_adv00
 ●0000000658●
 
-○0000000659○sys20_adv00
+○0000000659○cgm_ak30
 ●0000000659●
 
 ○0000000660○sys20_adv00
 ●0000000660●
 
-○0000000661○cgm_kt14
+○0000000661○sys20_adv00
 ●0000000661●
 
-○0000000662○sys20_adv00
+○0000000662○cgm_kt14
 ●0000000662●
 
 ○0000000663○sys20_adv00
 ●0000000663●
 
-○0000000664○cgm_ch13
+○0000000664○sys20_adv00
 ●0000000664●
 
-○0000000665○sys20_adv00
+○0000000665○cgm_ch13
 ●0000000665●
 
-○0000000666○cgm_kt17y
+○0000000666○sys20_adv00
 ●0000000666●
 
-○0000000667○sys20_adv00
+○0000000667○cgm_kt17y
 ●0000000667●
 
-○0000000668○cgm_ak11
+○0000000668○sys20_adv00
 ●0000000668●
 
-○0000000669○sys20_adv00
+○0000000669○cgm_ak11
 ●0000000669●
 
-○0000000670○cgm_ak23
+○0000000670○sys20_adv00
 ●0000000670●
 
-○0000000671○sys20_adv00
+○0000000671○cgm_ak23
 ●0000000671●
 
-○0000000672○cgm_ak23
+○0000000672○sys20_adv00
 ●0000000672●
 
-○0000000673○cgm_ch13
+○0000000673○cgm_ak23
 ●0000000673●
 
-○0000000674○sys20_adv00
+○0000000674○cgm_ch13
 ●0000000674●
 
-○0000000675○cgm_ak13
+○0000000675○sys20_adv00
 ●0000000675●
 
-○0000000676○cgm_ch13
+○0000000676○cgm_ak13
 ●0000000676●
 
-○0000000677○sys20_adv00
+○0000000677○cgm_ch13
 ●0000000677●
 
-○0000000678○cgm_ak11
+○0000000678○sys20_adv00
 ●0000000678●
 
-○0000000679○sys20_adv00
+○0000000679○cgm_ak11
 ●0000000679●
 
-○0000000680○cgm_lc11h
+○0000000680○sys20_adv00
 ●0000000680●
 
-○0000000681○sys20_adv00
+○0000000681○cgm_lc11h
 ●0000000681●
 
-○0000000682○cgm_lc11
+○0000000682○sys20_adv00
 ●0000000682●
 
-○0000000683○cgm_ch10
+○0000000683○cgm_lc11
 ●0000000683●
 
-○0000000684○sys20_adv00
+○0000000684○cgm_ch10
 ●0000000684●
 
-○0000000685○cgm_kt10
+○0000000685○sys20_adv00
 ●0000000685●
 
-○0000000686○cgm_sz10
+○0000000686○cgm_kt10
 ●0000000686●
 
-○0000000687○sys20_adv00
+○0000000687○cgm_sz10
 ●0000000687●
 
-○0000000688○cgm_kt16
+○0000000688○sys20_adv00
 ●0000000688●
 
-○0000000689○sys20_adv00
+○0000000689○cgm_kt16
 ●0000000689●
 
-○0000000690○cgm_kt11y
+○0000000690○sys20_adv00
 ●0000000690●
 
-○0000000691○sys20_adv00
+○0000000691○cgm_kt11y
 ●0000000691●
 
-○0000000692○cgm_lc10
+○0000000692○sys20_adv00
 ●0000000692●
 
-○0000000693○sys20_adv00
+○0000000693○cgm_lc10
 ●0000000693●
 
-○0000000694○cgm_ch12
+○0000000694○sys20_adv00
 ●0000000694●
 
-○0000000695○sys20_adv00
+○0000000695○cgm_ch12
 ●0000000695●
 
 ○0000000696○sys20_adv00
 ●0000000696●
 
-○0000000697○cgm_sz13
+○0000000697○sys20_adv00
 ●0000000697●
 
-○0000000698○sys20_adv00
+○0000000698○cgm_sz13
 ●0000000698●
 
-○0000000699○cgm_sz32y
+○0000000699○sys20_adv00
 ●0000000699●
 
-○0000000700○sys20_adv00
+○0000000700○cgm_sz32y
 ●0000000700●
 
-○0000000701○cgm_sz12s
+○0000000701○sys20_adv00
 ●0000000701●
 
-○0000000702○sys20_adv00
+○0000000702○cgm_sz12s
 ●0000000702●
 
-○0000000703○kuro
+○0000000703○sys20_adv00
 ●0000000703●
 
-○0000000704○sys20_adv00
+○0000000704○kuro
 ●0000000704●
 
-○0000000705○bg014
+○0000000705○sys20_adv00
 ●0000000705●
 
-○0000000706○bgm035
+○0000000706○bg014
 ●0000000706●
 
-○0000000707○sys20_adv00
+○0000000707○bgm035
 ●0000000707●
 
-○0000000708○cgm_kt16
+○0000000708○sys20_adv00
 ●0000000708●
 
-○0000000709○sys20_adv00
+○0000000709○cgm_kt16
 ●0000000709●
 
-○0000000710○cgm_kt31
+○0000000710○sys20_adv00
 ●0000000710●
 
-○0000000711○sys20_adv00
+○0000000711○cgm_kt31
 ●0000000711●
 
-○0000000712○cgm_kt20y
+○0000000712○sys20_adv00
 ●0000000712●
 
-○0000000713○sys20_adv00
+○0000000713○cgm_kt20y
 ●0000000713●
 
-○0000000714○cgm_kt21
+○0000000714○sys20_adv00
 ●0000000714●
 
-○0000000715○sys20_adv00
+○0000000715○cgm_kt21
 ●0000000715●
 
-○0000000716○cgm_kt23
+○0000000716○sys20_adv00
 ●0000000716●
 
-○0000000717○sys20_adv00
+○0000000717○cgm_kt23
 ●0000000717●
 
-○0000000718○cgm_kt17
+○0000000718○sys20_adv00
 ●0000000718●
 
-○0000000719○sys20_adv00
+○0000000719○cgm_kt17
 ●0000000719●
 
-○0000000720○cgm_lc36
+○0000000720○sys20_adv00
 ●0000000720●
 
-○0000000721○sys20_adv00
+○0000000721○cgm_lc36
 ●0000000721●
 
-○0000000722○cgm_sz31y
+○0000000722○sys20_adv00
 ●0000000722●
 
-○0000000723○sys20_adv00
+○0000000723○cgm_sz31y
 ●0000000723●
 
 ○0000000724○sys20_adv00
 ●0000000724●
 
-○0000000725○cgm_kt11
+○0000000725○sys20_adv00
 ●0000000725●
 
-○0000000726○sys20_adv00
+○0000000726○cgm_kt11
 ●0000000726●
 
-○0000000727○cgm_kt30
+○0000000727○sys20_adv00
 ●0000000727●
 
-○0000000728○sys20_adv00
+○0000000728○cgm_kt30
 ●0000000728●
 
-○0000000729○cgm_ch12
+○0000000729○sys20_adv00
 ●0000000729●
 
-○0000000730○sys20_adv00
+○0000000730○cgm_ch12
 ●0000000730●
 
-○0000000731○cgm_kt12
+○0000000731○sys20_adv00
 ●0000000731●
 
-○0000000732○cgm_ch12
+○0000000732○cgm_kt12
 ●0000000732●
 
-○0000000733○sys20_adv00
+○0000000733○cgm_ch12
 ●0000000733●
 
-○0000000734○kuro
+○0000000734○sys20_adv00
 ●0000000734●
 
-○0000000735○sys20_adv00
+○0000000735○kuro
 ●0000000735●
 
-○0000000736○bg014
+○0000000736○sys20_adv00
 ●0000000736●
 
-○0000000737○sys20_adv00
+○0000000737○bg014
 ●0000000737●
 
-○0000000738○cgm_lc11h
+○0000000738○sys20_adv00
 ●0000000738●
 
-○0000000739○sys20_adv00
+○0000000739○cgm_lc11h
 ●0000000739●
 
-○0000000740○cgm_lc21
+○0000000740○sys20_adv00
 ●0000000740●
 
-○0000000741○sys20_adv00
+○0000000741○cgm_lc21
 ●0000000741●
 
-○0000000742○cgm_kt17
+○0000000742○sys20_adv00
 ●0000000742●
 
-○0000000743○sys20_adv00
+○0000000743○cgm_kt17
 ●0000000743●
 
-○0000000744○cgm_kt17
+○0000000744○sys20_adv00
 ●0000000744●
 
-○0000000745○cgm_ch12
+○0000000745○cgm_kt17
 ●0000000745●
 
-○0000000746○sys20_adv00
+○0000000746○cgm_ch12
 ●0000000746●
 
-○0000000747○cgm_kt14
+○0000000747○sys20_adv00
 ●0000000747●
 
-○0000000748○cgm_ch12
+○0000000748○cgm_kt14
 ●0000000748●
 
-○0000000749○sys20_adv00
+○0000000749○cgm_ch12
 ●0000000749●
 
 ○0000000750○sys20_adv00
 ●0000000750●
 
-○0000000751○cgm_lc15
+○0000000751○sys20_adv00
 ●0000000751●
 
-○0000000752○sys20_adv00
+○0000000752○cgm_lc15
 ●0000000752●
 
 ○0000000753○sys20_adv00
 ●0000000753●
 
-○0000000754○cgm_lc11
+○0000000754○sys20_adv00
 ●0000000754●
 
-○0000000755○sys20_adv00
+○0000000755○cgm_lc11
 ●0000000755●
 
 ○0000000756○sys20_adv00
 ●0000000756●
 
-○0000000757○cgm_ch13
+○0000000757○sys20_adv00
 ●0000000757●
 
-○0000000758○sys20_adv00
+○0000000758○cgm_ch13
 ●0000000758●
 
-○0000000759○cgm_lc11h
+○0000000759○sys20_adv00
 ●0000000759●
 
-○0000000760○sys20_adv00
+○0000000760○cgm_lc11h
 ●0000000760●
 
-○0000000761○cgm_ch29h
+○0000000761○sys20_adv00
 ●0000000761●
 
-○0000000762○cgm_lc11h
+○0000000762○cgm_ch29h
 ●0000000762●
 
-○0000000763○sys20_adv00
+○0000000763○cgm_lc11h
 ●0000000763●
 
-○0000000764○cgm_ch16
+○0000000764○sys20_adv00
 ●0000000764●
 
-○0000000765○sys20_adv00
+○0000000765○cgm_ch16
 ●0000000765●
 
 ○0000000766○sys20_adv00
 ●0000000766●
 
-○0000000767○cgm_ch15
+○0000000767○sys20_adv00
 ●0000000767●
 
-○0000000768○sys20_adv00
+○0000000768○cgm_ch15
 ●0000000768●
 
 ○0000000769○sys20_adv00
 ●0000000769●
 
-○0000000770○cgm_sz20
+○0000000770○sys20_adv00
 ●0000000770●
 
-○0000000771○sys20_adv00
+○0000000771○cgm_sz20
 ●0000000771●
 
-○0000000772○cgm_kt14
+○0000000772○sys20_adv00
 ●0000000772●
 
-○0000000773○sys20_adv00
+○0000000773○cgm_kt14
 ●0000000773●
 
-○0000000774○cgm_sz30
+○0000000774○sys20_adv00
 ●0000000774●
 
-○0000000775○sys20_adv00
+○0000000775○cgm_sz30
 ●0000000775●
 
-○0000000776○cgm_sz31
+○0000000776○sys20_adv00
 ●0000000776●
 
-○0000000777○sys20_adv00
+○0000000777○cgm_sz31
 ●0000000777●
 
-○0000000778○cgm_sz12
+○0000000778○sys20_adv00
 ●0000000778●
 
-○0000000779○sys20_adv00
+○0000000779○cgm_sz12
 ●0000000779●
 
-○0000000780○cgm_ch13
+○0000000780○sys20_adv00
 ●0000000780●
 
-○0000000781○sys20_adv00
+○0000000781○cgm_ch13
 ●0000000781●
 
-○0000000782○cgm_lc11t
+○0000000782○sys20_adv00
 ●0000000782●
 
-○0000000783○sys20_adv00
+○0000000783○cgm_lc11t
 ●0000000783●
 
-○0000000784○kuro
+○0000000784○sys20_adv00
 ●0000000784●
 
-○0000000785○sys20_adv00
+○0000000785○kuro
 ●0000000785●
 
-○0000000786○bg014
+○0000000786○sys20_adv00
 ●0000000786●
 
-○0000000787○sys20_adv00
+○0000000787○bg014
 ●0000000787●
 
-○0000000788○cgm_lc12
+○0000000788○sys20_adv00
 ●0000000788●
 
-○0000000789○sys20_adv00
+○0000000789○cgm_lc12
 ●0000000789●
 
-○0000000790○cgm_ch29
+○0000000790○sys20_adv00
 ●0000000790●
 
-○0000000791○sys20_adv00
+○0000000791○cgm_ch29
 ●0000000791●
 
-○0000000792○cgm_ch33h
+○0000000792○sys20_adv00
 ●0000000792●
 
-○0000000793○sys20_adv00
+○0000000793○cgm_ch33h
 ●0000000793●
 
-○0000000794○cgm_sz10
+○0000000794○sys20_adv00
 ●0000000794●
 
-○0000000795○sys20_adv00
+○0000000795○cgm_sz10
 ●0000000795●
 
-○0000000796○cgm_lc11h
+○0000000796○sys20_adv00
 ●0000000796●
 
-○0000000797○cgm_sz10
+○0000000797○cgm_lc11h
 ●0000000797●
 
-○0000000798○sys20_adv00
+○0000000798○cgm_sz10
 ●0000000798●
 
-○0000000799○cgm_lc11h
+○0000000799○sys20_adv00
 ●0000000799●
 
-○0000000800○cgm_sz43
+○0000000800○cgm_lc11h
 ●0000000800●
 
-○0000000801○sys20_adv00
+○0000000801○cgm_sz43
 ●0000000801●
 
 ○0000000802○sys20_adv00
 ●0000000802●
 
-○0000000803○kuro
+○0000000803○sys20_adv00
 ●0000000803●
 
-○0000000804○sys20_adv00
+○0000000804○kuro
 ●0000000804●
 
-○0000000805○cgm_ch13
+○0000000805○sys20_adv00
 ●0000000805●
 
-○0000000806○sys20_adv00
+○0000000806○cgm_ch13
 ●0000000806●
 
-○0000000807○cgm_kt25h
+○0000000807○sys20_adv00
 ●0000000807●
 
-○0000000808○sys20_adv00
+○0000000808○cgm_kt25h
 ●0000000808●
 
 ○0000000809○sys20_adv00
 ●0000000809●
 
-○0000000810○cgm_kt14
+○0000000810○sys20_adv00
 ●0000000810●
 
-○0000000811○sys20_adv00
+○0000000811○cgm_kt14
 ●0000000811●
 
-○0000000812○cgm_lc43
+○0000000812○sys20_adv00
 ●0000000812●
 
-○0000000813○sys20_adv00
+○0000000813○cgm_lc43
 ●0000000813●
 
-○0000000814○cgm_lc11
+○0000000814○sys20_adv00
 ●0000000814●
 
-○0000000815○sys20_adv00
+○0000000815○cgm_lc11
 ●0000000815●
 
 ○0000000816○sys20_adv00
 ●0000000816●
 
-○0000000817○cgm_sz12h
+○0000000817○sys20_adv00
 ●0000000817●
 
-○0000000818○sys20_adv00
+○0000000818○cgm_sz12h
 ●0000000818●
 
 ○0000000819○sys20_adv00
 ●0000000819●
 
-○0000000820○cgm_kt33
+○0000000820○sys20_adv00
 ●0000000820●
 
-○0000000821○sys20_adv00
+○0000000821○cgm_kt33
 ●0000000821●
 
 ○0000000822○sys20_adv00
 ●0000000822●
 
-○0000000823○cgm_ch13
+○0000000823○sys20_adv00
 ●0000000823●
 
-○0000000824○sys20_adv00
+○0000000824○cgm_ch13
 ●0000000824●
 
 ○0000000825○sys20_adv00
 ●0000000825●
 
-○0000000826○cgm_ch32h
+○0000000826○sys20_adv00
 ●0000000826●
 
-○0000000827○sys20_adv00
+○0000000827○cgm_ch32h
 ●0000000827●
 
-○0000000828○cgm_ch13
+○0000000828○sys20_adv00
 ●0000000828●
 
-○0000000829○sys20_adv00
+○0000000829○cgm_ch13
 ●0000000829●
 
-○0000000830○cgm_kt14
+○0000000830○sys20_adv00
 ●0000000830●
 
-○0000000831○sys20_adv00
+○0000000831○cgm_kt14
 ●0000000831●
 
-○0000000832○cgm_kt31
+○0000000832○sys20_adv00
 ●0000000832●
 
-○0000000833○sys20_adv00
+○0000000833○cgm_kt31
 ●0000000833●
 
-○0000000834○cgm_kt17
+○0000000834○sys20_adv00
 ●0000000834●
 
-○0000000835○sys20_adv00
+○0000000835○cgm_kt17
 ●0000000835●
 
-○0000000836○cgm_kt23
+○0000000836○sys20_adv00
 ●0000000836●
 
-○0000000837○sys20_adv00
+○0000000837○cgm_kt23
 ●0000000837●
 
-○0000000838○cgm_kt11
+○0000000838○sys20_adv00
 ●0000000838●
 
-○0000000839○sys20_adv00
+○0000000839○cgm_kt11
 ●0000000839●
 
 ○0000000840○sys20_adv00
 ●0000000840●
 
-○0000000841○cgm_kt11
+○0000000841○sys20_adv00
 ●0000000841●
 
-○0000000842○sys20_adv00
+○0000000842○cgm_kt11
 ●0000000842●
 
-○0000000843○cgm_kt22
+○0000000843○sys20_adv00
 ●0000000843●
 
-○0000000844○sys20_adv00
+○0000000844○cgm_kt22
 ●0000000844●
 
-○0000000845○cgm_kt21y
+○0000000845○sys20_adv00
 ●0000000845●
 
-○0000000846○sys20_adv00
+○0000000846○cgm_kt21y
 ●0000000846●
 
-○0000000847○cgm_kt17
+○0000000847○sys20_adv00
 ●0000000847●
 
-○0000000848○sys20_adv00
+○0000000848○cgm_kt17
 ●0000000848●
 
-○0000000849○cgm_kt22
+○0000000849○sys20_adv00
 ●0000000849●
 
-○0000000850○sys20_adv00
+○0000000850○cgm_kt22
 ●0000000850●
 
 ○0000000851○sys20_adv00
 ●0000000851●
 
-○0000000852○cgm_kt11
+○0000000852○sys20_adv00
 ●0000000852●
 
-○0000000853○sys20_adv00
+○0000000853○cgm_kt11
 ●0000000853●
 
-○0000000854○cgm_kt20
+○0000000854○sys20_adv00
 ●0000000854●
 
-○0000000855○sys20_adv00
+○0000000855○cgm_kt20
 ●0000000855●
 
-○0000000856○cgm_kt11
+○0000000856○sys20_adv00
 ●0000000856●
 
-○0000000857○sys20_adv00
+○0000000857○cgm_kt11
 ●0000000857●
 
 ○0000000858○sys20_adv00
 ●0000000858●
 
-○0000000859○cgm_kt11
+○0000000859○sys20_adv00
 ●0000000859●
 
-○0000000860○sys20_adv00
+○0000000860○cgm_kt11
 ●0000000860●
 
-○0000000861○cgm_kt21
+○0000000861○sys20_adv00
 ●0000000861●
 
-○0000000862○sys20_adv00
+○0000000862○cgm_kt21
 ●0000000862●
 
-○0000000863○cgm_kt17
+○0000000863○sys20_adv00
 ●0000000863●
 
-○0000000864○sys20_adv00
+○0000000864○cgm_kt17
 ●0000000864●
 
 ○0000000865○sys20_adv00
 ●0000000865●
 
-○0000000866○cgm_ch13
+○0000000866○sys20_adv00
 ●0000000866●
 
-○0000000867○sys20_adv00
+○0000000867○cgm_ch13
 ●0000000867●
 
 ○0000000868○sys20_adv00
 ●0000000868●
 
-○0000000869○cgm_ch10
+○0000000869○sys20_adv00
 ●0000000869●
 
-○0000000870○sys20_adv00
+○0000000870○cgm_ch10
 ●0000000870●
 
-○0000000871○cgm_ch14
+○0000000871○sys20_adv00
 ●0000000871●
 
-○0000000872○sys20_adv00
+○0000000872○cgm_ch14
 ●0000000872●
 
-○0000000873○cgm_kt14
+○0000000873○sys20_adv00
 ●0000000873●
 
-○0000000874○cgm_ch14
+○0000000874○cgm_kt14
 ●0000000874●
 
-○0000000875○sys20_adv00
+○0000000875○cgm_ch14
 ●0000000875●
 
-○0000000876○cgm_kt14
+○0000000876○sys20_adv00
 ●0000000876●
 
-○0000000877○cgm_ch13
+○0000000877○cgm_kt14
 ●0000000877●
 
-○0000000878○sys20_adv00
+○0000000878○cgm_ch13
 ●0000000878●
 
-○0000000879○cgm_sz10s
+○0000000879○sys20_adv00
 ●0000000879●
 
-○0000000880○sys20_adv00
+○0000000880○cgm_sz10s
 ●0000000880●
 
-○0000000881○cgm_ch22
+○0000000881○sys20_adv00
 ●0000000881●
 
-○0000000882○sys20_adv00
+○0000000882○cgm_ch22
 ●0000000882●
 
-○0000000883○cgm_sz30y
+○0000000883○sys20_adv00
 ●0000000883●
 
-○0000000884○sys20_adv00
+○0000000884○cgm_sz30y
 ●0000000884●
 
-○0000000885○cgm_sz43h
+○0000000885○sys20_adv00
 ●0000000885●
 
-○0000000886○sys20_adv00
+○0000000886○cgm_sz43h
 ●0000000886●
 
-○0000000887○cgm_sz12
+○0000000887○sys20_adv00
 ●0000000887●
 
-○0000000888○sys20_adv00
+○0000000888○cgm_sz12
 ●0000000888●
 
-○0000000889○cgm_lc44
+○0000000889○sys20_adv00
 ●0000000889●
 
-○0000000890○sys20_adv00
+○0000000890○cgm_lc44
 ●0000000890●
 
-○0000000891○cgm_lc11
+○0000000891○sys20_adv00
 ●0000000891●
 
-○0000000892○cgm_sz10h
+○0000000892○cgm_lc11
 ●0000000892●
 
-○0000000893○sys20_adv00
+○0000000893○cgm_sz10h
 ●0000000893●
 
-○0000000894○cgm_lc26
+○0000000894○sys20_adv00
 ●0000000894●
 
-○0000000895○cgm_sz10h
+○0000000895○cgm_lc26
 ●0000000895●
 
-○0000000896○sys20_adv00
+○0000000896○cgm_sz10h
 ●0000000896●
 
-○0000000897○cgm_lc26
+○0000000897○sys20_adv00
 ●0000000897●
 
-○0000000898○cgm_sz43h
+○0000000898○cgm_lc26
 ●0000000898●
 
-○0000000899○sys20_adv00
+○0000000899○cgm_sz43h
 ●0000000899●
 
-○0000000900○cgm_lc36
+○0000000900○sys20_adv00
 ●0000000900●
 
-○0000000901○cgm_sz43h
+○0000000901○cgm_lc36
 ●0000000901●
 
-○0000000902○sys20_adv00
+○0000000902○cgm_sz43h
 ●0000000902●
 
-○0000000903○cgm_ch29
+○0000000903○sys20_adv00
 ●0000000903●
 
-○0000000904○sys20_adv00
+○0000000904○cgm_ch29
 ●0000000904●
 
-○0000000905○cgm_ch29
+○0000000905○sys20_adv00
 ●0000000905●
 
-○0000000906○cgm_sz12
+○0000000906○cgm_ch29
 ●0000000906●
 
-○0000000907○sys20_adv00
+○0000000907○cgm_sz12
 ●0000000907●
 
-○0000000908○cgm_ch13
+○0000000908○sys20_adv00
 ●0000000908●
 
-○0000000909○cgm_sz12
+○0000000909○cgm_ch13
 ●0000000909●
 
-○0000000910○sys20_adv00
+○0000000910○cgm_sz12
 ●0000000910●
 
-○0000000911○cgm_ch13
+○0000000911○sys20_adv00
 ●0000000911●
 
-○0000000912○cgm_sz19r
+○0000000912○cgm_ch13
 ●0000000912●
 
-○0000000913○sys20_adv00
+○0000000913○cgm_sz19r
 ●0000000913●
 
 ○0000000914○sys20_adv00
 ●0000000914●
 
-○0000000915○cgm_lc11t
+○0000000915○sys20_adv00
 ●0000000915●
 
-○0000000916○sys20_adv00
+○0000000916○cgm_lc11t
 ●0000000916●
 
-○0000000917○cgm_kt11
+○0000000917○sys20_adv00
 ●0000000917●
 
-○0000000918○sys20_adv00
+○0000000918○cgm_kt11
 ●0000000918●
 
-○0000000919○cgm_kt10
+○0000000919○sys20_adv00
 ●0000000919●
 
-○0000000920○sys20_adv00
+○0000000920○cgm_kt10
 ●0000000920●
 
-○0000000921○cgm_kt18
+○0000000921○sys20_adv00
 ●0000000921●
 
-○0000000922○sys20_adv00
+○0000000922○cgm_kt18
 ●0000000922●
 
-○0000000923○sys40_mp40
+○0000000923○sys20_adv00
 ●0000000923●
 
-○0000000924○sys20_adv00
+○0000000924○sys40_mp40
 ●0000000924●
 
-○0000000925○kuro
+○0000000925○sys20_adv00
 ●0000000925●
 
-○0000000926○sys20_adv00
+○0000000926○kuro
 ●0000000926●
 
-○0000000927○cgm_kt16
+○0000000927○sys20_adv00
 ●0000000927●
 
-○0000000928○sys20_adv00
+○0000000928○cgm_kt16
 ●0000000928●
 
-○0000000929○cgm_lc19
+○0000000929○sys20_adv00
 ●0000000929●
 
-○0000000930○sys20_adv00
+○0000000930○cgm_lc19
 ●0000000930●
 
-○0000000931○cgm_sz10h
+○0000000931○sys20_adv00
 ●0000000931●
 
-○0000000932○sys20_adv00
+○0000000932○cgm_sz10h
 ●0000000932●
 
-○0000000933○cgm_lc44
+○0000000933○sys20_adv00
 ●0000000933●
 
-○0000000934○sys20_adv00
+○0000000934○cgm_lc44
 ●0000000934●
 
 ○0000000935○sys20_adv00
 ●0000000935●
 
-○0000000936○cgm_kt11
+○0000000936○sys20_adv00
 ●0000000936●
 
-○0000000937○sys20_adv00
+○0000000937○cgm_kt11
 ●0000000937●
 
-○0000000938○kuro
+○0000000938○sys20_adv00
 ●0000000938●
 
-○0000000939○sys20_adv00
+○0000000939○kuro
 ●0000000939●
 
-○0000000940○bg014
+○0000000940○sys20_adv00
 ●0000000940●
 
-○0000000941○bgm003
+○0000000941○bg014
 ●0000000941●
 
-○0000000942○sys20_adv00
+○0000000942○bgm003
 ●0000000942●
 
-○0000000943○cgm_ak23
+○0000000943○sys20_adv00
 ●0000000943●
 
-○0000000944○sys20_adv00
+○0000000944○cgm_ak23
 ●0000000944●
 
-○0000000945○cgm_ak11
+○0000000945○sys20_adv00
 ●0000000945●
 
-○0000000946○cgm_ch22
+○0000000946○cgm_ak11
 ●0000000946●
 
-○0000000947○sys20_adv00
+○0000000947○cgm_ch22
 ●0000000947●
 
-○0000000948○cgm_ak13
+○0000000948○sys20_adv00
 ●0000000948●
 
-○0000000949○cgm_ch22
+○0000000949○cgm_ak13
 ●0000000949●
 
-○0000000950○sys20_adv00
+○0000000950○cgm_ch22
 ●0000000950●
 
-○0000000951○cgm_ak30
+○0000000951○sys20_adv00
 ●0000000951●
 
-○0000000952○cgm_ch22
+○0000000952○cgm_ak30
 ●0000000952●
 
-○0000000953○sys20_adv00
+○0000000953○cgm_ch22
 ●0000000953●
 
 ○0000000954○sys20_adv00
 ●0000000954●
 
-○0000000955○cgm_ak13
+○0000000955○sys20_adv00
 ●0000000955●
 
-○0000000956○sys20_adv00
+○0000000956○cgm_ak13
 ●0000000956●
 
-○0000000957○cgm_ak11h
+○0000000957○sys20_adv00
 ●0000000957●
 
-○0000000958○sys20_adv00
+○0000000958○cgm_ak11h
 ●0000000958●
 
-○0000000959○cgm_ak13
+○0000000959○sys20_adv00
 ●0000000959●
 
-○0000000960○sys20_adv00
+○0000000960○cgm_ak13
 ●0000000960●
 
-○0000000961○cgm_ak13
+○0000000961○sys20_adv00
 ●0000000961●
 
-○0000000962○cgm_kt25
+○0000000962○cgm_ak13
 ●0000000962●
 
-○0000000963○sys20_adv00
+○0000000963○cgm_kt25
 ●0000000963●
 
-○0000000964○cgm_ak31
+○0000000964○sys20_adv00
 ●0000000964●
 
-○0000000965○cgm_kt25
+○0000000965○cgm_ak31
 ●0000000965●
 
-○0000000966○sys20_adv00
+○0000000966○cgm_kt25
 ●0000000966●
 
-○0000000967○cgm_ak11
+○0000000967○sys20_adv00
 ●0000000967●
 
-○0000000968○cgm_kt25
+○0000000968○cgm_ak11
 ●0000000968●
 
-○0000000969○sys20_adv00
+○0000000969○cgm_kt25
 ●0000000969●
 
-○0000000970○cgm_ak23
+○0000000970○sys20_adv00
 ●0000000970●
 
-○0000000971○sys20_adv00
+○0000000971○cgm_ak23
 ●0000000971●
 
-○0000000972○cgm_ak11
+○0000000972○sys20_adv00
 ●0000000972●
 
-○0000000973○sys20_adv00
+○0000000973○cgm_ak11
 ●0000000973●
 
-○0000000974○cgm_ak10
+○0000000974○sys20_adv00
 ●0000000974●
 
-○0000000975○sys20_adv00
+○0000000975○cgm_ak10
 ●0000000975●
 
-○0000000976○cgm_ak30
+○0000000976○sys20_adv00
 ●0000000976●
 
-○0000000977○sys20_adv00
+○0000000977○cgm_ak30
 ●0000000977●
 
-○0000000978○cgm_ak30
+○0000000978○sys20_adv00
 ●0000000978●
 
-○0000000979○cgm_ch29
+○0000000979○cgm_ak30
 ●0000000979●
 
-○0000000980○sys20_adv00
+○0000000980○cgm_ch29
 ●0000000980●
 
-○0000000981○cgm_ak11h
+○0000000981○sys20_adv00
 ●0000000981●
 
-○0000000982○cgm_ch29
+○0000000982○cgm_ak11h
 ●0000000982●
 
-○0000000983○sys20_adv00
+○0000000983○cgm_ch29
 ●0000000983●
 
 ○0000000984○sys20_adv00
 ●0000000984●
 
-○0000000985○cgm_ak30
+○0000000985○sys20_adv00
 ●0000000985●
 
-○0000000986○sys20_adv00
+○0000000986○cgm_ak30
 ●0000000986●
 
-○0000000987○cgm_ak10h
+○0000000987○sys20_adv00
 ●0000000987●
 
-○0000000988○sys20_adv00
+○0000000988○cgm_ak10h
 ●0000000988●
 
-○0000000989○cgm_lc11h
+○0000000989○sys20_adv00
 ●0000000989●
 
-○0000000990○sys20_adv00
+○0000000990○cgm_lc11h
 ●0000000990●
 
-○0000000991○cgm_ak30
+○0000000991○sys20_adv00
 ●0000000991●
 
-○0000000992○sys20_adv00
+○0000000992○cgm_ak30
 ●0000000992●
 
-○0000000993○cgm_sz12
+○0000000993○sys20_adv00
 ●0000000993●
 
-○0000000994○sys20_adv00
+○0000000994○cgm_sz12
 ●0000000994●
 
-○0000000995○cgm_ak30
+○0000000995○sys20_adv00
 ●0000000995●
 
-○0000000996○sys20_adv00
+○0000000996○cgm_ak30
 ●0000000996●
 
-○0000000997○cgm_ch29
+○0000000997○sys20_adv00
 ●0000000997●
 
-○0000000998○sys20_adv00
+○0000000998○cgm_ch29
 ●0000000998●
 
-○0000000999○cgm_ak23
+○0000000999○sys20_adv00
 ●0000000999●
 
-○0000001000○sys20_adv00
+○0000001000○cgm_ak23
 ●0000001000●
 
-○0000001001○cgm_lc10
+○0000001001○sys20_adv00
 ●0000001001●
 
-○0000001002○sys20_adv00
+○0000001002○cgm_lc10
 ●0000001002●
 
-○0000001003○cgm_ch10
+○0000001003○sys20_adv00
 ●0000001003●
 
-○0000001004○sys20_adv00
+○0000001004○cgm_ch10
 ●0000001004●
 
 ○0000001005○sys20_adv00
 ●0000001005●
 
-○0000001006○cgm_ak30
+○0000001006○sys20_adv00
 ●0000001006●
 
-○0000001007○sys20_adv00
+○0000001007○cgm_ak30
 ●0000001007●
 
 ○0000001008○sys20_adv00
 ●0000001008●
 
-○0000001009○cgm_kt11y
+○0000001009○sys20_adv00
 ●0000001009●
 
-○0000001010○sys20_adv00
+○0000001010○cgm_kt11y
 ●0000001010●
 
 ○0000001011○sys20_adv00
 ●0000001011●
 
-○0000001012○kuro
+○0000001012○sys20_adv00
 ●0000001012●
 
-○0000001013○sys20_adv00
+○0000001013○kuro
 ●0000001013●
 
-○0000001014○bg010y
+○0000001014○sys20_adv00
 ●0000001014●
 
-○0000001015○bgm004
+○0000001015○bg010y
 ●0000001015●
 
-○0000001016○sys20_adv00
+○0000001016○bgm004
 ●0000001016●
 
-○0000001017○cgm_ak31
+○0000001017○sys20_adv00
 ●0000001017●
 
-○0000001018○sys20_adv00
+○0000001018○cgm_ak31
 ●0000001018●
 
-○0000001019○cgm_kt17
+○0000001019○sys20_adv00
 ●0000001019●
 
-○0000001020○sys20_adv00
+○0000001020○cgm_kt17
 ●0000001020●
 
-○0000001021○cgm_ak23
+○0000001021○sys20_adv00
 ●0000001021●
 
-○0000001022○sys20_adv00
+○0000001022○cgm_ak23
 ●0000001022●
 
-○0000001023○cgm_ak13h
+○0000001023○sys20_adv00
 ●0000001023●
 
-○0000001024○sys20_adv00
+○0000001024○cgm_ak13h
 ●0000001024●
 
-○0000001025○sys10_mm02
+○0000001025○sys20_adv00
 ●0000001025●
 
 ○0000001026○sys10_mm02
 ●0000001026●
+
+○0000001027○sys10_mm02
+●0000001027●
 

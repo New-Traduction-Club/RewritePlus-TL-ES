@@ -70,9 +70,9 @@
 ○0000000023○op00
 ●0000000023●
 
-○0000000024○ef_ev_pra_moji00
+○0000000024○salvation_ef_ev_pra_moji00
 ●0000000024●
 
-○0000000025○ef_ev_pra_moji01
+○0000000025○salvation_ef_ev_pra_moji01
 ●0000000025●
 
