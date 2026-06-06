@@ -1,0 +1,2544 @@
+○0000000000○My shoulder bumps against a staggering middle-school girl.
+●0000000000●
+
+○0000000001○ＪＣ
+●0000000001●
+
+○0000000002○"Ah... That was the final blow... to my anemia."
+●0000000002●
+
+○0000000003○She collapses.
+●0000000003●
+
+○0000000004○小鳥
+●0000000004●
+
+○0000000005○"Can you stand? Want us to take you to a doctor?"
+●0000000005●
+
+○0000000007○ＪＣ
+●0000000007●
+
+○0000000008○"No, it's okay. Thank you for your concern. Goodbye."
+●0000000008●
+
+○0000000009○The middle-school girl leaves.
+●0000000009●
+
+○0000000010○瑚太朗
+●0000000010●
+
+○0000000011○"Hm?"
+●0000000011●
+
+○0000000013○There's something lying on the road where she fell.
+●0000000013●
+
+○0000000014○You've received Toilet Paper (RARITY *)!
+●0000000014●
+
+○0000000015○小鳥
+●0000000015●
+
+○0000000016○"What are you holding there, Kotarou?"
+●0000000016●
+
+○0000000017○瑚太朗
+●0000000017●
+
+○0000000018○"Loot... I think."
+●0000000018●
+
+○0000000020○■マッピー／既読■　ID:
+●0000000020●
+
+○0000000021○ (Z
+●0000000021●
+
+○0000000022○-
+●0000000022●
+
+○0000000023○■マッピー／コンプリート■
+●0000000023●
+
+○0000000024○A stray cat strides along the top of the fence.
+●0000000024●
+
+○0000000025○小鳥
+●0000000025●
+
+○0000000026○"It's pretty cute."
+●0000000026●
+
+○0000000028○Kotori pets its head.
+●0000000028●
+
+○0000000029○...And the cat instantly lies down.
+●0000000029●
+
+○0000000030○It must feel quite nice. It's purring up a storm.
+●0000000030●
+
+○0000000031○小鳥
+●0000000031●
+
+○0000000032○"Oh, I've got a golden finger!"
+●0000000032●
+
+○0000000034○The cat drops something.
+●0000000034●
+
+○0000000035○瑚太朗
+●0000000035●
+
+○0000000036○"Hm?"
+●0000000036●
+
+○0000000038○You've received "Socks that provide all your equipped weapons with unlimitted bullets (RARITY ***)"!
+●0000000038●
+
+○0000000039○瑚太朗
+●0000000039●
+
+○0000000040○"That's all well and good, but..."
+●0000000040●
+
+○0000000042○It's against the law to carry weapons in this country.
+●0000000042●
+
+○0000000043○...Ah, so that's why its rarity is relatively low.
+●0000000043●
+
+○0000000044○And, uh... Does petting something and making it lie down count as defeating it?
+●0000000044●
+
+○0000000045○小鳥
+●0000000045●
+
+○0000000046○"What's that?"
+●0000000046●
+
+○0000000047○瑚太朗
+●0000000047●
+
+○0000000048○"Our loot, I think."
+●0000000048●
+
+○0000000050○■マッピー／既読■　ID:
+●0000000050●
+
+○0000000051○ (Z
+●0000000051●
+
+○0000000052○-
+●0000000052●
+
+○0000000053○■マッピー／コンプリート■
+●0000000053●
+
+○0000000054○I bump into a man.
+●0000000054●
+
+○0000000055○男
+●0000000055●
+
+○0000000056○"Uoh!"
+●0000000056●
+
+○0000000057○He slips, hits his head, and loses consciousness.
+●0000000057●
+
+○0000000058○瑚太朗
+●0000000058●
+
+○0000000059○"Are you o― Huh?"
+●0000000059●
+
+○0000000061○He dropped something.
+●0000000061●
+
+○0000000062○You've received Zanbato (RARITY *****)!
+●0000000062●
+
+○0000000063○瑚太朗
+●0000000063●
+
+○0000000064○"Aw crap, this infringes upon the Sword Possession Act!"
+●0000000064●
+
+○0000000065○小鳥
+●0000000065●
+
+○0000000066○"Give it back to him!"
+●0000000066●
+
+○0000000068○I stick it back inside his clothes.
+●0000000068●
+
+○0000000069○男
+●0000000069●
+
+○0000000070○"...Ah, sorry, young man. I was lost in thought."
+●0000000070●
+
+○0000000071○瑚太朗
+●0000000071●
+
+○0000000072○"It's okay."
+●0000000072●
+
+○0000000074○男
+●0000000074●
+
+○0000000075○"How should I move when fighting a giant enemy...? Mumble, mumble..."
+●0000000075●
+
+○0000000076○The man leaves.
+●0000000076●
+
+○0000000077○瑚太朗
+●0000000077●
+
+○0000000078○"...What do you think that guy does for a living?"
+●0000000078●
+
+○0000000079○小鳥
+●0000000079●
+
+○0000000080○"...I dunno."
+●0000000080●
+
+○0000000082○■マッピー／既読■　ID:
+●0000000082●
+
+○0000000083○ (Z
+●0000000083●
+
+○0000000084○-
+●0000000084●
+
+○0000000085○■マッピー／コンプリート■
+●0000000085●
+
+○0000000086○瑚太朗
+●0000000086●
+
+○0000000087○(There's something lying in the street...)
+●0000000087●
+
+○0000000088○瑚太朗
+●0000000088●
+
+○0000000089○(And it just so happens to be a porn mag again.)
+●0000000089●
+
+○0000000090○瑚太朗
+●0000000090●
+
+○0000000091○(Okay, I'll pick it up. Can't leave litter lying around.)
+●0000000091●
+
+○0000000092○瑚太朗
+●0000000092●
+
+○0000000093○"......"
+●0000000093●
+
+○0000000094○瑚太朗
+●0000000094●
+
+○0000000095○"......"
+●0000000095●
+
+○0000000096○瑚太朗
+●0000000096●
+
+○0000000097○"Whew, 8/10 I'd say!"
+●0000000097●
+
+○0000000099○You've received a Pornographic Magazine (RANK B)!
+●0000000099●
+
+○0000000100○小鳥
+●0000000100●
+
+○0000000101○"Hey!"
+●0000000101●
+
+○0000000103○You've lost a Pornographic Magazine (RANK B)!
+●0000000103●
+
+○0000000104○瑚太朗
+●0000000104●
+
+○0000000105○"My RANK B!!"
+●0000000105●
+
+○0000000106○小鳥
+●0000000106●
+
+○0000000107○"Healthy lust for a healthy soul!"
+●0000000107●
+
+○0000000108○瑚太朗
+●0000000108●
+
+○0000000109○"Healthy lust? How does that work?"
+●0000000109●
+
+○0000000110○小鳥
+●0000000110●
+
+○0000000111○"Pen pals!"
+●0000000111●
+
+○0000000112○瑚太朗
+●0000000112●
+
+○0000000113○"You've never written a letter in your life!"
+●0000000113●
+
+○0000000115○■マッピー／既読■　ID:
+●0000000115●
+
+○0000000116○ (Z
+●0000000116●
+
+○0000000117○-
+●0000000117●
+
+○0000000118○■マッピー／コンプリート■
+●0000000118●
+
+○0000000119○瑚太朗
+●0000000119●
+
+○0000000120○(There's something lying in the street...)
+●0000000120●
+
+○0000000121○瑚太朗
+●0000000121●
+
+○0000000122○(Well if it isn't an abandoned porn mag. Poor thing. It must be lonely all alone out here.)
+●0000000122●
+
+○0000000123○瑚太朗
+●0000000123●
+
+○0000000124○(All right, I'll take you in, little buddy.)
+●0000000124●
+
+○0000000125○瑚太朗
+●0000000125●
+
+○0000000126○"......"
+●0000000126●
+
+○0000000127○瑚太朗
+●0000000127●
+
+○0000000128○"......"
+●0000000128●
+
+○0000000129○瑚太朗
+●0000000129●
+
+○0000000130○"Whoa, this is a 9/10!!"
+●0000000130●
+
+○0000000132○You've received Porn Magazine (RANK A)!
+●0000000132●
+
+○0000000133○小鳥
+●0000000133●
+
+○0000000134○"Hey!"
+●0000000134●
+
+○0000000136○It's snatched from me at light speed.
+●0000000136●
+
+○0000000137○瑚太朗
+●0000000137●
+
+○0000000138○"My RANK A!"
+●0000000138●
+
+○0000000139○小鳥
+●0000000139●
+
+○0000000140○"Uhyah! Talk about lewd!"
+●0000000140●
+
+○0000000141○小鳥
+●0000000141●
+
+○0000000142○"This is too stimulating for boys!"
+●0000000142●
+
+○0000000143○小鳥
+●0000000143●
+
+○0000000144○"As such, I'm confiscating it."
+●0000000144●
+
+○0000000145○瑚太朗
+●0000000145●
+
+○0000000146○"...You're not my mother."
+●0000000146●
+
+○0000000148○It looks like I can't collect porn mags with her in my party.
+●0000000148●
+
+○0000000149○■マッピー／既読■　ID:
+●0000000149●
+
+○0000000150○ (Z
+●0000000150●
+
+○0000000151○-
+●0000000151●
+
+○0000000152○■マッピー／コンプリート■
+●0000000152●
+
+○0000000153○瑚太朗
+●0000000153●
+
+○0000000154○(How come I always find them at times like this?)
+●0000000154●
+
+○0000000155○瑚太朗
+●0000000155●
+
+○0000000156○(Kotori is watching me like a hawk.)
+●0000000156●
+
+○0000000157○瑚太朗
+●0000000157●
+
+○0000000158○(Tch... Nothing ventured, nothing gained!)
+●0000000158●
+
+○0000000160○I quickly grab a porn magazine.
+●0000000160●
+
+○0000000161○小鳥
+●0000000161●
+
+○0000000162○"Hey. Hold on a second, boy."
+●0000000162●
+
+○0000000164○But Kotori takes it away from me.
+●0000000164●
+
+○0000000165○小鳥
+●0000000165●
+
+○0000000166○"I can't believe you pick things like this off the road! Mr. Lewdington!"
+●0000000166●
+
+○0000000168○*flip*
+●0000000168●
+
+○0000000169○小鳥
+●0000000169●
+
+○0000000170○"......"
+●0000000170●
+
+○0000000171○小鳥
+●0000000171●
+
+○0000000172○"You can have this if you want."
+●0000000172●
+
+○0000000173○瑚太朗
+●0000000173●
+
+○0000000174○"Really?"
+●0000000174●
+
+○0000000176○I can't believe that the manager of our censorship board herself, Kotori, is actually authorizing this.
+●0000000176●
+
+○0000000177○瑚太朗
+●0000000177●
+
+○0000000178○"Thanks!"
+●0000000178●
+
+○0000000180○I inspect the contents right away.
+●0000000180●
+
+○0000000181○瑚太朗
+●0000000181●
+
+○0000000182○"......"
+●0000000182●
+
+○0000000184○You've received Porn Mag (RANK F)!
+●0000000184●
+
+○0000000185○瑚太朗
+●0000000185●
+
+○0000000186○"Wh-What the hell..."
+●0000000186●
+
+○0000000188○These ladies are most certainly naked, and yet...
+●0000000188●
+
+○0000000189○瑚太朗
+●0000000189●
+
+○0000000190○"It's a porn mag, but it's somehow not stimulating at all!"
+●0000000190●
+
+○0000000191○瑚太朗
+●0000000191●
+
+○0000000192○"1/10!!"
+●0000000192●
+
+○0000000193○小鳥
+●0000000193●
+
+○0000000194○"Ohohoho."
+●0000000194●
+
+○0000000196○■マッピー／既読■　ID:
+●0000000196●
+
+○0000000197○ (Z
+●0000000197●
+
+○0000000198○-
+●0000000198●
+
+○0000000199○■マッピー／コンプリート■
+●0000000199●
+
+○0000000200○瑚太朗
+●0000000200●
+
+○0000000201○"Ah, there's something here."
+●0000000201●
+
+○0000000202○小鳥
+●0000000202●
+
+○0000000203○"How do you know?"
+●0000000203●
+
+○0000000204○瑚太朗
+●0000000204●
+
+○0000000205○"Subconscious dowsing."
+●0000000205●
+
+○0000000206○瑚太朗
+●0000000206●
+
+○0000000207○"I'll share my gold ingots with ya if it turns out to be a treasure map."
+●0000000207●
+
+○0000000208○小鳥
+●0000000208●
+
+○0000000209○"I'd prefer coins."
+●0000000209●
+
+○0000000210○瑚太朗
+●0000000210●
+
+○0000000211○"It should be around here somewhere."
+●0000000211●
+
+○0000000213○You've received information from the note you discovered!
+●0000000213●
+
+○0000000214○"You're sitting on a trove of treasure and you don't even know it. Sell copper wire for the best prices."
+●0000000214●
+
+○0000000215○瑚太朗
+●0000000215●
+
+○0000000216○"It seems to be information aimed at the hunter-gatherers around here."
+●0000000216●
+
+○0000000218○■マッピー／既読■　ID:
+●0000000218●
+
+○0000000219○ (Z
+●0000000219●
+
+○0000000220○-
+●0000000220●
+
+○0000000221○■マッピー／コンプリート■
+●0000000221●
+
+○0000000222○"Come to the shop of wonders that offers everything at the cheapest prices! Ignore anything that's a lookalike! It's cheap, and that's all that matters!"
+●0000000222●
+
+○0000000223○A suspicious commercial reverberates across the street.
+●0000000223●
+
+○0000000224○小鳥
+●0000000224●
+
+○0000000225○"Uooooh!"
+●0000000225●
+
+○0000000226○Kotori suddenly awakens.
+●0000000226●
+
+○0000000227○小鳥
+●0000000227●
+
+○0000000228○"I've got bad news!"
+●0000000228●
+
+○0000000229○瑚太朗
+●0000000229●
+
+○0000000230○"Then why're your eyes sparkling?"
+●0000000230●
+
+○0000000231○小鳥
+●0000000231●
+
+○0000000232○"It seems I've been entrapped by a mysterious gravitational force."
+●0000000232●
+
+○0000000233○瑚太朗
+●0000000233●
+
+○0000000234○"G-Gravitational force?"
+●0000000234●
+
+○0000000235○小鳥
+●0000000235●
+
+○0000000236○"Uah! I'm getting pulled somewhere! What on earth is happening?!"
+●0000000236●
+
+○0000000237○小鳥
+●0000000237●
+
+○0000000238○"This force... Could it be an... industrial vacuum cleaner?!"
+●0000000238●
+
+○0000000239○瑚太朗
+●0000000239●
+
+○0000000240○"...I don't think I've ever seen you this excited before."
+●0000000240●
+
+○0000000241○小鳥
+●0000000241●
+
+○0000000242○"Huh?! I thought I was being sucked in by a vacuum cleaner, but it was just JASCO."
+●0000000242●
+
+○0000000243○瑚太朗
+●0000000243●
+
+○0000000244○"Yeah, uh, we're standing a few hundred meters away from it. Right in front of the sign, too."
+●0000000244●
+
+○0000000245○小鳥
+●0000000245●
+
+○0000000246○"Kotarou, we've got to check it out!"
+●0000000246●
+
+○0000000247○瑚太朗
+●0000000247●
+
+○0000000248○"I thought you'd be helping me with my research today."
+●0000000248●
+
+○0000000249○小鳥
+●0000000249●
+
+○0000000250○"I believe there's a high possibility of a huge secret being hidden somewhere in that store."
+●0000000250●
+
+○0000000251○瑚太朗
+●0000000251●
+
+○0000000252○(She just wants to go inside...)
+●0000000252●
+
+○0000000253○瑚太朗
+●0000000253●
+
+○0000000254○"Well, fine. I've never been to this store before."
+●0000000254●
+
+○0000000255○小鳥
+●0000000255●
+
+○0000000256○"It's awesome!"
+●0000000256●
+
+○0000000257○小鳥
+●0000000257●
+
+○0000000258○"It sells everything, and it's super cheap!"
+●0000000258●
+
+○0000000259○瑚太朗
+●0000000259●
+
+○0000000260○"I appreciate that it's cheap, but it all looks like..."
+●0000000260●
+
+○0000000261○I was imagining a huge department store from the misleading name, but...
+●0000000261●
+
+○0000000262○JASCO looks like a one-story, run-down supermarket.
+●0000000262●
+
+○0000000263○A true hole in the wall.
+●0000000263●
+
+○0000000264○Judging from the selection of their goods, it looks like it's only a matter of time before they get sued, too.
+●0000000264●
+
+○0000000265○-
+●0000000265●
+
+○0000000266○小鳥
+●0000000266●
+
+○0000000267○"Hurry! Hurry! Hurry!"
+●0000000267●
+
+○0000000268○瑚太朗
+●0000000268●
+
+○0000000269○"Calm down."
+●0000000269●
+
+○0000000270○小鳥
+●0000000270●
+
+○0000000271○"Hurryhurryhurryhurryhurry!"
+●0000000271●
+
+○0000000272○小鳥
+●0000000272●
+
+○0000000273○"And here's tonight's question: how many times have I said 'hurry'?"
+●0000000273●
+
+○0000000274○瑚太朗
+●0000000274●
+
+○0000000275○"Umm... Eight?"
+●0000000275●
+
+○0000000276○小鳥
+●0000000276●
+
+○0000000277○"We're almost there! There's only fifty centimeters separating us from the interior! Welcome, us!"
+●0000000277●
+
+○0000000278○瑚太朗
+●0000000278●
+
+○0000000279○"Behave yourself!"
+●0000000279●
+
+○0000000280○小鳥
+●0000000280●
+
+○0000000281○"I'll be forced to buy a canned coffee I don't even want for 68 yen! I'm in a pickle!"
+●0000000281●
+
+○0000000282○瑚太朗
+●0000000282●
+
+○0000000283○"I never expected to see you fall apart this badly."
+●0000000283●
+
+○0000000284○小鳥
+●0000000284●
+
+○0000000285○"Ah!"
+●0000000285●
+
+○0000000286○Kotori lets out a gasp as she checks her coin purse.
+●0000000286●
+
+○0000000287○瑚太朗
+●0000000287●
+
+○0000000288○"What now?"
+●0000000288●
+
+○0000000289○小鳥
+●0000000289●
+
+○0000000290○"A word if I may, my lord! My loyal coins are saying they're looking for a good place to die!"
+●0000000290●
+
+○0000000291○瑚太朗
+●0000000291●
+
+○0000000292○"Okay, okay, I got it already. We'll check your store out."
+●0000000292●
+
+○0000000293○小鳥
+●0000000293●
+
+○0000000294○"YAY!"
+●0000000294●
+
+○0000000295○Kotori and I spend some time shopping in JASCO.
+●0000000295●
+
+○0000000296○She buys a bunch of things that she doesn't need.
+●0000000296●
+
+○0000000297○I can't help feeling that it defeats the entire purpose of looking for cheap stuff.
+●0000000297●
+
+○0000000298○As for me...
+●0000000298●
+
+○0000000299○"Official apology for the fire caused by the explosions of the establishment's explosively cheap batteries."
+●0000000299●
+
+○0000000300○I spend most of the time being appalled by the notices I find in one smoke-stained corner of the shop.
+●0000000300●
+
+○0000000301○Cheap stuff is terrifying, man.
+●0000000301●
+
+○0000000302○小鳥
+●0000000302●
+
+○0000000303○"Happy, happy."
+●0000000303●
+
+○0000000304○小鳥
+●0000000304●
+
+○0000000305○"I love you, Kotarou!"
+●0000000305●
+
+○0000000306○瑚太朗
+●0000000306●
+
+○0000000307○"I hope those feelings stay with you for the rest of your life."
+●0000000307●
+
+○0000000308○小鳥
+●0000000308●
+
+○0000000309○"They'll last for a week, maybe!"
+●0000000309●
+
+○0000000310○My affection points with Kotori have skyrocketed (over nonsense like this).
+●0000000310●
+
+○0000000311○■マッピー／既読■　ID:
+●0000000311●
+
+○0000000312○ (Z
+●0000000312●
+
+○0000000313○-
+●0000000313●
+
+○0000000314○■マッピー／コンプリート■
+●0000000314●
+
+○0000000315○瑚太朗
+●0000000315●
+
+○0000000316○"I'm feelin' peckish."
+●0000000316●
+
+○0000000317○小鳥
+●0000000317●
+
+○0000000318○"Well, and I'm Hank Marvin."
+●0000000318●
+
+○0000000319○瑚太朗
+●0000000319●
+
+○0000000320○"Let's grab something to eat."
+●0000000320●
+
+○0000000321○小鳥
+●0000000321●
+
+○0000000322○"Sure."
+●0000000322●
+
+○0000000323○瑚太朗
+●0000000323●
+
+○0000000324○"How fat would you like to get?"
+●0000000324●
+
+○0000000325○小鳥
+●0000000325●
+
+○0000000326○"Like a balloon!"
+●0000000326●
+
+○0000000327○瑚太朗
+●0000000327●
+
+○0000000328○"Leave it to me."
+●0000000328●
+
+○0000000329○I sit her on the bench and hurry to nearby food vendors.
+●0000000329●
+
+○0000000330○瑚太朗
+●0000000330●
+
+○0000000331○"Here you go! Deep-fried cheese curry croquette."
+●0000000331●
+
+○0000000332○小鳥
+●0000000332●
+
+○0000000333○"Calorie overload!"
+●0000000333●
+
+○0000000334○小鳥
+●0000000334●
+
+○0000000335○"GIMME!"
+●0000000335●
+
+○0000000336○瑚太朗
+●0000000336●
+
+○0000000337○"I'd like to practice spoon feeding for the girlfriend I might have in the future."
+●0000000337●
+
+○0000000338○小鳥
+●0000000338●
+
+○0000000339○"...If that's your reason, then it's fine."
+●0000000339●
+
+○0000000340○瑚太朗
+●0000000340●
+
+○0000000341○"All right. Open wiiide."
+●0000000341●
+
+○0000000342○小鳥
+●0000000342●
+
+○0000000343○"Mrff!"
+●0000000343●
+
+○0000000344○瑚太朗
+●0000000344●
+
+○0000000345○"Well? Is it good? It's good, isn't it? Admit it!"
+●0000000345●
+
+○0000000346○小鳥
+●0000000346●
+
+○0000000347○"...Never! How could a meal with a crunchy exterior and a soft, melting interior ever be good! It cannot!"
+●0000000347●
+
+○0000000348○瑚太朗
+●0000000348●
+
+○0000000349○"Try more. I put extra ketchup on this part. You can't resist this perfect harmony of curry, cheese, potatoes, and sauce!"
+●0000000349●
+
+○0000000350○小鳥
+●0000000350●
+
+○0000000351○"I won't give in! I refuse to lose to a dastardly croquette! Everyone, who sacrificed your lives for me in our battles! Lend me your po―
+●0000000351●
+
+○0000000352○ DELISH!"
+●0000000352●
+
+○0000000353○All right, that was the sound of the path to her stomach being secured.
+●0000000353●
+
+○0000000354○小鳥
+●0000000354●
+
+○0000000355○"This taste stops you from caring!"
+●0000000355●
+
+○0000000356○瑚太朗
+●0000000356●
+
+○0000000357○"Right? Eat. There's a lot more where that came from."
+●0000000357●
+
+○0000000358○小鳥
+●0000000358●
+
+○0000000359○"HROMPF! HRUMP! AMPH!"
+●0000000359●
+
+○0000000360○瑚太朗
+●0000000360●
+
+○0000000361○"You can't let it get cold. Temperature's part of the taste!"
+●0000000361●
+
+○0000000362○小鳥
+●0000000362●
+
+○0000000363○"A person shouldn't consume this many carbohydrates."
+●0000000363●
+
+○0000000364○瑚太朗
+●0000000364●
+
+○0000000365○"There's probably enough to feed an entire family in this."
+●0000000365●
+
+○0000000366○小鳥
+●0000000366●
+
+○0000000367○"Give me more."
+●0000000367●
+
+○0000000368○瑚太朗
+●0000000368●
+
+○0000000369○"Right-o!"
+●0000000369●
+
+○0000000370○小鳥
+●0000000370●
+
+○0000000371○"Ah, I'm in heaven."
+●0000000371●
+
+○0000000372○I am, too.
+●0000000372●
+
+○0000000373○瑚太朗
+●0000000373●
+
+○0000000374○(It'd be nice if things were always like this.)
+●0000000374●
+
+○0000000375○■マッピー／既読■　ID:
+●0000000375●
+
+○0000000376○ (Z
+●0000000376●
+
+○0000000377○-
+●0000000377●
+
+○0000000378○■マッピー／コンプリート■
+●0000000378●
+
+○0000000379○？
+●0000000379●
+
+○0000000380○"Hey, someone!"
+●0000000380●
+
+○0000000381○瑚太朗
+●0000000381●
+
+○0000000382○"Hm? Where's that voice coming from?"
+●0000000382●
+
+○0000000383○小鳥
+●0000000383●
+
+○0000000384○"From there, I think."
+●0000000384●
+
+○0000000385○？
+●0000000385●
+
+○0000000386○"Can you open this? I'm stuck!"
+●0000000386●
+
+○0000000387○The voice emanates from the shed at the corner of the alley.
+●0000000387●
+
+○0000000388○A chain is curled around its doors, fastened by a heavy lock.
+●0000000388●
+
+○0000000389○小鳥
+●0000000389●
+
+○0000000390○"It doesn't look like that person locked themselves in."
+●0000000390●
+
+○0000000391○？
+●0000000391●
+
+○0000000392○"Is there someone outside? Could you unlock the doors?"
+●0000000392●
+
+○0000000393○瑚太朗
+●0000000393●
+
+○0000000394○"How'd you end up in this precarious situation, Mister?"
+●0000000394●
+
+○0000000395○？
+●0000000395●
+
+○0000000396○"The local brats locked me up."
+●0000000396●
+
+○0000000397○？
+●0000000397●
+
+○0000000398○"I showed them a magic trick, and this is what I got as thanks."
+●0000000398●
+
+○0000000399○小鳥
+●0000000399●
+
+○0000000400○"Are you a performing artist?"
+●0000000400●
+
+○0000000401○？
+●0000000401●
+
+○0000000402○"I'm a traveling artist, yes. Can you unlock the doors? The smell in here is killing me."
+●0000000402●
+
+○0000000403○小鳥
+●0000000403●
+
+○0000000404○"Should we let him out?"
+●0000000404●
+
+○0000000405○瑚太朗
+●0000000405●
+
+○0000000406○"What if it's an evil demon sealed here for the good of mankind?"
+●0000000406●
+
+○0000000407○？
+●0000000407●
+
+○0000000408○"You..."
+●0000000408●
+
+○0000000409○瑚太朗
+●0000000409●
+
+○0000000410○"How much is your freedom worth to you?"
+●0000000410●
+
+○0000000411○？
+●0000000411●
+
+○0000000412○"I can't afford to increase my traveling expenses. I won't have anything to eat."
+●0000000412●
+
+○0000000413○瑚太朗
+●0000000413●
+
+○0000000414○"Then seek your fortune elsewhere. It's not worth risking my standing with the city council if you happen to be a demon sealed in this shed."
+●0000000414●
+
+○0000000415○？
+●0000000415●
+
+○0000000416○"I got it, young man! I can't pay you money, but I can show you my most mysterious and exhilarating performance as a token of thanks."
+●0000000416●
+
+○0000000417○瑚太朗
+●0000000417●
+
+○0000000418○"What's that?"
+●0000000418●
+
+○0000000419○？
+●0000000419●
+
+○0000000420○"In a sense, you could call it a superpower."
+●0000000420●
+
+○0000000421○Talk about suspicious...
+●0000000421●
+
+○0000000422○瑚太朗
+●0000000422●
+
+○0000000423○"......"
+●0000000423●
+
+○0000000424○小鳥
+●0000000424●
+
+○0000000425○"H-He opened it!"
+●0000000425●
+
+○0000000426○小鳥
+●0000000426●
+
+○0000000427○"I can't count the number of times he's been fooled by 'magical' tools in infomercials... and now he fell for it again!"
+●0000000427●
+
+○0000000428○？
+●0000000428●
+
+○0000000429○"Thank you, kind children!"
+●0000000429●
+
+○0000000430○A middle-aged man steps out of the shed.
+●0000000430●
+
+○0000000431○He looks so incredibly suspicious that I lack the words to describe it.
+●0000000431●
+
+○0000000432○小鳥
+●0000000432●
+
+○0000000433○"Mr. Con Artist?!"
+●0000000433●
+
+○0000000434○おじさん
+●0000000434●
+
+○0000000435○"Well, that's uncalled for. My super mysterious power is no trick."
+●0000000435●
+
+○0000000436○瑚太朗
+●0000000436●
+
+○0000000437○"I'm impressed you can walk around town dressed like that."
+●0000000437●
+
+○0000000438○おじさん
+●0000000438●
+
+○0000000439○"To me, these clothes are like a suit to a businessman."
+●0000000439●
+
+○0000000440○おじさん
+●0000000440●
+
+○0000000441○"Anyway, as promised. Young man, do you happen to have a ten thousand yen bill on you?"
+●0000000441●
+
+○0000000442○瑚太朗
+●0000000442●
+
+○0000000443○"What if I do?"
+●0000000443●
+
+○0000000444○おじさん
+●0000000444●
+
+○0000000445○"It's necessary for my super mysterious power. Um, a five thousand yen bill would work, too."
+●0000000445●
+
+○0000000446○瑚太朗
+●0000000446●
+
+○0000000447○"...One thousand yen is the most I'm handing over."
+●0000000447●
+
+○0000000448○おじさん
+●0000000448●
+
+○0000000449○"That's fine. Well then, better keep your eyes peeled."
+●0000000449●
+
+○0000000450○The middle-aged man folds the one thousand yen bill and squeezes it in his left fist.
+●0000000450●
+
+○0000000451○He then opens his right fist, unveiling a thousand yen bill within.
+●0000000451●
+
+○0000000452○瑚太朗
+●0000000452●
+
+○0000000453○"Awesome!"
+●0000000453●
+
+○0000000454○小鳥
+●0000000454●
+
+○0000000455○"Is this a magic trick?"
+●0000000455●
+
+○0000000456○おじさん
+●0000000456●
+
+○0000000457○"I'm only getting started! Look, now it's in my chest pocket!"
+●0000000457●
+
+○0000000458○瑚太朗
+●0000000458●
+
+○0000000459○"That's true! It's moving all over!"
+●0000000459●
+
+○0000000460○おじさん
+●0000000460●
+
+○0000000461○"This is the last one! I saved the best for last! One, two, three... FUTURE!"
+●0000000461●
+
+○0000000462○The middle aged man shows me his pocket.
+●0000000462●
+
+○0000000463○The one thousand yen bill is gone without a trace.
+●0000000463●
+
+○0000000464○瑚太朗
+●0000000464●
+
+○0000000465○"Where'd you move it now?"
+●0000000465●
+
+○0000000466○おじさん
+●0000000466●
+
+○0000000467○"Hah hah hah, to your wallet. Just not the current one. Your wallet three days from now!"
+●0000000467●
+
+○0000000468○瑚太朗
+●0000000468●
+
+○0000000469○"Are you telling me you can transfer objects through time?"
+●0000000469●
+
+○0000000470○おじさん
+●0000000470●
+
+○0000000471○"Indeed, I can. I haven't pocketed your money or anything. You can look forward to it after three days."
+●0000000471●
+
+○0000000472○おじさん
+●0000000472●
+
+○0000000473○"Thank you for being my audience! Goodbye!"
+●0000000473●
+
+○0000000474○瑚太朗
+●0000000474●
+
+○0000000475○"Incredible! Thank you very much, Mister!!"
+●0000000475●
+
+○0000000476○瑚太朗
+●0000000476●
+
+○0000000477○"...Okay, this seal should hold for a while."
+●0000000477●
+
+○0000000478○I've retrieved my one thousand yen bill from the middle-aged man and locked him back in the shed.
+●0000000478●
+
+○0000000479○おじさん
+●0000000479●
+
+○0000000480○"...I can't believe you don't understand that I have to charge for my shows to survive."
+●0000000480●
+
+○0000000481○瑚太朗
+●0000000481●
+
+○0000000482○"You can rot in there for the rest of time, vile demon!"
+●0000000482●
+
+○0000000483○瑚太朗
+●0000000483●
+
+○0000000484○"I'll call the police later, so you can spend your time until then showing off for the cleaning equipment."
+●0000000484●
+
+○0000000485○小鳥
+●0000000485●
+
+○0000000486○"See? I said it was a con."
+●0000000486●
+
+○0000000487○瑚太朗
+●0000000487●
+
+○0000000488○"My bad... Let's continue our adventure."
+●0000000488●
+
+○0000000489○■友達■　ID:
+●0000000489●
+
+○0000000490○　NO:
+●0000000490●
+
+○0000000491○■マッピー／既読■　ID:
+●0000000491●
+
+○0000000492○ (Z
+●0000000492●
+
+○0000000493○-
+●0000000493●
+
+○0000000494○■マッピー／コンプリート■
+●0000000494●
+
+○0000000495○瑚太朗
+●0000000495●
+
+○0000000496○"There's something lying here."
+●0000000496●
+
+○0000000497○瑚太朗
+●0000000497●
+
+○0000000498○"It's a boomerang."
+●0000000498●
+
+○0000000499○瑚太朗
+●0000000499●
+
+○0000000500○"What's it doing here? I'll take it for myself."
+●0000000500●
+
+○0000000502○You've received "Boomerang"!
+●0000000502●
+
+○0000000503○■マッピー／既読■　ID:
+●0000000503●
+
+○0000000504○ (Z
+●0000000504●
+
+○0000000505○-
+●0000000505●
+
+○0000000506○■マッピー／コンプリート■
+●0000000506●
+
+○0000000507○瑚太朗
+●0000000507●
+
+○0000000508○"There's something lying on the ground again."
+●0000000508●
+
+○0000000509○瑚太朗
+●0000000509●
+
+○0000000510○"It's a horseshoe magnet."
+●0000000510●
+
+○0000000511○瑚太朗
+●0000000511●
+
+○0000000512○"It might come in handy if I ever want to collect some iron sand. I'd better take it with me."
+●0000000512●
+
+○0000000514○You've received "Magnet"!
+●0000000514●
+
+○0000000515○■マッピー／既読■　ID:
+●0000000515●
+
+○0000000516○ (Z
+●0000000516●
+
+○0000000517○-
+●0000000517●
+
+○0000000518○■マッピー／コンプリート■
+●0000000518●
+
+○0000000519○瑚太朗
+●0000000519●
+
+○0000000520○"Another item lying on the road?"
+●0000000520●
+
+○0000000521○瑚太朗
+●0000000521●
+
+○0000000522○"Ohh, this is..."
+●0000000522●
+
+○0000000524○You've received "Cardboard Pork Bun"!
+●0000000524●
+
+○0000000525○■マッピー／既読■　ID:
+●0000000525●
+
+○0000000526○ (Z
+●0000000526●
+
+○0000000527○-
+●0000000527●
+
+○0000000528○■マッピー／コンプリート■
+●0000000528●
+
+○0000000529○瑚太朗
+●0000000529●
+
+○0000000530○"Wait, Kotori, there's something else lying there."
+●0000000530●
+
+○0000000531○瑚太朗
+●0000000531●
+
+○0000000532○"Let me grab it."
+●0000000532●
+
+○0000000534○You've received "AA Battery"!
+●0000000534●
+
+○0000000535○■マッピー／既読■　ID:
+●0000000535●
+
+○0000000536○ (Z
+●0000000536●
+
+○0000000537○-
+●0000000537●
+
+○0000000538○■マッピー／コンプリート■
+●0000000538●
+
+○0000000539○瑚太朗
+●0000000539●
+
+○0000000540○"An item again."
+●0000000540●
+
+○0000000542○You've received "Alligator Clip"!
+●0000000542●
+
+○0000000543○■マッピー／既読■　ID:
+●0000000543●
+
+○0000000544○ (Z
+●0000000544●
+
+○0000000545○-
+●0000000545●
+
+○0000000546○■マッピー／コンプリート■
+●0000000546●
+
+○0000000547○瑚太朗
+●0000000547●
+
+○0000000548○As expected of a garbage dump... It's full of items.
+●0000000548●
+
+○0000000550○You've received "Eggshell"!
+●0000000550●
+
+○0000000551○小鳥
+●0000000551●
+
+○0000000552○"You should stop picking up trash from every corner!"
+●0000000552●
+
+○0000000554○All your items have been discarded.
+●0000000554●
+
+○0000000555○瑚太朗
+●0000000555●
+
+○0000000556○"...I wanted to make a new weapon from all the materials I found."
+●0000000556●
+
+○0000000557○小鳥
+●0000000557●
+
+○0000000558○"This isn't that kind of game."
+●0000000558●
+
+○0000000560○■マッピー／既読■　ID:
+●0000000560●
+
+○0000000561○ (Z
+●0000000561●
+
+○0000000562○-
+●0000000562●
+
+○0000000563○■マッピー／コンプリート■
+●0000000563●
+
+○0000000564○瑚太朗
+●0000000564●
+
+○0000000565○As expected of a garbage dump... It's full of items.
+●0000000565●
+
+○0000000567○You've received "Eggshell"!
+●0000000567●
+
+○0000000568○瑚太朗
+●0000000568●
+
+○0000000569○"This looks like an area I can plant some seeds, but..."
+●0000000569●
+
+○0000000570○瑚太朗
+●0000000570●
+
+○0000000571○"There's hungry crows circling in the sky, the ground is full of buried nails, countless insects are buzzing around, and it's too dark to see what I'm doing."
+●0000000571●
+
+○0000000573○瑚太朗
+●0000000573●
+
+○0000000574○"I can't plant seeds like this."
+●0000000574●
+
+○0000000576○瑚太朗
+●0000000576●
+
+○0000000577○"There's a lamp here. I could probably get it working if I had some batteries."
+●0000000577●
+
+○0000000578○瑚太朗
+●0000000578●
+
+○0000000579○"Ah, I've got an AA Battery and Alligator Clip. Let's see if I can use them to turn the lamp on."
+●0000000579●
+
+○0000000581○The lamp turned on!
+●0000000581●
+
+○0000000582○瑚太朗
+●0000000582●
+
+○0000000583○"I've got to do something about those crows next."
+●0000000583●
+
+○0000000584○瑚太朗
+●0000000584●
+
+○0000000585○"Right, I found that boomerang."
+●0000000585●
+
+○0000000587○The crows scatter!
+●0000000587●
+
+○0000000588○瑚太朗
+●0000000588●
+
+○0000000589○"Next, the soil..."
+●0000000589●
+
+○0000000590○瑚太朗
+●0000000590●
+
+○0000000591○"I can use the magnet to get the nails out!"
+●0000000591●
+
+○0000000593○The nails have been cleared away!
+●0000000593●
+
+○0000000594○瑚太朗
+●0000000594●
+
+○0000000595○"This cardboard pork bun emits a scent that attracts insects. I'm sure I can use it to make them go away."
+●0000000595●
+
+○0000000597○The insects disperse!
+●0000000597●
+
+○0000000598○瑚太朗
+●0000000598●
+
+○0000000599○"Finally, I can use this eggshell as fertilizer for the soil..."
+●0000000599●
+
+○0000000600○瑚太朗
+●0000000600●
+
+○0000000601○"I miraculously used up all the items I collected to plant the seeds!"
+●0000000601●
+
+○0000000602○小鳥
+●0000000602●
+
+○0000000603○"I think you could've just scattered the seeds on the soil. It probably would've worked."
+●0000000603●
+
+○0000000604○瑚太朗
+●0000000604●
+
+○0000000605○"Don't say that."
+●0000000605●
+
+○0000000607○I plant the seeds in the soil.
+●0000000607●
+
+○0000000608○■マッピー／既読■　ID:
+●0000000608●
+
+○0000000609○ (Z
+●0000000609●
+
+○0000000610○-
+●0000000610●
+
+○0000000611○■マッピー／コンプリート■
+●0000000611●
+
+○0000000612○dummy
+●0000000612●
+
+○0000000613○sys20_adv03
+●0000000613●
+
+○0000000614○fcm_kt10
+●0000000614●
+
+○0000000615○sys20_adv03
+●0000000615●
+
+○0000000616○sys20_adv03
+●0000000616●
+
+○0000000617○fcm_ko10
+●0000000617●
+
+○0000000618○sys20_adv03
+●0000000618●
+
+○0000000619○sys20_adv03
+●0000000619●
+
+○0000000620○fcm_kt10
+●0000000620●
+
+○0000000621○sys20_adv03
+●0000000621●
+
+○0000000622○fcm_ko10
+●0000000622●
+
+○0000000623○sys20_adv03
+●0000000623●
+
+○0000000624○sys20_adv03
+●0000000624●
+
+○0000000625○fcm_kt10
+●0000000625●
+
+○0000000626○sys20_adv03
+●0000000626●
+
+○0000000627○sys20_adv03
+●0000000627●
+
+○0000000628○fcm_kt10
+●0000000628●
+
+○0000000629○sys20_adv03
+●0000000629●
+
+○0000000630○sys20_adv03
+●0000000630●
+
+○0000000631○fcm_ko10
+●0000000631●
+
+○0000000632○sys20_adv03
+●0000000632●
+
+○0000000633○sys20_adv03
+●0000000633●
+
+○0000000634○fcm_ko10
+●0000000634●
+
+○0000000635○sys20_adv03
+●0000000635●
+
+○0000000636○sys20_adv03
+●0000000636●
+
+○0000000637○fcm_kt10
+●0000000637●
+
+○0000000638○sys20_adv03
+●0000000638●
+
+○0000000639○fcm_ko10
+●0000000639●
+
+○0000000640○sys20_adv03
+●0000000640●
+
+○0000000641○sys20_adv03
+●0000000641●
+
+○0000000642○fcm_ko10
+●0000000642●
+
+○0000000643○sys20_adv03
+●0000000643●
+
+○0000000644○sys20_adv03
+●0000000644●
+
+○0000000645○fcm_ko10
+●0000000645●
+
+○0000000646○sys20_adv03
+●0000000646●
+
+○0000000647○fcm_kt10
+●0000000647●
+
+○0000000648○sys20_adv03
+●0000000648●
+
+○0000000649○sys20_adv03
+●0000000649●
+
+○0000000650○fcm_ko10
+●0000000650●
+
+○0000000651○sys20_adv03
+●0000000651●
+
+○0000000652○sys20_adv03
+●0000000652●
+
+○0000000653○fcm_ko10
+●0000000653●
+
+○0000000654○sys20_adv03
+●0000000654●
+
+○0000000655○fcm_kt10
+●0000000655●
+
+○0000000656○sys20_adv03
+●0000000656●
+
+○0000000657○sys20_adv03
+●0000000657●
+
+○0000000658○fcm_ko10
+●0000000658●
+
+○0000000659○sys20_adv03
+●0000000659●
+
+○0000000660○sys20_adv03
+●0000000660●
+
+○0000000661○fcm_kt10
+●0000000661●
+
+○0000000662○sys20_adv03
+●0000000662●
+
+○0000000663○sys20_adv03
+●0000000663●
+
+○0000000664○fcm_ko10
+●0000000664●
+
+○0000000665○sys20_adv03
+●0000000665●
+
+○0000000666○fcm_kt10
+●0000000666●
+
+○0000000667○sys20_adv03
+●0000000667●
+
+○0000000668○fcm_ko10
+●0000000668●
+
+○0000000669○sys20_adv03
+●0000000669●
+
+○0000000670○fcm_kt10
+●0000000670●
+
+○0000000671○sys20_adv03
+●0000000671●
+
+○0000000672○fcm_ko10
+●0000000672●
+
+○0000000673○sys20_adv03
+●0000000673●
+
+○0000000674○sys10_mm02
+●0000000674●
+
+○0000000675○sys20_adv03
+●0000000675●
+
+○0000000676○fcm_ko10
+●0000000676●
+
+○0000000677○sys20_adv03
+●0000000677●
+
+○0000000678○sys20_adv03
+●0000000678●
+
+○0000000679○fcm_kt10
+●0000000679●
+
+○0000000680○sys20_adv03
+●0000000680●
+
+○0000000681○sys20_adv03
+●0000000681●
+
+○0000000682○fcm_ko10
+●0000000682●
+
+○0000000683○sys20_adv03
+●0000000683●
+
+○0000000684○fcm_kt10
+●0000000684●
+
+○0000000685○sys20_adv03
+●0000000685●
+
+○0000000686○fcm_ko10
+●0000000686●
+
+○0000000687○sys20_adv03
+●0000000687●
+
+○0000000688○sys10_mm02
+●0000000688●
+
+○0000000689○sys20_adv03
+●0000000689●
+
+○0000000690○fcm_ko10
+●0000000690●
+
+○0000000691○sys20_adv03
+●0000000691●
+
+○0000000692○sys20_adv03
+●0000000692●
+
+○0000000693○fcm_kt10
+●0000000693●
+
+○0000000694○sys20_adv03
+●0000000694●
+
+○0000000695○sys20_adv03
+●0000000695●
+
+○0000000696○fcm_kt10
+●0000000696●
+
+○0000000697○sys20_adv03
+●0000000697●
+
+○0000000698○sys20_adv03
+●0000000698●
+
+○0000000699○fcm_kt10
+●0000000699●
+
+○0000000700○sys20_adv03
+●0000000700●
+
+○0000000701○fcm_ko10
+●0000000701●
+
+○0000000702○sys20_adv03
+●0000000702●
+
+○0000000703○sys20_adv03
+●0000000703●
+
+○0000000704○fcm_ko10
+●0000000704●
+
+○0000000705○sys20_adv03
+●0000000705●
+
+○0000000706○sys20_adv03
+●0000000706●
+
+○0000000707○fcm_ko10
+●0000000707●
+
+○0000000708○sys20_adv03
+●0000000708●
+
+○0000000709○sys20_adv03
+●0000000709●
+
+○0000000710○fcm_ko10
+●0000000710●
+
+○0000000711○sys20_adv03
+●0000000711●
+
+○0000000712○sys20_adv03
+●0000000712●
+
+○0000000713○fcm_ko10
+●0000000713●
+
+○0000000714○sys20_adv03
+●0000000714●
+
+○0000000715○fcm_kt10
+●0000000715●
+
+○0000000716○sys20_adv03
+●0000000716●
+
+○0000000717○sys10_mm02
+●0000000717●
+
+○0000000718○sys20_adv03
+●0000000718●
+
+○0000000719○fcm_ko10
+●0000000719●
+
+○0000000720○sys20_adv03
+●0000000720●
+
+○0000000721○fcm_kt10
+●0000000721●
+
+○0000000722○sys20_adv03
+●0000000722●
+
+○0000000723○fcm_ko10
+●0000000723●
+
+○0000000724○sys20_adv03
+●0000000724●
+
+○0000000725○fcm_kt10
+●0000000725●
+
+○0000000726○sys20_adv03
+●0000000726●
+
+○0000000727○fcm_ko10
+●0000000727●
+
+○0000000728○sys20_adv03
+●0000000728●
+
+○0000000729○sys20_adv03
+●0000000729●
+
+○0000000730○fcm_ko10
+●0000000730●
+
+○0000000731○sys20_adv03
+●0000000731●
+
+○0000000732○sys20_adv00
+●0000000732●
+
+○0000000733○cgm_kt18
+●0000000733●
+
+○0000000734○sys20_adv00
+●0000000734●
+
+○0000000735○cgm_kt24
+●0000000735●
+
+○0000000736○sys20_adv00
+●0000000736●
+
+○0000000737○cgm_kt12
+●0000000737●
+
+○0000000738○sys20_adv00
+●0000000738●
+
+○0000000739○cgm_kt14
+●0000000739●
+
+○0000000740○sys20_adv00
+●0000000740●
+
+○0000000741○cgm_kt25
+●0000000741●
+
+○0000000742○sys20_adv00
+●0000000742●
+
+○0000000743○cgm_kt18
+●0000000743●
+
+○0000000744○sys20_adv00
+●0000000744●
+
+○0000000745○cgm_kt24
+●0000000745●
+
+○0000000746○sys20_adv00
+●0000000746●
+
+○0000000747○cgm_kt17y
+●0000000747●
+
+○0000000748○sys20_adv00
+●0000000748●
+
+○0000000749○cgm_kt12
+●0000000749●
+
+○0000000750○sys20_adv00
+●0000000750●
+
+○0000000751○cgm_kt17y
+●0000000751●
+
+○0000000752○sys20_adv00
+●0000000752●
+
+○0000000753○sys20_adv00
+●0000000753●
+
+○0000000754○cgm_kt24
+●0000000754●
+
+○0000000755○sys20_adv00
+●0000000755●
+
+○0000000756○cgm_kt12y
+●0000000756●
+
+○0000000757○sys20_adv00
+●0000000757●
+
+○0000000758○cgm_kt14
+●0000000758●
+
+○0000000759○sys20_adv00
+●0000000759●
+
+○0000000760○cgm_kt12
+●0000000760●
+
+○0000000761○sys20_adv00
+●0000000761●
+
+○0000000762○cgm_kt25
+●0000000762●
+
+○0000000763○sys20_adv00
+●0000000763●
+
+○0000000764○sys20_adv00
+●0000000764●
+
+○0000000765○cgm_kt23
+●0000000765●
+
+○0000000766○sys20_adv00
+●0000000766●
+
+○0000000767○cgm_kt24
+●0000000767●
+
+○0000000768○sys20_adv00
+●0000000768●
+
+○0000000769○sys20_adv00
+●0000000769●
+
+○0000000770○cgm_kt11
+●0000000770●
+
+○0000000771○sys20_adv00
+●0000000771●
+
+○0000000772○cgm_kt12
+●0000000772●
+
+○0000000773○sys20_adv00
+●0000000773●
+
+○0000000774○cgm_kt11
+●0000000774●
+
+○0000000775○sys20_adv00
+●0000000775●
+
+○0000000776○sys20_adv00
+●0000000776●
+
+○0000000777○cgm_kt23
+●0000000777●
+
+○0000000778○sys20_adv00
+●0000000778●
+
+○0000000779○cgm_kt11
+●0000000779●
+
+○0000000780○sys20_adv00
+●0000000780●
+
+○0000000781○cgm_kt12
+●0000000781●
+
+○0000000782○sys20_adv00
+●0000000782●
+
+○0000000783○sys20_adv00
+●0000000783●
+
+○0000000784○cgm_kt18
+●0000000784●
+
+○0000000785○sys20_adv00
+●0000000785●
+
+○0000000786○cgm_kt17y
+●0000000786●
+
+○0000000787○sys20_adv00
+●0000000787●
+
+○0000000788○cgm_kt23
+●0000000788●
+
+○0000000789○sys20_adv00
+●0000000789●
+
+○0000000790○cgm_kt12
+●0000000790●
+
+○0000000791○sys20_adv00
+●0000000791●
+
+○0000000792○cgm_kt23
+●0000000792●
+
+○0000000793○sys20_adv00
+●0000000793●
+
+○0000000794○cgm_kt21
+●0000000794●
+
+○0000000795○sys20_adv00
+●0000000795●
+
+○0000000796○cgm_kt24
+●0000000796●
+
+○0000000797○sys20_adv00
+●0000000797●
+
+○0000000798○cgm_kt12
+●0000000798●
+
+○0000000799○sys20_adv00
+●0000000799●
+
+○0000000800○cgm_kt25
+●0000000800●
+
+○0000000801○sys20_adv00
+●0000000801●
+
+○0000000802○cgm_kt12
+●0000000802●
+
+○0000000803○sys20_adv00
+●0000000803●
+
+○0000000804○cgm_kt23
+●0000000804●
+
+○0000000805○sys20_adv00
+●0000000805●
+
+○0000000806○cgm_kt14
+●0000000806●
+
+○0000000807○sys20_adv00
+●0000000807●
+
+○0000000808○sys20_adv00
+●0000000808●
+
+○0000000809○cgm_kt31
+●0000000809●
+
+○0000000810○sys20_adv00
+●0000000810●
+
+○0000000811○sys20_adv00
+●0000000811●
+
+○0000000812○cgm_kt16
+●0000000812●
+
+○0000000813○sys20_adv00
+●0000000813●
+
+○0000000814○sys20_adv00
+●0000000814●
+
+○0000000815○cgm_kt16
+●0000000815●
+
+○0000000816○sys20_adv00
+●0000000816●
+
+○0000000817○cgm_kt31
+●0000000817●
+
+○0000000818○sys20_adv00
+●0000000818●
+
+○0000000819○sys20_adv00
+●0000000819●
+
+○0000000820○cgm_kt18
+●0000000820●
+
+○0000000821○sys20_adv00
+●0000000821●
+
+○0000000822○cgm_kt25
+●0000000822●
+
+○0000000823○sys20_adv00
+●0000000823●
+
+○0000000824○sys20_adv00
+●0000000824●
+
+○0000000825○cgm_kt18
+●0000000825●
+
+○0000000826○sys20_adv00
+●0000000826●
+
+○0000000827○sys20_adv00
+●0000000827●
+
+○0000000828○cgm_kt25
+●0000000828●
+
+○0000000829○sys20_adv00
+●0000000829●
+
+○0000000830○sys20_adv00
+●0000000830●
+
+○0000000831○kuro
+●0000000831●
+
+○0000000832○sys20_adv00
+●0000000832●
+
+○0000000833○bg011
+●0000000833●
+
+○0000000834○sys20_adv00
+●0000000834●
+
+○0000000835○cgm_kt21
+●0000000835●
+
+○0000000836○sys20_adv00
+●0000000836●
+
+○0000000837○sys10_mm02
+●0000000837●
+
+○0000000838○sys20_adv03
+●0000000838●
+
+○0000000839○fcm_ko10
+●0000000839●
+
+○0000000840○sys20_adv03
+●0000000840●
+
+○0000000841○sys20_adv03
+●0000000841●
+
+○0000000842○fcm_ko10
+●0000000842●
+
+○0000000843○sys20_adv03
+●0000000843●
+
+○0000000844○sys20_adv03
+●0000000844●
+
+○0000000845○fcm_ko10
+●0000000845●
+
+○0000000846○sys20_adv03
+●0000000846●
+
+○0000000847○sys20_adv03
+●0000000847●
+
+○0000000848○fcm_ko10
+●0000000848●
+
+○0000000849○sys20_adv03
+●0000000849●
+
+○0000000850○sys20_adv03
+●0000000850●
+
+○0000000851○fcm_ko10
+●0000000851●
+
+○0000000852○sys20_adv03
+●0000000852●
+
+○0000000853○sys20_adv03
+●0000000853●
+
+○0000000854○fcm_ko10
+●0000000854●
+
+○0000000855○sys20_adv03
+●0000000855●
+
+○0000000856○sys20_adv03
+●0000000856●
+
+○0000000857○fcm_kt10
+●0000000857●
+
+○0000000858○sys20_adv03
+●0000000858●
+
+○0000000859○sys20_adv03
+●0000000859●
+
+○0000000860○fcm_ko10
+●0000000860●
+
+○0000000861○sys20_adv03
+●0000000861●
+
+○0000000862○fcm_kt10
+●0000000862●
+
+○0000000863○sys20_adv03
+●0000000863●
+
+○0000000864○sys20_adv03
+●0000000864●
+
+○0000000865○fcm_ko10
+●0000000865●
+
+○0000000866○sys20_adv03
+●0000000866●
+
+○0000000867○sys20_adv03
+●0000000867●
+
+○0000000868○fcm_ko10
+●0000000868●
+
+○0000000869○sys20_adv03
+●0000000869●
+
+○0000000870○sys20_adv03
+●0000000870●
+
+○0000000871○fcm_ko10
+●0000000871●
+
+○0000000872○sys20_adv03
+●0000000872●
+
+○0000000873○sys20_adv03
+●0000000873●
+
+○0000000874○fcm_ko10
+●0000000874●
+
+○0000000875○sys20_adv03
+●0000000875●
+
+○0000000876○sys20_adv03
+●0000000876●
+
+○0000000877○fcm_ko10
+●0000000877●
+
+○0000000878○sys20_adv03
+●0000000878●
+
+○0000000879○sys20_adv03
+●0000000879●
+
+○0000000880○fcm_ko10
+●0000000880●
+
+○0000000881○sys20_adv03
+●0000000881●
+
+○0000000882○sys20_adv03
+●0000000882●
+
+○0000000883○fcm_ko10
+●0000000883●
+
+○0000000884○sys20_adv03
+●0000000884●
+
+○0000000885○sys20_adv03
+●0000000885●
+
+○0000000886○fcm_ko10
+●0000000886●
+
+○0000000887○sys20_adv03
+●0000000887●
+
+○0000000888○fcm_kt10
+●0000000888●
+
+○0000000889○sys20_adv03
+●0000000889●
+
+○0000000890○fcm_ko10
+●0000000890●
+
+○0000000891○sys20_adv03
+●0000000891●
+

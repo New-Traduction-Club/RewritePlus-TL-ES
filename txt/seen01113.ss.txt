@@ -1,0 +1,8544 @@
+○0000000002○BS_DT_A
+●0000000002●
+
+○0000000003○Saturday, November 13th
+●0000000003●
+
+○0000000004○We gather in the club room early in the morning, skipping our classes.
+●0000000004●
+
+○0000000005○Every second counts right now.
+●0000000005●
+
+○0000000006○Class Rep wasn't too thrilled about skipping school, but she ended up agreeing that circumstances were grave enough to warrant it.
+●0000000006●
+
+○0000000007○瑚太朗
+●0000000007●
+
+○0000000008○"Here's the plan."
+●0000000008●
+
+○0000000009○I open the files I sent to Akane's desktop on her large monitor.
+●0000000009●
+
+○0000000010○It's a map of the forest adjacent to our town.
+●0000000010●
+
+○0000000011○瑚太朗
+●0000000011●
+
+○0000000012○"I'll begin, then."
+●0000000012●
+
+○0000000013○瑚太朗
+●0000000013●
+
+○0000000014○"Our main objective is to find the missing person by the name of Inoue."
+●0000000014●
+
+○0000000015○瑚太朗
+●0000000015●
+
+○0000000016○"You can say I was partly to blame for her decision to investigate this area..."
+●0000000016●
+
+○0000000017○瑚太朗
+●0000000017●
+
+○0000000018○"As such, this is not an officially sanctioned activity of our club, but I'd appreciate everyone's help nonetheless."
+●0000000018●
+
+○0000000019○Everyone remains silent.
+●0000000019●
+
+○0000000020○I'm feeling oddly calm, for some reason.
+●0000000020●
+
+○0000000021○Almost as though I'm already used to things like this.
+●0000000021●
+
+○0000000022○瑚太朗
+●0000000022●
+
+○0000000023○"We will be checking the areas that the search party most likely missed."
+●0000000023●
+
+○0000000024○瑚太朗
+●0000000024●
+
+○0000000025○"Having been to the forest already, we might know routes that others don't, and as such, I relied on that information to chart our course."
+●0000000025●
+
+○0000000026○A red line appears on the map.
+●0000000026●
+
+○0000000027○I had tried to come up with the safest route possible that coincided with my predictions of where Inoue would've gone.
+●0000000027●
+
+○0000000028○瑚太朗
+●0000000028●
+
+○0000000029○"There's no danger of rain according to the forecast, and we'll avoid straying from the path and wandering into valleys or areas of higher elevation."
+●0000000029●
+
+○0000000030○Our path isn't limited to just existing trails, but we can all understand the map nonetheless.
+●0000000030●
+
+○0000000031○I also came up with multiple emergency escape routes.
+●0000000031●
+
+○0000000032○瑚太朗
+●0000000032●
+
+○0000000033○"It shouldn't be dangerous as long as we stick to our original route."
+●0000000033●
+
+○0000000034○And if worst comes to worst, I can handle it.
+●0000000034●
+
+○0000000035○小鳥
+●0000000035●
+
+○0000000036○"This is pretty crazy when you stop and think about it, though."
+●0000000036●
+
+○0000000037○ルチア
+●0000000037●
+
+○0000000038○"An amateur party searching an uncharted forest? I can see your point."
+●0000000038●
+
+○0000000039○瑚太朗
+●0000000039●
+
+○0000000040○"Yeah..."
+●0000000040●
+
+○0000000041○瑚太朗
+●0000000041●
+
+○0000000042○"But Inoue went to this forest all on her own, and I predict she went pretty deep, as well."
+●0000000042●
+
+○0000000043○ちはや
+●0000000043●
+
+○0000000044○"That was a bit reckless."
+●0000000044●
+
+○0000000045○朱音
+●0000000045●
+
+○0000000046○"I imagine it was the result of a mix of overconfidence and impatience."
+●0000000046●
+
+○0000000047○静流
+●0000000047●
+
+○0000000048○"......"
+●0000000048●
+
+○0000000049○Sizuru looks worried.
+●0000000049●
+
+○0000000050○ルチア
+●0000000050●
+
+○0000000051○"...It has been five days, but it's neither winter nor too high in the mountains. It's not impossible to survive for that long."
+●0000000051●
+
+○0000000052○ルチア
+●0000000052●
+
+○0000000053○"As long as she didn't suffer any injuries, get soaking wet, or run into any wild beasts, anyway."
+●0000000053●
+
+○0000000054○瑚太朗
+●0000000054●
+
+○0000000055○"But her fate will be sealed the moment they cancel the search."
+●0000000055●
+
+○0000000056○I look at everyone.
+●0000000056●
+
+○0000000057○瑚太朗
+●0000000057●
+
+○0000000058○"...I'm not going to force anyone to participate this time."
+●0000000058●
+
+○0000000059○瑚太朗
+●0000000059●
+
+○0000000060○"You are free to pass if you don't think you can handle it."
+●0000000060●
+
+○0000000061○I wait for a few moments, but no one voices any intent to drop out.
+●0000000061●
+
+○0000000062○瑚太朗
+●0000000062●
+
+○0000000063○"Umm... Can I assume everyone's fine with this?"
+●0000000063●
+
+○0000000064○小鳥
+●0000000064●
+
+○0000000065○"Prez. Will our club be able to continue if we find Inoue?"
+●0000000065●
+
+○0000000066○朱音
+●0000000066●
+
+○0000000067○"I imagine so. The credit would go to us."
+●0000000067●
+
+○0000000068○ルチア
+●0000000068●
+
+○0000000069○"That'd be two birds with one stone. We'd save both a person and our club."
+●0000000069●
+
+○0000000070○ちはや
+●0000000070●
+
+○0000000071○"I'll help."
+●0000000071●
+
+○0000000072○I'm a bit worried by how carefree they sound.
+●0000000072●
+
+○0000000073○It's not a game this time.
+●0000000073●
+
+○0000000074○We're taking over the work that the adults have given up on, and without anyone's permission, to boot.
+●0000000074●
+
+○0000000075○Regardless, I don't feel anxious about it for some reason.
+●0000000075●
+
+○0000000076○It's like I'm being protected by some invisible force.
+●0000000076●
+
+○0000000077○I feel safe with all of us together.
+●0000000077●
+
+○0000000078○That might merely be my conceit talking, but...
+●0000000078●
+
+○0000000079○瑚太朗
+●0000000079●
+
+○0000000080○"...Thanks."
+●0000000080●
+
+○0000000081○瑚太朗
+●0000000081●
+
+○0000000082○"And I'd also like your help with something, Prez."
+●0000000082●
+
+○0000000083○朱音
+●0000000083●
+
+○0000000084○"On what, exactly?"
+●0000000084●
+
+○0000000085○瑚太朗
+●0000000085●
+
+○0000000086○"Could you prepare us a helicopter?"
+●0000000086●
+
+○0000000087○Akane raises her hands.
+●0000000087●
+
+○0000000088○朱音
+●0000000088●
+
+○0000000089○"I might have been able to..."
+●0000000089●
+
+○0000000090○瑚太朗
+●0000000090●
+
+○0000000091○"Past tense?"
+●0000000091●
+
+○0000000092○朱音
+●0000000092●
+
+○0000000093○"Yes, past tense."
+●0000000093●
+
+○0000000094○朱音
+●0000000094●
+
+○0000000095○"I'm out of coupons."
+●0000000095●
+
+○0000000096○瑚太朗
+●0000000096●
+
+○0000000097○"...Huh?"
+●0000000097●
+
+○0000000098○朱音
+●0000000098●
+
+○0000000099○"My influence isn't as absolute as you think."
+●0000000099●
+
+○0000000100○朱音
+●0000000100●
+
+○0000000101○"I'm only allowed to erase a certain number of incidents."
+●0000000101●
+
+○0000000102○Akane removes a bundle of coupons from her breast pocket.
+●0000000102●
+
+○0000000103○瑚太朗
+●0000000103●
+
+○0000000104○"What's that?"
+●0000000104●
+
+○0000000105○朱音
+●0000000105●
+
+○0000000106○"I get one stack per year from the authorities."
+●0000000106●
+
+○0000000107○朱音
+●0000000107●
+
+○0000000108○"One coupon is good enough to erase one incident, and there are different types depending on the scale of the problem."
+●0000000108●
+
+○0000000109○朱音
+●0000000109●
+
+○0000000110○"With a special coupon, I could even get away with destroying part of the school, but I can't get my hands on many of those."
+●0000000110●
+
+○0000000111○朱音
+●0000000111●
+
+○0000000112○"The basic coupons I have a lot of are only good enough to silence a teacher over a minor offense."
+●0000000112●
+
+○0000000113○瑚太朗
+●0000000113●
+
+○0000000114○"That's very, uh... systematic for criminal business."
+●0000000114●
+
+○0000000115○瑚太朗
+●0000000115●
+
+○0000000116○"So you're saying you're out of the special ones?"
+●0000000116●
+
+○0000000117○朱音
+●0000000117●
+
+○0000000118○"I've had to use a lot of them ever since I got involved with you."
+●0000000118●
+
+○0000000119○朱音
+●0000000119●
+
+○0000000120○"As such, I don't have as much influence as I used to right now. I might not be able to protect you depending on the circumstances. Keep that in mind."
+●0000000120●
+
+○0000000121○静流
+●0000000121●
+
+○0000000122○"If we cause an incident right now..."
+●0000000122●
+
+○0000000123○朱音
+●0000000123●
+
+○0000000124○"We'll be punished like everyone else."
+●0000000124●
+
+○0000000125○瑚太朗
+●0000000125●
+
+○0000000126○"...Hmm. Well, nothing we can do about it now."
+●0000000126●
+
+○0000000127○We have no choice but to put our safety on the line in more ways than one this time.
+●0000000127●
+
+○0000000128○After that, we split into groups and prepare the equipment we'll be bringing with us.
+●0000000128●
+
+○0000000129○The earlier we get to the forest, the better.
+●0000000129●
+
+○0000000130○If at all possible, I hope we can finish the task before nightfall.
+●0000000130●
+
+○0000000131○As such, we can only cover a few hours' distance in a single direction.
+●0000000131●
+
+○0000000132○There isn't that much we can do.
+●0000000132●
+
+○0000000133○瑚太朗
+●0000000133●
+
+○0000000134○(I wonder if I'm just fooling myself.)
+●0000000134●
+
+○0000000135○I feel guilty about Inoue, and I'm doing this to repent.
+●0000000135●
+
+○0000000136○But if that's all, I have no business dragging everyone else with me, yet...
+●0000000136●
+
+○0000000137○瑚太朗
+●0000000137●
+
+○0000000138○(If worst comes to worst, I've got my trump card.)
+●0000000138●
+
+○0000000139○I can take more risks than normal with that up my sleeve.
+●0000000139●
+
+○0000000140○It's helped me before, and it can help me now.
+●0000000140●
+
+○0000000141○瑚太朗
+●0000000141●
+
+○0000000142○"...I guess that's all for me. I also made a list of necessities, so make sure to stock up on them before we set out."
+●0000000142●
+
+○0000000143○小鳥
+●0000000143●
+
+○0000000144○"Can we also take things not on the list?"
+●0000000144●
+
+○0000000145○瑚太朗
+●0000000145●
+
+○0000000146○"You can take anything as long as you think you'll need it."
+●0000000146●
+
+○0000000147○瑚太朗
+●0000000147●
+
+○0000000148○"We'll split now and meet up again at 10 a.m. in front of the entrance to the forest... In short, right outside here. Okay?"
+●0000000148●
+
+○0000000149○Everyone nods.
+●0000000149●
+
+○0000000150○Quest "Search for Inoue" has started.
+●0000000150●
+
+○0000000151○We split up, secure the necessary supplies, and reconvene at the entrance to the forest.
+●0000000151●
+
+○0000000152○瑚太朗
+●0000000152●
+
+○0000000153○"Did everyone grab everything?"
+●0000000153●
+
+○0000000154○小鳥
+●0000000154●
+
+○0000000155○"Yep, and I also made lunch for everyone."
+●0000000155●
+
+○0000000156○瑚太朗
+●0000000156●
+
+○0000000157○"Oh, I appreciate that."
+●0000000157●
+
+○0000000158○朱音
+●0000000158●
+
+○0000000159○"I was also considerate today and brought playing cards and a shogi board."
+●0000000159●
+
+○0000000160○瑚太朗
+●0000000160●
+
+○0000000161○"You can leave them here."
+●0000000161●
+
+○0000000162○We're not going out to play...
+●0000000162●
+
+○0000000163○ルチア
+●0000000163●
+
+○0000000164○"Pickaxe. Crampons. Tent. First aid kit."
+●0000000164●
+
+○0000000165○瑚太朗
+●0000000165●
+
+○0000000166○"That's a bit too hardcore."
+●0000000166●
+
+○0000000167○静流
+●0000000167●
+
+○0000000168○"Body armor. Helmet. Metal bat. Brass knuckles."
+●0000000168●
+
+○0000000169○瑚太朗
+●0000000169●
+
+○0000000170○"We're not going out on a raid, okay?"
+●0000000170●
+
+○0000000171○ちはや
+●0000000171●
+
+○0000000172○"I..."
+●0000000172●
+
+○0000000173○瑚太朗
+●0000000173●
+
+○0000000174○"Thanks for the snacks."
+●0000000174●
+
+○0000000175○ちはや
+●0000000175●
+
+○0000000176○"H-How did you know?!"
+●0000000176●
+
+○0000000177○That was easy.
+●0000000177●
+
+○0000000178○Snacks could prove useful in an emergency as long as we don't consume them too early.
+●0000000178●
+
+○0000000179○瑚太朗
+●0000000179●
+
+○0000000180○"We're leaving everything that we don't need here."
+●0000000180●
+
+○0000000181○Everyone starts booing me, but I ignore them.
+●0000000181●
+
+○0000000182○小鳥
+●0000000182●
+
+○0000000183○"Why is your bag so huge, Kotarou?"
+●0000000183●
+
+○0000000184○瑚太朗
+●0000000184●
+
+○0000000185○"I brought everything I figured we might need."
+●0000000185●
+
+○0000000186○ルチア
+●0000000186●
+
+○0000000187○"It looks pretty heavy. Are you sure you're not putting yourself in danger?"
+●0000000187●
+
+○0000000188○瑚太朗
+●0000000188●
+
+○0000000189○"Nah, this much is nothing to me."
+●0000000189●
+
+○0000000190○瑚太朗
+●0000000190●
+
+○0000000191○"It's not as heavy as it looks, and I only packed the necessities."
+●0000000191●
+
+○0000000192○To tell the truth, it's heavy enough to crush the back of an average adult.
+●0000000192●
+
+○0000000193○朱音
+●0000000193●
+
+○0000000194○"...Well, he came up with the idea, so I suppose he's free to do as he pleases."
+●0000000194●
+
+○0000000195○ちはや
+●0000000195●
+
+○0000000196○"Let's share it so you don't have to carry everything."
+●0000000196●
+
+○0000000197○瑚太朗
+●0000000197●
+
+○0000000198○"Yeah... I imagine you could handle it..."
+●0000000198●
+
+○0000000199○I hand Chihaya the travel tableware kit and the water I brought.
+●0000000199●
+
+○0000000200○It instantly makes my load lighter.
+●0000000200●
+
+○0000000201○瑚太朗
+●0000000201●
+
+○0000000202○"We'll continue our search until 3 p.m. and turn back right after."
+●0000000202●
+
+○0000000203○We'll be back in town before nightfall that way.
+●0000000203●
+
+○0000000204○I would've stayed the night if I was on my own, but...
+●0000000204●
+
+○0000000205○瑚太朗
+●0000000205●
+
+○0000000206○"Let's go."
+●0000000206●
+
+○0000000208○ちはや
+●0000000208●
+
+○0000000209○"It's warmer here than I thought."
+●0000000209●
+
+○0000000210○小鳥
+●0000000210●
+
+○0000000211○"That's true for this area, but the temperature will quickly drop when we get a little bit further."
+●0000000211●
+
+○0000000212○瑚太朗
+●0000000212●
+
+○0000000213○"And it gets even colder at night."
+●0000000213●
+
+○0000000214○ルチア
+●0000000214●
+
+○0000000215○"It's a good thing to have nature so nearby, but it would be dangerous if a child happened to wander in here."
+●0000000215●
+
+○0000000216○小鳥
+●0000000216●
+
+○0000000217○"Stuff like that isn't unheard of."
+●0000000217●
+
+○0000000218○瑚太朗
+●0000000218●
+
+○0000000219○"But they were always found."
+●0000000219●
+
+○0000000220○朱音
+●0000000220●
+
+○0000000221○"Are we on the right course?"
+●0000000221●
+
+○0000000222○瑚太朗
+●0000000222●
+
+○0000000223○"Yeah, I'm pretty sure Inoue passed by this road."
+●0000000223●
+
+○0000000224○We know Inoue's initial route thanks to information that the search party gathered from locals that spotted her entering the forest.
+●0000000224●
+
+○0000000225○I'm planning to follow that for the first half of our trek.
+●0000000225●
+
+○0000000226○瑚太朗
+●0000000226●
+
+○0000000227○"Make sure to report anything you spot that might prove to be a clue."
+●0000000227●
+
+○0000000228○小鳥
+●0000000228●
+
+○0000000229○"Sure."
+●0000000229●
+
+○0000000230○瑚太朗
+●0000000230●
+
+○0000000231○"Well, I doubt it'll be that easy, though. I mean, even pros are on the verge of giving up."
+●0000000231●
+
+○0000000232○静流
+●0000000232●
+
+○0000000233○"Kotarou, I found footprints that look like Inoue's."
+●0000000233●
+
+○0000000234○瑚太朗
+●0000000234●
+
+○0000000235○"Just how fast are you..."
+●0000000235●
+
+○0000000236○That said, there's definitely a footprint that doesn't belong to us ahead of her pointed finger.
+●0000000236●
+
+○0000000237○瑚太朗
+●0000000237●
+
+○0000000238○"You really think it's Inoue's?"
+●0000000238●
+
+○0000000239○There's more footprints in the area.
+●0000000239●
+
+○0000000240○They probably belong to the search team.
+●0000000240●
+
+○0000000241○ルチア
+●0000000241●
+
+○0000000242○"Look closely. It's the smallest footprint of them all."
+●0000000242●
+
+○0000000243○ルチア
+●0000000243●
+
+○0000000244○"It does look like it should belong to a girl."
+●0000000244●
+
+○0000000245○瑚太朗
+●0000000245●
+
+○0000000246○"Yeah..."
+●0000000246●
+
+○0000000247○It's pretty obvious if I compare it to my own shoe.
+●0000000247●
+
+○0000000248○All of the search team's footprints are bigger than mine, but...
+●0000000248●
+
+○0000000249○瑚太朗
+●0000000249●
+
+○0000000250○"It looks like it belongs to a sneaker."
+●0000000250●
+
+○0000000251○静流
+●0000000251●
+
+○0000000252○"It's shallow. I predict whoever it belongs to weighs below sixty kilograms."
+●0000000252●
+
+○0000000253○瑚太朗
+●0000000253●
+
+○0000000254○"That's not that light for a girl."
+●0000000254●
+
+○0000000255○小鳥
+●0000000255●
+
+○0000000256○"She must've been carrying a bag with her cameras and such."
+●0000000256●
+
+○0000000257○瑚太朗
+●0000000257●
+
+○0000000258○"Ah, that's right."
+●0000000258●
+
+○0000000259○ルチア
+●0000000259●
+
+○0000000260○"It's pretty faint as well, so I imagine it's older than the others."
+●0000000260●
+
+○0000000261○瑚太朗
+●0000000261●
+
+○0000000262○"That does sound like it might belong to her, with all of that in mind."
+●0000000262●
+
+○0000000263○小鳥
+●0000000263●
+
+○0000000264○"Incredible..."
+●0000000264●
+
+○0000000265○朱音
+●0000000265●
+
+○0000000266○"I'm impressed you could tell from that little."
+●0000000266●
+
+○0000000267○瑚太朗
+●0000000267●
+
+○0000000268○(...No kidding.)
+●0000000268●
+
+○0000000269○I'm starting to get a bit creeped out by those two.
+●0000000269●
+
+○0000000270○ちはや
+●0000000270●
+
+○0000000271○"You two are like detectives."
+●0000000271●
+
+○0000000272○ルチア
+●0000000272●
+
+○0000000273○"The thought just randomly crossed my mind. I'm nothing like that... Ahem."
+●0000000273●
+
+○0000000274○I compare it to the map.
+●0000000274●
+
+○0000000275○The direction of the footprint coincides with Inoue's predicted route.
+●0000000275●
+
+○0000000276○瑚太朗
+●0000000276●
+
+○0000000277○"Okay, let's try to trace them."
+●0000000277●
+
+○0000000278○瑚太朗
+●0000000278●
+
+○0000000279○"...!"
+●0000000279●
+
+○0000000280○I turn around.
+●0000000280●
+
+○0000000281○ちはや
+●0000000281●
+
+○0000000282○"Wh-What?!"
+●0000000282●
+
+○0000000283○瑚太朗
+●0000000283●
+
+○0000000284○"I felt like someone was following us."
+●0000000284●
+
+○0000000285○Sizuru turns around as well.
+●0000000285●
+
+○0000000286○静流
+●0000000286●
+
+○0000000287○"No, there's no one."
+●0000000287●
+
+○0000000288○瑚太朗
+●0000000288●
+
+○0000000289○"...I had this sudden creepy, almost nostalgic feeling."
+●0000000289●
+
+○0000000290○小鳥
+●0000000290●
+
+○0000000291○"Nostalgic?"
+●0000000291●
+
+○0000000292○瑚太朗
+●0000000292●
+
+○0000000293○"I don't know how to explain it, but it, uh... really made me anxious."
+●0000000293●
+
+○0000000294○ルチア
+●0000000294●
+
+○0000000295○"You sure you didn't just imagine it?"
+●0000000295●
+
+○0000000296○瑚太朗
+●0000000296●
+
+○0000000297○"Hmm..."
+●0000000297●
+
+○0000000298○I check the path behind us, but I can't make anything out in the dim light.
+●0000000298●
+
+○0000000299○瑚太朗
+●0000000299●
+
+○0000000300○"I'm sorry. Let's get back to the search."
+●0000000300●
+
+○0000000301○瑚太朗
+●0000000301●
+
+○0000000302○"I'm not going too fast, am I?"
+●0000000302●
+
+○0000000303○I know most of our members are girls, but with how pressed we are for time, I've been keeping a pretty rigorous pace.
+●0000000303●
+
+○0000000304○Checking them over...
+●0000000304●
+
+○0000000305○ルチア
+●0000000305●
+
+○0000000306○"Not at all, on my end. I wouldn't mind going faster."
+●0000000306●
+
+○0000000307○静流
+●0000000307●
+
+○0000000308○"I'm fine."
+●0000000308●
+
+○0000000309○The power team.
+●0000000309●
+
+○0000000310○ちはや
+●0000000310●
+
+○0000000311○"I can manage."
+●0000000311●
+
+○0000000312○小鳥
+●0000000312●
+
+○0000000313○"I'm a bit tired."
+●0000000313●
+
+○0000000314○The normal team.
+●0000000314●
+
+○0000000315○朱音
+●0000000315●
+
+○0000000316○"Haahh... Haahh... Hahhh..."
+●0000000316●
+
+○0000000317○...The hopeless team.
+●0000000317●
+
+○0000000318○朱音
+●0000000318●
+
+○0000000319○"I propose... a three-hour... break..."
+●0000000319●
+
+○0000000320○瑚太朗
+●0000000320●
+
+○0000000321○"Let's rest for ten minutes."
+●0000000321●
+
+○0000000322○瑚太朗
+●0000000322●
+
+○0000000323○"I'm starting to seriously get worried about your health."
+●0000000323●
+
+○0000000324○朱音
+●0000000324●
+
+○0000000325○"I would like you to keep in mind the attributes of a typical magic user. We possess higher intelligence at the cost of stamina. That's nothing new."
+●0000000325●
+
+○0000000326○瑚太朗
+●0000000326●
+
+○0000000327○"It's also called being unhealthy."
+●0000000327●
+
+○0000000328○瑚太朗
+●0000000328●
+
+○0000000329○"That's what happens when you never leave your room."
+●0000000329●
+
+○0000000330○朱音
+●0000000330●
+
+○0000000331○"Gngh..."
+●0000000331●
+
+○0000000332○It looks like we need at least a one-hour break, at this rate.
+●0000000332●
+
+○0000000333○ちはや
+●0000000333●
+
+○0000000334○"Here, have some tea."
+●0000000334●
+
+○0000000335○瑚太朗
+●0000000335●
+
+○0000000336○"Thanks."
+●0000000336●
+
+○0000000337○Chihaya brought some hot tea in a vacuum flask.
+●0000000337●
+
+○0000000338○The sweet, black liquid is great for when you're tired.
+●0000000338●
+
+○0000000339○瑚太朗
+●0000000339●
+
+○0000000340○"Well, time to load the game and continue the adventure."
+●0000000340●
+
+○0000000341○We resume walking.
+●0000000341●
+
+○0000000342○The footprint trail suddenly ends.
+●0000000342●
+
+○0000000343○Even though those of the search team continue on.
+●0000000343●
+
+○0000000344○小鳥
+●0000000344●
+
+○0000000345○"We lost the trail, Captain."
+●0000000345●
+
+○0000000346○瑚太朗
+●0000000346●
+
+○0000000347○"Don't panic. She couldn't have vanished without a trace."
+●0000000347●
+
+○0000000348○瑚太朗
+●0000000348●
+
+○0000000349○"We'll find out what happened, no matter how long it takes."
+●0000000349●
+
+○0000000350○静流
+●0000000350●
+
+○0000000351○"It appears that Inoue wrapped leaves or something of that nature around her shoes to hide her footprints deliberately."
+●0000000351●
+
+○0000000352○It barely took a second.
+●0000000352●
+
+○0000000353○瑚太朗
+●0000000353●
+
+○0000000354○"Are you actually an ex-detective or something?"
+●0000000354●
+
+○0000000355○静流
+●0000000355●
+
+○0000000356○"I'm good at tracking."
+●0000000356●
+
+○0000000357○I don't doubt her.
+●0000000357●
+
+○0000000358○朱音
+●0000000358●
+
+○0000000359○"But why would she do that?"
+●0000000359●
+
+○0000000360○瑚太朗
+●0000000360●
+
+○0000000361○"I think she was probably trying to avoid being followed."
+●0000000361●
+
+○0000000362○瑚太朗
+●0000000362●
+
+○0000000363○"Well, that's what happens when you start digging into conspiracies and such."
+●0000000363●
+
+○0000000364○小鳥
+●0000000364●
+
+○0000000365○"...She must have had problems."
+●0000000365●
+
+○0000000366○瑚太朗
+●0000000366●
+
+○0000000367○"Or maybe that's just how big this scoop was."
+●0000000367●
+
+○0000000368○ちはや
+●0000000368●
+
+○0000000369○"It looks like the footprints of the search team begin to scatter at this point, too."
+●0000000369●
+
+○0000000370○ルチア
+●0000000370●
+
+○0000000371○"They were probably following her footprints as well, but they lost them here like us."
+●0000000371●
+
+○0000000372○Heavy adult footprints scatter in all directions across the entire area.
+●0000000372●
+
+○0000000373○But after making a few circles, they focus towards one direction again.
+●0000000373●
+
+○0000000374○瑚太朗
+●0000000374●
+
+○0000000375○"They decided that she went that way."
+●0000000375●
+
+○0000000376○Sizuru returns from that direction.
+●0000000376●
+
+○0000000377○静流
+●0000000377●
+
+○0000000378○"Inoue went that way, as well. It was very faint, but I found another one of her footprints."
+●0000000378●
+
+○0000000379○瑚太朗
+●0000000379●
+
+○0000000380○"I guess that means we've got to follow the search team for a bit longer."
+●0000000380●
+
+○0000000381○That was fine at first.
+●0000000381●
+
+○0000000382○But after a little while longer, Inoue's trail vanished completely.
+●0000000382●
+
+○0000000383○It seemed to puzzle the search team as well, as there were signs of them stopping here for a while.
+●0000000383●
+
+○0000000384○But eventually, they decided to continue in the same direction.
+●0000000384●
+
+○0000000386○ルチア
+●0000000386●
+
+○0000000387○"The ground is hard here. It's the best area to change routes if you didn't want to be followed."
+●0000000387●
+
+○0000000388○瑚太朗
+●0000000388●
+
+○0000000389○"Inoue's cautiousness may have been her own undoing."
+●0000000389●
+
+○0000000390○That's the dumbest thing ever.
+●0000000390●
+
+○0000000391○I'll be sure to make fun of her for that if I find her.
+●0000000391●
+
+○0000000392○瑚太朗
+●0000000392●
+
+○0000000393○"But there still has to be some hint indicating where she went. I'll find it this time."
+●0000000393●
+
+○0000000394○小鳥
+●0000000394●
+
+○0000000395○"I'll use the chance for a bathroom break, then."
+●0000000395●
+
+○0000000396○ルチア
+●0000000396●
+
+○0000000397○"I'll go with you."
+●0000000397●
+
+○0000000398○ちはや
+●0000000398●
+
+○0000000399○"Me, too."
+●0000000399●
+
+○0000000400○朱音
+●0000000400●
+
+○0000000401○"I suppose I have no choice."
+●0000000401●
+
+○0000000402○静流
+●0000000402●
+
+○0000000403○"......"
+●0000000403●
+
+○0000000404○They've all partnered up.
+●0000000404●
+
+○0000000405○Why do girls always go to the bathroom in groups?
+●0000000405●
+
+○0000000406○I crawl on the ground, looking for anything that could indicate where Inoue might have gone.
+●0000000406●
+
+○0000000407○We're already pretty deep in.
+●0000000407●
+
+○0000000408○An area not even the locals normally visit.
+●0000000408●
+
+○0000000409○The scariest part of the forest is the difficulty in finding your bearings.
+●0000000409●
+
+○0000000410○It has no roads or memorable buildings to use as landmarks.
+●0000000410●
+
+○0000000411○Inoue was out of her mind to go to a place like this all on her own.
+●0000000411●
+
+○0000000412○A girl with no special training all alone in a deadly forest.
+●0000000412●
+
+○0000000413○瑚太朗
+●0000000413●
+
+○0000000414○(It must have been pretty big to push her that far.)
+●0000000414●
+
+○0000000415○Something big.
+●0000000415●
+
+○0000000416○A huge lead for her.
+●0000000416●
+
+○0000000417○What could it have been?
+●0000000417●
+
+○0000000418○Inoue doesn't believe in cryptids or superpowers.
+●0000000418●
+
+○0000000419○She's a realist.
+●0000000419●
+
+○0000000420○As such, she must be concentrating on conspiracies in the human world.
+●0000000420●
+
+○0000000421○瑚太朗
+●0000000421●
+
+○0000000422○(...But how does the forest come into play in this?)
+●0000000422●
+
+○0000000423○A lot of things don't add up.
+●0000000423●
+
+○0000000424○瑚太朗
+●0000000424●
+
+○0000000425○"...They're pretty late."
+●0000000425●
+
+○0000000426○I'm starting to get worried.
+●0000000426●
+
+○0000000427○I wonder if I should check on them.
+●0000000427●
+
+○0000000428○瑚太朗
+●0000000428●
+
+○0000000429○(But then again, they left to go do their thing...)
+●0000000429●
+
+○0000000430○(It might turn into something regrettable if I'm not careful.)
+●0000000430●
+
+○0000000431○I check the time on my phone.
+●0000000431●
+
+○0000000432○瑚太朗
+●0000000432●
+
+○0000000433○"It's been thirty minutes already?!"
+●0000000433●
+
+○0000000434○Seriously?
+●0000000434●
+
+○0000000435○There's no way a bathroom break takes that long.
+●0000000435●
+
+○0000000436○瑚太朗
+●0000000436●
+
+○0000000437○"Hey, everyone! I'd really appreciate if we could continue our adventure sometime soon!"
+●0000000437●
+
+○0000000438○*silence*
+●0000000438●
+
+○0000000439○I receive no reply.
+●0000000439●
+
+○0000000440○瑚太朗
+●0000000440●
+
+○0000000441○"How far did they go?"
+●0000000441●
+
+○0000000442○瑚太朗
+●0000000442●
+
+○0000000443○"...Kotori!"
+●0000000443●
+
+○0000000444○*silence*
+●0000000444●
+
+○0000000445○瑚太朗
+●0000000445●
+
+○0000000446○"Sizuru! Chihaya!"
+●0000000446●
+
+○0000000447○*silence*
+●0000000447●
+
+○0000000448○瑚太朗
+●0000000448●
+
+○0000000449○......
+●0000000449●
+
+○0000000450○The DEFCON level just shifted from a 4 to a 3.
+●0000000450●
+
+○0000000451○Now I've got the authority to invade the girls' bathroom premises without permission.
+●0000000451●
+
+○0000000452○瑚太朗
+●0000000452●
+
+○0000000453○"For justice!"
+●0000000453●
+
+○0000000454○I advance through the shrubbery, thinking of excuses I'll use if it all happens to be a big misunderstanding on my part.
+●0000000454●
+
+○0000000455○...I can't sense anyone's presence.
+●0000000455●
+
+○0000000456○瑚太朗
+●0000000456●
+
+○0000000457○"What the...?"
+●0000000457●
+
+○0000000458○The forest is dead silent.
+●0000000458●
+
+○0000000459○It's pretty obvious that there's not even a soul nearby.
+●0000000459●
+
+○0000000460○I check for footprints.
+●0000000460●
+
+○0000000461○But there's nothing.
+●0000000461●
+
+○0000000462○瑚太朗
+●0000000462●
+
+○0000000463○"What the hell is going on?"
+●0000000463●
+
+○0000000464○Kotori and the others just up and disappeared?
+●0000000464●
+
+○0000000465○I investigate the area for a while, but I can't find a single trace of them.
+●0000000465●
+
+○0000000466○There's seriously nobody here.
+●0000000466●
+
+○0000000467○They just disappeared.
+●0000000467●
+
+○0000000468○Did they decide to go home, leaving me behind?
+●0000000468●
+
+○0000000469○No, they wouldn't do that.
+●0000000469●
+
+○0000000470○Were they spirited away?
+●0000000470●
+
+○0000000471○All five at the same time?
+●0000000471●
+
+○0000000472○瑚太朗
+●0000000472●
+
+○0000000473○"Right..."
+●0000000473●
+
+○0000000474○I try calling them on the phone.
+●0000000474●
+
+○0000000475○瑚太朗
+●0000000475●
+
+○0000000476○"......"
+●0000000476●
+
+○0000000477○There's no signal.
+●0000000477●
+
+○0000000478○瑚太朗
+●0000000478●
+
+○0000000479○"What is going on..."
+●0000000479●
+
+○0000000480○After deliberating for a bit, I decide to continue forward.
+●0000000480●
+
+○0000000481○In the direction Kotori and the others disappeared.
+●0000000481●
+
+○0000000482○I walk for a while.
+●0000000482●
+
+○0000000483○...Maybe I should've stayed in the same spot.
+●0000000483●
+
+○0000000484○Anxiety begins welling up in my chest.
+●0000000484●
+
+○0000000485○An hour has passed since we were separated.
+●0000000485●
+
+○0000000486○This is obviously an abnormal development.
+●0000000486●
+
+○0000000487○My mind has pretty much frozen at this point, while my limbs are keeping me moving like some kind of machine.
+●0000000487●
+
+○0000000488○The only sounds amidst the deafening silence are me wading through the shrubbery.
+●0000000488●
+
+○0000000489○Suddenly, I realize I'm not the only one making rustling sounds.
+●0000000489●
+
+○0000000490○瑚太朗
+●0000000490●
+
+○0000000491○"......"
+●0000000491●
+
+○0000000492○I stop.
+●0000000492●
+
+○0000000493○The sound of the other footsteps ceases, as well.
+●0000000493●
+
+○0000000494○I begin walking.
+●0000000494●
+
+○0000000495○The sound of the other footsteps resumes.
+●0000000495●
+
+○0000000496○...Someone is following me.
+●0000000496●
+
+○0000000497○I wish it was just a prank, but...
+●0000000497●
+
+○0000000498○None of us would have sacrificed an hour of our time for something like that under the current circumstances.
+●0000000498●
+
+○0000000499○I don't want to look behind me.
+●0000000499●
+
+○0000000500○I don't want to know.
+●0000000500●
+
+○0000000501○But I can't fight the fear any longer. I eventually turn around.
+●0000000501●
+
+○0000000502○There's no one there.
+●0000000502●
+
+○0000000503○Within that moment of relief, I realize there's something wrong with my senses.
+●0000000503●
+
+○0000000504○*tap* *tap* *tap*
+●0000000504●
+
+○0000000505○A sound.
+●0000000505●
+
+○0000000506○*tap* *tap* *tap*
+●0000000506●
+
+○0000000507○瑚太朗
+●0000000507●
+
+○0000000508○"Wh-Who is it?"
+●0000000508●
+
+○0000000509○*tap*
+●0000000509●
+
+○0000000510○The footsteps stop.
+●0000000510●
+
+○0000000511○And the next moment...
+●0000000511●
+
+○0000000512○*taptaptaptaptaptap*
+●0000000512●
+
+○0000000513○It turns into the sound of running.
+●0000000513●
+
+○0000000514○Something invisible...
+●0000000514●
+
+○0000000515○...is chasing me.
+●0000000515●
+
+○0000000516○My thoughts plunge into a dazed confusion.
+●0000000516●
+
+○0000000517○I think I let out a scream.
+●0000000517●
+
+○0000000518○Running.
+●0000000518●
+
+○0000000519○Forgetting myself, I dash with all my strength.
+●0000000519●
+
+○0000000520○I regain my senses about twenty minutes later.
+●0000000520●
+
+○0000000521○It looks like I managed to shake my pursuer off.
+●0000000521●
+
+○0000000522○瑚太朗
+●0000000522●
+
+○0000000523○"Haah... Haah..."
+●0000000523●
+
+○0000000524○I can't feel their presence anymore.
+●0000000524●
+
+○0000000525○But in exchange, I ended up losing my bag, along with my map and compass.
+●0000000525●
+
+○0000000526○瑚太朗
+●0000000526●
+
+○0000000527○(A cursed getaway?)
+●0000000527●
+
+○0000000528○It's something that often happened in old myths and legends.
+●0000000528●
+
+○0000000529○The idea is that you can escape the monster chasing you by sacrificing your worldly possessions.
+●0000000529●
+
+○0000000530○You get away while your pursuer is too busy inspecting your belongings.
+●0000000530●
+
+○0000000531○For some reason, it's an extremely popular plot device in old legends.
+●0000000531●
+
+○0000000532○I probably just unconsciously threw everything my hands could reach, thinking only of escaping.
+●0000000532●
+
+○0000000533○I'm not sure I can call the escape successful if it cost me the map and the compass, though.
+●0000000533●
+
+○0000000534○瑚太朗
+●0000000534●
+
+○0000000535○(I lost my most important items.)
+●0000000535●
+
+○0000000536○(It might take a while to get home like this.)
+●0000000536●
+
+○0000000537○At this point, that's all I can think about in this situation.
+●0000000537●
+
+○0000000538○瑚太朗
+●0000000538●
+
+○0000000539○"...!"
+●0000000539●
+
+○0000000540○I spot a silhouette approaching from ahead of me.
+●0000000540●
+
+○0000000541○Taken over by inexplicable fear, I hide behind a tree.
+●0000000541●
+
+○0000000542○It couldn't be my pursuer if it's coming from that direction.
+●0000000542●
+
+○0000000543○It has a different presence, too.
+●0000000543●
+
+○0000000544○It's more... alive, reminding me of a human this time around.
+●0000000544●
+
+○0000000545○The silhouette comes close enough for me to make it out.
+●0000000545●
+
+○0000000546○ローブ男
+●0000000546●
+
+○0000000547○"......"
+●0000000547●
+
+○0000000548○It's a person wearing a long cloak, a hood covering their face.
+●0000000548●
+
+○0000000549○瑚太朗
+●0000000549●
+
+○0000000550○(I saw these guys back when those dogs chased me.)
+●0000000550●
+
+○0000000551○(Should I ask him for help?)
+●0000000551●
+
+○0000000552○But all of my instincts are screaming at me to stop.
+●0000000552●
+
+○0000000553○瑚太朗
+●0000000553●
+
+○0000000554○(...This guy's probably bad news.)
+●0000000554●
+
+○0000000555○I decide to wait for him to pass.
+●0000000555●
+
+○0000000556○I feel like he turned his head slightly in my direction as he walked by me, though.
+●0000000556●
+
+○0000000557○ローブ男
+●0000000557●
+
+○0000000558○"......"
+●0000000558●
+
+○0000000559○I hurry away as soon as the creepy person disappears into the distance.
+●0000000559●
+
+○0000000560○瑚太朗
+●0000000560●
+
+○0000000561○(I wonder if the girls are okay...)
+●0000000561●
+
+○0000000562○This might be the time to turn back and report this to the police.
+●0000000562●
+
+○0000000563○Still, my legs carry me even deeper.
+●0000000563●
+
+○0000000564○瑚太朗
+●0000000564●
+
+○0000000565○(What's beyond this point?)
+●0000000565●
+
+○0000000566○瑚太朗
+●0000000566●
+
+○0000000567○(Shit... The sun's gone down.)
+●0000000567●
+
+○0000000568○As everything is engulfed by darkness, THAT thing appears, as though from thin air.
+●0000000568●
+
+○0000000569○瑚太朗
+●0000000569●
+
+○0000000570○(This again?)
+●0000000570●
+
+○0000000571○A huge black dog is barring my path.
+●0000000571●
+
+○0000000572○It looks like something you'd get if you bred an extra muscular doberman.
+●0000000572●
+
+○0000000573○It's not my first time seeing it, just like the robed man.
+●0000000573●
+
+○0000000574○The black dog that chased me through the alleyways.
+●0000000574●
+
+○0000000575○I wasn't sure back then, but now I can tell that it definitely wants to kill me.
+●0000000575●
+
+○0000000576○It's emanating cold killing intent.
+●0000000576●
+
+○0000000577○The serenity of a being that has already decided to kill.
+●0000000577●
+
+○0000000578○Back in town...
+●0000000578●
+
+○0000000579○...I managed to escape it.
+●0000000579●
+
+○0000000580○But now...
+●0000000580●
+
+○0000000581○I feel a burning pain on the back of my neck.
+●0000000581●
+
+○0000000582○The dog has neither barked nor growled; instead, it just lowers its head.
+●0000000582●
+
+○0000000583○Almost as though it's not planning to attack me.
+●0000000583●
+
+○0000000584○However, I know it's only waiting for an opportunity.
+●0000000584●
+
+○0000000585○瑚太朗
+●0000000585●
+
+○0000000586○(...There isn't enough distance between us to escape.)
+●0000000586●
+
+○0000000587○A normal human being could never beat a large dog in a one-on-one fight.
+●0000000587●
+
+○0000000588○But it looks like that's exactly what I'm in for.
+●0000000588●
+
+○0000000589○I calm myself down.
+●0000000589●
+
+○0000000590○My fists open, revealing my sweaty palms.
+●0000000590●
+
+○0000000591○瑚太朗
+●0000000591●
+
+○0000000592○(Well... What do I do?)
+●0000000592●
+
+○0000000593○I have to avoid ending up on the ground at all costs, for one.
+●0000000593●
+
+○0000000594○My right hand twitches from the heat.
+●0000000594●
+
+○0000000595○*tap*
+●0000000595●
+
+○0000000596○The black dog takes a step toward me.
+●0000000596●
+
+○0000000597○It continues to draw even closer, bending its back.
+●0000000597●
+
+○0000000598○Its movements look languid to the eye, but they're actually surprisingly fast.
+●0000000598●
+
+○0000000599○The distance between us shrinks before I even have time to react.
+●0000000599●
+
+○0000000600○I take a step towards the dog, and then it suddenly breaks into a sprint.
+●0000000600●
+
+○0000000601○The timing is perfect.
+●0000000601●
+
+○0000000602○My foot rams right into its head mid-flight.
+●0000000602●
+
+○0000000603○The impact travels through my knee and up to my hips.
+●0000000603●
+
+○0000000604○My body becomes momentarily airborne.
+●0000000604●
+
+○0000000605○My back rams against the trunk of the tree behind me.
+●0000000605●
+
+○0000000606○The dog, on the other hand, only staggers slightly.
+●0000000606●
+
+○0000000607○That's all my attack achieved.
+●0000000607●
+
+○0000000608○犬
+●0000000608●
+
+○0000000609○"......"
+●0000000609●
+
+○0000000610○It fixes its gaze on me, displaying no signs of serious damage.
+●0000000610●
+
+○0000000611○The dog bends its back again, preparing for another attack.
+●0000000611●
+
+○0000000612○瑚太朗
+●0000000612●
+
+○0000000613○"...This isn't good."
+●0000000613●
+
+○0000000614○I feel like it'll be hopeless if even that wasn't enough to drain its fighting spirit.
+●0000000614●
+
+○0000000615○瑚太朗
+●0000000615●
+
+○0000000616○(Guess I've got no choice.)
+●0000000616●
+
+○0000000617○I unfasten the lock on my heart.
+●0000000617●
+
+○0000000618○I still have my trump card.
+●0000000618●
+
+○0000000619○A stream of power pours forth from beyond the doors.
+●0000000619●
+
+○0000000620○A violent surge that can sweep away my mind if I don't hold myself together.
+●0000000620●
+
+○0000000621○瑚太朗
+●0000000621●
+
+○0000000622○(This is enough!)
+●0000000622●
+
+○0000000623○I draw more power than ever before and seal the doors.
+●0000000623●
+
+○0000000624○It slowly spreads throughout my body.
+●0000000624●
+
+○0000000625○It'll take some time for the power to activate.
+●0000000625●
+
+○0000000626○Unfortunately, my current opponent doesn't seem like the patient type.
+●0000000626●
+
+○0000000627○瑚太朗
+●0000000627●
+
+○0000000628○"...!"
+●0000000628●
+
+○0000000629○I try rolling away from the trajectory of the dashing dog.
+●0000000629●
+
+○0000000630○...But it doesn't work.
+●0000000630●
+
+○0000000631○The dog's fangs graze my sleeve.
+●0000000631●
+
+○0000000632○瑚太朗
+●0000000632●
+
+○0000000633○"Khuahh?!"
+●0000000633●
+
+○0000000634○The impact causes me to lose my footing, sending me sprawling to the ground.
+●0000000634●
+
+○0000000635○A dark, giant shape leaps on me.
+●0000000635●
+
+○0000000636○瑚太朗
+●0000000636●
+
+○0000000637○"...!"
+●0000000637●
+
+○0000000638○Knife-sharp teeth are bared right in front of my eyes.
+●0000000638●
+
+○0000000639○They look like they could bite through metal.
+●0000000639●
+
+○0000000640○And without any hesitation, they dig into my right arm as I desperately use it to shield my face.
+●0000000640●
+
+○0000000641○A sound reminiscent of crunching fruit reverberates across the forest.
+●0000000641●
+
+○0000000642○Blood pours from my wound.
+●0000000642●
+
+○0000000643○瑚太朗
+●0000000643●
+
+○0000000644○"Hah... Haha..."
+●0000000644●
+
+○0000000645○My vision momentarily blurs.
+●0000000645●
+
+○0000000646○I'm feeling more pressure than pain in my arm.
+●0000000646●
+
+○0000000647○The dog is latched on with all its weight, attempting to bite through it.
+●0000000647●
+
+○0000000648○I try to shake the monster away.
+●0000000648●
+
+○0000000649○A surge of pain washes over me.
+●0000000649●
+
+○0000000650○瑚太朗
+●0000000650●
+
+○0000000651○"Ghhh...!"
+●0000000651●
+
+○0000000652○I flinch, afraid to move.
+●0000000652●
+
+○0000000653○I know this is hardly the best course of action to take with a predator on top of you, but my body is too afraid of the pain.
+●0000000653●
+
+○0000000654○It hurts. It hurts like hell. I feel like puking my guts out.
+●0000000654●
+
+○0000000655○On top of that, my mind has frozen.
+●0000000655●
+
+○0000000656○瑚太朗
+●0000000656●
+
+○0000000657○"Argh... Damn you... Shit..."
+●0000000657●
+
+○0000000658○Just a little while longer...
+●0000000658●
+
+○0000000659○If I can hold on for a little while longer...
+●0000000659●
+
+○0000000660○The power surges within me.
+●0000000660●
+
+○0000000661○I've been waiting for this moment.
+●0000000661●
+
+○0000000662○瑚太朗
+●0000000662●
+
+○0000000663○(...Time to turn the tables!)
+●0000000663●
+
+○0000000664○I begin pushing the dog away with my multiplied power.
+●0000000664●
+
+○0000000665○But the moment I do, I realize something is off.
+●0000000665●
+
+○0000000666○The dog seems to be lying limp on top of me.
+●0000000666●
+
+○0000000667○My own arm was blocking my vision, so I have no idea what happened.
+●0000000667●
+
+○0000000668○I push it away.
+●0000000668●
+
+○0000000669○Half of the dog's head is missing.
+●0000000669●
+
+○0000000670○瑚太朗
+●0000000670●
+
+○0000000671○(What the hell...?)
+●0000000671●
+
+○0000000672○The upper area of its head has been cleanly blown off.
+●0000000672●
+
+○0000000673○Only the jaw and the teeth digging in my arm remain.
+●0000000673●
+
+○0000000674○I guess this might be what it looked like if something exploded in its mouth.
+●0000000674●
+
+○0000000675○But what could that have been?
+●0000000675●
+
+○0000000676○In any case, I hurriedly crawl out from under the giant dog.
+●0000000676●
+
+○0000000677○I direct my attention to my arm.
+●0000000677●
+
+○0000000678○A couple of strange shining membranes are rising from my wrist.
+●0000000678●
+
+○0000000679○They're swaying and twitching in all directions like seaweed caught in a current.
+●0000000679●
+
+○0000000680○It reminds me of depictions of Medusa's hair I've seen on the Internet.
+●0000000680●
+
+○0000000681○瑚太朗
+●0000000681●
+
+○0000000682○"What the...?"
+●0000000682●
+
+○0000000683○They sparkle in the colors of an aurora.
+●0000000683●
+
+○0000000684○I soon realize there's something wrong with the dog's body.
+●0000000684●
+
+○0000000685○Letting out a stench I've never smelled before, it quickly dissolves into some sort of liquid.
+●0000000685●
+
+○0000000686○Like butter on a hot frying pan.
+●0000000686●
+
+○0000000687○All the water in its body boils away, leaving behind some kind of powder.
+●0000000687●
+
+○0000000688○I take out my phone with my left hand and snap some pictures of that and my right arm.
+●0000000688●
+
+○0000000689○I might truly be waking up to my calling as a journalist, if I can remember to do that even in a situation like this.
+●0000000689●
+
+○0000000690○I check the photos and furrow my brow.
+●0000000690●
+
+○0000000691○There's nothing in them.
+●0000000691●
+
+○0000000692○Just the ground and a wounded arm.
+●0000000692●
+
+○0000000693○瑚太朗
+●0000000693●
+
+○0000000694○(It's full of holes...)
+●0000000694●
+
+○0000000695○And these membranes are growing out of them.
+●0000000695●
+
+○0000000696○They sway back and forth despite the lack of wind, even defying gravity.
+●0000000696●
+
+○0000000697○瑚太朗
+●0000000697●
+
+○0000000698○"Are they... alive?"
+●0000000698●
+
+○0000000699○I poke one with the tip of my finger.
+●0000000699●
+
+○0000000700○I can't quite describe the sensation.
+●0000000700●
+
+○0000000701○It feels like cloth... or maybe more like paper.
+●0000000701●
+
+○0000000702○Warm and soft.
+●0000000702●
+
+○0000000703○*wobble* *wobble*
+●0000000703●
+
+○0000000704○瑚太朗
+●0000000704●
+
+○0000000705○"Ohh?"
+●0000000705●
+
+○0000000706○They suddenly begin hardening.
+●0000000706●
+
+○0000000707○The hardened parts quickly lose their glow.
+●0000000707●
+
+○0000000708○From fluorescent, to a faint dark red.
+●0000000708●
+
+○0000000709○It takes no more than thirty seconds for them to harden completely.
+●0000000709●
+
+○0000000710○*crack*
+●0000000710●
+
+○0000000711○They break off at the base...
+●0000000711●
+
+○0000000712○...and disperse into tiny particles before disappearing.
+●0000000712●
+
+○0000000713○I didn't feel any pain.
+●0000000713●
+
+○0000000714○My wounds are gone, as well.
+●0000000714●
+
+○0000000715○Did that thing heal me?
+●0000000715●
+
+○0000000716○瑚太朗
+●0000000716●
+
+○0000000717○(Is this really okay...?)
+●0000000717●
+
+○0000000718○I'm not bleeding anymore, and my fingers are moving fine.
+●0000000718●
+
+○0000000719○That was a hospital-tier wound, but it healed up in just a few minutes.
+●0000000719●
+
+○0000000720○Only my bloodstained shirt stands as a testament to what had transpired.
+●0000000720●
+
+○0000000721○瑚太朗
+●0000000721●
+
+○0000000722○"What the hell is going on?"
+●0000000722●
+
+○0000000723○I don't understand anything anymore.
+●0000000723●
+
+○0000000724○This has never happened to me before.
+●0000000724●
+
+○0000000725○I clench my fists.
+●0000000725●
+
+○0000000726○*wobble*
+●0000000726●
+
+○0000000727○A couple of membranes stretch from my wrists.
+●0000000727●
+
+○0000000728○瑚太朗
+●0000000728●
+
+○0000000729○"Uohh! Creepy!"
+●0000000729●
+
+○0000000730○瑚太朗
+●0000000730●
+
+○0000000731○"I wasn't calling for you!"
+●0000000731●
+
+○0000000732○As if answering my will, the membranes harden.
+●0000000732●
+
+○0000000733○But they retain their glow this time.
+●0000000733●
+
+○0000000734○瑚太朗
+●0000000734●
+
+○0000000735○"This is..."
+●0000000735●
+
+○0000000736○They're each about fifty centimeters long.
+●0000000736●
+
+○0000000737○In a way, they look like some sort of weapon.
+●0000000737●
+
+○0000000738○They almost remind me of a lightsaber.
+●0000000738●
+
+○0000000739○Though they don't form a straight line.
+●0000000739●
+
+○0000000740○I've never seen anything like this before, but...
+●0000000740●
+
+○0000000741○...they're making me anxious in a hard-to-describe way.
+●0000000741●
+
+○0000000742○瑚太朗
+●0000000742●
+
+○0000000743○(If these things killed that dog...)
+●0000000743●
+
+○0000000744○I try swinging them at a nearby branch that's about as thick as my arm.
+●0000000744●
+
+○0000000745○*slash*
+●0000000745●
+
+○0000000746○瑚太朗
+●0000000746●
+
+○0000000747○"It works..."
+●0000000747●
+
+○0000000748○It sliced the branch clean off.
+●0000000748●
+
+○0000000749○I usually have more trouble slicing butter with a knife than I just did with that.
+●0000000749●
+
+○0000000750○That's some pretty unsettling sharpness.
+●0000000750●
+
+○0000000751○If this doesn't infringe on the sword possession act, then I don't know what would.
+●0000000751●
+
+○0000000752○I never knew I possessed this kind of power... No, wait...
+●0000000752●
+
+○0000000753○It's probably more accurate to say I didn't possess it up until now.
+●0000000753●
+
+○0000000754○These things don't feel like an extension of my body.
+●0000000754●
+
+○0000000755○It's more like someone haphazardly attached them to me while I wasn't looking.
+●0000000755●
+
+○0000000756○Almost like grafting.
+●0000000756●
+
+○0000000757○Well, I can think about that later.
+●0000000757●
+
+○0000000758○瑚太朗
+●0000000758●
+
+○0000000759○"...So, uh, does this have an expiration date or something?"
+●0000000759●
+
+○0000000760○The moment I lose focus, the glow begins waning.
+●0000000760●
+
+○0000000761○It takes a few more seconds for them to harden and break off at their base.
+●0000000761●
+
+○0000000762○I try retrieving some of the scattered remains, but...
+●0000000762●
+
+○0000000763○...they crumble to dust and disperse in response to my touch.
+●0000000763●
+
+○0000000764○Just like before.
+●0000000764●
+
+○0000000765○瑚太朗
+●0000000765●
+
+○0000000766○(...Did I go too hard on my accelerator?)
+●0000000766●
+
+○0000000767○That explanation makes the most sense right now.
+●0000000767●
+
+○0000000768○瑚太朗
+●0000000768●
+
+○0000000769○"That said..."
+●0000000769●
+
+○0000000770○I would've preferred a cannon or some other long-range weapon.
+●0000000770●
+
+○0000000771○I want to stand as far from the scary things as possible.
+●0000000771●
+
+○0000000772○In any case, it seems like I made it through this one.
+●0000000772●
+
+○0000000773○Anything is better than being devoured alive by a mad dog.
+●0000000773●
+
+○0000000774○瑚太朗
+●0000000774●
+
+○0000000775○"Hah..."
+●0000000775●
+
+○0000000776○The core of my body trembles the moment I start trying to laugh it off.
+●0000000776●
+
+○0000000777○The shivering creeps through me, causing my legs to quiver pathetically.
+●0000000777●
+
+○0000000778○瑚太朗
+●0000000778●
+
+○0000000779○(I could've died.)
+●0000000779●
+
+○0000000780○I would have been dead if I didn't have my powers.
+●0000000780●
+
+○0000000781○...Or if I made one stupid mistake.
+●0000000781●
+
+○0000000782○I just happened to pull through alive thanks to a little luck. By chance!
+●0000000782●
+
+○0000000783○I slide to the ground and cover my face.
+●0000000783●
+
+○0000000784○瑚太朗
+●0000000784●
+
+○0000000785○"......"
+●0000000785●
+
+○0000000786○As I'm waiting for my emotions to calm, my skin suddenly breaks out in goosebumps.
+●0000000786●
+
+○0000000787○I can hear a faint rustling sound.
+●0000000787●
+
+○0000000788○Or rather, two coming in such quick succession that they overlap.
+●0000000788●
+
+○0000000789○...It's two enemies this time.
+●0000000789●
+
+○0000000790○瑚太朗
+●0000000790●
+
+○0000000791○"...!"
+●0000000791●
+
+○0000000792○There's no way I can take two of those dogs at the same time.
+●0000000792●
+
+○0000000793○(I should run while I still have the chance.)
+●0000000793●
+
+○0000000794○I dash through the forest.
+●0000000794●
+
+○0000000795○My feet feel light.
+●0000000795●
+
+○0000000796○It's like my body doesn't weigh anything.
+●0000000796●
+
+○0000000797○I reach my maximum speed in less than a second.
+●0000000797●
+
+○0000000798○瑚太朗
+●0000000798●
+
+○0000000799○(R-Right... I raised my limits!)
+●0000000799●
+
+○0000000800○My running speed is no joke right now.
+●0000000800●
+
+○0000000801○The air resistance feels dense in a way I've never experienced before.
+●0000000801●
+
+○0000000802○The scenery in front of me flickers like a fast-forwarding movie.
+●0000000802●
+
+○0000000803○瑚太朗
+●0000000803●
+
+○0000000804○(This is awesome! But...)
+●0000000804●
+
+○0000000805○I'll never be able to give my all in PE class again.
+●0000000805●
+
+○0000000806○This speed is no longer on the level of human beings.
+●0000000806●
+
+○0000000807○...I managed to shake the dogs off.
+●0000000807●
+
+○0000000808○I can't feel their creepy presence anymore.
+●0000000808●
+
+○0000000809○I felt like they were right on my heels back there, but I probably just heard them from further away with my keener senses.
+●0000000809●
+
+○0000000810○It seems like my perception has received a boost as well.
+●0000000810●
+
+○0000000811○I suddenly smell an unusual scent.
+●0000000811●
+
+○0000000812○瑚太朗
+●0000000812●
+
+○0000000813○"It's coming from over here."
+●0000000813●
+
+○0000000814○I continue through the shrubbery, easily finding its origin.
+●0000000814●
+
+○0000000815○White smoke rises above the trees from an area further down.
+●0000000815●
+
+○0000000816○I find a small pile of the ash-like substance once I reach it.
+●0000000816●
+
+○0000000817○It's very similar to what was left of the dog I killed.
+●0000000817●
+
+○0000000818○瑚太朗
+●0000000818●
+
+○0000000819○(A different dog might have died here.)
+●0000000819●
+
+○0000000820○瑚太朗
+●0000000820●
+
+○0000000821○(...Did someone kill it?)
+●0000000821●
+
+○0000000822○瑚太朗
+●0000000822●
+
+○0000000823○"Over there..."
+●0000000823●
+
+○0000000824○It doesn't seem like whatever caused that sound was far away.
+●0000000824●
+
+○0000000825○I decide to go and check.
+●0000000825●
+
+○0000000826○静流
+●0000000826●
+
+○0000000827○"Kotarou!"
+●0000000827●
+
+○0000000828○瑚太朗
+●0000000828●
+
+○0000000829○"Sizuru! I'm so glad to see you safe!"
+●0000000829●
+
+○0000000830○ルチア
+●0000000830●
+
+○0000000831○"I'd like to extend the same sentiment to you."
+●0000000831●
+
+○0000000832○瑚太朗
+●0000000832●
+
+○0000000833○"Where's everyone else?"
+●0000000833●
+
+○0000000834○静流
+●0000000834●
+
+○0000000835○"I don't know."
+●0000000835●
+
+○0000000836○ルチア
+●0000000836●
+
+○0000000837○"I looked away for just a moment, and they were gone."
+●0000000837●
+
+○0000000838○瑚太朗
+●0000000838●
+
+○0000000839○"That's not good... It looks like there are wild dogs in this area."
+●0000000839●
+
+○0000000840○瑚太朗
+●0000000840●
+
+○0000000841○"Did you two run into any?"
+●0000000841●
+
+○0000000842○The two exchange meaningful glances.
+●0000000842●
+
+○0000000843○ルチア
+●0000000843●
+
+○0000000844○"I didn't see any."
+●0000000844●
+
+○0000000845○瑚太朗
+●0000000845●
+
+○0000000846○"Huh? But just over there, I found..."
+●0000000846●
+
+○0000000847○I pause.
+●0000000847●
+
+○0000000848○If they were the ones who killed that dog, that'd lead to a whole bunch of new questions.
+●0000000848●
+
+○0000000849○静流
+●0000000849●
+
+○0000000850○"I haven't seen any dogs, but if it's dangerous here, we should leave."
+●0000000850●
+
+○0000000851○瑚太朗
+●0000000851●
+
+○0000000852○"Yeah, this is no joke. We're leaving as soon as we find the others."
+●0000000852●
+
+○0000000853○瑚太朗
+●0000000853●
+
+○0000000854○"Can I borrow one of your maps?"
+●0000000854●
+
+○0000000855○静流
+●0000000855●
+
+○0000000856○"You can have mine."
+●0000000856●
+
+○0000000857○瑚太朗
+●0000000857●
+
+○0000000858○"Right now, we're at..."
+●0000000858●
+
+○0000000859○Using the two ridgelines peeking through the gap in the trees, I pinpoint our location.
+●0000000859●
+
+○0000000860○瑚太朗
+●0000000860●
+
+○0000000861○"Okay, you two wait here."
+●0000000861●
+
+○0000000862○ルチア
+●0000000862●
+
+○0000000863○"I'd appreciate a break, but are you sure?"
+●0000000863●
+
+○0000000864○瑚太朗
+●0000000864●
+
+○0000000865○"If I don't return in an hour, go back to the town by yourselves."
+●0000000865●
+
+○0000000866○ルチア
+●0000000866●
+
+○0000000867○"Got it. We'll go straight to the police."
+●0000000867●
+
+○0000000868○瑚太朗
+●0000000868●
+
+○0000000869○"...Yeah. It's unfortunate, but that would be for the best."
+●0000000869●
+
+○0000000870○瑚太朗
+●0000000870●
+
+○0000000871○"If you run into any wild beasts, climb the trees. The higher, the better."
+●0000000871●
+
+○0000000872○静流
+●0000000872●
+
+○0000000873○"Copy."
+●0000000873●
+
+○0000000874○Do they really comprehend the gravity of the situation?
+●0000000874●
+
+○0000000875○I walk the forest path for a dozen or so minutes, when...
+●0000000875●
+
+○0000000876○A sudden rustling sound reaches my ears.
+●0000000876●
+
+○0000000877○It came from a distance of about thirty meters.
+●0000000877●
+
+○0000000878○瑚太朗
+●0000000878●
+
+○0000000879○(...Come if you dare.)
+●0000000879●
+
+○0000000880○I'm not powerless like before.
+●0000000880●
+
+○0000000881○I find a large stick and pick it up.
+●0000000881●
+
+○0000000882○(This should cause some damage.)
+●0000000882●
+
+○0000000883○For some reason, I can't summon the glowing blade.
+●0000000883●
+
+○0000000884○The source of the noise slowly advances towards me.
+●0000000884●
+
+○0000000885○I crouch and wait for my prey to show up.
+●0000000885●
+
+○0000000886○If it's the black dog again, I'll bash its skull in with one surprise blow.
+●0000000886●
+
+○0000000887○Now!
+●0000000887●
+
+○0000000888○小鳥
+●0000000888●
+
+○0000000889○"......"
+●0000000889●
+
+○0000000890○瑚太朗
+●0000000890●
+
+○0000000891○"K-Kotori?"
+●0000000891●
+
+○0000000892○小鳥
+●0000000892●
+
+○0000000893○"Ah, Kotarou!"
+●0000000893●
+
+○0000000894○瑚太朗
+●0000000894●
+
+○0000000895○"You were all right!!"
+●0000000895●
+
+○0000000896○That's a huge load off my chest.
+●0000000896●
+
+○0000000897○小鳥
+●0000000897●
+
+○0000000898○"The moment I ended up alone, a weird doggie appeared out of nowhere and started chasing me. I almost had a heart attack."
+●0000000898●
+
+○0000000899○小鳥
+●0000000899●
+
+○0000000900○"After that, I had no idea where I was."
+●0000000900●
+
+○0000000901○瑚太朗
+●0000000901●
+
+○0000000902○"...I'm really glad you didn't die."
+●0000000902●
+
+○0000000903○How on earth did she manage to outrun that thing, though?
+●0000000903●
+
+○0000000904○瑚太朗
+●0000000904●
+
+○0000000905○"Are you hurt?"
+●0000000905●
+
+○0000000906○小鳥
+●0000000906●
+
+○0000000907○"No."
+●0000000907●
+
+○0000000908○瑚太朗
+●0000000908●
+
+○0000000909○"I'm really glad you pulled through okay. I mean it."
+●0000000909●
+
+○0000000910○小鳥
+●0000000910●
+
+○0000000911○"Sorry for making you worry."
+●0000000911●
+
+○0000000912○小鳥
+●0000000912●
+
+○0000000913○"That said, you look like you went through a meat grinder."
+●0000000913●
+
+○0000000914○瑚太朗
+●0000000914●
+
+○0000000915○"A hellhound attacked me."
+●0000000915●
+
+○0000000916○小鳥
+●0000000916●
+
+○0000000917○"Whoa! A high-level monster right off the bat!"
+●0000000917●
+
+○0000000918○瑚太朗
+●0000000918●
+
+○0000000919○"Well, it was probably more like a wild dog."
+●0000000919●
+
+○0000000920○小鳥
+●0000000920●
+
+○0000000921○"Now that's a starting-area enemy."
+●0000000921●
+
+○0000000922○瑚太朗
+●0000000922●
+
+○0000000923○"I just experienced how a starting-area enemy is stronger than an average human. These heroes are out of their minds, I tell you."
+●0000000923●
+
+○0000000924○小鳥
+●0000000924●
+
+○0000000925○"Don't tell me you were playing video games after we got separated, Mister. I'm not letting you off the hook if you were."
+●0000000925●
+
+○0000000926○瑚太朗
+●0000000926●
+
+○0000000927○"I just fought monsters."
+●0000000927●
+
+○0000000928○小鳥
+●0000000928●
+
+○0000000929○"That's what you do in video games."
+●0000000929●
+
+○0000000930○瑚太朗
+●0000000930●
+
+○0000000931○"What kind of video game makes you look like this?"
+●0000000931●
+
+○0000000932○小鳥
+●0000000932●
+
+○0000000933○"My phone had no signal. I was really worried."
+●0000000933●
+
+○0000000934○I bring Kotori back to where I had Sizuru and Lucia stand by.
+●0000000934●
+
+○0000000935○ルチア
+●0000000935●
+
+○0000000936○"Two left, then."
+●0000000936●
+
+○0000000937○Akane and Chihaya.
+●0000000937●
+
+○0000000938○瑚太朗
+●0000000938●
+
+○0000000939○"Do you have any idea where they could be?"
+●0000000939●
+
+○0000000940○All three shake their heads.
+●0000000940●
+
+○0000000941○小鳥
+●0000000941●
+
+○0000000942○"What are we going to do about them?"
+●0000000942●
+
+○0000000943○瑚太朗
+●0000000943●
+
+○0000000944○"I'll look for them."
+●0000000944●
+
+○0000000945○静流
+●0000000945●
+
+○0000000946○"How?"
+●0000000946●
+
+○0000000947○瑚太朗
+●0000000947●
+
+○0000000948○"...Hmm."
+●0000000948●
+
+○0000000949○ルチア
+●0000000949●
+
+○0000000950○"You don't have a plan."
+●0000000950●
+
+○0000000951○瑚太朗
+●0000000951●
+
+○0000000952○"What kind of plan can I have in a situation like this?"
+●0000000952●
+
+○0000000953○ルチア
+●0000000953●
+
+○0000000954○"We could leave now and go straight to the police."
+●0000000954●
+
+○0000000955○瑚太朗
+●0000000955●
+
+○0000000956○"What are the odds that the police will find them in time?"
+●0000000956●
+
+○0000000957○ルチア
+●0000000957●
+
+○0000000958○"I'm sure they'll organize a search party within a day or two."
+●0000000958●
+
+○0000000959○The same kind of party already failed to find Inoue.
+●0000000959●
+
+○0000000960○As such, the fate of Akane and Chihaya doesn't look too promising.
+●0000000960●
+
+○0000000961○瑚太朗
+●0000000961●
+
+○0000000962○"You can start heading back right now."
+●0000000962●
+
+○0000000963○小鳥
+●0000000963●
+
+○0000000964○"What about you?"
+●0000000964●
+
+○0000000965○瑚太朗
+●0000000965●
+
+○0000000966○"I'll look for them on my own."
+●0000000966●
+
+○0000000967○瑚太朗
+●0000000967●
+
+○0000000968○"I've got a weird feeling about this place."
+●0000000968●
+
+○0000000969○静流
+●0000000969●
+
+○0000000970○"I will help."
+●0000000970●
+
+○0000000971○瑚太朗
+●0000000971●
+
+○0000000972○"It's dangerous."
+●0000000972●
+
+○0000000973○ルチア
+●0000000973●
+
+○0000000974○"Three women walking in the forest at night is hardly any better."
+●0000000974●
+
+○0000000975○瑚太朗
+●0000000975●
+
+○0000000976○"Ah..."
+●0000000976●
+
+○0000000977○小鳥
+●0000000977●
+
+○0000000978○"Looks like it's decided, then. Let's find those two and all go home together."
+●0000000978●
+
+○0000000979○瑚太朗
+●0000000979●
+
+○0000000980○"...Thanks."
+●0000000980●
+
+○0000000982○ルチア
+●0000000982●
+
+○0000000983○"......"
+●0000000983●
+
+○0000000984○As we're looking for our missing friends, Lucia suddenly stops.
+●0000000984●
+
+○0000000985○She crouches down and brushes the ground.
+●0000000985●
+
+○0000000986○瑚太朗
+●0000000986●
+
+○0000000987○"What is it?"
+●0000000987●
+
+○0000000988○ルチア
+●0000000988●
+
+○0000000989○"...Look."
+●0000000989●
+
+○0000000990○She points at the faint marks on the ground.
+●0000000990●
+
+○0000000991○瑚太朗
+●0000000991●
+
+○0000000992○"Footprints again..."
+●0000000992●
+
+○0000000993○ルチア
+●0000000993●
+
+○0000000994○"This isn't old. Someone passed by here recently."
+●0000000994●
+
+○0000000995○ルチア
+●0000000995●
+
+○0000000996○"Two people. Both women."
+●0000000996●
+
+○0000000997○瑚太朗
+●0000000997●
+
+○0000000998○"Think it's Prez and Chihaya?"
+●0000000998●
+
+○0000000999○ルチア
+●0000000999●
+
+○0000001000○"Very likely."
+●0000001000●
+
+○0000001001○瑚太朗
+●0000001001●
+
+○0000001002○"You sure can tell lots from this stuff... Have you studied this before or something?"
+●0000001002●
+
+○0000001003○Lucia stands up.
+●0000001003●
+
+○0000001004○ルチア
+●0000001004●
+
+○0000001005○"No, I just have keen senses."
+●0000001005●
+
+○0000001006○小鳥
+●0000001006●
+
+○0000001007○"I see... So that's how criminals get caught."
+●0000001007●
+
+○0000001008○静流
+●0000001008●
+
+○0000001009○"It's hard to move without leaving a trace."
+●0000001009●
+
+○0000001010○瑚太朗
+●0000001010●
+
+○0000001011○"Let's try following this trail for now."
+●0000001011●
+
+○0000001012○Even I can tell what the footprints mean this time.
+●0000001012●
+
+○0000001013○瑚太朗
+●0000001013●
+
+○0000001014○"They separated here."
+●0000001014●
+
+○0000001015○The footprints split off into a V shape.
+●0000001015●
+
+○0000001016○For whatever reason, Chihaya and Akane went in different directions.
+●0000001016●
+
+○0000001017○瑚太朗
+●0000001017●
+
+○0000001018○"Why would they do that?"
+●0000001018●
+
+○0000001019○瑚太朗
+●0000001019●
+
+○0000001020○"Can you solve this riddle, Sizuru?"
+●0000001020●
+
+○0000001021○静流
+●0000001021●
+
+○0000001022○"Mhh..."
+●0000001022●
+
+○0000001023○静流
+●0000001023●
+
+○0000001024○"I think so."
+●0000001024●
+
+○0000001025○Sizuru spends a few more moments looking at the footprints.
+●0000001025●
+
+○0000001026○Then, she declares her answer with a confident expression.
+●0000001026●
+
+○0000001027○静流
+●0000001027●
+
+○0000001028○"...The two had a fight."
+●0000001028●
+
+○0000001029○瑚太朗
+●0000001029●
+
+○0000001030○"That's the first thought that comes to mind, yeah..."
+●0000001030●
+
+○0000001031○瑚太朗
+●0000001031●
+
+○0000001032○"But I don't think that's what happened. Why would you separate over a fight in a situation where your life might be on the line?"
+●0000001032●
+
+○0000001033○静流
+●0000001033●
+
+○0000001034○"I was just warming up."
+●0000001034●
+
+○0000001035○静流
+●0000001035●
+
+○0000001036○"......"
+●0000001036●
+
+○0000001037○静流
+●0000001037●
+
+○0000001038○"They promised to play again tomorrow and went home."
+●0000001038●
+
+○0000001039○瑚太朗
+●0000001039●
+
+○0000001040○"We're stranded in the middle of a forest, dude!"
+●0000001040●
+
+○0000001041○静流
+●0000001041●
+
+○0000001042○"......"
+●0000001042●
+
+○0000001043○静流
+●0000001043●
+
+○0000001044○"...This is a most mysterious incident."
+●0000001044●
+
+○0000001045○This girl is hopeless.
+●0000001045●
+
+○0000001046○小鳥
+●0000001046●
+
+○0000001047○"Um... Well, which of those are we going to follow now?"
+●0000001047●
+
+○0000001048○瑚太朗
+●0000001048●
+
+○0000001049○"Let's go after the ones that look like Prez's, since she's got no stamina."
+●0000001049●
+
+○0000001050○ルチア
+●0000001050●
+
+○0000001051○"I-I don't know who you think I am, but I can't see that level of detail..."
+●0000001051●
+
+○0000001052○瑚太朗
+●0000001052●
+
+○0000001053○"Prez was in this school from the start, while Chihaya just transferred a few weeks ago."
+●0000001053●
+
+○0000001054○瑚太朗
+●0000001054●
+
+○0000001055○"Can you look at the footprints once more with that in mind?"
+●0000001055●
+
+○0000001056○ルチア
+●0000001056●
+
+○0000001057○"Eh...?"
+●0000001057●
+
+○0000001058○ルチア
+●0000001058●
+
+○0000001059○"Um... That's so vague... Mhh..."
+●0000001059●
+
+○0000001060○Lucia does her best.
+●0000001060●
+
+○0000001061○ルチア
+●0000001061●
+
+○0000001062○"...I think it's the ones on the left. I'm just guessing since the soles of those seem more worn out."
+●0000001062●
+
+○0000001063○瑚太朗
+●0000001063●
+
+○0000001064○"Well, we're gonna need to find both of them anyway, so it doesn't really matter that much."
+●0000001064●
+
+○0000001065○ルチア
+●0000001065●
+
+○0000001066○"......"
+●0000001066●
+
+○0000001067○小鳥
+●0000001067●
+
+○0000001068○"If Chii is the one on the right, why do you think they suddenly split up?"
+●0000001068●
+
+○0000001069○瑚太朗
+●0000001069●
+
+○0000001070○"Maybe... she wasn't paying attention and drifted onto a different path?"
+●0000001070●
+
+○0000001071○小鳥
+●0000001071●
+
+○0000001072○"That... sounds likely."
+●0000001072●
+
+○0000001073○瑚太朗
+●0000001073●
+
+○0000001074○"Okay, let's hurry to the left."
+●0000001074●
+
+○0000001076○？＿ちはや
+●0000001076●
+
+○0000001077○"Ooo..."
+●0000001077●
+
+○0000001078○？＿ちはや
+●0000001078●
+
+○0000001079○"Aooo..."
+●0000001079●
+
+○0000001080○？＿ちはや
+●0000001080●
+
+○0000001081○"Aooooo..."
+●0000001081●
+
+○0000001082○小鳥
+●0000001082●
+
+○0000001083○"Um, Kotarou...
+●0000001083●
+
+○0000001084○瑚太朗
+●0000001084●
+
+○0000001085○"...So you've noticed it as well."
+●0000001085●
+
+○0000001086○It's been bothering me for a while now.
+●0000001086●
+
+○0000001087○小鳥
+●0000001087●
+
+○0000001088○"What do you think it is?"
+●0000001088●
+
+○0000001089○瑚太朗
+●0000001089●
+
+○0000001090○"It's creepy as hell. I don't think a human is making that sound."
+●0000001090●
+
+○0000001091○ルチア
+●0000001091●
+
+○0000001092○"It's possible that it's caused by wind blowing through a naturally formed cave."
+●0000001092●
+
+○0000001093○瑚太朗
+●0000001093●
+
+○0000001094○"I considered that... but I don't think that's it."
+●0000001094●
+
+○0000001095○ルチア
+●0000001095●
+
+○0000001096○"Then what do you think it is?"
+●0000001096●
+
+○0000001097○瑚太朗
+●0000001097●
+
+○0000001098○"Hmm..."
+●0000001098●
+
+○0000001099○瑚太朗
+●0000001099●
+
+○0000001100○"The cry of a banshee, perhaps."
+●0000001100●
+
+○0000001101○瑚太朗
+●0000001101●
+
+○0000001102○"A spirit that comes up in Irish legends."
+●0000001102●
+
+○0000001103○静流
+●0000001103●
+
+○0000001104○"I don't understand what you're talking about."
+●0000001104●
+
+○0000001105○小鳥
+●0000001105●
+
+○0000001106○"It's okay, I don't think he's making any sense."
+●0000001106●
+
+○0000001107○？＿ちはや
+●0000001107●
+
+○0000001108○"...Uaoooooooo..."
+●0000001108●
+
+○0000001109○小鳥
+●0000001109●
+
+○0000001110○"Wah! It came from somewhere close! Where is it?! Where is it?!"
+●0000001110●
+
+○0000001111○瑚太朗
+●0000001111●
+
+○0000001112○"Darn, that was spooky..."
+●0000001112●
+
+○0000001113○瑚太朗
+●0000001113●
+
+○0000001114○"What powers did banshees have, again?"
+●0000001114●
+
+○0000001115○ルチア
+●0000001115●
+
+○0000001116○"It's not a banshee, so I don't think you need to worry about that."
+●0000001116●
+
+○0000001117○小鳥
+●0000001117●
+
+○0000001118○"I think it's coming closer..."
+●0000001118●
+
+○0000001119○瑚太朗
+●0000001119●
+
+○0000001120○"We should probably hide."
+●0000001120●
+
+○0000001121○瑚太朗
+●0000001121●
+
+○0000001122○"Here, I found a good place... Huh? Where's Sizuru?"
+●0000001122●
+
+○0000001123○静流
+●0000001123●
+
+○0000001124○"......"
+●0000001124●
+
+○0000001125○She's pulling out some plants further away and tasting the roots, trying to find a sweet one.
+●0000001125●
+
+○0000001126○瑚太朗
+●0000001126●
+
+○0000001127○"Hide already, you fool!"
+●0000001127●
+
+○0000001128○静流
+●0000001128●
+
+○0000001129○"...Okay."
+●0000001129●
+
+○0000001130○We hide behind the trees.
+●0000001130●
+
+○0000001131○？＿ちはや
+●0000001131●
+
+○0000001132○"...Uoooooooooh!!"
+●0000001132●
+
+○0000001133○The banshee appears.
+●0000001133●
+
+○0000001134○ちはや
+●0000001134●
+
+○0000001135○"Uaaaaaaaaaaaaaaaahh!!"
+●0000001135●
+
+○0000001136○瑚太朗
+●0000001136●
+
+○0000001137○"So it was you!!"
+●0000001137●
+
+○0000001138○ちはや
+●0000001138●
+
+○0000001139○"Ack! It hurts!"
+●0000001139●
+
+○0000001140○瑚太朗
+●0000001140●
+
+○0000001141○"You can come out, everyone."
+●0000001141●
+
+○0000001142○静流
+●0000001142●
+
+○0000001143○"So it was Chii."
+●0000001143●
+
+○0000001144○小鳥
+●0000001144●
+
+○0000001145○"Ah, she's crying!"
+●0000001145●
+
+○0000001146○ちはや
+●0000001146●
+
+○0000001147○"I'm terrible at orienteering..."
+●0000001147●
+
+○0000001148○瑚太朗
+●0000001148●
+
+○0000001149○"Hey, we haven't found Prez yet. Do you have any idea where could she be?"
+●0000001149●
+
+○0000001150○ちはや
+●0000001150●
+
+○0000001151○"...Huh?"
+●0000001151●
+
+○0000001152○ルチア
+●0000001152●
+
+○0000001153○"You were together for a while, right?"
+●0000001153●
+
+○0000001154○ちはや
+●0000001154●
+
+○0000001155○"No."
+●0000001155●
+
+○0000001156○小鳥
+●0000001156●
+
+○0000001157○"What?"
+●0000001157●
+
+○0000001158○ルチア
+●0000001158●
+
+○0000001159○"Weren't you lost together with Prez?"
+●0000001159●
+
+○0000001160○ちはや
+●0000001160●
+
+○0000001161○"No, I was all alone from the start."
+●0000001161●
+
+○0000001162○ちはや
+●0000001162●
+
+○0000001163○"I think I lost my way when we split up during that break."
+●0000001163●
+
+○0000001164○小鳥
+●0000001164●
+
+○0000001165○"But your footprints were right next to each other."
+●0000001165●
+
+○0000001166○ちはや
+●0000001166●
+
+○0000001167○"Huh? That's strange."
+●0000001167●
+
+○0000001168○ルチア
+●0000001168●
+
+○0000001169○"Got it! The two were walking the same path, but at different times!"
+●0000001169●
+
+○0000001170○瑚太朗
+●0000001170●
+
+○0000001171○"You'd do just about anything to make our work harder..."
+●0000001171●
+
+○0000001172○ちはや
+●0000001172●
+
+○0000001173○"I didn't do it on purpose!"
+●0000001173●
+
+○0000001174○瑚太朗
+●0000001174●
+
+○0000001175○"You haven't been chased by any dogs, have you?"
+●0000001175●
+
+○0000001176○ちはや
+●0000001176●
+
+○0000001177○"...Huh?"
+●0000001177●
+
+○0000001178○瑚太朗
+●0000001178●
+
+○0000001179○"There's a huge black dog out there."
+●0000001179●
+
+○0000001180○ちはや
+●0000001180●
+
+○0000001181○"No... I haven't."
+●0000001181●
+
+○0000001182○ちはや
+●0000001182●
+
+○0000001183○"Did it chase you?"
+●0000001183●
+
+○0000001184○瑚太朗
+●0000001184●
+
+○0000001185○"Kotori and I ran into it."
+●0000001185●
+
+○0000001186○瑚太朗
+●0000001186●
+
+○0000001187○"...With that in mind, it's dangerous out here. We've got to find Prez asap and make our retreat."
+●0000001187●
+
+○0000001188○ちはや
+●0000001188●
+
+○0000001189○"......"
+●0000001189●
+
+○0000001190○ルチア
+●0000001190●
+
+○0000001191○"What is it?"
+●0000001191●
+
+○0000001192○ちはや
+●0000001192●
+
+○0000001193○"No, it's nothing..."
+●0000001193●
+
+○0000001194○ちはや
+●0000001194●
+
+○0000001195○"Let's hurry and look for Prez, then."
+●0000001195●
+
+○0000001196○瑚太朗
+●0000001196●
+
+○0000001197○"Yeah..."
+●0000001197●
+
+○0000001198○Prez? I thought she normally called her Akane.
+●0000001198●
+
+○0000001199○Chihaya seems oddly flustered.
+●0000001199●
+
+○0000001200○We find Akane sitting on a fallen tree.
+●0000001200●
+
+○0000001201○瑚太朗
+●0000001201●
+
+○0000001202○"Fancy meeting you here, Prez."
+●0000001202●
+
+○0000001203○朱音
+●0000001203●
+
+○0000001204○"...You're late."
+●0000001204●
+
+○0000001205○瑚太朗
+●0000001205●
+
+○0000001206○"I'm sorry."
+●0000001206●
+
+○0000001207○小鳥
+●0000001207●
+
+○0000001208○"I'm so glad we finally found her."
+●0000001208●
+
+○0000001209○朱音
+●0000001209●
+
+○0000001210○"To confess, I couldn't read the map... I almost resigned myself to my fate here."
+●0000001210●
+
+○0000001211○瑚太朗
+●0000001211●
+
+○0000001212○"You said you could do it."
+●0000001212●
+
+○0000001213○朱音
+●0000001213●
+
+○0000001214○"I never expected to actually get separated."
+●0000001214●
+
+○0000001215○朱音
+●0000001215●
+
+○0000001216○"What happened to your clothes?"
+●0000001216●
+
+○0000001217○瑚太朗
+●0000001217●
+
+○0000001218○"...A lot of stuff happened on our end."
+●0000001218●
+
+○0000001219○In any case, the full team is finally back together.
+●0000001219●
+
+○0000001220○朱音
+●0000001220●
+
+○0000001221○"I don't see those two."
+●0000001221●
+
+○0000001222○Sizuru and Lucia are out of sight.
+●0000001222●
+
+○0000001223○瑚太朗
+●0000001223●
+
+○0000001224○"Team Sizulucia is waiting over there."
+●0000001224●
+
+○0000001225○朱音
+●0000001225●
+
+○0000001226○"...I see."
+●0000001226●
+
+○0000001227○小鳥
+●0000001227●
+
+○0000001228○"Are we going home now?"
+●0000001228●
+
+○0000001229○瑚太朗
+●0000001229●
+
+○0000001230○"Yeah, it's already dark."
+●0000001230●
+
+○0000001231○瑚太朗
+●0000001231●
+
+○0000001232○"This place is bad news. There's weird dog monsters prowling around."
+●0000001232●
+
+○0000001233○朱音
+●0000001233●
+
+○0000001234○"...I see. So that's how you ended up looking like that, then."
+●0000001234●
+
+○0000001235○瑚太朗
+●0000001235●
+
+○0000001236○"I'm seriously exhausted."
+●0000001236●
+
+○0000001237○朱音
+●0000001237●
+
+○0000001238○"......"
+●0000001238●
+
+○0000001239○瑚太朗
+●0000001239●
+
+○0000001240○"What's with the stern look?"
+●0000001240●
+
+○0000001241○朱音
+●0000001241●
+
+○0000001242○"It's nothing. Let's leave before this turns into an incident."
+●0000001242●
+
+○0000001243○瑚太朗
+●0000001243●
+
+○0000001244○"Yeah..."
+●0000001244●
+
+○0000001245○I'm worried about Inoue, but I wasn't expecting monsters roaming about.
+●0000001245●
+
+○0000001246○All six of us were a step away from sharing her fate.
+●0000001246●
+
+○0000001247○I open the map.
+●0000001247●
+
+○0000001248○All I need are two landmarks, and I can use the map's compass to pinpoint our location.
+●0000001248●
+
+○0000001249○瑚太朗
+●0000001249●
+
+○0000001250○"We should be around..."
+●0000001250●
+
+○0000001251○I can read it like a book at this point.
+●0000001251●
+
+○0000001252○That's what happens when you're dragged into do-or-die situations repeatedly.
+●0000001252●
+
+○0000001253○瑚太朗
+●0000001253●
+
+○0000001254○(I found everyone, but that doesn't mean we're quite safe yet.)
+●0000001254●
+
+○0000001255○Those black dogs...
+●0000001255●
+
+○0000001256○I'm not sure if I could protect everyone if they attacked us now...
+●0000001256●
+
+○0000001257○I can't let my guard down just yet.
+●0000001257●
+
+○0000001258○I check the map.
+●0000001258●
+
+○0000001259○We've strayed quite deep, as expected.
+●0000001259●
+
+○0000001260○瑚太朗
+●0000001260●
+
+○0000001261○"Let's get a move on."
+●0000001261●
+
+○0000001262○The air around us suddenly shifts as we're making our way to where I left Team Sizulucia.
+●0000001262●
+
+○0000001263○...Something bad is close by.
+●0000001263●
+
+○0000001264○It hasn't made a sound yet, but I can tell.
+●0000001264●
+
+○0000001265○All my instincts are telling me to run.
+●0000001265●
+
+○0000001266○瑚太朗
+●0000001266●
+
+○0000001267○(A dog again?)
+●0000001267●
+
+○0000001268○No...
+●0000001268●
+
+○0000001269○It's something bigger... and more dangerous.
+●0000001269●
+
+○0000001270○I have to get everyone out of here as soon as possible.
+●0000001270●
+
+○0000001271○瑚太朗
+●0000001271●
+
+○0000001272○"Everyone, listen..."
+●0000001272●
+
+○0000001273○But before I can finish, Kotori suddenly points at the sky.
+●0000001273●
+
+○0000001274○小鳥
+●0000001274●
+
+○0000001275○"What's that?"
+●0000001275●
+
+○0000001276○Everyone looks up.
+●0000001276●
+
+○0000001277○Ah, that's...
+●0000001277●
+
+○0000001278○Something...
+●0000001278●
+
+○0000001279○It doesn't remind me of any animal I've ever seen before.
+●0000001279●
+
+○0000001280○It almost looks beautiful.
+●0000001280●
+
+○0000001281○But at the same time, it's grotesque.
+●0000001281●
+
+○0000001282○Its torso looks like a plant.
+●0000001282●
+
+○0000001283○Its legs look like they're sewn together from vines.
+●0000001283●
+
+○0000001284○Actually, even its head and tail look that way. They're just thicker.
+●0000001284●
+
+○0000001285○Its wings obviously aren't designed to fly.
+●0000001285●
+
+○0000001286○Instead, it's hovering in the air above us like a deformed balloon...
+●0000001286●
+
+○0000001287○...swaying in the air, unable to maintain a consistent shape.
+●0000001287●
+
+○0000001288○I can't tell if it even has a skeleton.
+●0000001288●
+
+○0000001289○Is that even an animal? Is it alive?
+●0000001289●
+
+○0000001290○Maybe it's a bunch of leaves flying in the air and my eyes are just playing tricks on me.
+●0000001290●
+
+○0000001291○No...
+●0000001291●
+
+○0000001292○I wouldn't be feeling this instinctive terror if it wasn't alive.
+●0000001292●
+
+○0000001293○It's moving according to its own will.
+●0000001293●
+
+○0000001294○It's alive without a doubt, animal or not.
+●0000001294●
+
+○0000001295○I have to make my escape.
+●0000001295●
+
+○0000001296○However, my body is frozen like a statue.
+●0000001296●
+
+○0000001297○The monster stretches its four limbs (?) in different directions.
+●0000001297●
+
+○0000001298○Right above us.
+●0000001298●
+
+○0000001299○Like a giant kite.
+●0000001299●
+
+○0000001300○Suddenly, I finally realize what it actually looks like.
+●0000001300●
+
+○0000001301○瑚太朗
+●0000001301●
+
+○0000001302○(...It's a dragon.)
+●0000001302●
+
+○0000001303○A sky dragon with a long neck, a tail, and four wings made out of weeds and leaves.
+●0000001303●
+
+○0000001304○It begins slowly descending.
+●0000001304●
+
+○0000001305○Its long tail dexterously coils around the trees, pulling its body closer.
+●0000001305●
+
+○0000001306○The leaf dragon or giant snake lands... on the trees.
+●0000001306●
+
+○0000001307○The branches bend from its weight, but not a single one snaps.
+●0000001307●
+
+○0000001308○It's probably much lighter than it looks, given that it can hover in the air like that.
+●0000001308●
+
+○0000001309○My thoughts finally recover from the initial shock.
+●0000001309●
+
+○0000001310○瑚太朗
+●0000001310●
+
+○0000001311○(The hell is that thing?)
+●0000001311●
+
+○0000001312○The dragon slowly turns its eyeless head from right to left.
+●0000001312●
+
+○0000001313○As though appraising all of us, one by one.
+●0000001313●
+
+○0000001314○Akane...
+●0000001314●
+
+○0000001315○The dragon shows no reaction.
+●0000001315●
+
+○0000001316○Chihaya...
+●0000001316●
+
+○0000001317○The dragon shows no reaction.
+●0000001317●
+
+○0000001318○Kotori...
+●0000001318●
+
+○0000001319○The dragon's neck twitches.
+●0000001319●
+
+○0000001320○A straw-like thing emerges from its leafy head.
+●0000001320●
+
+○0000001321○瑚太朗
+●0000001321●
+
+○0000001322○"...!"
+●0000001322●
+
+○0000001323○No! This isn't good! Stop!
+●0000001323●
+
+○0000001324○My entire consciousness lights up red.
+●0000001324●
+
+○0000001325○It's at its highest level of alert.
+●0000001325●
+
+○0000001326○I feel wretched, almost like I'm about to puke.
+●0000001326●
+
+○0000001327○瑚太朗
+●0000001327●
+
+○0000001328○"...!!"
+●0000001328●
+
+○0000001329○There's no time for words.
+●0000001329●
+
+○0000001330○I just move as my instincts command me.
+●0000001330●
+
+○0000001331○*whoosh*
+●0000001331●
+
+○0000001332○The dragon spits something out.
+●0000001332●
+
+○0000001333○Something akin to a needle or a lance launches at Kotori with a speed faster than normal human eyes could track.
+●0000001333●
+
+○0000001334○I stick out my hand to block it.
+●0000001334●
+
+○0000001335○It pierces my arm.
+●0000001335●
+
+○0000001336○The inertia sends me flying backwards, crashing into Kotori.
+●0000001336●
+
+○0000001337○小鳥
+●0000001337●
+
+○0000001338○"Kyah!"
+●0000001338●
+
+○0000001339○The impact sends her to the ground.
+●0000001339●
+
+○0000001340○She looks up at me with a confused face.
+●0000001340●
+
+○0000001341○...Good. I managed to save her. She wasn't hurt.
+●0000001341●
+
+○0000001342○瑚太朗
+●0000001342●
+
+○0000001343○"Run."
+●0000001343●
+
+○0000001344○瑚太朗
+●0000001344●
+
+○0000001345○"Get as far as you can. All of you."
+●0000001345●
+
+○0000001346○小鳥
+●0000001346●
+
+○0000001347○"Kotarou... Your arm..."
+●0000001347●
+
+○0000001348○瑚太朗
+●0000001348●
+
+○0000001349○"It's okay."
+●0000001349●
+
+○0000001350○小鳥
+●0000001350●
+
+○0000001351○"There's something in your arm!"
+●0000001351●
+
+○0000001352○瑚太朗
+●0000001352●
+
+○0000001353○"It's okay, so hurry up and run!"
+●0000001353●
+
+○0000001354○The thing that the dragon spat out...
+●0000001354●
+
+○0000001355○...wasn't a projectile. It's some sort of tube with a sharpened end.
+●0000001355●
+
+○0000001356○My arm and its head are now connected thanks to that.
+●0000001356●
+
+○0000001357○瑚太朗
+●0000001357●
+
+○0000001358○"Argh... Gghrr...!"
+●0000001358●
+
+○0000001359○小鳥
+●0000001359●
+
+○0000001360○"What's that?! This can't be right!"
+●0000001360●
+
+○0000001361○Kotori rushes to me.
+●0000001361●
+
+○0000001362○She tries to touch the vine.
+●0000001362●
+
+○0000001363○瑚太朗
+●0000001363●
+
+○0000001364○"No! Run!"
+●0000001364●
+
+○0000001365○I face everyone and shout.
+●0000001365●
+
+○0000001366○瑚太朗
+●0000001366●
+
+○0000001367○"Run, everyone!"
+●0000001367●
+
+○0000001368○No one moves.
+●0000001368●
+
+○0000001369○I understand how they're feeling.
+●0000001369●
+
+○0000001370○When you're suddenly thrust into the fantastic, you feel like you're a part of some elaborate joke. Your body refuses to react.
+●0000001370●
+
+○0000001371○They'll lose their chance to escape.
+●0000001371●
+
+○0000001372○They're safe as long as this thing is in my arm.
+●0000001372●
+
+○0000001373○I have to make everyone escape before it attacks again.
+●0000001373●
+
+○0000001374○But what kind of attack is this, anyway?
+●0000001374●
+
+○0000001375○I recall something similar to it.
+●0000001375●
+
+○0000001376○...The mouth of a butterfly.
+●0000001376●
+
+○0000001377○They use it like a straw to extract honey from flowers.
+●0000001377●
+
+○0000001378○In this case, the liquid the dragon is trying to acquire is...
+●0000001378●
+
+○0000001379○I suddenly feel a mind-numbing pain in my right arm, like nothing I've ever felt before.
+●0000001379●
+
+○0000001380○An agonized growl escapes my lips.
+●0000001380●
+
+○0000001381○It's consuming me from the inside.
+●0000001381●
+
+○0000001382○The terrible sensation makes my blood run cold.
+●0000001382●
+
+○0000001383○瑚太朗
+●0000001383●
+
+○0000001384○"Ugh... Uaghhh..."
+●0000001384●
+
+○0000001385○I fall to my knees.
+●0000001385●
+
+○0000001386○I can handle the pain of being punched or even bitten, but this is on a whole other level... not to mention the sickening feeling that's bundled with it.
+●0000001386●
+
+○0000001387○It's the pain of my blood and flesh getting sucked out.
+●0000001387●
+
+○0000001388○My vision blurs with each of the dragon's breaths.
+●0000001388●
+
+○0000001389○And within the fog of that pain, I remember.
+●0000001389●
+
+○0000001390○The existence of my glowing blade.
+●0000001390●
+
+○0000001391○The miracle bathed in the color of an aurora.
+●0000001391●
+
+○0000001392○瑚太朗
+●0000001392●
+
+○0000001393○(...Aurora.)
+●0000001393●
+
+○0000001394○It sounds like a suitable name.
+●0000001394●
+
+○0000001395○Once again. I need it.
+●0000001395●
+
+○0000001396○I focus my entire fragmented consciousness on that one wish.
+●0000001396●
+
+○0000001397○I have to do it before I lose a lethal amount of blood.
+●0000001397●
+
+○0000001398○瑚太朗
+●0000001398●
+
+○0000001399○(It's not... sucking blood?)
+●0000001399●
+
+○0000001400○I notice there's no blood traveling through the tube in my arm.
+●0000001400●
+
+○0000001401○The tube looks pale green, just like it did at the start.
+●0000001401●
+
+○0000001402○If any blood was traveling through it, it would've colored it crimson.
+●0000001402●
+
+○0000001403○But there's not a trace of the color.
+●0000001403●
+
+○0000001404○It just keeps twitching, as though trying and failing to suck anything.
+●0000001404●
+
+○0000001405○Why?
+●0000001405●
+
+○0000001406○I forget the pain and glance at my arm for a moment.
+●0000001406●
+
+○0000001407○瑚太朗
+●0000001407●
+
+○0000001408○"......"
+●0000001408●
+
+○0000001409○The dragon moves its head, probably having gotten uncomfortable in the same position for so long.
+●0000001409●
+
+○0000001410○It looks confused that it hasn't gotten what it wanted.
+●0000001410●
+
+○0000001411○瑚太朗
+●0000001411●
+
+○0000001412○"...!!"
+●0000001412●
+
+○0000001413○A different kind of pain dulls my thoughts when it shifts.
+●0000001413●
+
+○0000001414○All I can think about is how much it hurts.
+●0000001414●
+
+○0000001415○I clasp the tube in my left hand.
+●0000001415●
+
+○0000001416○It'll probably hurt like hell, but it's already hurting like hell, so what does it matter?
+●0000001416●
+
+○0000001417○瑚太朗
+●0000001417●
+
+○0000001418○"Just..."
+●0000001418●
+
+○0000001419○瑚太朗
+●0000001419●
+
+○0000001420○"...DIE!!"
+●0000001420●
+
+○0000001421○It's not easy to pull out.
+●0000001421●
+
+○0000001422○When it pierced my arm, the tube seemed to release a bunch of hooks that dug into my flesh.
+●0000001422●
+
+○0000001423○I rip it out with brute force.
+●0000001423●
+
+○0000001424○瑚太朗
+●0000001424●
+
+○0000001425○"Ghh... Ghhgh... Khhhh!"
+●0000001425●
+
+○0000001426○The dragon swings the tube like a whip.
+●0000001426●
+
+○0000001427○It easily sweeps me off my feet.
+●0000001427●
+
+○0000001428○Nonetheless, I refuse to release it.
+●0000001428●
+
+○0000001429○I'm too pissed off to care anymore. I won't let go even if it costs me my life.
+●0000001429●
+
+○0000001430○瑚太朗
+●0000001430●
+
+○0000001431○"Shit, shit, shit!"
+●0000001431●
+
+○0000001432○But no matter how much strength I put into it, the tube doesn't move an inch.
+●0000001432●
+
+○0000001433○And the pain is only increasing.
+●0000001433●
+
+○0000001434○瑚太朗
+●0000001434●
+
+○0000001435○"OFF! GET OFF! OFF!!"
+●0000001435●
+
+○0000001436○瑚太朗
+●0000001436●
+
+○0000001437○"GET OFF ME!!"
+●0000001437●
+
+○0000001438○*THUD*
+●0000001438●
+
+○0000001439○My right arm twitches.
+●0000001439●
+
+○0000001440○*THUD*
+●0000001440●
+
+○0000001441○The deeply condensed power pulsates.
+●0000001441●
+
+○0000001442○竜
+●0000001442●
+
+○0000001443○"......"
+●0000001443●
+
+○0000001444○The dragon senses it.
+●0000001444●
+
+○0000001445○It sways its head in a wide motion and inhales one last time.
+●0000001445●
+
+○0000001446○The power of that suction has the power to easily rip a person off the ground.
+●0000001446●
+
+○0000001447○I'll probably end up launched in the air like a rag doll.
+●0000001447●
+
+○0000001448○The two futures I can envision are either losing my arm or getting slammed into the ground, and I don't like the sound of either.
+●0000001448●
+
+○0000001449○...That won't happen.
+●0000001449●
+
+○0000001450○A voice deep in my heart soothes me.
+●0000001450●
+
+○0000001451○It happens at the last moment.
+●0000001451●
+
+○0000001452○The tube in my arm is crushed by an incredible force.
+●0000001452●
+
+○0000001453○The dragon and I are connected no longer.
+●0000001453●
+
+○0000001454○The overflowing energy spills forth from my wound like before.
+●0000001454●
+
+○0000001455○Three rainbow-colored membranes rise and solidify as soon as they come in contact with the outside air.
+●0000001455●
+
+○0000001456○瑚太朗
+●0000001456●
+
+○0000001457○(...It's my blade.)
+●0000001457●
+
+○0000001458○The membranes take the exact shape I wanted.
+●0000001458●
+
+○0000001459○Three large blades are extending from my arm.
+●0000001459●
+
+○0000001460○It's like a giant claw.
+●0000001460●
+
+○0000001461○A twisted weapon, as though drawn with a French curve.
+●0000001461●
+
+○0000001462○Three of them are stretching from the area around my wrist.
+●0000001462●
+
+○0000001463○If it works like before, they'll fall apart the moment I lose focus.
+●0000001463●
+
+○0000001464○The shattered straw retracts back into the dragon's mouth.
+●0000001464●
+
+○0000001465○It doesn't look like it's in pain, though.
+●0000001465●
+
+○0000001466○It either has no sense of pain, or it only feels it vaguely.
+●0000001466●
+
+○0000001467○There's no way for it to scream if it doesn't possess an organ for speech, either.
+●0000001467●
+
+○0000001468○Just like that black dog earlier, fighting a monster that shows no emotion is harder than you'd expect.
+●0000001468●
+
+○0000001469○...I don't necessarily need to defeat it, though.
+●0000001469●
+
+○0000001470○Successfully running away or fending it off both sound like a victory to me.
+●0000001470●
+
+○0000001471○The lives of me and my friends are the top priority here.
+●0000001471●
+
+○0000001472○Someone gasps behind my back.
+●0000001472●
+
+○0000001473○小鳥
+●0000001473●
+
+○0000001474○"That..."
+●0000001474●
+
+○0000001475○I forgot Kotori was standing right beside me.
+●0000001475●
+
+○0000001476○瑚太朗
+●0000001476●
+
+○0000001477○"Don't worry about it. We've got to run."
+●0000001477●
+
+○0000001478○小鳥
+●0000001478●
+
+○0000001479○"...Ah, run... That's right..."
+●0000001479●
+
+○0000001480○小鳥
+●0000001480●
+
+○0000001481○"I have to run!"
+●0000001481●
+
+○0000001482○I give her back a light push and break into a dash.
+●0000001482●
+
+○0000001483○Realizing we're running away, the dragon leaps from the branches.
+●0000001483●
+
+○0000001484○Its giant body hovers in the sky, rotating in all its majesty.
+●0000001484●
+
+○0000001485○The next moment, I hear a sound like a whip piercing through air.
+●0000001485●
+
+○0000001486○Its tail is swinging across the ground in our direction.
+●0000001486●
+
+○0000001487○Its aim is perfect.
+●0000001487●
+
+○0000001488○瑚太朗
+●0000001488●
+
+○0000001489○"Gah?!"
+●0000001489●
+
+○0000001490○It crashes into the ground where I had just leapt from moments ago.
+●0000001490●
+
+○0000001491○The whole area shakes from the impact.
+●0000001491●
+
+○0000001492○瑚太朗
+●0000001492●
+
+○0000001493○(I can't believe I managed to dodge that...!)
+●0000001493●
+
+○0000001494○My senses are definitely functioning way better than before.
+●0000001494●
+
+○0000001495○And that just saved my life.
+●0000001495●
+
+○0000001496○瑚太朗
+●0000001496●
+
+○0000001497○"Kotori, are you alive?"
+●0000001497●
+
+○0000001498○小鳥
+●0000001498●
+
+○0000001499○"I-I think so..."
+●0000001499●
+
+○0000001500○Her voice falters, betraying her shock.
+●0000001500●
+
+○0000001501○瑚太朗
+●0000001501●
+
+○0000001502○"Hide in those bushes... and try to regroup with the others."
+●0000001502●
+
+○0000001503○小鳥
+●0000001503●
+
+○0000001504○"What about you?"
+●0000001504●
+
+○0000001505○瑚太朗
+●0000001505●
+
+○0000001506○"It's after me... I'll keep it busy until you sort things out."
+●0000001506●
+
+○0000001507○小鳥
+●0000001507●
+
+○0000001508○"Don't try to fight it with those weird claws on your hand, okay?"
+●0000001508●
+
+○0000001509○瑚太朗
+●0000001509●
+
+○0000001510○"Don't worry. I suck at fighting anyway."
+●0000001510●
+
+○0000001511○After casting one last glance at the weapon on my right hard, Kotori dashes into the darkness.
+●0000001511●
+
+○0000001512○I bolt in the opposite direction.
+●0000001512●
+
+○0000001513○The dragon follows me without a second thought.
+●0000001513●
+
+○0000001514○It descends further, finally crashing to the ground like a falling tree.
+●0000001514●
+
+○0000001515○I stop and turn to observe it.
+●0000001515●
+
+○0000001516○Did it die?
+●0000001516●
+
+○0000001517○No...
+●0000001517●
+
+○0000001518○I'm still sensing danger just as strongly as before.
+●0000001518●
+
+○0000001519○That dragon seems to function similarly to a hot air balloon.
+●0000001519●
+
+○0000001520○It doesn't look like it has anything for legs.
+●0000001520●
+
+○0000001521○I probably don't need to worry about it chasing me on the ground.
+●0000001521●
+
+○0000001522○And with no way to gain momentum, it can't take to the air with those wings, either.
+●0000001522●
+
+○0000001523○As such, the only way for it to move from this position is to fill itself with gas lighter than air and hover.
+●0000001523●
+
+○0000001524○But that takes time.
+●0000001524●
+
+○0000001525○It can't be easy for it to rise back up after landing.
+●0000001525●
+
+○0000001526○But just as I'm about to begin celebrating...
+●0000001526●
+
+○0000001527○The dragon coils its wings around the surrounding trees and raises itself up.
+●0000001527●
+
+○0000001528○It flies into the sky, backflipping in the air.
+●0000001528●
+
+○0000001529○Its tail swings from the opposite direction this time; a tail uppercut, if you will.
+●0000001529●
+
+○0000001530○瑚太朗
+●0000001530●
+
+○0000001531○"...!!"
+●0000001531●
+
+○0000001532○I'll be dead meat if I take that head on.
+●0000001532●
+
+○0000001533○I jump back.
+●0000001533●
+
+○0000001534○A blast of rising wind almost tears my nose off.
+●0000001534●
+
+○0000001535○The shockwave causes me to black out momentarily, leaving my ears ringing.
+●0000001535●
+
+○0000001536○瑚太朗
+●0000001536●
+
+○0000001537○(Holy crap!)
+●0000001537●
+
+○0000001538○That was close.
+●0000001538●
+
+○0000001539○If I were one step closer to it, my head would've probably been separated from my body right now.
+●0000001539●
+
+○0000001540○This isn't an opponent a human can possibly fight.
+●0000001540●
+
+○0000001541○瑚太朗
+●0000001541●
+
+○0000001542○(...I'd really love to run away right about now.)
+●0000001542●
+
+○0000001543○Have the others made their escape yet?
+●0000001543●
+
+○0000001544○I bought quite a bit of time for them already.
+●0000001544●
+
+○0000001545○Maybe it's okay for me to start making my retreat.
+●0000001545●
+
+○0000001546○小鳥
+●0000001546●
+
+○0000001547○"Here!"
+●0000001547●
+
+○0000001548○瑚太朗
+●0000001548●
+
+○0000001549○"Eh...?"
+●0000001549●
+
+○0000001550○Kotori signals for me from some bushes nearby.
+●0000001550●
+
+○0000001551○瑚太朗
+●0000001551●
+
+○0000001552○"Where's everyone else?"
+●0000001552●
+
+○0000001553○小鳥
+●0000001553●
+
+○0000001554○"Sizu and Class Rep are over there. Chii and Prez are resting further away."
+●0000001554●
+
+○0000001555○All we have left to do is make our retreat, then.
+●0000001555●
+
+○0000001556○瑚太朗
+●0000001556●
+
+○0000001557○"I'm impressed you can remain so calm, Kotori."
+●0000001557●
+
+○0000001558○小鳥
+●0000001558●
+
+○0000001559○"R-Really? I'm not so sure."
+●0000001559●
+
+○0000001560○瑚太朗
+●0000001560●
+
+○0000001561○"I appreciate it. Let's go."
+●0000001561●
+
+○0000001562○Kotori and I bolt through the trees at a brisk pace.
+●0000001562●
+
+○0000001563○I suddenly have a bad feeling and turn around.
+●0000001563●
+
+○0000001564○...The dragon is following us.
+●0000001564●
+
+○0000001565○瑚太朗
+●0000001565●
+
+○0000001566○"Ghagh?!"
+●0000001566●
+
+○0000001567○I made a tactical mistake.
+●0000001567●
+
+○0000001568○I figured it'd have trouble traveling on the ground.
+●0000001568●
+
+○0000001569○However...
+●0000001569●
+
+○0000001570○It's using its mouth, neck, tail, and the rest of its limbs...
+●0000001570●
+
+○0000001571○...like whips to propel it further through the trees, like a monkey... and it's closing in on us at an alarming speed.
+●0000001571●
+
+○0000001572○瑚太朗
+●0000001572●
+
+○0000001573○"Kotori, run like hell!!"
+●0000001573●
+
+○0000001574○小鳥
+●0000001574●
+
+○0000001575○"Huh?!"
+●0000001575●
+
+○0000001576○瑚太朗
+●0000001576●
+
+○0000001577○"Hurry!"
+●0000001577●
+
+○0000001578○I squeeze Kotori's butt when she starts panicking.
+●0000001578●
+
+○0000001579○小鳥
+●0000001579●
+
+○0000001580○"Uwaahh?!"
+●0000001580●
+
+○0000001581○小鳥
+●0000001581●
+
+○0000001582○"I can't believe you, Kotarou!"
+●0000001582●
+
+○0000001583○Kotori instantly picks up the pace, tears in her eyes.
+●0000001583●
+
+○0000001584○...Actually, she's pretty damn fast.
+●0000001584●
+
+○0000001585○I have to speed up.
+●0000001585●
+
+○0000001586○Finally, I spot some familiar faces further down.
+●0000001586●
+
+○0000001587○My comrades from the Occult Research Society.
+●0000001587●
+
+○0000001588○The terrifying presence vaults over my head.
+●0000001588●
+
+○0000001589○It's overtaken me.
+●0000001589●
+
+○0000001590○I feel my spine grow numb, as though a jolt of electricity just ran through it.
+●0000001590●
+
+○0000001591○The alarm in my head wasn't telling me of my own imminent danger.
+●0000001591●
+
+○0000001592○The dragon probably followed Kotori...
+●0000001592●
+
+○0000001593○While she ran right over to everyone else.
+●0000001593●
+
+○0000001594○I can see three people... Kotori, Sizuru, and Lucia.
+●0000001594●
+
+○0000001595○There's no time to warn them, and even if I did, they wouldn't have time to react anyway.
+●0000001595●
+
+○0000001596○The scenery as I dash moves as though in slow motion.
+●0000001596●
+
+○0000001597○I can't believe how slow everything is.
+●0000001597●
+
+○0000001598○It reminds me of the state you go into when you see a cup falling.
+●0000001598●
+
+○0000001599○I'm powerless to stop it, yet my brain is still painting a clear picture of what's going to happen.
+●0000001599●
+
+○0000001600○瑚太朗
+●0000001600●
+
+○0000001601○(Someone's gonna die.)
+●0000001601●
+
+○0000001602○瑚太朗
+●0000001602●
+
+○0000001603○(...No way.)
+●0000001603●
+
+○0000001604○There's no time to step on the accelerator, either.
+●0000001604●
+
+○0000001605○Despair fills my heart.
+●0000001605●
+
+○0000001606○The dragon coils its body around a thick branch.
+●0000001606●
+
+○0000001607○Then, it flies into the air again like a rubber band.
+●0000001607●
+
+○0000001608○Kotori and the others are standing right under it.
+●0000001608●
+
+○0000001609○瑚太朗
+●0000001609●
+
+○0000001610○"RUUUUUUUNNN!!!"
+●0000001610●
+
+○0000001611○Two silhouettes move as soon as I let out a scream.
+●0000001611●
+
+○0000001612○Lucia and Sizuru.
+●0000001612●
+
+○0000001613○They're holding knives in their hands, throwing them at the dragon in perfect coordination.
+●0000001613●
+
+○0000001614○The steel projectiles pierce through the air with the speed of bullets and carve into the beast's flesh.
+●0000001614●
+
+○0000001615○Still, the dragon shows no reaction.
+●0000001615●
+
+○0000001616○It feels no pain regardless of any damage it takes.
+●0000001616●
+
+○0000001617○But its movements are growing sluggish.
+●0000001617●
+
+○0000001618○It loses its trajectory and drops down again, latching onto nearby branches.
+●0000001618●
+
+○0000001619○Sizuru jumps.
+●0000001619●
+
+○0000001620○She leaps from branch to branch, moving upwards until she's standing among the treetops.
+●0000001620●
+
+○0000001621○Those are acrobatics far beyond human limits. Even I can't mimic that.
+●0000001621●
+
+○0000001622○And just like that, she lands a heel kick to the dragon's head as it hangs in the air at the height of a two-story house.
+●0000001622●
+
+○0000001623○The head is where it's most likely storing its brain or similar organ, like most animals. The strong shock causes it to momentarily lose control of its sensory organs.
+●0000001623●
+
+○0000001624○I pause, astounded by the surreal sight.
+●0000001624●
+
+○0000001625○Sizuru lands on he ground as though it was nothing and gives me a sad look.
+●0000001625●
+
+○0000001626○The next moment, everything around us is swallowed by a terrifying presence.
+●0000001626●
+
+○0000001627○Kotori opens her eyes wide and covers her mouth.
+●0000001627●
+
+○0000001628○瑚太朗
+●0000001628●
+
+○0000001629○"...?!"
+●0000001629●
+
+○0000001630○Something beyond my comprehension has appeared.
+●0000001630●
+
+○0000001631○I have no way to describe it. It's like supremacy personified.
+●0000001631●
+
+○0000001632○But if I was forced to compare it to something, I'd probably say that...
+●0000001632●
+
+○0000001633○...if a god descended from the heavens, this is probably what it would feel like.
+●0000001633●
+
+○0000001634○The tremendous feeling takes a hold of everything around us.
+●0000001634●
+
+○0000001635○The dragon splits into two, alongside the trees it was coiled around.
+●0000001635●
+
+○0000001636○The huge trees sway and crash to the ground.
+●0000001636●
+
+○0000001637○The severed pieces of the monster turn into ash and dissipate before they even reach the ground.
+●0000001637●
+
+○0000001638○It's exactly the same as the black dog earlier.
+●0000001638●
+
+○0000001639○But the dragon doesn't seem to be completely dead yet.
+●0000001639●
+
+○0000001640○It lost its wings and a part of its torso, but the remaining eighty percent of its body still remains intact.
+●0000001640●
+
+○0000001641○Its huge body slips down through the branches.
+●0000001641●
+
+○0000001642○It spreads apart like an umbrella, slowing its fall.
+●0000001642●
+
+○0000001643○Its remaining limbs coil around the trees and once again launch its body into the sky.
+●0000001643●
+
+○0000001644○A perfectly timed gust of wind blows it deep into the sky, safely away from the phenomenon surrounding us.
+●0000001644●
+
+○0000001645○瑚太朗
+●0000001645●
+
+○0000001646○(...Am I dreaming?)
+●0000001646●
+
+○0000001647○One insane thing after another... My brain can't keep up anymore.
+●0000001647●
+
+○0000001648○I follow the dragon with my gaze until it disappears into the sky, my thoughts frozen solid.
+●0000001648●
+
+○0000001649○瑚太朗
+●0000001649●
+
+○0000001650○"We have to... run..."
+●0000001650●
+
+○0000001651○I rush to my friends.
+●0000001651●
+
+○0000001652○Some strange, colorful, fluttering thing cuts in front of my eyes.
+●0000001652●
+
+○0000001653○It naturally pulls my gaze in a different direction.
+●0000001653●
+
+○0000001654○And there it is.
+●0000001654●
+
+○0000001655○瑚太朗
+●0000001655●
+
+○0000001656○"Ah... A... Ahhh..."
+●0000001656●
+
+○0000001657○It's there. Right in front of my eyes.
+●0000001657●
+
+○0000001658○Something absolute.
+●0000001658●
+
+○0000001659○Something with power beyond my comprehension, terrifying me to the bone.
+●0000001659●
+
+○0000001660○My instincts are begging me to kneel.
+●0000001660●
+
+○0000001661○I raise my right arm. The miraculous blade is still attached to it.
+●0000001661●
+
+○0000001662○I point it at the object of my terror, and...
+●0000001662●
+
+○0000001663○小鳥
+●0000001663●
+
+○0000001664○"No!"
+●0000001664●
+
+○0000001665○Kotori's voice interrupts me.
+●0000001665●
+
+○0000001666○I'm caught completely off guard.
+●0000001666●
+
+○0000001667○My blade loses its color and shifts to crimson before shattering in the wind.
+●0000001667●
+
+○0000001668○Its remains smell faintly like blood.
+●0000001668●
+
+○0000001669○？＿篝
+●0000001669●
+
+○0000001670○"......"
+●0000001670●
+
+○0000001671○The terrifying presence wanes...
+●0000001671●
+
+○0000001672○...leaving behind nothing but darkness.
+●0000001672●
+
+○0000001673○I'm thankful to feel the lukewarm air of a night that no longer contains any aberrations.
+●0000001673●
+
+○0000001674○The extreme tension slowly eases up.
+●0000001674●
+
+○0000001675○瑚太朗
+●0000001675●
+
+○0000001676○(...What a day.)
+●0000001676●
+
+○0000001677○瑚太朗
+●0000001677●
+
+○0000001678○(I'm not even kidding... What a goddamn day...)
+●0000001678●
+
+○0000001679○I walk over to my comrades.
+●0000001679●
+
+○0000001680○A bit further away, Lucia and Sizuru regard me with grim faces.
+●0000001680●
+
+○0000001681○瑚太朗
+●0000001681●
+
+○0000001682○"Right... Earlier, your kick was..."
+●0000001682●
+
+○0000001683○静流
+●0000001683●
+
+○0000001684○"...I'm sorry, Kotarou."
+●0000001684●
+
+○0000001685○Sizuru's hand flickers without a sound.
+●0000001685●
+
+○0000001686○A sudden inexplicable power forces me away before I can get closer to them.
+●0000001686●
+
+○0000001687○瑚太朗
+●0000001687●
+
+○0000001688○"...?"
+●0000001688●
+
+○0000001689○It's like a giant hand has seized me by the collar, leaving me powerless.
+●0000001689●
+
+○0000001690○My legs don't even touch the ground as I fly backwards.
+●0000001690●
+
+○0000001691○My back crashes into a tree that luckily blocked my way, and I slide to the ground.
+●0000001691●
+
+○0000001692○瑚太朗
+●0000001692●
+
+○0000001693○"Uah... Khahh, khehh...!"
+●0000001693●
+
+○0000001694○I look behind me.
+●0000001694●
+
+○0000001695○But there's no one there. No giant with super strength.
+●0000001695●
+
+○0000001696○I look ahead of me again.
+●0000001696●
+
+○0000001697○Sizuru is standing with her left arm extended forward, looking at me with sad eyes.
+●0000001697●
+
+○0000001698○瑚太朗
+●0000001698●
+
+○0000001699○(No way... You're not telling me that she just pushed me?)
+●0000001699●
+
+○0000001700○Lucia taps Sizuru's shoulder.
+●0000001700●
+
+○0000001701○Then, the two leap into the darkness without saying a word.
+●0000001701●
+
+○0000001702○At a speed far exceeding that of normal human beings.
+●0000001702●
+
+○0000001703○瑚太朗
+●0000001703●
+
+○0000001704○(What the hell... are they doing...?)
+●0000001704●
+
+○0000001705○瑚太朗
+●0000001705●
+
+○0000001706○(Why the hell are they running away from us?)
+●0000001706●
+
+○0000001707○I've reached my limit.
+●0000001707●
+
+○0000001708○My consciousness is quickly leaving me.
+●0000001708●
+
+○0000001709○小鳥
+●0000001709●
+
+○0000001710○"Kotarou!"
+●0000001710●
+
+○0000001711○I can barely make out the other three with my blurred vision.
+●0000001711●
+
+○0000001712○朱音
+●0000001712●
+
+○0000001713○"My god. What a crazy day."
+●0000001713●
+
+○0000001714○It's funny how Akane and I are on the same wavelength for a change.
+●0000001714●
+
+○0000001715○ちはや
+●0000001715●
+
+○0000001716○"Are you okay?"
+●0000001716●
+
+○0000001717○小鳥
+●0000001717●
+
+○0000001718○"I don't see any big wounds on him."
+●0000001718●
+
+○0000001719○ちはや
+●0000001719●
+
+○0000001720○"Are you sure? I saw his arm get pierced by that thing..."
+●0000001720●
+
+○0000001721○小鳥
+●0000001721●
+
+○0000001722○"Maybe it only attached to his skin."
+●0000001722●
+
+○0000001723○ちはや
+●0000001723●
+
+○0000001724○"It... didn't look that way to me..."
+●0000001724●
+
+○0000001725○朱音
+●0000001725●
+
+○0000001726○"He's smiling."
+●0000001726●
+
+○0000001727○The fuss around me is like music to my ears.
+●0000001727●
+
+○0000001728○It makes me feel like everything is back to normal, filling me with relief.
+●0000001728●
+
+○0000001729○I lose consciousness as though drifting into sleep.
+●0000001729●
+
+○0000001730○When I wake up, I'll surely be back in an ordinary world, as usual.
+●0000001730●
+
+○0000001733○静流
+●0000001733●
+
+○0000001734○"...!"
+●0000001734●
+
+○0000001735○Sizuru's hand blocks my path.
+●0000001735●
+
+○0000001736○It looks like she barely pressed it against me, but I can't move at all.
+●0000001736●
+
+○0000001737○My blade loses its color and shifts to crimson before shattering in the wind.
+●0000001737●
+
+○0000001738○Its remains smell faintly like blood.
+●0000001738●
+
+○0000001739○？＿篝
+●0000001739●
+
+○0000001740○"......"
+●0000001740●
+
+○0000001741○The terrifying presence wanes...
+●0000001741●
+
+○0000001742○...leaving behind nothing but darkness.
+●0000001742●
+
+○0000001743○I'm thankful to feel the lukewarm air of a night that no longer contains any aberrations.
+●0000001743●
+
+○0000001744○The extreme tension slowly eases up.
+●0000001744●
+
+○0000001745○瑚太朗
+●0000001745●
+
+○0000001746○"Sizuru... You..."
+●0000001746●
+
+○0000001747○What was that earlier? There's no way a normal person could move like that.
+●0000001747●
+
+○0000001748○静流
+●0000001748●
+
+○0000001749○"......"
+●0000001749●
+
+○0000001750○Sizuru looks like a child that ended up blurting out a secret.
+●0000001750●
+
+○0000001751○ルチア
+●0000001751●
+
+○0000001752○"......"
+●0000001752●
+
+○0000001753○Lucia has a complicated expression on her face, too.
+●0000001753●
+
+○0000001754○朱音
+●0000001754●
+
+○0000001755○"So you were... the hunters..."
+●0000001755●
+
+○0000001756○Akane's voice reverberates across the forest.
+●0000001756●
+
+○0000001757○瑚太朗
+●0000001757●
+
+○0000001758○"...Prez?"
+●0000001758●
+
+○0000001759○I freeze.
+●0000001759●
+
+○0000001760○A bunch of red orbs are lined up behind Akane's back.
+●0000001760●
+
+○0000001761○The eyes of black dogs.
+●0000001761●
+
+○0000001762○静流
+●0000001762●
+
+○0000001763○"Then you were..."
+●0000001763●
+
+○0000001764○Sizuru whispers the words almost inaudibly.
+●0000001764●
+
+○0000001765○It takes a while for them to sink in.
+●0000001765●
+
+○0000001766○"...our enemies."
+●0000001766●
+
+○0000001767○瑚太朗
+●0000001767●
+
+○0000001768○"What the hell... is going on...?"
+●0000001768●
+
+○0000001769○The black dogs don't seem to show any animosity towards Akane.
+●0000001769●
+
+○0000001770○They're just glaring at us instead.
+●0000001770●
+
+○0000001771○The witch...
+●0000001771●
+
+○0000001772○Akane truly looks like a witch with a demon army behind her back right now.
+●0000001772●
+
+○0000001773○瑚太朗
+●0000001773●
+
+○0000001774○"......"
+●0000001774●
+
+○0000001775○My vision grows blurry.
+●0000001775●
+
+○0000001776○I'm tired, and on top of that, I've lost a lot of blood.
+●0000001776●
+
+○0000001777○Not to mention that I kept using a power I don't understand.
+●0000001777●
+
+○0000001778○I close my eyes tightly, doing my best to retain my consciousness.
+●0000001778●
+
+○0000001779○I can't collapse just yet.
+●0000001779●
+
+○0000001780○朱音
+●0000001780●
+
+○0000001781○"...Chihaya."
+●0000001781●
+
+○0000001782○ちはや
+●0000001782●
+
+○0000001783○"Y-Yes?"
+●0000001783●
+
+○0000001784○朱音
+●0000001784●
+
+○0000001785○"It's time for us to go."
+●0000001785●
+
+○0000001786○With that, Akane disappears into the darkness.
+●0000001786●
+
+○0000001787○ちはや
+●0000001787●
+
+○0000001788○"......"
+●0000001788●
+
+○0000001789○ルチア
+●0000001789●
+
+○0000001790○"Ohtori... You..."
+●0000001790●
+
+○0000001791○ちはや
+●0000001791●
+
+○0000001792○"I-I..."
+●0000001792●
+
+○0000001793○The black dogs are showing no animosity towards Chihaya, either.
+●0000001793●
+
+○0000001794○静流
+●0000001794●
+
+○0000001795○"......"
+●0000001795●
+
+○0000001796○Sizuru faces them, readying her knife.
+●0000001796●
+
+○0000001797○ちはや
+●0000001797●
+
+○0000001798○"...So that's how it all was."
+●0000001798●
+
+○0000001799○With that, Chihaya follows Akane.
+●0000001799●
+
+○0000001800○瑚太朗
+●0000001800●
+
+○0000001801○"Hey, wait..."
+●0000001801●
+
+○0000001802○I try to chase her, but I stumble.
+●0000001802●
+
+○0000001803○瑚太朗
+●0000001803●
+
+○0000001804○"Ah..."
+●0000001804●
+
+○0000001805○I'm at my limit.
+●0000001805●
+
+○0000001806○...This is bad.
+●0000001806●
+
+○0000001807○A bunch of dogs are surrounding us. This isn't the time...
+●0000001807●
+
+○0000001808○The last thing I see...
+●0000001808●
+
+○0000001809○...in my fading consciousness...
+●0000001809●
+
+○0000001810○静流
+●0000001810●
+
+○0000001811○"...!"
+●0000001811●
+
+○0000001812○...is Sizuru jumping at the army of dogs.
+●0000001812●
+
+○0000001813○瑚太朗
+●0000001813●
+
+○0000001814○"......"
+●0000001814●
+
+○0000001815○Huh...
+●0000001815●
+
+○0000001816○I've regained consciousness back in town...
+●0000001816●
+
+○0000001817○...while being carried on a small back.
+●0000001817●
+
+○0000001818○Sizuru's back.
+●0000001818●
+
+○0000001819○静流
+●0000001819●
+
+○0000001820○"...I didn't want Kotarou to know."
+●0000001820●
+
+○0000001821○ルチア
+●0000001821●
+
+○0000001822○"It's not you or anyone else's fault."
+●0000001822●
+
+○0000001823○I can hear their conversation in the distance.
+●0000001823●
+
+○0000001824○My consciousness begins fading again.
+●0000001824●
+
+○0000001825○...Ah.
+●0000001825●
+
+○0000001826○瑚太朗
+●0000001826●
+
+○0000001827○(It was the other way around...)
+●0000001827●
+
+○0000001828○I'm being carried on a hero's back right now.
+●0000001828●
+
+○0000001829○Sizuru showed no fear, even in front of that dragon.
+●0000001829●
+
+○0000001830○Then she even jumped into an army of dogs.
+●0000001830●
+
+○0000001831○And now she's carrying me to safety, alive and well.
+●0000001831●
+
+○0000001832○Unlike a half-hearted poser like myself, hers is the back of a true warrior.
+●0000001832●
+
+○0000001834○小鳥
+●0000001834●
+
+○0000001835○"Stop!"
+●0000001835●
+
+○0000001836○Kotori's voice interrupts me.
+●0000001836●
+
+○0000001837○It's probably because it distracted me, but...
+●0000001837●
+
+○0000001838○My blade loses its color and shifts to crimson before shattering in the wind.
+●0000001838●
+
+○0000001839○Its remains smell faintly like blood.
+●0000001839●
+
+○0000001840○？＿篝
+●0000001840●
+
+○0000001841○"......"
+●0000001841●
+
+○0000001842○The terrifying presence wanes...
+●0000001842●
+
+○0000001843○...leaving behind nothing but darkness.
+●0000001843●
+
+○0000001844○I'm thankful to feel the lukewarm air of a night that no longer contains any aberrations.
+●0000001844●
+
+○0000001845○The extreme tension slowly eases up.
+●0000001845●
+
+○0000001846○瑚太朗
+●0000001846●
+
+○0000001847○(...What a day.)
+●0000001847●
+
+○0000001848○瑚太朗
+●0000001848●
+
+○0000001849○(I'm not even kidding... What a goddamn day...)
+●0000001849●
+
+○0000001850○I walk over to my comrades.
+●0000001850●
+
+○0000001851○I can't feel my legs.
+●0000001851●
+
+○0000001852○瑚太朗
+●0000001852●
+
+○0000001853○(Ah, shit...)
+●0000001853●
+
+○0000001854○I'm at my limit.
+●0000001854●
+
+○0000001855○瑚太朗
+●0000001855●
+
+○0000001856○"Hey, uh..."
+●0000001856●
+
+○0000001857○Can someone help me?
+●0000001857●
+
+○0000001858○...I try to get those words out, but...
+●0000001858●
+
+○0000001859○ちはや
+●0000001859●
+
+○0000001860○"......"
+●0000001860●
+
+○0000001861○静流
+●0000001861●
+
+○0000001862○"......"
+●0000001862●
+
+○0000001863○ルチア
+●0000001863●
+
+○0000001864○"......"
+●0000001864●
+
+○0000001865○Chihaya faces Lucia and Sizuru.
+●0000001865●
+
+○0000001866○Palpable tension is hanging in the air.
+●0000001866●
+
+○0000001867○It looks like they're having a fight.
+●0000001867●
+
+○0000001868○瑚太朗
+●0000001868●
+
+○0000001869○"...What the hell is going on now?"
+●0000001869●
+
+○0000001870○I can't comprehend this.
+●0000001870●
+
+○0000001871○How can this be happening right now?
+●0000001871●
+
+○0000001872○ちはや
+●0000001872●
+
+○0000001873○"I mean..."
+●0000001873●
+
+○0000001874○ちはや
+●0000001874●
+
+○0000001875○"These two are..."
+●0000001875●
+
+○0000001876○ルチア
+●0000001876●
+
+○0000001877○"That's our line!"
+●0000001877●
+
+○0000001878○ルチア
+●0000001878●
+
+○0000001879○"...Why are those dogs not attacking you?"
+●0000001879●
+
+○0000001880○ちはや
+●0000001880●
+
+○0000001881○"......"
+●0000001881●
+
+○0000001882○Behind Chihaya...
+●0000001882●
+
+○0000001883○A bunch of black dogs are slowly but steadily circling around Sizuru and Lucia.
+●0000001883●
+
+○0000001884○However, they're completely ignoring Chihaya, who's standing closer to them.
+●0000001884●
+
+○0000001885○静流
+●0000001885●
+
+○0000001886○"So it was you."
+●0000001886●
+
+○0000001887○"So it was you", she said.
+●0000001887●
+
+○0000001888○...It takes me a bit to understand the meaning of those words.
+●0000001888●
+
+○0000001889○Are those monsters related to Chihaya somehow?
+●0000001889●
+
+○0000001890○朱音
+●0000001890●
+
+○0000001891○"That's correct, our two dear hunters."
+●0000001891●
+
+○0000001892○Akane appears from the darkness of the forest, nonchalantly walking past the dogs.
+●0000001892●
+
+○0000001893○朱音
+●0000001893●
+
+○0000001894○"...You were our enemies."
+●0000001894●
+
+○0000001895○She looks like a witch with an army of familiars.
+●0000001895●
+
+○0000001896○ルチア
+●0000001896●
+
+○0000001897○"It... appears so."
+●0000001897●
+
+○0000001898○瑚太朗
+●0000001898●
+
+○0000001899○"Wait. Hold on just a damn moment."
+●0000001899●
+
+○0000001900○瑚太朗
+●0000001900●
+
+○0000001901○"What the hell are you all talking about?!"
+●0000001901●
+
+○0000001902○静流
+●0000001902●
+
+○0000001903○"...I'm sorry, Kotarou."
+●0000001903●
+
+○0000001904○Sizuru's hand flickers without a sound.
+●0000001904●
+
+○0000001905○A sudden inexplicable power forces me away before I can get closer to them.
+●0000001905●
+
+○0000001906○瑚太朗
+●0000001906●
+
+○0000001907○"...?"
+●0000001907●
+
+○0000001908○It's like a giant hand has seized me by the collar, leaving me powerless.
+●0000001908●
+
+○0000001909○My legs don't even touch the ground as I fly backwards.
+●0000001909●
+
+○0000001910○My back crashes into a tree that luckily blocked my way, and I slide to the ground.
+●0000001910●
+
+○0000001911○瑚太朗
+●0000001911●
+
+○0000001912○"Uah... Khahh, khehh...!"
+●0000001912●
+
+○0000001913○I look behind me.
+●0000001913●
+
+○0000001914○But there's no one there. No giant with super strength.
+●0000001914●
+
+○0000001915○I look ahead of me again.
+●0000001915●
+
+○0000001916○Sizuru is standing with her left arm extended forward, looking at me with sad eyes.
+●0000001916●
+
+○0000001917○瑚太朗
+●0000001917●
+
+○0000001918○(No way... You're not telling me that she just pushed me?)
+●0000001918●
+
+○0000001919○Lucia taps Sizuru's shoulder.
+●0000001919●
+
+○0000001920○Then, the two leap into the darkness without saying a word.
+●0000001920●
+
+○0000001921○At a speed far exceeding that of normal human beings.
+●0000001921●
+
+○0000001922○瑚太朗
+●0000001922●
+
+○0000001923○(What the hell... are they doing...?)
+●0000001923●
+
+○0000001924○瑚太朗
+●0000001924●
+
+○0000001925○(Why the hell are they running away from us?)
+●0000001925●
+
+○0000001926○ちはや
+●0000001926●
+
+○0000001927○"...Wait! Both of you!"
+●0000001927●
+
+○0000001928○Chihaya tries going after them.
+●0000001928●
+
+○0000001929○But the two have long disappeared from sight.
+●0000001929●
+
+○0000001930○ちはや
+●0000001930●
+
+○0000001931○"......"
+●0000001931●
+
+○0000001932○She gives up after a couple of steps.
+●0000001932●
+
+○0000001933○瑚太朗
+●0000001933●
+
+○0000001934○"...What the hell... is going on here...?"
+●0000001934●
+
+○0000001935○朱音
+●0000001935●
+
+○0000001936○"......"
+●0000001936●
+
+○0000001937○I walk to Akane, figuring I can get an explanation out of her.
+●0000001937●
+
+○0000001938○*crack*
+●0000001938●
+
+○0000001939○But my knees give out mid-way.
+●0000001939●
+
+○0000001940○瑚太朗
+●0000001940●
+
+○0000001941○(Huh...?)
+●0000001941●
+
+○0000001942○I feel myself getting swallowed by the darkness.
+●0000001942●
+
+○0000001943○The last thing I hear is...
+●0000001943●
+
+○0000001944○ちはや
+●0000001944●
+
+○0000001945○"I thought I finally made some friends..."
+●0000001945●
+
+○0000001946○ちはや
+●0000001946●
+
+○0000001947○"But they were..."
+●0000001947●
+
+○0000001948○Chihaya's tear-filled voice.
+●0000001948●
+
+○0000001949○And so, I lose consciousness.
+●0000001949●
+
+○0000001950○One thing I've understood from all of this...
+●0000001950●
+
+○0000001951○...is that those two have split away from us.
+●0000001951●
+
+○0000001952○And that the Occult Research Society has truly, irrevocably fallen apart today.
+●0000001952●
+
+○0000001954○dummy
+●0000001954●
+
+○0000001955○sys30_cl00
+●0000001955●
+
+○0000001956○sys20_adv00
+●0000001956●
+
+○0000001957○kuro
+●0000001957●
+
+○0000001958○sys20_adv00
+●0000001958●
+
+○0000001959○bg004
+●0000001959●
+
+○0000001960○bgm037
+●0000001960●
+
+○0000001961○sys20_adv00
+●0000001961●
+
+○0000001962○cgm_kt16
+●0000001962●
+
+○0000001963○sys20_adv00
+●0000001963●
+
+○0000001964○cgm_lc21h
+●0000001964●
+
+○0000001965○sys20_adv00
+●0000001965●
+
+○0000001966○sys20_adv00
+●0000001966●
+
+○0000001967○cgm_ch29
+●0000001967●
+
+○0000001968○sys20_adv00
+●0000001968●
+
+○0000001969○cgm_ak19
+●0000001969●
+
+○0000001970○sys20_adv00
+●0000001970●
+
+○0000001971○cgm_sz12s
+●0000001971●
+
+○0000001972○sys20_adv00
+●0000001972●
+
+○0000001973○cgm_lc11h
+●0000001973●
+
+○0000001974○sys20_adv00
+●0000001974●
+
+○0000001975○cgm_lc21
+●0000001975●
+
+○0000001976○sys20_adv00
+●0000001976●
+
+○0000001977○sys20_adv00
+●0000001977●
+
+○0000001978○cgm_ak11
+●0000001978●
+
+○0000001979○cgm_kt16
+●0000001979●
+
+○0000001980○sys20_adv00
+●0000001980●
+
+○0000001981○cgm_ak32
+●0000001981●
+
+○0000001982○cgm_kt16
+●0000001982●
+
+○0000001983○sys20_adv00
+●0000001983●
+
+○0000001984○cgm_lc10
+●0000001984●
+
+○0000001985○sys20_adv00
+●0000001985●
+
+○0000001986○cgm_ch10
+●0000001986●
+
+○0000001987○sys20_adv00
+●0000001987●
+
+○0000001988○sys20_adv00
+●0000001988●
+
+○0000001989○cgm_ak13
+●0000001989●
+
+○0000001990○sys20_adv00
+●0000001990●
+
+○0000001991○sys20_adv00
+●0000001991●
+
+○0000001992○cgm_ak23
+●0000001992●
+
+○0000001993○sys20_adv00
+●0000001993●
+
+○0000001994○cgm_ak13
+●0000001994●
+
+○0000001995○sys20_adv00
+●0000001995●
+
+○0000001996○cgm_ak19
+●0000001996●
+
+○0000001997○sys20_adv00
+●0000001997●
+
+○0000001998○cgm_ak11h
+●0000001998●
+
+○0000001999○sys20_adv00
+●0000001999●
+
+○0000002000○cgm_ak23
+●0000002000●
+
+○0000002001○sys20_adv00
+●0000002001●
+
+○0000002002○cgm_ak11
+●0000002002●
+
+○0000002003○sys20_adv00
+●0000002003●
+
+○0000002004○cgm_ak13
+●0000002004●
+
+○0000002005○sys20_adv00
+●0000002005●
+
+○0000002006○cgm_ak23
+●0000002006●
+
+○0000002007○sys20_adv00
+●0000002007●
+
+○0000002008○cgm_ak13
+●0000002008●
+
+○0000002009○sys20_adv00
+●0000002009●
+
+○0000002010○cgm_ak19
+●0000002010●
+
+○0000002011○sys20_adv00
+●0000002011●
+
+○0000002012○cgm_sz12s
+●0000002012●
+
+○0000002013○sys20_adv00
+●0000002013●
+
+○0000002014○cgm_ak11
+●0000002014●
+
+○0000002015○sys20_adv00
+●0000002015●
+
+○0000002016○sys20_adv00
+●0000002016●
+
+○0000002017○kuro
+●0000002017●
+
+○0000002018○sys20_adv00
+●0000002018●
+
+○0000002019○bg004
+●0000002019●
+
+○0000002020○sys20_adv00
+●0000002020●
+
+○0000002021○cgm_kt16
+●0000002021●
+
+○0000002022○sys20_adv00
+●0000002022●
+
+○0000002023○sys20_adv00
+●0000002023●
+
+○0000002024○kuro
+●0000002024●
+
+○0000002025○sys20_adv00
+●0000002025●
+
+○0000002026○bg014
+●0000002026●
+
+○0000002027○bgm018
+●0000002027●
+
+○0000002028○sys20_adv00
+●0000002028●
+
+○0000002029○cgm_kt10
+●0000002029●
+
+○0000002030○sys20_adv00
+●0000002030●
+
+○0000002031○cgm_ak11
+●0000002031●
+
+○0000002032○sys20_adv00
+●0000002032●
+
+○0000002033○sys20_adv00
+●0000002033●
+
+○0000002034○cgm_lc11h
+●0000002034●
+
+○0000002035○sys20_adv00
+●0000002035●
+
+○0000002036○cgm_sz43h
+●0000002036●
+
+○0000002037○sys20_adv00
+●0000002037●
+
+○0000002038○cgm_ch29
+●0000002038●
+
+○0000002039○sys20_adv00
+●0000002039●
+
+○0000002040○cgm_ch17
+●0000002040●
+
+○0000002041○sys20_adv00
+●0000002041●
+
+○0000002042○sys20_adv00
+●0000002042●
+
+○0000002043○cgm_kt16
+●0000002043●
+
+○0000002044○sys20_adv00
+●0000002044●
+
+○0000002045○cgm_lc21
+●0000002045●
+
+○0000002046○cgm_kt16
+●0000002046●
+
+○0000002047○sys20_adv00
+●0000002047●
+
+○0000002048○sys20_adv00
+●0000002048●
+
+○0000002049○cgm_ak23
+●0000002049●
+
+○0000002050○sys20_adv00
+●0000002050●
+
+○0000002051○cgm_ch10
+●0000002051●
+
+○0000002052○sys20_adv00
+●0000002052●
+
+○0000002053○sys20_adv00
+●0000002053●
+
+○0000002054○kuro
+●0000002054●
+
+○0000002055○sys20_adv00
+●0000002055●
+
+○0000002056○bg015
+●0000002056●
+
+○0000002057○sys20_adv00
+●0000002057●
+
+○0000002058○cgm_kt16
+●0000002058●
+
+○0000002059○cgm_ch29
+●0000002059●
+
+○0000002060○sys20_adv00
+●0000002060●
+
+○0000002061○cgm_kt10y
+●0000002061●
+
+○0000002062○cgm_ch29
+●0000002062●
+
+○0000002063○sys20_adv00
+●0000002063●
+
+○0000002064○cgm_lc21
+●0000002064●
+
+○0000002065○sys20_adv00
+●0000002065●
+
+○0000002066○cgm_lc21
+●0000002066●
+
+○0000002067○cgm_kt31
+●0000002067●
+
+○0000002068○sys20_adv00
+●0000002068●
+
+○0000002069○cgm_ak13
+●0000002069●
+
+○0000002070○sys20_adv00
+●0000002070●
+
+○0000002071○sys20_adv00
+●0000002071●
+
+○0000002072○cgm_kt30
+●0000002072●
+
+○0000002073○sys20_adv00
+●0000002073●
+
+○0000002074○sys20_adv00
+●0000002074●
+
+○0000002075○cgm_sz10h
+●0000002075●
+
+○0000002076○sys20_adv00
+●0000002076●
+
+○0000002077○sys20_adv00
+●0000002077●
+
+○0000002078○cgm_lc11
+●0000002078●
+
+○0000002079○sys20_adv00
+●0000002079●
+
+○0000002080○cgm_lc21h
+●0000002080●
+
+○0000002081○sys20_adv00
+●0000002081●
+
+○0000002082○sys20_adv00
+●0000002082●
+
+○0000002083○cgm_sz10s
+●0000002083●
+
+○0000002084○sys20_adv00
+●0000002084●
+
+○0000002085○cgm_kt16y
+●0000002085●
+
+○0000002086○sys20_adv00
+●0000002086●
+
+○0000002087○cgm_lc11h
+●0000002087●
+
+○0000002088○sys20_adv00
+●0000002088●
+
+○0000002089○cgm_kt25
+●0000002089●
+
+○0000002090○sys20_adv00
+●0000002090●
+
+○0000002091○cgm_ak15
+●0000002091●
+
+○0000002092○sys20_adv00
+●0000002092●
+
+○0000002093○sys20_adv00
+●0000002093●
+
+○0000002094○cgm_ch29
+●0000002094●
+
+○0000002095○sys20_adv00
+●0000002095●
+
+○0000002096○cgm_lc31h
+●0000002096●
+
+○0000002097○sys20_adv00
+●0000002097●
+
+○0000002098○sys20_adv00
+●0000002098●
+
+○0000002099○kuro
+●0000002099●
+
+○0000002100○sys20_adv00
+●0000002100●
+
+○0000002101○bg015
+●0000002101●
+
+○0000002102○sys20_adv00
+●0000002102●
+
+○0000002103○cgm_ch17
+●0000002103●
+
+○0000002104○sys20_adv00
+●0000002104●
+
+○0000002105○cgm_sz40
+●0000002105●
+
+○0000002106○sys20_adv00
+●0000002106●
+
+○0000002107○cgm_sz10s
+●0000002107●
+
+○0000002108○sys20_adv00
+●0000002108●
+
+○0000002109○cgm_kt31
+●0000002109●
+
+○0000002110○sys20_adv00
+●0000002110●
+
+○0000002111○cgm_lc11
+●0000002111●
+
+○0000002112○sys20_adv00
+●0000002112●
+
+○0000002113○sys20_adv00
+●0000002113●
+
+○0000002114○kuro
+●0000002114●
+
+○0000002115○sys20_adv00
+●0000002115●
+
+○0000002116○bg015
+●0000002116●
+
+○0000002117○sys20_adv00
+●0000002117●
+
+○0000002118○cgm_lc10
+●0000002118●
+
+○0000002119○cgm_sz10
+●0000002119●
+
+○0000002120○sys20_adv00
+●0000002120●
+
+○0000002121○cgm_lc10
+●0000002121●
+
+○0000002122○cgm_sz11
+●0000002122●
+
+○0000002123○sys20_adv00
+●0000002123●
+
+○0000002124○cgm_ch29
+●0000002124●
+
+○0000002125○cgm_kt16
+●0000002125●
+
+○0000002126○sys20_adv00
+●0000002126●
+
+○0000002127○cgm_ch29
+●0000002127●
+
+○0000002128○cgm_kt14
+●0000002128●
+
+○0000002129○sys20_adv00
+●0000002129●
+
+○0000002130○sys20_adv00
+●0000002130●
+
+○0000002131○cgm_ak15
+●0000002131●
+
+○0000002132○sys20_adv00
+●0000002132●
+
+○0000002133○cgm_ak13
+●0000002133●
+
+○0000002134○sys20_adv00
+●0000002134●
+
+○0000002135○cgm_ak19
+●0000002135●
+
+○0000002136○sys20_adv00
+●0000002136●
+
+○0000002137○cgm_ch10
+●0000002137●
+
+○0000002138○sys20_adv00
+●0000002138●
+
+○0000002139○sys20_adv00
+●0000002139●
+
+○0000002140○kuro
+●0000002140●
+
+○0000002141○sys20_adv00
+●0000002141●
+
+○0000002142○bg015
+●0000002142●
+
+○0000002143○sys20_adv00
+●0000002143●
+
+○0000002144○cgm_kt25
+●0000002144●
+
+○0000002145○sys20_adv00
+●0000002145●
+
+○0000002146○cgm_sz12s
+●0000002146●
+
+○0000002147○sys20_adv00
+●0000002147●
+
+○0000002148○cgm_sz11
+●0000002148●
+
+○0000002149○sys20_adv00
+●0000002149●
+
+○0000002150○cgm_ak13
+●0000002150●
+
+○0000002151○sys20_adv00
+●0000002151●
+
+○0000002152○cgm_kt25
+●0000002152●
+
+○0000002153○sys20_adv00
+●0000002153●
+
+○0000002154○cgm_ch29
+●0000002154●
+
+○0000002155○sys20_adv00
+●0000002155●
+
+○0000002156○cgm_lc11
+●0000002156●
+
+○0000002157○sys20_adv00
+●0000002157●
+
+○0000002158○sys20_adv00
+●0000002158●
+
+○0000002159○cgm_sz10
+●0000002159●
+
+○0000002160○sys20_adv00
+●0000002160●
+
+○0000002161○cgm_sz40
+●0000002161●
+
+○0000002162○sys20_adv00
+●0000002162●
+
+○0000002163○kuro
+●0000002163●
+
+○0000002164○sys20_adv00
+●0000002164●
+
+○0000002165○bg015
+●0000002165●
+
+○0000002166○sys20_adv00
+●0000002166●
+
+○0000002167○cgm_lc11h
+●0000002167●
+
+○0000002168○sys20_adv00
+●0000002168●
+
+○0000002169○sys20_adv00
+●0000002169●
+
+○0000002170○cgm_kt14
+●0000002170●
+
+○0000002171○sys20_adv00
+●0000002171●
+
+○0000002172○cgm_lc11
+●0000002172●
+
+○0000002173○sys20_adv00
+●0000002173●
+
+○0000002174○cgm_ch10
+●0000002174●
+
+○0000002175○sys20_adv00
+●0000002175●
+
+○0000002176○cgm_ak23
+●0000002176●
+
+○0000002177○sys20_adv00
+●0000002177●
+
+○0000002178○cgm_sz40
+●0000002178●
+
+○0000002179○sys20_adv00
+●0000002179●
+
+○0000002180○sys20_adv00
+●0000002180●
+
+○0000002181○kuro
+●0000002181●
+
+○0000002182○sys20_adv00
+●0000002182●
+
+○0000002183○bg015
+●0000002183●
+
+○0000002184○sys20_adv00
+●0000002184●
+
+○0000002185○kuro
+●0000002185●
+
+○0000002186○sys00_sys00
+●0000002186●
+
+○0000002187○gasagasa
+●0000002187●
+
+○0000002188○sys20_adv00
+●0000002188●
+
+○0000002189○bg015
+●0000002189●
+
+○0000002190○sys00_sys00
+●0000002190●
+
+○0000002191○bgm012
+●0000002191●
+
+○0000002192○sys20_adv00
+●0000002192●
+
+○0000002193○kuro
+●0000002193●
+
+○0000002194○sys20_adv00
+●0000002194●
+
+○0000002195○bg015
+●0000002195●
+
+○0000002196○sys20_adv00
+●0000002196●
+
+○0000002197○kuro
+●0000002197●
+
+○0000002198○sys20_adv00
+●0000002198●
+
+○0000002199○bg015y
+●0000002199●
+
+○0000002200○sys20_adv00
+●0000002200●
+
+○0000002201○kuro
+●0000002201●
+
+○0000002202○sys20_adv00
+●0000002202●
+
+○0000002203○kuro
+●0000002203●
+
+○0000002204○sys20_adv00
+●0000002204●
+
+○0000002205○bg015y
+●0000002205●
+
+○0000002206○bgm011
+●0000002206●
+
+○0000002207○sys20_adv00
+●0000002207●
+
+○0000002208○kuro
+●0000002208●
+
+○0000002209○sys20_adv00
+●0000002209●
+
+○0000002210○bg015y
+●0000002210●
+
+○0000002211○sys20_adv00
+●0000002211●
+
+○0000002212○cgm_rb10
+●0000002212●
+
+○0000002213○sys20_adv00
+●0000002213●
+
+○0000002214○sys20_adv00
+●0000002214●
+
+○0000002215○cgm_rb10
+●0000002215●
+
+○0000002216○sys20_adv00
+●0000002216●
+
+○0000002217○sys20_adv00
+●0000002217●
+
+○0000002218○kuro
+●0000002218●
+
+○0000002219○sys20_adv00
+●0000002219●
+
+○0000002220○bg015n
+●0000002220●
+
+○0000002221○bgm012
+●0000002221●
+
+○0000002222○sys20_adv00
+●0000002222●
+
+○0000002223○cgm_mo10
+●0000002223●
+
+○0000002224○sys20_adv00
+●0000002224●
+
+○0000002225○sys20_adv00
+●0000002225●
+
+○0000002226○cgm_mo10
+●0000002226●
+
+○0000002227○sys20_adv02
+●0000002227●
+
+○0000002228○sys00_sys00
+●0000002228●
+
+○0000002229○kick
+●0000002229●
+
+○0000002230○sys20_adv00
+●0000002230●
+
+○0000002231○sys20_adv00
+●0000002231●
+
+○0000002232○cgm_mo10
+●0000002232●
+
+○0000002233○sys20_adv00
+●0000002233●
+
+○0000002234○kuro
+●0000002234●
+
+○0000002235○sys20_adv00
+●0000002235●
+
+○0000002236○bg015n
+●0000002236●
+
+○0000002237○sys10_mh00
+●0000002237●
+
+○0000002238○sys10_mh00
+●0000002238●
+
+○0000002239○sys10_mh00
+●0000002239●
+
+○0000002240○sys20_adv00
+●0000002240●
+
+○0000002241○cgm_mo10
+●0000002241●
+
+○0000002242○sys20_adv00
+●0000002242●
+
+○0000002243○cgm_mo11
+●0000002243●
+
+○0000002244○sys20_adv02
+●0000002244●
+
+○0000002245○sys20_adv00
+●0000002245●
+
+○0000002246○sys00_sys00
+●0000002246●
+
+○0000002247○bt_attack1
+●0000002247●
+
+○0000002248○sys20_adv00
+●0000002248●
+
+○0000002249○kuro
+●0000002249●
+
+○0000002250○sys20_adv02
+●0000002250●
+
+○0000002251○sys00_sys00
+●0000002251●
+
+○0000002252○dosa
+●0000002252●
+
+○0000002253○sys20_adv02
+●0000002253●
+
+○0000002254○sys00_sys00
+●0000002254●
+
+○0000002255○bt_sasaru
+●0000002255●
+
+○0000002256○sys20_adv00
+●0000002256●
+
+○0000002257○bg015n
+●0000002257●
+
+○0000002258○sys10_mh00
+●0000002258●
+
+○0000002259○sys10_mh00
+●0000002259●
+
+○0000002260○sys10_mh00
+●0000002260●
+
+○0000002261○sys20_adv00
+●0000002261●
+
+○0000002262○fgko01
+●0000002262●
+
+○0000002263○sys00_sys00
+●0000002263●
+
+○0000002264○sys00_sys00
+●0000002264●
+
+○0000002265○bt_aurora_ignition
+●0000002265●
+
+○0000002266○sys10_mh00
+●0000002266●
+
+○0000002267○sys10_mh00
+●0000002267●
+
+○0000002268○sys00_sys00
+●0000002268●
+
+○0000002269○sys20_adv00
+●0000002269●
+
+○0000002270○bg015n
+●0000002270●
+
+○0000002271○sys00_sys00
+●0000002271●
+
+○0000002272○sys00_sys00
+●0000002272●
+
+○0000002273○break_blade
+●0000002273●
+
+○0000002274○sys00_sys00
+●0000002274●
+
+○0000002275○create_blade
+●0000002275●
+
+○0000002276○sys20_adv00
+●0000002276●
+
+○0000002277○kuro
+●0000002277●
+
+○0000002278○sys20_adv00
+●0000002278●
+
+○0000002279○fgko02a
+●0000002279●
+
+○0000002280○sys20_adv00
+●0000002280●
+
+○0000002281○bg015n
+●0000002281●
+
+○0000002282○sys00_sys00
+●0000002282●
+
+○0000002283○break_blade
+●0000002283●
+
+○0000002284○sys00_sys00
+●0000002284●
+
+○0000002285○gasagasa
+●0000002285●
+
+○0000002286○sys20_adv00
+●0000002286●
+
+○0000002287○kuro
+●0000002287●
+
+○0000002288○sys20_adv00
+●0000002288●
+
+○0000002289○bg015n
+●0000002289●
+
+○0000002290○sys20_adv02
+●0000002290●
+
+○0000002291○sys20_adv02
+●0000002291●
+
+○0000002292○sys20_adv00
+●0000002292●
+
+○0000002293○kuro
+●0000002293●
+
+○0000002294○sys20_adv00
+●0000002294●
+
+○0000002295○bg015n
+●0000002295●
+
+○0000002296○bgm018
+●0000002296●
+
+○0000002297○sys00_sys00
+●0000002297●
+
+○0000002298○bt_wall_ground
+●0000002298●
+
+○0000002299○sys20_adv00
+●0000002299●
+
+○0000002300○cgm_sz13
+●0000002300●
+
+○0000002301○sys20_adv00
+●0000002301●
+
+○0000002302○cgm_lc11h
+●0000002302●
+
+○0000002303○sys20_adv00
+●0000002303●
+
+○0000002304○cgm_lc11h
+●0000002304●
+
+○0000002305○cgm_sz12
+●0000002305●
+
+○0000002306○sys20_adv00
+●0000002306●
+
+○0000002307○cgm_lc16
+●0000002307●
+
+○0000002308○cgm_sz12
+●0000002308●
+
+○0000002309○sys20_adv00
+●0000002309●
+
+○0000002310○cgm_lc44
+●0000002310●
+
+○0000002311○cgm_sz40
+●0000002311●
+
+○0000002312○sys20_adv00
+●0000002312●
+
+○0000002313○cgm_lc16h
+●0000002313●
+
+○0000002314○cgm_sz12
+●0000002314●
+
+○0000002315○sys20_adv00
+●0000002315●
+
+○0000002316○sys20_adv00
+●0000002316●
+
+○0000002317○cgm_sz42
+●0000002317●
+
+○0000002318○sys20_adv00
+●0000002318●
+
+○0000002319○cgm_sz10h
+●0000002319●
+
+○0000002320○sys20_adv00
+●0000002320●
+
+○0000002321○sys20_adv00
+●0000002321●
+
+○0000002322○cgm_lc11h
+●0000002322●
+
+○0000002323○sys20_adv00
+●0000002323●
+
+○0000002324○cgm_lc19
+●0000002324●
+
+○0000002325○sys20_adv00
+●0000002325●
+
+○0000002326○cgm_sz43h
+●0000002326●
+
+○0000002327○sys20_adv00
+●0000002327●
+
+○0000002328○kuro
+●0000002328●
+
+○0000002329○sys20_adv00
+●0000002329●
+
+○0000002330○bg015n
+●0000002330●
+
+○0000002331○sys00_sys00
+●0000002331●
+
+○0000002332○gasagasa
+●0000002332●
+
+○0000002333○sys20_adv00
+●0000002333●
+
+○0000002334○cgm_kt31
+●0000002334●
+
+○0000002335○sys20_adv00
+●0000002335●
+
+○0000002336○cgm_kt16
+●0000002336●
+
+○0000002337○sys20_adv00
+●0000002337●
+
+○0000002338○cgm_kt26
+●0000002338●
+
+○0000002339○sys20_adv00
+●0000002339●
+
+○0000002340○cgm_kt32
+●0000002340●
+
+○0000002341○sys20_adv00
+●0000002341●
+
+○0000002342○cgm_kt10
+●0000002342●
+
+○0000002343○sys20_adv00
+●0000002343●
+
+○0000002344○cgm_kt14
+●0000002344●
+
+○0000002345○sys20_adv00
+●0000002345●
+
+○0000002346○cgm_kt25
+●0000002346●
+
+○0000002347○sys20_adv00
+●0000002347●
+
+○0000002348○cgm_kt18
+●0000002348●
+
+○0000002349○sys20_adv00
+●0000002349●
+
+○0000002350○cgm_kt25
+●0000002350●
+
+○0000002351○sys20_adv00
+●0000002351●
+
+○0000002352○cgm_kt33
+●0000002352●
+
+○0000002353○sys20_adv00
+●0000002353●
+
+○0000002354○cgm_kt32
+●0000002354●
+
+○0000002355○sys20_adv00
+●0000002355●
+
+○0000002356○cgm_kt22h
+●0000002356●
+
+○0000002357○sys20_adv00
+●0000002357●
+
+○0000002358○kuro
+●0000002358●
+
+○0000002359○sys20_adv00
+●0000002359●
+
+○0000002360○bg015n
+●0000002360●
+
+○0000002361○sys20_adv00
+●0000002361●
+
+○0000002362○cgm_lc11h
+●0000002362●
+
+○0000002363○sys20_adv00
+●0000002363●
+
+○0000002364○sys20_adv00
+●0000002364●
+
+○0000002365○cgm_kt16
+●0000002365●
+
+○0000002366○sys20_adv00
+●0000002366●
+
+○0000002367○cgm_sz12
+●0000002367●
+
+○0000002368○sys20_adv00
+●0000002368●
+
+○0000002369○cgm_lc11h
+●0000002369●
+
+○0000002370○sys20_adv00
+●0000002370●
+
+○0000002371○cgm_lc19
+●0000002371●
+
+○0000002372○sys20_adv00
+●0000002372●
+
+○0000002373○cgm_lc11
+●0000002373●
+
+○0000002374○sys20_adv00
+●0000002374●
+
+○0000002375○sys20_adv00
+●0000002375●
+
+○0000002376○cgm_kt16
+●0000002376●
+
+○0000002377○sys20_adv00
+●0000002377●
+
+○0000002378○cgm_sz11
+●0000002378●
+
+○0000002379○sys20_adv00
+●0000002379●
+
+○0000002380○cgm_lc19
+●0000002380●
+
+○0000002381○sys20_adv00
+●0000002381●
+
+○0000002382○cgm_kt30
+●0000002382●
+
+○0000002383○sys20_adv00
+●0000002383●
+
+○0000002384○kuro
+●0000002384●
+
+○0000002385○sys20_adv00
+●0000002385●
+
+○0000002386○bg015n
+●0000002386●
+
+○0000002387○sys20_adv00
+●0000002387●
+
+○0000002388○cgm_lc41
+●0000002388●
+
+○0000002389○sys20_adv00
+●0000002389●
+
+○0000002390○sys20_adv00
+●0000002390●
+
+○0000002391○cgm_lc42
+●0000002391●
+
+○0000002392○sys20_adv00
+●0000002392●
+
+○0000002393○sys20_adv00
+●0000002393●
+
+○0000002394○cgm_lc11
+●0000002394●
+
+○0000002395○sys20_adv00
+●0000002395●
+
+○0000002396○cgm_lc16
+●0000002396●
+
+○0000002397○sys20_adv00
+●0000002397●
+
+○0000002398○cgm_lc11h
+●0000002398●
+
+○0000002399○sys20_adv00
+●0000002399●
+
+○0000002400○sys20_adv00
+●0000002400●
+
+○0000002401○cgm_lc44
+●0000002401●
+
+○0000002402○sys20_adv00
+●0000002402●
+
+○0000002403○cgm_kt16
+●0000002403●
+
+○0000002404○sys20_adv00
+●0000002404●
+
+○0000002405○cgm_sz40
+●0000002405●
+
+○0000002406○sys20_adv00
+●0000002406●
+
+○0000002407○kuro
+●0000002407●
+
+○0000002408○sys20_adv00
+●0000002408●
+
+○0000002409○bg015n
+●0000002409●
+
+○0000002410○sys20_adv00
+●0000002410●
+
+○0000002411○cgm_sz41
+●0000002411●
+
+○0000002412○sys20_adv00
+●0000002412●
+
+○0000002413○cgm_sz43h
+●0000002413●
+
+○0000002414○sys20_adv00
+●0000002414●
+
+○0000002415○sys20_adv00
+●0000002415●
+
+○0000002416○cgm_sz43h
+●0000002416●
+
+○0000002417○sys20_adv00
+●0000002417●
+
+○0000002418○cgm_sz12
+●0000002418●
+
+○0000002419○sys20_adv00
+●0000002419●
+
+○0000002420○cgm_sz10s
+●0000002420●
+
+○0000002421○sys20_adv00
+●0000002421●
+
+○0000002422○cgm_sz41
+●0000002422●
+
+○0000002423○sys20_adv00
+●0000002423●
+
+○0000002424○cgm_sz15s
+●0000002424●
+
+○0000002425○sys20_adv00
+●0000002425●
+
+○0000002426○cgm_sz31y
+●0000002426●
+
+○0000002427○sys20_adv00
+●0000002427●
+
+○0000002428○cgm_kt16
+●0000002428●
+
+○0000002429○sys20_adv00
+●0000002429●
+
+○0000002430○cgm_lc36
+●0000002430●
+
+○0000002431○sys20_adv00
+●0000002431●
+
+○0000002432○cgm_lc26
+●0000002432●
+
+○0000002433○sys20_adv00
+●0000002433●
+
+○0000002434○cgm_lc44
+●0000002434●
+
+○0000002435○sys20_adv00
+●0000002435●
+
+○0000002436○cgm_lc21
+●0000002436●
+
+○0000002437○sys20_adv00
+●0000002437●
+
+○0000002438○cgm_lc36
+●0000002438●
+
+○0000002439○sys20_adv00
+●0000002439●
+
+○0000002440○cgm_kt31
+●0000002440●
+
+○0000002441○sys20_adv00
+●0000002441●
+
+○0000002442○cgm_kt14
+●0000002442●
+
+○0000002443○sys20_adv00
+●0000002443●
+
+○0000002444○kuro
+●0000002444●
+
+○0000002445○sys20_adv00
+●0000002445●
+
+○0000002446○bg015n
+●0000002446●
+
+○0000002447○bgm036
+●0000002447●
+
+○0000002448○sys20_adv00
+●0000002448●
+
+○0000002449○cgm_kt25
+●0000002449●
+
+○0000002450○sys20_adv00
+●0000002450●
+
+○0000002451○sys20_adv00
+●0000002451●
+
+○0000002452○cgm_kt32
+●0000002452●
+
+○0000002453○sys20_adv00
+●0000002453●
+
+○0000002454○cgm_lc11h
+●0000002454●
+
+○0000002455○sys20_adv00
+●0000002455●
+
+○0000002456○cgm_lc11
+●0000002456●
+
+○0000002457○sys20_adv00
+●0000002457●
+
+○0000002458○cgm_sz12
+●0000002458●
+
+○0000002459○sys20_adv00
+●0000002459●
+
+○0000002460○cgm_kt14
+●0000002460●
+
+○0000002461○sys20_adv00
+●0000002461●
+
+○0000002462○sys20_adv00
+●0000002462●
+
+○0000002463○cgm_kt18h
+●0000002463●
+
+○0000002464○sys20_adv00
+●0000002464●
+
+○0000002465○cgm_lc19
+●0000002465●
+
+○0000002466○sys20_adv00
+●0000002466●
+
+○0000002467○cgm_kt25
+●0000002467●
+
+○0000002468○sys20_adv00
+●0000002468●
+
+○0000002469○sys20_adv00
+●0000002469●
+
+○0000002470○cgm_sz10s
+●0000002470●
+
+○0000002471○sys20_adv00
+●0000002471●
+
+○0000002472○cgm_sz12
+●0000002472●
+
+○0000002473○sys20_adv00
+●0000002473●
+
+○0000002474○bgm013
+●0000002474●
+
+○0000002475○sys20_adv00
+●0000002475●
+
+○0000002476○cgm_ch39
+●0000002476●
+
+○0000002477○sys20_adv00
+●0000002477●
+
+○0000002478○cgm_ch20
+●0000002478●
+
+○0000002479○sys20_adv00
+●0000002479●
+
+○0000002480○cgm_sz12
+●0000002480●
+
+○0000002481○sys20_adv00
+●0000002481●
+
+○0000002482○cgm_kt25
+●0000002482●
+
+○0000002483○sys20_adv00
+●0000002483●
+
+○0000002484○cgm_ch22
+●0000002484●
+
+○0000002485○sys20_adv00
+●0000002485●
+
+○0000002486○cgm_ch29
+●0000002486●
+
+○0000002487○sys20_adv00
+●0000002487●
+
+○0000002488○cgm_lc11
+●0000002488●
+
+○0000002489○sys20_adv00
+●0000002489●
+
+○0000002490○cgm_ch30
+●0000002490●
+
+○0000002491○sys20_adv00
+●0000002491●
+
+○0000002492○cgm_kt16
+●0000002492●
+
+○0000002493○cgm_lc11
+●0000002493●
+
+○0000002494○sys20_adv00
+●0000002494●
+
+○0000002495○cgm_kt16
+●0000002495●
+
+○0000002496○cgm_lc22h
+●0000002496●
+
+○0000002497○sys20_adv00
+●0000002497●
+
+○0000002498○cgm_ch29
+●0000002498●
+
+○0000002499○sys20_adv00
+●0000002499●
+
+○0000002500○cgm_ch13h
+●0000002500●
+
+○0000002501○sys20_adv00
+●0000002501●
+
+○0000002502○cgm_kt16
+●0000002502●
+
+○0000002503○sys20_adv00
+●0000002503●
+
+○0000002504○cgm_ch29
+●0000002504●
+
+○0000002505○sys20_adv00
+●0000002505●
+
+○0000002506○cgm_lc11h
+●0000002506●
+
+○0000002507○sys20_adv00
+●0000002507●
+
+○0000002508○cgm_ch33h
+●0000002508●
+
+○0000002509○sys20_adv00
+●0000002509●
+
+○0000002510○cgm_ch17
+●0000002510●
+
+○0000002511○sys20_adv00
+●0000002511●
+
+○0000002512○cgm_ch35
+●0000002512●
+
+○0000002513○sys20_adv00
+●0000002513●
+
+○0000002514○cgm_ch29
+●0000002514●
+
+○0000002515○sys20_adv00
+●0000002515●
+
+○0000002516○sys20_adv00
+●0000002516●
+
+○0000002517○cgm_ch35
+●0000002517●
+
+○0000002518○sys20_adv00
+●0000002518●
+
+○0000002519○cgm_lc11
+●0000002519●
+
+○0000002520○sys20_adv00
+●0000002520●
+
+○0000002521○cgm_ch22
+●0000002521●
+
+○0000002522○sys20_adv00
+●0000002522●
+
+○0000002523○cgm_ch15
+●0000002523●
+
+○0000002524○sys20_adv00
+●0000002524●
+
+○0000002525○kuro
+●0000002525●
+
+○0000002526○sys20_adv00
+●0000002526●
+
+○0000002527○bg015n
+●0000002527●
+
+○0000002528○bgm018
+●0000002528●
+
+○0000002529○sys20_adv00
+●0000002529●
+
+○0000002530○cgm_ak13
+●0000002530●
+
+○0000002531○sys20_adv00
+●0000002531●
+
+○0000002532○cgm_kt11
+●0000002532●
+
+○0000002533○cgm_ch10
+●0000002533●
+
+○0000002534○sys20_adv00
+●0000002534●
+
+○0000002535○cgm_ak23
+●0000002535●
+
+○0000002536○sys20_adv00
+●0000002536●
+
+○0000002537○cgm_ak15
+●0000002537●
+
+○0000002538○sys20_adv00
+●0000002538●
+
+○0000002539○cgm_ak31
+●0000002539●
+
+○0000002540○sys20_adv00
+●0000002540●
+
+○0000002541○sys20_adv00
+●0000002541●
+
+○0000002542○cgm_ak13
+●0000002542●
+
+○0000002543○sys20_adv00
+●0000002543●
+
+○0000002544○sys20_adv00
+●0000002544●
+
+○0000002545○cgm_ak13
+●0000002545●
+
+○0000002546○sys20_adv00
+●0000002546●
+
+○0000002547○cgm_kt30
+●0000002547●
+
+○0000002548○sys20_adv00
+●0000002548●
+
+○0000002549○sys20_adv00
+●0000002549●
+
+○0000002550○cgm_ak19
+●0000002550●
+
+○0000002551○sys20_adv00
+●0000002551●
+
+○0000002552○cgm_ak13
+●0000002552●
+
+○0000002553○sys20_adv00
+●0000002553●
+
+○0000002554○cgm_ak11
+●0000002554●
+
+○0000002555○sys20_adv00
+●0000002555●
+
+○0000002556○sys20_adv00
+●0000002556●
+
+○0000002557○kuro
+●0000002557●
+
+○0000002558○sys20_adv00
+●0000002558●
+
+○0000002559○bg015n
+●0000002559●
+
+○0000002560○bgm025
+●0000002560●
+
+○0000002561○sys20_adv00
+●0000002561●
+
+○0000002562○fgmo01
+●0000002562●
+
+○0000002563○sys20_adv00
+●0000002563●
+
+○0000002564○kuro
+●0000002564●
+
+○0000002565○sys20_adv00
+●0000002565●
+
+○0000002566○bg015n
+●0000002566●
+
+○0000002567○sys20_adv00
+●0000002567●
+
+○0000002568○cgm_ak11
+●0000002568●
+
+○0000002569○sys20_adv00
+●0000002569●
+
+○0000002570○sys20_adv00
+●0000002570●
+
+○0000002571○cgm_ch29
+●0000002571●
+
+○0000002572○sys20_adv00
+●0000002572●
+
+○0000002573○sys20_adv00
+●0000002573●
+
+○0000002574○cgm_kt16
+●0000002574●
+
+○0000002575○sys20_adv00
+●0000002575●
+
+○0000002576○sys00_sys00
+●0000002576●
+
+○0000002577○bt_assaku
+●0000002577●
+
+○0000002578○sys00_sys00
+●0000002578●
+
+○0000002579○bt_kazekiri1
+●0000002579●
+
+○0000002580○sys00_sys00
+●0000002580●
+
+○0000002581○bt_sasaru
+●0000002581●
+
+○0000002582○sys20_adv02
+●0000002582●
+
+○0000002583○sys20_adv00
+●0000002583●
+
+○0000002584○cgm_kt25
+●0000002584●
+
+○0000002585○sys20_adv00
+●0000002585●
+
+○0000002586○sys00_sys00
+●0000002586●
+
+○0000002587○down
+●0000002587●
+
+○0000002588○sys20_adv00
+●0000002588●
+
+○0000002589○cgm_kt25
+●0000002589●
+
+○0000002590○sys20_adv00
+●0000002590●
+
+○0000002591○sys20_adv00
+●0000002591●
+
+○0000002592○cgm_kt25
+●0000002592●
+
+○0000002593○sys20_adv00
+●0000002593●
+
+○0000002594○sys20_adv00
+●0000002594●
+
+○0000002595○cgm_ak17
+●0000002595●
+
+○0000002596○cgm_ch34h
+●0000002596●
+
+○0000002597○sys20_adv00
+●0000002597●
+
+○0000002598○sys20_adv02
+●0000002598●
+
+○0000002599○sys00_sys00
+●0000002599●
+
+○0000002600○bt_nukitoru
+●0000002600●
+
+○0000002601○sys20_adv02
+●0000002601●
+
+○0000002602○sys20_adv02
+●0000002602●
+
+○0000002603○sys20_adv02
+●0000002603●
+
+○0000002604○sys20_adv02
+●0000002604●
+
+○0000002605○sys00_sys00
+●0000002605●
+
+○0000002606○bt_kazekiri2
+●0000002606●
+
+○0000002607○sys20_adv02
+●0000002607●
+
+○0000002608○sys20_adv00
+●0000002608●
+
+○0000002609○kuro
+●0000002609●
+
+○0000002610○sys00_sys00
+●0000002610●
+
+○0000002611○dosa
+●0000002611●
+
+○0000002612○sys20_adv00
+●0000002612●
+
+○0000002613○bg015n
+●0000002613●
+
+○0000002614○sys20_adv02
+●0000002614●
+
+○0000002615○sys20_adv02
+●0000002615●
+
+○0000002616○sys10_mh00
+●0000002616●
+
+○0000002617○sys10_mh00
+●0000002617●
+
+○0000002618○sys10_mh00
+●0000002618●
+
+○0000002619○sys10_mh00
+●0000002619●
+
+○0000002620○sys00_sys00
+●0000002620●
+
+○0000002621○dokun
+●0000002621●
+
+○0000002622○sys00_sys00
+●0000002622●
+
+○0000002623○dokun
+●0000002623●
+
+○0000002624○sys20_adv00
+●0000002624●
+
+○0000002625○fgmo01
+●0000002625●
+
+○0000002626○sys00_sys00
+●0000002626●
+
+○0000002627○bt_knuckle
+●0000002627●
+
+○0000002628○sys10_mh00
+●0000002628●
+
+○0000002629○sys10_mh00
+●0000002629●
+
+○0000002630○sys20_adv00
+●0000002630●
+
+○0000002631○kuro
+●0000002631●
+
+○0000002632○sys00_sys00
+●0000002632●
+
+○0000002633○bt_attack1
+●0000002633●
+
+○0000002634○sys20_adv00
+●0000002634●
+
+○0000002635○siro
+●0000002635●
+
+○0000002636○bgm021
+●0000002636●
+
+○0000002637○sys00_sys00
+●0000002637●
+
+○0000002638○create_blade
+●0000002638●
+
+○0000002639○sys20_adv00
+●0000002639●
+
+○0000002640○fgko02a
+●0000002640●
+
+○0000002641○sys20_adv00
+●0000002641●
+
+○0000002642○fgmo01
+●0000002642●
+
+○0000002643○sys00_sys00
+●0000002643●
+
+○0000002644○syuwawa
+●0000002644●
+
+○0000002645○sys20_adv00
+●0000002645●
+
+○0000002646○bg015n
+●0000002646●
+
+○0000002647○cgm_kt22
+●0000002647●
+
+○0000002648○sys20_adv00
+●0000002648●
+
+○0000002649○cgm_kt34
+●0000002649●
+
+○0000002650○sys20_adv00
+●0000002650●
+
+○0000002651○cgm_kt32
+●0000002651●
+
+○0000002652○sys20_adv00
+●0000002652●
+
+○0000002653○sys20_adv00
+●0000002653●
+
+○0000002654○fgmo01
+●0000002654●
+
+○0000002655○sys20_adv00
+●0000002655●
+
+○0000002656○kuro
+●0000002656●
+
+○0000002657○sys20_adv00
+●0000002657●
+
+○0000002658○bg015n
+●0000002658●
+
+○0000002659○sys20_adv02
+●0000002659●
+
+○0000002660○sys00_sys00
+●0000002660●
+
+○0000002661○bt_wall_ground
+●0000002661●
+
+○0000002662○sys20_adv00
+●0000002662●
+
+○0000002663○cgm_kt25
+●0000002663●
+
+○0000002664○sys20_adv00
+●0000002664●
+
+○0000002665○sys20_adv00
+●0000002665●
+
+○0000002666○cgm_kt22
+●0000002666●
+
+○0000002667○sys20_adv00
+●0000002667●
+
+○0000002668○cgm_kt17
+●0000002668●
+
+○0000002669○sys20_adv00
+●0000002669●
+
+○0000002670○cgm_kt32
+●0000002670●
+
+○0000002671○sys20_adv00
+●0000002671●
+
+○0000002672○sys20_adv00
+●0000002672●
+
+○0000002673○fgmo01
+●0000002673●
+
+○0000002674○sys20_adv00
+●0000002674●
+
+○0000002675○bg015n
+●0000002675●
+
+○0000002676○sys20_adv00
+●0000002676●
+
+○0000002677○cgm_kt17
+●0000002677●
+
+○0000002678○sys20_adv00
+●0000002678●
+
+○0000002679○sys20_adv00
+●0000002679●
+
+○0000002680○cgm_kt32
+●0000002680●
+
+○0000002681○sys20_adv00
+●0000002681●
+
+○0000002682○cgm_kt25
+●0000002682●
+
+○0000002683○sys20_adv00
+●0000002683●
+
+○0000002684○sys20_adv00
+●0000002684●
+
+○0000002685○cgm_kt25
+●0000002685●
+
+○0000002686○sys00_sys00
+●0000002686●
+
+○0000002687○muni
+●0000002687●
+
+○0000002688○sys20_adv00
+●0000002688●
+
+○0000002689○cgm_kt18
+●0000002689●
+
+○0000002690○sys20_adv00
+●0000002690●
+
+○0000002691○sys00_sys00
+●0000002691●
+
+○0000002692○bt_kazekiri1
+●0000002692●
+
+○0000002693○sys00_sys00
+●0000002693●
+
+○0000002694○bt_kazekiri2
+●0000002694●
+
+○0000002695○sys20_adv00
+●0000002695●
+
+○0000002696○fgmo01
+●0000002696●
+
+○0000002697○sys00_sys00
+●0000002697●
+
+○0000002698○bt_sasaru
+●0000002698●
+
+○0000002699○sys20_adv00
+●0000002699●
+
+○0000002700○kuro
+●0000002700●
+
+○0000002701○sys20_adv00
+●0000002701●
+
+○0000002702○fgmo01
+●0000002702●
+
+○0000002703○sys20_adv02
+●0000002703●
+
+○0000002704○sys00_sys00
+●0000002704●
+
+○0000002705○dogan
+●0000002705●
+
+○0000002706○sys20_adv00
+●0000002706●
+
+○0000002707○fgkg02
+●0000002707●
+
+○0000002708○bgm019
+●0000002708●
+
+○0000002709○sys20_adv00
+●0000002709●
+
+○0000002710○siro
+●0000002710●
+
+○0000002711○sys00_sys00
+●0000002711●
+
+○0000002712○mn_ss_se31
+●0000002712●
+
+○0000002713○sys20_adv00
+●0000002713●
+
+○0000002714○fgkg02a
+●0000002714●
+
+○0000002715○sys20_adv00
+●0000002715●
+
+○0000002716○fgkg02
+●0000002716●
+
+○0000002717○sys00_sys00
+●0000002717●
+
+○0000002718○bt_kigaskeru
+●0000002718●
+
+○0000002719○sys20_adv00
+●0000002719●
+
+○0000002720○bg080n
+●0000002720●
+
+○0000002721○sys00_sys00
+●0000002721●
+
+○0000002722○wind_gag
+●0000002722●
+
+○0000002723○sys20_adv00
+●0000002723●
+
+○0000002724○bg015n
+●0000002724●
+
+○0000002725○sys20_adv00
+●0000002725●
+
+○0000002726○fgkg02
+●0000002726●
+
+○0000002727○sys20_adv00
+●0000002727●
+
+○0000002728○fgkg02a
+●0000002728●
+
+○0000002729○sys20_adv00
+●0000002729●
+
+○0000002730○fgkg02b
+●0000002730●
+
+○0000002731○sys20_adv00
+●0000002731●
+
+○0000002732○kuro
+●0000002732●
+
+○0000002733○sys20_adv00
+●0000002733●
+
+○0000002734○bg015n
+●0000002734●
+
+○0000002735○sys20_adv00
+●0000002735●
+
+○0000002736○cgm_sz42
+●0000002736●
+
+○0000002737○sys20_adv00
+●0000002737●
+
+○0000002738○sys20_adv02
+●0000002738●
+
+○0000002739○sys20_adv02
+●0000002739●
+
+○0000002740○sys00_sys00
+●0000002740●
+
+○0000002741○gakon
+●0000002741●
+
+○0000002742○sys20_adv02
+●0000002742●
+
+○0000002743○sys00_sys00
+●0000002743●
+
+○0000002744○dosa
+●0000002744●
+
+○0000002745○sys20_adv00
+●0000002745●
+
+○0000002746○kuro
+●0000002746●
+
+○0000002747○sys20_adv00
+●0000002747●
+
+○0000002748○bg015n
+●0000002748●
+
+○0000002749○cgm_sz18
+●0000002749●
+
+○0000002750○sys20_adv00
+●0000002750●
+
+○0000002751○sys20_adv00
+●0000002751●
+
+○0000002752○kuro
+●0000002752●
+
+○0000002753○ny_mv_tree03_3
+●0000002753●
+
+○0000002754○seen02000
+●0000002754●
+
+○0000002755○ny_mv_tree03_4
+●0000002755●
+
+○0000002756○seen04000
+●0000002756●
+
+○0000002757○sys20_adv00
+●0000002757●
+
+○0000002758○kuro
+●0000002758●
+
+○0000002759○sys20_adv00
+●0000002759●
+
+○0000002760○bg015n
+●0000002760●
+
+○0000002761○sys20_adv00
+●0000002761●
+
+○0000002762○cgm_sz13
+●0000002762●
+
+○0000002763○sys20_adv00
+●0000002763●
+
+○0000002764○cgm_lc44
+●0000002764●
+
+○0000002765○sys20_adv00
+●0000002765●
+
+○0000002766○bgm025
+●0000002766●
+
+○0000002767○sys20_adv00
+●0000002767●
+
+○0000002768○kuro
+●0000002768●
+
+○0000002769○cgm_ak34
+●0000002769●
+
+○0000002770○sys20_adv00
+●0000002770●
+
+○0000002771○bg015n
+●0000002771●
+
+○0000002772○cgm_sz29
+●0000002772●
+
+○0000002773○sys20_adv00
+●0000002773●
+
+○0000002774○sys20_adv00
+●0000002774●
+
+○0000002775○cgm_ak32
+●0000002775●
+
+○0000002776○sys20_adv00
+●0000002776●
+
+○0000002777○cgm_ch27
+●0000002777●
+
+○0000002778○sys20_adv00
+●0000002778●
+
+○0000002779○cgm_ak32
+●0000002779●
+
+○0000002780○sys20_adv00
+●0000002780●
+
+○0000002781○sys20_adv00
+●0000002781●
+
+○0000002782○cgm_ch34
+●0000002782●
+
+○0000002783○sys20_adv00
+●0000002783●
+
+○0000002784○cgm_lc15
+●0000002784●
+
+○0000002785○sys20_adv00
+●0000002785●
+
+○0000002786○cgm_ch22
+●0000002786●
+
+○0000002787○sys20_adv00
+●0000002787●
+
+○0000002788○sys20_adv00
+●0000002788●
+
+○0000002789○cgm_sz14n
+●0000002789●
+
+○0000002790○sys20_adv00
+●0000002790●
+
+○0000002791○cgm_ch30
+●0000002791●
+
+○0000002792○sys20_adv00
+●0000002792●
+
+○0000002793○sys20_adv00
+●0000002793●
+
+○0000002794○kuro
+●0000002794●
+
+○0000002795○sys20_adv00
+●0000002795●
+
+○0000002796○cgm_sz14n
+●0000002796●
+
+○0000002797○sys20_adv00
+●0000002797●
+
+○0000002798○kuro
+●0000002798●
+
+○0000002799○sys20_adv00
+●0000002799●
+
+○0000002800○bg010n
+●0000002800●
+
+○0000002801○bgm019
+●0000002801●
+
+○0000002802○ny_mv_tree03_2
+●0000002802●
+
+○0000002803○seen05000
+●0000002803●
+
+○0000002804○sys20_adv00
+●0000002804●
+
+○0000002805○kuro
+●0000002805●
+
+○0000002806○sys20_adv00
+●0000002806●
+
+○0000002807○bg015n
+●0000002807●
+
+○0000002808○sys20_adv00
+●0000002808●
+
+○0000002809○cgm_ch17
+●0000002809●
+
+○0000002810○sys20_adv00
+●0000002810●
+
+○0000002811○cgm_lc41
+●0000002811●
+
+○0000002812○cgm_sz12
+●0000002812●
+
+○0000002813○sys20_adv00
+●0000002813●
+
+○0000002814○sys20_adv00
+●0000002814●
+
+○0000002815○cgm_ch17
+●0000002815●
+
+○0000002816○sys20_adv00
+●0000002816●
+
+○0000002817○cgm_lc40
+●0000002817●
+
+○0000002818○sys20_adv00
+●0000002818●
+
+○0000002819○cgm_lc12
+●0000002819●
+
+○0000002820○sys20_adv00
+●0000002820●
+
+○0000002821○cgm_ch17
+●0000002821●
+
+○0000002822○sys20_adv00
+●0000002822●
+
+○0000002823○kuro
+●0000002823●
+
+○0000002824○cgm_ch17
+●0000002824●
+
+○0000002825○bgm019
+●0000002825●
+
+○0000002826○sys20_adv00
+●0000002826●
+
+○0000002827○bg015n
+●0000002827●
+
+○0000002828○cgm_sz14
+●0000002828●
+
+○0000002829○sys20_adv00
+●0000002829●
+
+○0000002830○sys20_adv00
+●0000002830●
+
+○0000002831○cgm_ak34
+●0000002831●
+
+○0000002832○sys20_adv00
+●0000002832●
+
+○0000002833○cgm_lc42
+●0000002833●
+
+○0000002834○sys20_adv00
+●0000002834●
+
+○0000002835○sys20_adv00
+●0000002835●
+
+○0000002836○cgm_sz17
+●0000002836●
+
+○0000002837○sys20_adv00
+●0000002837●
+
+○0000002838○sys20_adv02
+●0000002838●
+
+○0000002839○sys20_adv02
+●0000002839●
+
+○0000002840○sys00_sys00
+●0000002840●
+
+○0000002841○gakon
+●0000002841●
+
+○0000002842○sys20_adv02
+●0000002842●
+
+○0000002843○sys00_sys00
+●0000002843●
+
+○0000002844○dosa
+●0000002844●
+
+○0000002845○sys20_adv00
+●0000002845●
+
+○0000002846○kuro
+●0000002846●
+
+○0000002847○sys20_adv00
+●0000002847●
+
+○0000002848○bg015n
+●0000002848●
+
+○0000002849○cgm_ch23
+●0000002849●
+
+○0000002850○sys20_adv00
+●0000002850●
+
+○0000002851○sys20_adv00
+●0000002851●
+
+○0000002852○cgm_ak34
+●0000002852●
+
+○0000002853○sys20_adv00
+●0000002853●
+
+○0000002854○sys20_adv00
+●0000002854●
+
+○0000002855○kuro
+●0000002855●
+
+○0000002856○ny_mv_tree03_5
+●0000002856●
+
+○0000002857○seen03000
+●0000002857●
+

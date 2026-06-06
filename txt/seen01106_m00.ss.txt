@@ -1,0 +1,5799 @@
+○0000000000○It doesn't take us long to reach the river.
+●0000000000●
+
+○0000000001○It really feels like we're on a picnic.
+●0000000001●
+
+○0000000002○小鳥
+●0000000002●
+
+○0000000003○"It's beautiful."
+●0000000003●
+
+○0000000004○The peacefully flowing water sparkles in the sunlight.
+●0000000004●
+
+○0000000005○Kotori scoops some up with her right hand and brings it to her mouth.
+●0000000005●
+
+○0000000006○朱音
+●0000000006●
+
+○0000000007○"Stop."
+●0000000007●
+
+○0000000008○ルチア
+●0000000008●
+
+○0000000009○"Don't do it!"
+●0000000009●
+
+○0000000010○Others jump to stop her.
+●0000000010●
+
+○0000000011○小鳥
+●0000000011●
+
+○0000000012○"Wh-What's wrong?"
+●0000000012●
+
+○0000000013○朱音
+●0000000013●
+
+○0000000014○"I would strongly advise against drinking river water."
+●0000000014●
+
+○0000000015○ルチア
+●0000000015●
+
+○0000000016○"You'll get sick."
+●0000000016●
+
+○0000000017○小鳥
+●0000000017●
+
+○0000000018○"I might not look it, but I've got a strong stomach."
+●0000000018●
+
+○0000000019○朱音
+●0000000019●
+
+○0000000020○"If you're thirsty, drink the water you brought instead."
+●0000000020●
+
+○0000000021○小鳥
+●0000000021●
+
+○0000000022○"Okay..."
+●0000000022●
+
+○0000000023○瑚太朗
+●0000000023●
+
+○0000000024○"I see... You can't trust water to be clean in nature..."
+●0000000024●
+
+○0000000025○朱音
+●0000000025●
+
+○0000000026○"This river passes through a couple of inhabited areas upstream, so I don't think it would be wise to risk it."
+●0000000026●
+
+○0000000027○ちはや
+●0000000027●
+
+○0000000028○"There might be waste in it."
+●0000000028●
+
+○0000000029○小鳥
+●0000000029●
+
+○0000000030○"Ah, I see. That was dumb."
+●0000000030●
+
+○0000000031○ルチア
+●0000000031●
+
+○0000000032○"You can't just put anything you find in your mouth."
+●0000000032●
+
+○0000000033○小鳥
+●0000000033●
+
+○0000000034○"It would've been bad if I'd gotten river influenza from this stuff!"
+●0000000034●
+
+○0000000035○小鳥
+●0000000035●
+
+○0000000036○"Instant pandemic!"
+●0000000036●
+
+○0000000037○朱音
+●0000000037●
+
+○0000000038○"...Don't make up new diseases, please."
+●0000000038●
+
+○0000000039○ちはや
+●0000000039●
+
+○0000000040○"Good thing they managed to stop you in time."
+●0000000040●
+
+○0000000041○小鳥
+●0000000041●
+
+○0000000042○"Yeah. That was some top-tier teamwork."
+●0000000042●
+
+○0000000043○ちはや
+●0000000043●
+
+○0000000044○"Occult Research Society! ORS!"
+●0000000044●
+
+○0000000045○小鳥
+●0000000045●
+
+○0000000046○"ORS!"
+●0000000046●
+
+○0000000047○静流
+●0000000047●
+
+○0000000048○"Gulp, gulp, gulp, gulp..."
+●0000000048●
+
+○0000000049○ルチア
+●0000000049●
+
+○0000000050○"Wait... Look behind you..."
+●0000000050●
+
+○0000000051○静流
+●0000000051●
+
+○0000000052○"Gulp, gulp, gulp, gulp, gulp..."
+●0000000052●
+
+○0000000053○瑚太朗
+●0000000053●
+
+○0000000054○"Why the hell are you drinking that, Sizuru?!"
+●0000000054●
+
+○0000000055○静流
+●0000000055●
+
+○0000000056○"......"
+●0000000056●
+
+○0000000057○静流
+●0000000057●
+
+○0000000058○"...!"
+●0000000058●
+
+○0000000059○静流
+●0000000059●
+
+○0000000060○"Delicious."
+●0000000060●
+
+○0000000061○瑚太朗
+●0000000061●
+
+○0000000062○"I'm not asking you to pose for a commercial!"
+●0000000062●
+
+○0000000063○小鳥
+●0000000063●
+
+○0000000064○"A-Are you okay? It might've been dirty."
+●0000000064●
+
+○0000000065○静流
+●0000000065●
+
+○0000000066○"......"
+●0000000066●
+
+○0000000067○"What is the matter?"... Sizuru regards us with a puzzled look.
+●0000000067●
+
+○0000000068○瑚太朗
+●0000000068●
+
+○0000000069○"You can't do that!! You've got to boil or filter water like that before drinking it!!"
+●0000000069●
+
+○0000000070○静流
+●0000000070●
+
+○0000000071○"My tongue hurts a little."
+●0000000071●
+
+○0000000072○瑚太朗
+●0000000072●
+
+○0000000073○"Aw crap! It's too late now!!"
+●0000000073●
+
+○0000000074○瑚太朗
+●0000000074●
+
+○0000000075○"Don't come complaining to me with a stomachache later!"
+●0000000075●
+
+○0000000076○静流
+●0000000076●
+
+○0000000077○"......"
+●0000000077●
+
+○0000000078○瑚太朗
+●0000000078●
+
+○0000000079○"Haah... Forget it..."
+●0000000079●
+
+○0000000080○■マッピー／既読■　ID:
+●0000000080●
+
+○0000000081○ (Z
+●0000000081●
+
+○0000000082○-
+●0000000082●
+
+○0000000083○■マッピー／コンプリート■
+●0000000083●
+
+○0000000084○小鳥
+●0000000084●
+
+○0000000085○"What path are we taking here?"
+●0000000085●
+
+○0000000086○瑚太朗
+●0000000086●
+
+○0000000087○"It's simple. We're just following the river downstream."
+●0000000087●
+
+○0000000088○I show her the map.
+●0000000088●
+
+○0000000089○The route is annotated with markers to make it easier to understand.
+●0000000089●
+
+○0000000090○小鳥
+●0000000090●
+
+○0000000091○"Oh, so you really did plan this out."
+●0000000091●
+
+○0000000092○瑚太朗
+●0000000092●
+
+○0000000093○"You don't know the half of it."
+●0000000093●
+
+○0000000094○If some kind of accident happened, I wouldn't be the only one affected this time.
+●0000000094●
+
+○0000000095○小鳥
+●0000000095●
+
+○0000000096○"Where are we right now?"
+●0000000096●
+
+○0000000097○瑚太朗
+●0000000097●
+
+○0000000098○"Around here."
+●0000000098●
+
+○0000000099○I point my finger around the one-third mark on the route.
+●0000000099●
+
+○0000000100○ちはや
+●0000000100●
+
+○0000000101○"What will we do once we reach the end?"
+●0000000101●
+
+○0000000102○Chihaya peeks at the map over my shoulder.
+●0000000102●
+
+○0000000103○瑚太朗
+●0000000103●
+
+○0000000104○"Hey, don't lean against me. It's making me weary."
+●0000000104●
+
+○0000000105○ちはや
+●0000000105●
+
+○0000000106○"What's there to be wary about...?"
+●0000000106●
+
+○0000000107○瑚太朗
+●0000000107●
+
+○0000000108○"If we don't find anything by the end, we'll turn back."
+●0000000108●
+
+○0000000109○小鳥
+●0000000109●
+
+○0000000110○"Hmm, sounds like a bold plan."
+●0000000110●
+
+○0000000111○瑚太朗
+●0000000111●
+
+○0000000112○"We don't need to clear it all in one day."
+●0000000112●
+
+○0000000113○ちはや
+●0000000113●
+
+○0000000114○"It's like a picnic. I like it."
+●0000000114●
+
+○0000000115○瑚太朗
+●0000000115●
+
+○0000000116○"Right? That's what we get for living in such a green town."
+●0000000116●
+
+○0000000117○ちはや
+●0000000117●
+
+○0000000118○"Yeah, it's almost too beautiful."
+●0000000118●
+
+○0000000119○Kazamatsuri is beautiful.
+●0000000119●
+
+○0000000120○A beautiful green town.
+●0000000120●
+
+○0000000121○Still, a thought crosses my mind.
+●0000000121●
+
+○0000000122○It might just be a bit too beautiful compared to actual nature.
+●0000000122●
+
+○0000000123○■マッピー／既読■　ID:
+●0000000123●
+
+○0000000124○ (Z
+●0000000124●
+
+○0000000125○-
+●0000000125●
+
+○0000000126○■マッピー／コンプリート■
+●0000000126●
+
+○0000000127○瑚太朗
+●0000000127●
+
+○0000000128○"I'm hangry."
+●0000000128●
+
+○0000000129○ルチア
+●0000000129●
+
+○0000000130○"...Hm."
+●0000000130●
+
+○0000000131○ルチア
+●0000000131●
+
+○0000000132○"Like a bear with a sore stomach."
+●0000000132●
+
+○0000000133○瑚太朗
+●0000000133●
+
+○0000000134○"No, uh... I just said that randomly, so I wasn't looking for someone to chime in..."
+●0000000134●
+
+○0000000135○小鳥
+●0000000135●
+
+○0000000136○"You need to keep a cool stomach."
+●0000000136●
+
+○0000000137○瑚太朗
+●0000000137●
+
+○0000000138○"Ahh, stop it already!"
+●0000000138●
+
+○0000000139○ちはや
+●0000000139●
+
+○0000000140○"This exchange of jokes... I feel like I can finally contribute!"
+●0000000140●
+
+○0000000141○ちはや
+●0000000141●
+
+○0000000142○"Don't let it get to your butt!"
+●0000000142●
+
+○0000000143○瑚太朗
+●0000000143●
+
+○0000000144○"You're not my friend anymore."
+●0000000144●
+
+○0000000145○ちはや
+●0000000145●
+
+○0000000146○"Hey! I did my best to come up with it, so you could at least show some appreciation!"
+●0000000146●
+
+○0000000147○瑚太朗
+●0000000147●
+
+○0000000148○"You've gotta stick to the theme."
+●0000000148●
+
+○0000000149○瑚太朗
+●0000000149●
+
+○0000000150○"Something like you want my stomach on a platter, or..."
+●0000000150●
+
+○0000000151○ちはや
+●0000000151●
+
+○0000000152○"I don't get it."
+●0000000152●
+
+○0000000153○瑚太朗
+●0000000153●
+
+○0000000154○"I don't think you were supposed to get any of those."
+●0000000154●
+
+○0000000155○ルチア
+●0000000155●
+
+○0000000156○"Get your stomach together."
+●0000000156●
+
+○0000000157○瑚太朗
+●0000000157●
+
+○0000000158○"Geez, we've had enough of those already!!"
+●0000000158●
+
+○0000000159○瑚太朗
+●0000000159●
+
+○0000000160○"Can't you guys react like normal people? Like, 'I'm 'ungry too, broski!' or something."
+●0000000160●
+
+○0000000161○ルチア
+●0000000161●
+
+○0000000162○"How's that normal?"
+●0000000162●
+
+○0000000163○ルチア
+●0000000163●
+
+○0000000164○"Didn't you bring any backpacking rations with you?"
+●0000000164●
+
+○0000000165○瑚太朗
+●0000000165●
+
+○0000000166○"I did, but..."
+●0000000166●
+
+○0000000167○ルチア
+●0000000167●
+
+○0000000168○"You won't get far without backpacking rations."
+●0000000168●
+
+○0000000169○ルチア
+●0000000169●
+
+○0000000170○"Moving through uneven terrain requires quite a bit of energy. You'll soon start feeling light-headed if you don't keep yourself full."
+●0000000170●
+
+○0000000171○ルチア
+●0000000171●
+
+○0000000172○"You've got to keep in mind that our everyday common sense doesn't apply in extreme conditions."
+●0000000172●
+
+○0000000173○瑚太朗
+●0000000173●
+
+○0000000174○"Yeah... I'm aware of that."
+●0000000174●
+
+○0000000175○瑚太朗
+●0000000175●
+
+○0000000176○"This is what I brought, though."
+●0000000176●
+
+○0000000177○A tube of chocolate and a tube of condensed milk.
+●0000000177●
+
+○0000000178○ルチア
+●0000000178●
+
+○0000000179○"I'm impressed."
+●0000000179●
+
+○0000000180○瑚太朗
+●0000000180●
+
+○0000000181○"The best stuff to keep you in a consistent high-energy state doesn't fill your stomach."
+●0000000181●
+
+○0000000182○ルチア
+●0000000182●
+
+○0000000183○"Haha, I see you go all out when you really try, Tennouji."
+●0000000183●
+
+○0000000184○瑚太朗
+●0000000184●
+
+○0000000185○"You think so?"
+●0000000185●
+
+○0000000186○ルチア
+●0000000186●
+
+○0000000187○"Both of these can be used as emergency food."
+●0000000187●
+
+○0000000188○ルチア
+●0000000188●
+
+○0000000189○"You can melt them in boiling water or consume them even when dehydrated."
+●0000000189●
+
+○0000000190○ルチア
+●0000000190●
+
+○0000000191○"They turn into energy right away, since your body doesn't need to liquefy them."
+●0000000191●
+
+○0000000192○瑚太朗
+●0000000192●
+
+○0000000193○"Ah, so you've got to take that kind of stuff into consideration when you go into the mountains, huh."
+●0000000193●
+
+○0000000194○ちはや
+●0000000194●
+
+○0000000195○"It's like how it's sometimes hard to eat crackers without water."
+●0000000195●
+
+○0000000196○瑚太朗
+●0000000196●
+
+○0000000197○"This whole survival thing is pretty cool."
+●0000000197●
+
+○0000000198○ルチア
+●0000000198●
+
+○0000000199○"Huh? So you didn't know that when you picked those?"
+●0000000199●
+
+○0000000200○瑚太朗
+●0000000200●
+
+○0000000201○"My intuition told me they were the best choice."
+●0000000201●
+
+○0000000202○瑚太朗
+●0000000202●
+
+○0000000203○"Maybe I possess innate survival instincts."
+●0000000203●
+
+○0000000204○小鳥
+●0000000204●
+
+○0000000205○"Kotarou is a capable boy. He's able to do anything if he puts his heart into it."
+●0000000205●
+
+○0000000206○瑚太朗
+●0000000206●
+
+○0000000207○"Yep, that's right."
+●0000000207●
+
+○0000000208○瑚太朗
+●0000000208●
+
+○0000000209○"I may look like I'm messing around all the time, but I'm amazing when it really counts."
+●0000000209●
+
+○0000000210○小鳥
+●0000000210●
+
+○0000000211○"Good boy."
+●0000000211●
+
+○0000000212○小鳥
+●0000000212●
+
+○0000000213○"You can have one saichuu as a reward."
+●0000000213●
+
+○0000000214○瑚太朗
+●0000000214●
+
+○0000000215○"Ohh! Thanks!"
+●0000000215●
+
+○0000000216○I promptly wolf the snack down.
+●0000000216●
+
+○0000000217○朱音
+●0000000217●
+
+○0000000218○"That's the kind of woman that ruins men if I ever saw one."
+●0000000218●
+
+○0000000219○Akane glances at Kotori.
+●0000000219●
+
+○0000000220○小鳥
+●0000000220●
+
+○0000000221○"Huh? What do you mean, Prez?"
+●0000000221●
+
+○0000000222○朱音
+●0000000222●
+
+○0000000223○"...No, it's nothing."
+●0000000223●
+
+○0000000224○瑚太朗
+●0000000224●
+
+○0000000225○"You start to get light-headed and easily annoyed when you start running out of sustenance on a long trek."
+●0000000225●
+
+○0000000226○ちはや
+●0000000226●
+
+○0000000227○"Yeah, it always happens to me after a day's worth of walking."
+●0000000227●
+
+○0000000228○瑚太朗
+●0000000228●
+
+○0000000229○"I see the Chihaya Radar is out of whack, as usual."
+●0000000229●
+
+○0000000230○ちはや
+●0000000230●
+
+○0000000231○"Um, I don't have a radar."
+●0000000231●
+
+○0000000232○小鳥
+●0000000232●
+
+○0000000233○"You can avoid it by constantly snacking on the way."
+●0000000233●
+
+○0000000234○瑚太朗
+●0000000234●
+
+○0000000235○"Is that sweet natto?"
+●0000000235●
+
+○0000000236○Lucia stuffs her own snack into her mouth as we walk.
+●0000000236●
+
+○0000000237○ルチア
+●0000000237●
+
+○0000000238○"That's right. It's the most beloved snack among survivalists."
+●0000000238●
+
+○0000000239○瑚太朗
+●0000000239●
+
+○0000000240○"Gimme some."
+●0000000240●
+
+○0000000241○ルチア
+●0000000241●
+
+○0000000242○"I respectfully refuse."
+●0000000242●
+
+○0000000243○...I thought she'd say that.
+●0000000243●
+
+○0000000244○瑚太朗
+●0000000244●
+
+○0000000245○"Speaking of which, why're you so quiet over there, Sizuru?"
+●0000000245●
+
+○0000000246○She's usually the first to react when it comes to food.
+●0000000246●
+
+○0000000247○But she's just silent as a mouse behind us... outside of the faint crunching sounds coming from her direction.
+●0000000247●
+
+○0000000248○瑚太朗
+●0000000248●
+
+○0000000249○"Wait, crunching sounds?"
+●0000000249●
+
+○0000000250○We all turn in unison.
+●0000000250●
+
+○0000000251○静流
+●0000000251●
+
+○0000000252○"Crunch, crunch, crunch."
+●0000000252●
+
+○0000000253○She's eating some sort of plant.
+●0000000253●
+
+○0000000254○She's holding a ton of green things, actually.
+●0000000254●
+
+○0000000255○瑚太朗
+●0000000255●
+
+○0000000256○"Hold it there!"
+●0000000256●
+
+○0000000257○ちはや
+●0000000257●
+
+○0000000258○"She's eating all the random stuff from the trail!!"
+●0000000258●
+
+○0000000259○小鳥
+●0000000259●
+
+○0000000260○"Ah, you shouldn't eat leaves... You'll end up catching something!"
+●0000000260●
+
+○0000000261○瑚太朗
+●0000000261●
+
+○0000000262○"SPIT IT OUT!!"
+●0000000262●
+
+○0000000263○静流
+●0000000263●
+
+○0000000264○"...?"
+●0000000264●
+
+○0000000265○静流
+●0000000265●
+
+○0000000266○"Munch, munch."
+●0000000266●
+
+○0000000267○静流
+●0000000267●
+
+○0000000268○"Crunch, crunch."
+●0000000268●
+
+○0000000269○I try to stop her by force, but she pays me no attention. Her chewing doesn't even slow down.
+●0000000269●
+
+○0000000270○She's just stuffing her mouth with one plant after another, like a machine programmed to perform only one action.
+●0000000270●
+
+○0000000271○Is she a gorilla with two bananas in its hands?!
+●0000000271●
+
+○0000000272○静流
+●0000000272●
+
+○0000000273○"Crunch, crunch, crunch, crunch."
+●0000000273●
+
+○0000000274○瑚太朗
+●0000000274●
+
+○0000000275○"Stop it!"
+●0000000275●
+
+○0000000276○ルチア
+●0000000276●
+
+○0000000277○"Ah, those plants should be fine."
+●0000000277●
+
+○0000000278○朱音
+●0000000278●
+
+○0000000279○"All of those are edible. I don't think there's any danger in eating them."
+●0000000279●
+
+○0000000280○瑚太朗
+●0000000280●
+
+○0000000281○"Huh? Really...? They don't look that edible to me."
+●0000000281●
+
+○0000000282○One of them looks totally poisonous.
+●0000000282●
+
+○0000000283○小鳥
+●0000000283●
+
+○0000000284○"Is it good?"
+●0000000284●
+
+○0000000285○静流
+●0000000285●
+
+○0000000286○"......"
+●0000000286●
+
+○0000000287○静流
+●0000000287●
+
+○0000000288○"Delicious."
+●0000000288●
+
+○0000000289○瑚太朗
+●0000000289●
+
+○0000000290○"I didn't know you were a caterpillar."
+●0000000290●
+
+○0000000291○静流
+●0000000291●
+
+○0000000292○"Now that I'm full..."
+●0000000292●
+
+○0000000293○Sizuru puts a candy in her mouth.
+●0000000293●
+
+○0000000294○静流
+●0000000294●
+
+○0000000295○"I can feel like I ate a lot of sweets."
+●0000000295●
+
+○0000000296○瑚太朗
+●0000000296●
+
+○0000000297○"...That's too high-level for me."
+●0000000297●
+
+○0000000298○静流
+●0000000298●
+
+○0000000299○"......"
+●0000000299●
+
+○0000000300○"Would you like to try, too?"... Sizuru holds her plants out to us.
+●0000000300●
+
+○0000000301○瑚太朗＆小鳥＆ちはや
+●0000000301●
+
+○0000000302○"No, thanks."
+●0000000302●
+
+○0000000303○静流
+●0000000303●
+
+○0000000304○"......"
+●0000000304●
+
+○0000000305○A look of disappointment crosses her face.
+●0000000305●
+
+○0000000306○■マッピー／既読■　ID:
+●0000000306●
+
+○0000000307○ (Z
+●0000000307●
+
+○0000000308○-
+●0000000308●
+
+○0000000309○■マッピー／コンプリート■
+●0000000309●
+
+○0000000310○朱音
+●0000000310●
+
+○0000000311○"......"
+●0000000311●
+
+○0000000312○瑚太朗
+●0000000312●
+
+○0000000313○"......"
+●0000000313●
+
+○0000000314○小鳥
+●0000000314●
+
+○0000000315○"......"
+●0000000315●
+
+○0000000316○ちはや
+●0000000316●
+
+○0000000317○"......"
+●0000000317●
+
+○0000000318○朱音
+●0000000318●
+
+○0000000319○"...It hurts."
+●0000000319●
+
+○0000000320○瑚太朗
+●0000000320●
+
+○0000000321○"A-Are you okay?"
+●0000000321●
+
+○0000000322○A branch I pushed out of the way snapped back and hit Akane right in the face.
+●0000000322●
+
+○0000000323○瑚太朗
+●0000000323●
+
+○0000000324○"Doesn't look like it left any marks. Ph-Phew."
+●0000000324●
+
+○0000000325○朱音
+●0000000325●
+
+○0000000326○"......"
+●0000000326●
+
+○0000000327○瑚太朗
+●0000000327●
+
+○0000000328○"...I-I'm sorry."
+●0000000328●
+
+○0000000329○She continues to walk in silence.
+●0000000329●
+
+○0000000330○I wish she would at least say something...
+●0000000330●
+
+○0000000331○We haven't had a chance to rest for a while.
+●0000000331●
+
+○0000000332○And Akane's mood seems to worsen with every step.
+●0000000332●
+
+○0000000333○朱音
+●0000000333●
+
+○0000000334○"...So irritating."
+●0000000334●
+
+○0000000335○She's been muttering disconcerting remarks under her breath for a while now.
+●0000000335●
+
+○0000000336○The main cause seems to be the bugs.
+●0000000336●
+
+○0000000337○There weren't many when we first started, most likely because we were still relatively close to the city.
+●0000000337●
+
+○0000000338○However, the further we get, the more the forest reverts to its natural state.
+●0000000338●
+
+○0000000339○In one word: bugs.
+●0000000339●
+
+○0000000340○Bugs are an important part of the forest.
+●0000000340●
+
+○0000000341○As such, we've found them in high spirits and large numbers.
+●0000000341●
+
+○0000000342○Enormous numbers...
+●0000000342●
+
+○0000000343○It's already November, but they're still crawling everywhere.
+●0000000343●
+
+○0000000344○I know that the warmth and richness of the forest supports their numbers, but...
+●0000000344●
+
+○0000000345○Akane isn't a big fan of them.
+●0000000345●
+
+○0000000346○ちはや
+●0000000346●
+
+○0000000347○"No one likes bugs."
+●0000000347●
+
+○0000000348○Akane and Chihaya have been suffering from their sudden appearance the most.
+●0000000348●
+
+○0000000349○小鳥
+●0000000349●
+
+○0000000350○"...You get used to insects after playing with plants for a while."
+●0000000350●
+
+○0000000351○ルチア
+●0000000351●
+
+○0000000352○"I'm fine as long as they don't touch me... and don't look overly nasty."
+●0000000352●
+
+○0000000353○What about Sizuru?
+●0000000353●
+
+○0000000354○She's still nonchalantly lagging behind at the tail end of the group.
+●0000000354●
+
+○0000000355○静流
+●0000000355●
+
+○0000000356○"Munch, munch, munch."
+●0000000356●
+
+○0000000357○And she's eating something again.
+●0000000357●
+
+○0000000358○I've been hearing this weird screeching coming from her direction, and it's starting to worry me.
+●0000000358●
+
+○0000000359○静流
+●0000000359●
+
+○0000000360○"So long, Mr. Locust."
+●0000000360●
+
+○0000000361○I can hear the faint flapping of wings behind me.
+●0000000361●
+
+○0000000362○However, I don't have the courage to turn around and look.
+●0000000362●
+
+○0000000363○朱音
+●0000000363●
+
+○0000000364○"...This is the most unpleasant experience of my life... What have I done to deserve this...?"
+●0000000364●
+
+○0000000365○瑚太朗
+●0000000365●
+
+○0000000366○"......"
+●0000000366●
+
+○0000000367○It's not like she's focusing her complaints on anyone in particular, but...
+●0000000367●
+
+○0000000368○Her mumbling is getting more and more concerning.
+●0000000368●
+
+○0000000369○And I have the bad luck to be in close enough proximity to hear it.
+●0000000369●
+
+○0000000370○朱音
+●0000000370●
+
+○0000000371○"This is unpleasant... This is most unpleasant... How on earth have I ended up in this place? It doesn't make sense..."
+●0000000371●
+
+○0000000372○*grumble* *grumble* *grumble*
+●0000000372●
+
+○0000000373○ルチア
+●0000000373●
+
+○0000000374○"...Tennouji Kotarou."
+●0000000374●
+
+○0000000375○I hear my name from behind me.
+●0000000375●
+
+○0000000376○ルチア
+●0000000376●
+
+○0000000377○"...This isn't good for morale. Can't you do something about her?"
+●0000000377●
+
+○0000000378○瑚太朗
+●0000000378●
+
+○0000000379○"That... could prove a bit difficult."
+●0000000379●
+
+○0000000380○瑚太朗
+●0000000380●
+
+○0000000381○"I don't think it's a good idea to approach her in this state unless you're on exceptionally good terms with her."
+●0000000381●
+
+○0000000382○小鳥
+●0000000382●
+
+○0000000383○"You're the only one who can talk to her, Kotarou."
+●0000000383●
+
+○0000000384○瑚太朗
+●0000000384●
+
+○0000000385○"Huh? Really?"
+●0000000385●
+
+○0000000386○I glance at the others, and they all nod.
+●0000000386●
+
+○0000000387○瑚太朗
+●0000000387●
+
+○0000000388○(I guess they've got a point.)
+●0000000388●
+
+○0000000389○Group A ― Akane.
+●0000000389●
+
+○0000000390○Group B ― everyone else.
+●0000000390●
+
+○0000000391○And I'm the only one going back and forth between the two, apparently.
+●0000000391●
+
+○0000000392○瑚太朗
+●0000000392●
+
+○0000000393○"But you all talk to her."
+●0000000393●
+
+○0000000394○ちはや
+●0000000394●
+
+○0000000395○"I do, but I feel like I'd only make it worse if I tried to say something."
+●0000000395●
+
+○0000000396○ルチア
+●0000000396●
+
+○0000000397○"We've talked, but it's only been superficial."
+●0000000397●
+
+○0000000398○小鳥
+●0000000398●
+
+○0000000399○"I think there's a bit of a distance between us."
+●0000000399●
+
+○0000000400○瑚太朗
+●0000000400●
+
+○0000000401○"You really think so? You women are way too delicate about these things."
+●0000000401●
+
+○0000000402○小鳥
+●0000000402●
+
+○0000000403○"Well, that's how it is."
+●0000000403●
+
+○0000000404○ルチア
+●0000000404●
+
+○0000000405○"We might look friendly on the surface, but that doesn't mean we've opened our hearts to each other."
+●0000000405●
+
+○0000000406○That sounds like a pain in the neck.
+●0000000406●
+
+○0000000407○The world of men is a lot simpler... Well, maybe not by a lot, but somewhat at least...
+●0000000407●
+
+○0000000408○There's delicate trouble between us at times, too.
+●0000000408●
+
+○0000000409○小鳥
+●0000000409●
+
+○0000000410○"Prez's mental care is in your hands, Kotarou."
+●0000000410●
+
+○0000000411○瑚太朗
+●0000000411●
+
+○0000000412○"I've turned into a counselor overnight."
+●0000000412●
+
+○0000000413○I move closer to Akane.
+●0000000413●
+
+○0000000414○瑚太朗
+●0000000414●
+
+○0000000415○"Um... Prez."
+●0000000415●
+
+○0000000416○朱音
+●0000000416●
+
+○0000000417○"......"
+●0000000417●
+
+○0000000418○She returns my look with eyes that seem to contain all the malice in the world.
+●0000000418●
+
+○0000000419○朱音
+●0000000419●
+
+○0000000420○"...What?"
+●0000000420●
+
+○0000000421○Crap. This is terrifying.
+●0000000421●
+
+○0000000422○Women are scary in a multitude of different ways, but few can rival Akane when it comes to the undiluted pressure she emanates.
+●0000000422●
+
+○0000000423○She might spend most of her time alone, but she has a certain kind of charisma about her.
+●0000000423●
+
+○0000000424○瑚太朗
+●0000000424●
+
+○0000000425○"Uh... Isn't it... um, nice here... far away from the noise of the city, I mean..."
+●0000000425●
+
+○0000000426○朱音
+●0000000426●
+
+○0000000427○"Far away from the noise?"
+●0000000427●
+
+○0000000428○朱音
+●0000000428●
+
+○0000000429○"It's filled with the aggravating noise of lifeforms all around us."
+●0000000429●
+
+○0000000430○瑚太朗
+●0000000430●
+
+○0000000431○"Huh? You're right. I didn't even notice it got that bad."
+●0000000431●
+
+○0000000432○瑚太朗
+●0000000432●
+
+○0000000433○"I swear it was really quiet just a few minutes ago."
+●0000000433●
+
+○0000000434○朱音
+●0000000434●
+
+○0000000435○"This is the true face of nature."
+●0000000435●
+
+○0000000436○瑚太朗
+●0000000436●
+
+○0000000437○"The forest we used to play in as kids was always real silent, though."
+●0000000437●
+
+○0000000438○We're heading in a different direction, but it's still the same forest.
+●0000000438●
+
+○0000000439○朱音
+●0000000439●
+
+○0000000440○"That's because insects were exterminated in the area you've been to."
+●0000000440●
+
+○0000000441○瑚太朗
+●0000000441●
+
+○0000000442○"What do you mean?"
+●0000000442●
+
+○0000000443○朱音
+●0000000443●
+
+○0000000444○"It's not widely known amongst the public, but..."
+●0000000444●
+
+○0000000445○朱音
+●0000000445●
+
+○0000000446○"The government scatters a strong insect repellent around the woods at the outskirts of town a couple of times a year."
+●0000000446●
+
+○0000000447○瑚太朗
+●0000000447●
+
+○0000000448○"So that insects won't bother us during our daily lives?"
+●0000000448●
+
+○0000000449○朱音
+●0000000449●
+
+○0000000450○"That's part of it, yes."
+●0000000450●
+
+○0000000451○瑚太朗
+●0000000451●
+
+○0000000452○"Is there something else?"
+●0000000452●
+
+○0000000453○朱音
+●0000000453●
+
+○0000000454○"Nothing of any great significance."
+●0000000454●
+
+○0000000455○Akane closes her mouth, as if she's tired of speaking.
+●0000000455●
+
+○0000000456○瑚太朗
+●0000000456●
+
+○0000000457○"I didn't know they were doing that..."
+●0000000457●
+
+○0000000458○瑚太朗
+●0000000458●
+
+○0000000459○"I thought we were supposed to be a cutting-edge natural town or whatever."
+●0000000459●
+
+○0000000460○朱音
+●0000000460●
+
+○0000000461○"Kazamatsuri is a beautiful town, isn't it?"
+●0000000461●
+
+○0000000462○瑚太朗
+●0000000462●
+
+○0000000463○"Sure."
+●0000000463●
+
+○0000000464○朱音
+●0000000464●
+
+○0000000465○"Would you like to live there if it was full of insects everywhere?"
+●0000000465●
+
+○0000000466○瑚太朗
+●0000000466●
+
+○0000000467○"I could handle it if they were butterflies or something along those lines..."
+●0000000467●
+
+○0000000468○朱音
+●0000000468●
+
+○0000000469○"Millipedes, caterpillars, worms."
+●0000000469●
+
+○0000000470○瑚太朗
+●0000000470●
+
+○0000000471○"Oh, you picked the three that have the highest potential to instantly knock you out by crawling out of your faucet."
+●0000000471●
+
+○0000000472○*thud*
+●0000000472●
+
+○0000000473○瑚太朗
+●0000000473●
+
+○0000000474○"Ouch..."
+●0000000474●
+
+○0000000475○Akane hits the top of my head.
+●0000000475●
+
+○0000000476○朱音
+●0000000476●
+
+○0000000477○"How dare you give me that mental image!"
+●0000000477●
+
+○0000000478○朱音
+●0000000478●
+
+○0000000479○"I ended up having the whole scene play out in my mind's eye."
+●0000000479●
+
+○0000000480○瑚太朗
+●0000000480●
+
+○0000000481○"I'm sorry. So what was it about those insects?"
+●0000000481●
+
+○0000000482○朱音
+●0000000482●
+
+○0000000483○"...There was a time when they were a problem in Kazamatsuri."
+●0000000483●
+
+○0000000484○朱音
+●0000000484●
+
+○0000000485○"It was back when they were still trying to make a proper city out of it, a dozen or so years back."
+●0000000485●
+
+○0000000486○瑚太朗
+●0000000486●
+
+○0000000487○"How did they become a problem?"
+●0000000487●
+
+○0000000488○朱音
+●0000000488●
+
+○0000000489○"They apparently multiplied to an extent that they covered all the walls and fences of most houses in town."
+●0000000489●
+
+○0000000490○瑚太朗
+●0000000490●
+
+○0000000491○"Ugh..."
+●0000000491●
+
+○0000000492○I break into goosebumps.
+●0000000492●
+
+○0000000493○朱音
+●0000000493●
+
+○0000000494○"That's what happens when you upset the natural balance of the area. Sometimes you don't even need to do that; it just occurs randomly."
+●0000000494●
+
+○0000000495○瑚太朗
+●0000000495●
+
+○0000000496○"So they had to exterminate them somehow."
+●0000000496●
+
+○0000000497○朱音
+●0000000497●
+
+○0000000498○"That's quite a short-sighted plan."
+●0000000498●
+
+○0000000499○瑚太朗
+●0000000499●
+
+○0000000500○"Huh? Is killing them not enough?"
+●0000000500●
+
+○0000000501○朱音
+●0000000501●
+
+○0000000502○"The natural environment is the result of a plethora of factors working upon one another."
+●0000000502●
+
+○0000000503○朱音
+●0000000503●
+
+○0000000504○"If you eliminate one of those factors, even if it seems inconvenient to you personally, it might result in damaging the entire system."
+●0000000504●
+
+○0000000505○瑚太朗
+●0000000505●
+
+○0000000506○"In short, unpleasant and filthy things are a part of nature."
+●0000000506●
+
+○0000000507○朱音
+●0000000507●
+
+○0000000508○"Exactly."
+●0000000508●
+
+○0000000509○瑚太朗
+●0000000509●
+
+○0000000510○"It's a nice story."
+●0000000510●
+
+○0000000511○瑚太朗
+●0000000511●
+
+○0000000512○"So it's not good to use stuff like insect repellent, right?"
+●0000000512●
+
+○0000000513○朱音
+●0000000513●
+
+○0000000514○"Oh no, I'll use it."
+●0000000514●
+
+○0000000515○*pshhhhhhhhhh*
+●0000000515●
+
+○0000000516○Akane wields two insect repellent bottles like swords and bathes her body in the spray.
+●0000000516●
+
+○0000000517○瑚太朗
+●0000000517●
+
+○0000000518○"Heeeey!!"
+●0000000518●
+
+○0000000519○What was the point of that story then?!
+●0000000519●
+
+○0000000520○朱音
+●0000000520●
+
+○0000000521○"All these filthy insects deserve to die."
+●0000000521●
+
+○0000000522○瑚太朗
+●0000000522●
+
+○0000000523○"But what about the ecosystem?!"
+●0000000523●
+
+○0000000524○朱音
+●0000000524●
+
+○0000000525○"It's fine. Even if it's temporarily thrown off, nature always finds a way to return to normal."
+●0000000525●
+
+○0000000526○朱音
+●0000000526●
+
+○0000000527○"Earth is an extremely flexible and resilient system. A few disturbances here and there shouldn't make a difference, so what's your problem?"
+●0000000527●
+
+○0000000528○瑚太朗
+●0000000528●
+
+○0000000529○"...No, uh, I'm fine if it makes you feel better, Prez."
+●0000000529●
+
+○0000000530○朱音
+●0000000530●
+
+○0000000531○"Tennouji."
+●0000000531●
+
+○0000000532○朱音
+●0000000532●
+
+○0000000533○"You'll come into contact with a lot of things in your life, and you'll undoubtedly form various opinions about them."
+●0000000533●
+
+○0000000534○瑚太朗
+●0000000534●
+
+○0000000535○"Huh?"
+●0000000535●
+
+○0000000536○朱音
+●0000000536●
+
+○0000000537○"If you continue paying attention to one-sided sets of values, your thoughts might easily end up getting infected by bias. I'd recommend you to be wary of that fact."
+●0000000537●
+
+○0000000538○瑚太朗
+●0000000538●
+
+○0000000539○"What does that even mean?"
+●0000000539●
+
+○0000000540○朱音
+●0000000540●
+
+○0000000541○"Exterminating insects might be a just action for the people tortured by their presence, but at the same time, it's a violent act that strains the ecosystem."
+●0000000541●
+
+○0000000542○瑚太朗
+●0000000542●
+
+○0000000543○"You're saying there are some things that appear to be right but just might actually be the opposite? I'm aware of that."
+●0000000543●
+
+○0000000544○朱音
+●0000000544●
+
+○0000000545○"Are you sure about that?"
+●0000000545●
+
+○0000000546○瑚太朗
+●0000000546●
+
+○0000000547○"You first need to learn how to be objective in order to write good propaganda."
+●0000000547●
+
+○0000000548○朱音
+●0000000548●
+
+○0000000549○"...That's quite the backwards opinion, but okay."
+●0000000549●
+
+○0000000550○朱音
+●0000000550●
+
+○0000000551○"As the inheritor of my wisdom, I'd like you to remain cold and impartial when making your decisions."
+●0000000551●
+
+○0000000552○朱音
+●0000000552●
+
+○0000000553○"After all, none of us humans can escape the fate of returning back to the system sooner or later."
+●0000000553●
+
+○0000000554○瑚太朗
+●0000000554●
+
+○0000000555○"...This is getting pretty heavy."
+●0000000555●
+
+○0000000556○瑚太朗
+●0000000556●
+
+○0000000557○"Wait, hold up. Did you say I was inheriting your wisdom? I don't remember ever becoming your student."
+●0000000557●
+
+○0000000558○朱音
+●0000000558●
+
+○0000000559○"What are you saying?"
+●0000000559●
+
+○0000000560○朱音
+●0000000560●
+
+○0000000561○"Your name has long been registered as an attendant of Senri's National Seminar online."
+●0000000561●
+
+○0000000562○瑚太朗
+●0000000562●
+
+○0000000563○"You did that without my permission!"
+●0000000563●
+
+○0000000564○朱音
+●0000000564●
+
+○0000000565○"And wouldn't you know it, your member number is actually in the single digits... Number 2!"
+●0000000565●
+
+○0000000566○瑚太朗
+●0000000566●
+
+○0000000567○"You just started it!"
+●0000000567●
+
+○0000000568○朱音
+●0000000568●
+
+○0000000569○"Everyone starts at the Third Level, but I think I can promote you to Level Two soon."
+●0000000569●
+
+○0000000570○朱音
+●0000000570●
+
+○0000000571○"The promotion fee is 2000 yen. Don't forget to wire it to my account."
+●0000000571●
+
+○0000000572○瑚太朗
+●0000000572●
+
+○0000000573○"How can you charge money for something like that?!"
+●0000000573●
+
+○0000000574○This woman is self-interest personified.
+●0000000574●
+
+○0000000575○瑚太朗
+●0000000575●
+
+○0000000576○"...I think she's feeling better now."
+●0000000576●
+
+○0000000577○ルチア
+●0000000577●
+
+○0000000578○"Well done."
+●0000000578●
+
+○0000000579○瑚太朗
+●0000000579●
+
+○0000000580○"I think I might be a few thousand yen short, though."
+●0000000580●
+
+○0000000581○ちはや
+●0000000581●
+
+○0000000582○"What?"
+●0000000582●
+
+○0000000583○小鳥
+●0000000583●
+
+○0000000584○"It looks like we can talk to her now, too."
+●0000000584●
+
+○0000000585○瑚太朗
+●0000000585●
+
+○0000000586○"Just talk to her like you always do. She's not a bad person."
+●0000000586●
+
+○0000000587○ちはや
+●0000000587●
+
+○0000000588○"But what's up with all these bugs here, though?"
+●0000000588●
+
+○0000000589○瑚太朗
+●0000000589●
+
+○0000000590○"Did you all bring insect repellent with you?"
+●0000000590●
+
+○0000000591○The girls each pull out a can from their pockets.
+●0000000591●
+
+○0000000592○瑚太朗
+●0000000592●
+
+○0000000593○"I'm glad none of you skimped on your preparations."
+●0000000593●
+
+○0000000594○小鳥
+●0000000594●
+
+○0000000595○"What about you, Kotarou?"
+●0000000595●
+
+○0000000596○瑚太朗
+●0000000596●
+
+○0000000597○"I'm fine as is. I can handle a few bugs."
+●0000000597●
+
+○0000000598○小鳥
+●0000000598●
+
+○0000000599○"As expected from a boy."
+●0000000599●
+
+○0000000600○瑚太朗
+●0000000600●
+
+○0000000601○"That said, the number of insects will only increase as we continue."
+●0000000601●
+
+○0000000602○ルチア
+●0000000602●
+
+○0000000603○"We might even run into a few animals."
+●0000000603●
+
+○0000000604○静流
+●0000000604●
+
+○0000000605○"Boar hot pot..."
+●0000000605●
+
+○0000000606○小鳥
+●0000000606●
+
+○0000000607○"She's already getting ready to eat!"
+●0000000607●
+
+○0000000608○ちはや
+●0000000608●
+
+○0000000609○"Now those are some wilderness survival skills!"
+●0000000609●
+
+○0000000610○瑚太朗
+●0000000610●
+
+○0000000611○"...The town is a few hours from here, you know."
+●0000000611●
+
+○0000000612○■マッピー／既読■　ID:
+●0000000612●
+
+○0000000613○ (Z
+●0000000613●
+
+○0000000614○-
+●0000000614●
+
+○0000000615○■マッピー／コンプリート■
+●0000000615●
+
+○0000000616○瑚太朗
+●0000000616●
+
+○0000000617○"Oh, there're some beautiful flowers here."
+●0000000617●
+
+○0000000618○小鳥
+●0000000618●
+
+○0000000619○"Those are rhododendrons. They can get a lot of sunshine in this area."
+●0000000619●
+
+○0000000620○静流
+●0000000620●
+
+○0000000621○"Those flowers have sweet roots. You can gain sustenance by sucking on them."
+●0000000621●
+
+○0000000622○瑚太朗
+●0000000622●
+
+○0000000623○"You sure are into all this survival stuff, Sizuru."
+●0000000623●
+
+○0000000625○■マッピー／既読■　ID:
+●0000000625●
+
+○0000000626○ (Z
+●0000000626●
+
+○0000000627○-
+●0000000627●
+
+○0000000628○■マッピー／コンプリート■
+●0000000628●
+
+○0000000629○瑚太朗
+●0000000629●
+
+○0000000630○"That's one tall tree... I wonder how old it is."
+●0000000630●
+
+○0000000631○瑚太朗
+●0000000631●
+
+○0000000632○"Okay, let's use the Chihaya Chainsaw to confirm its age real quick."
+●0000000632●
+
+○0000000633○ちはや
+●0000000633●
+
+○0000000634○"I can't do something like that, okay?"
+●0000000634●
+
+○0000000636○■マッピー／既読■　ID:
+●0000000636●
+
+○0000000637○ (Z
+●0000000637●
+
+○0000000638○-
+●0000000638●
+
+○0000000639○■マッピー／コンプリート■
+●0000000639●
+
+○0000000640○瑚太朗
+●0000000640●
+
+○0000000641○"It's a withered tree."
+●0000000641●
+
+○0000000642○瑚太朗
+●0000000642●
+
+○0000000643○"I guess there's stuff like that in nature, too."
+●0000000643●
+
+○0000000645○■マッピー／既読■　ID:
+●0000000645●
+
+○0000000646○ (Z
+●0000000646●
+
+○0000000647○-
+●0000000647●
+
+○0000000648○■マッピー／コンプリート■
+●0000000648●
+
+○0000000649○瑚太朗
+●0000000649●
+
+○0000000650○"Grass is growing over this fallen tree."
+●0000000650●
+
+○0000000651○瑚太朗
+●0000000651●
+
+○0000000652○"The scene kind of feels like a representation of life itself."
+●0000000652●
+
+○0000000654○■マッピー／既読■　ID:
+●0000000654●
+
+○0000000655○ (Z
+●0000000655●
+
+○0000000656○-
+●0000000656●
+
+○0000000657○■マッピー／コンプリート■
+●0000000657●
+
+○0000000658○瑚太朗
+●0000000658●
+
+○0000000659○"There are mushrooms growing here."
+●0000000659●
+
+○0000000660○瑚太朗
+●0000000660●
+
+○0000000661○"I wonder if I could get away with a little taste."
+●0000000661●
+
+○0000000662○小鳥
+●0000000662●
+
+○0000000663○"I wouldn't touch those if I were you."
+●0000000663●
+
+○0000000665○瑚太朗
+●0000000665●
+
+○0000000666○"Chihaya, there's mushrooms growing here."
+●0000000666●
+
+○0000000667○ちはや
+●0000000667●
+
+○0000000668○"Why do you keep pointing these things out to me?"
+●0000000668●
+
+○0000000669○ちはや
+●0000000669●
+
+○0000000670○"They do look pretty delicious, though."
+●0000000670●
+
+○0000000671○朱音
+●0000000671●
+
+○0000000672○"...You're seriously going to end up dying."
+●0000000672●
+
+○0000000674○*beeeeep*
+●0000000674●
+
+○0000000675○ちはや
+●0000000675●
+
+○0000000676○"Oh, it's from Sakuya."
+●0000000676●
+
+○0000000677○瑚太朗
+●0000000677●
+
+○0000000678○"Hm?"
+●0000000678●
+
+○0000000679○ちはや
+●0000000679●
+
+○0000000680○"...Those mushrooms aren't edible, apparently."
+●0000000680●
+
+○0000000681○瑚太朗
+●0000000681●
+
+○0000000682○"Hold on a sec... How'd he know that?! Is he monitoring us?!"
+●0000000682●
+
+○0000000684○■マッピー／既読■　ID:
+●0000000684●
+
+○0000000685○ (Z
+●0000000685●
+
+○0000000686○-
+●0000000686●
+
+○0000000687○■マッピー／コンプリート■
+●0000000687●
+
+○0000000688○瑚太朗
+●0000000688●
+
+○0000000689○"Hm? This tree has fruit growing on it."
+●0000000689●
+
+○0000000690○瑚太朗
+●0000000690●
+
+○0000000691○"But it's too high for me to reach."
+●0000000691●
+
+○0000000693○瑚太朗
+●0000000693●
+
+○0000000694○"Chihaya! This tree has fruit on it."
+●0000000694●
+
+○0000000695○ちはや
+●0000000695●
+
+○0000000696○"Ah, that's true."
+●0000000696●
+
+○0000000697○瑚太朗
+●0000000697●
+
+○0000000698○"It has fruit on it!"
+●0000000698●
+
+○0000000699○ちはや
+●0000000699●
+
+○0000000700○"Um, I can see that."
+●0000000700●
+
+○0000000701○瑚太朗
+●0000000701●
+
+○0000000702○"I'm saying it has fruit on it!"
+●0000000702●
+
+○0000000703○ちはや
+●0000000703●
+
+○0000000704○"What do you want from me?!"
+●0000000704●
+
+○0000000706○瑚太朗
+●0000000706●
+
+○0000000707○"Geez. A self-respecting gluttonous character would've toppled this tree over and started eating this fruit already."
+●0000000707●
+
+○0000000708○ちはや
+●0000000708●
+
+○0000000709○"I'm not going to do anything of the sort."
+●0000000709●
+
+○0000000710○静流
+●0000000710●
+
+○0000000711○"......"
+●0000000711●
+
+○0000000712○瑚太朗
+●0000000712●
+
+○0000000713○"Hey, get off that tree! You're gonna break your neck!"
+●0000000713●
+
+○0000000714○静流
+●0000000714●
+
+○0000000715○"Mh..."
+●0000000715●
+
+○0000000716○朱音
+●0000000716●
+
+○0000000717○"...Are those even edible?"
+●0000000717●
+
+○0000000719○ルチア
+●0000000719●
+
+○0000000720○"Here. I grabbed some for you."
+●0000000720●
+
+○0000000721○瑚太朗
+●0000000721●
+
+○0000000722○"Hold on a sec... How did you do that?"
+●0000000722●
+
+○0000000723○ルチア
+●0000000723●
+
+○0000000724○"I found a long twig lying on the ground."
+●0000000724●
+
+○0000000725○瑚太朗
+●0000000725●
+
+○0000000726○"That's... smart."
+●0000000726●
+
+○0000000727○静流
+●0000000727●
+
+○0000000728○"Crunch, crunch, crunch."
+●0000000728●
+
+○0000000729○朱音
+●0000000729●
+
+○0000000730○"...You're not going to live long like that."
+●0000000730●
+
+○0000000732○■マッピー／既読■　ID:
+●0000000732●
+
+○0000000733○ (Z
+●0000000733●
+
+○0000000734○-
+●0000000734●
+
+○0000000735○■マッピー／コンプリート■
+●0000000735●
+
+○0000000736○瑚太朗
+●0000000736●
+
+○0000000737○"There's a venomous snake here."
+●0000000737●
+
+○0000000738○瑚太朗
+●0000000738●
+
+○0000000739○"Let's run like hell."
+●0000000739●
+
+○0000000741○小鳥
+●0000000741●
+
+○0000000742○"Calm down."
+●0000000742●
+
+○0000000743○瑚太朗
+●0000000743●
+
+○0000000744○"Hm?"
+●0000000744●
+
+○0000000745○瑚太朗
+●0000000745●
+
+○0000000746○"Oh, I thought it was a snake, but it's just some old rope lying on the ground."
+●0000000746●
+
+○0000000748○瑚太朗
+●0000000748●
+
+○0000000749○"That said, the presence of rope in a place like this is a mystery in itself... if not horror."
+●0000000749●
+
+○0000000751○■マッピー／既読■　ID:
+●0000000751●
+
+○0000000752○ (Z
+●0000000752●
+
+○0000000753○-
+●0000000753●
+
+○0000000754○■マッピー／コンプリート■
+●0000000754●
+
+○0000000755○静流
+●0000000755●
+
+○0000000756○"I found a strange bug."
+●0000000756●
+
+○0000000757○瑚太朗
+●0000000757●
+
+○0000000758○"Ms. Sizuru... You're not afraid of anything, are you..."
+●0000000758●
+
+○0000000759○静流
+●0000000759●
+
+○0000000760○"...?"
+●0000000760●
+
+○0000000761○瑚太朗
+●0000000761●
+
+○0000000762○"It's nothing. Lemme see."
+●0000000762●
+
+○0000000763○瑚太朗
+●0000000763●
+
+○0000000764○"......"
+●0000000764●
+
+○0000000765○瑚太朗
+●0000000765●
+
+○0000000766○"It's a rhinoceros beetle with two horns!"
+●0000000766●
+
+○0000000767○瑚太朗
+●0000000767●
+
+○0000000768○"That's quite a discovery!"
+●0000000768●
+
+○0000000769○静流
+●0000000769●
+
+○0000000770○"Really?"
+●0000000770●
+
+○0000000771○ルチア
+●0000000771●
+
+○0000000772○"...Give it a closer look. It just has a small twig stuck to its head."
+●0000000772●
+
+○0000000773○ルチア
+●0000000773●
+
+○0000000774○"It probably got some tree sap on its head, and the rest is history."
+●0000000774●
+
+○0000000775○瑚太朗
+●0000000775●
+
+○0000000776○"Ugh..."
+●0000000776●
+
+○0000000777○瑚太朗
+●0000000777●
+
+○0000000778○"It looks like a new species at a glance though, so I'll take a pic anyway."
+●0000000778●
+
+○0000000780○瑚太朗
+●0000000780●
+
+○0000000781○"What do I do with this picture?"
+●0000000781●
+
+○0000000783○Send it to Inoue
+●0000000783●
+
+○0000000784○Don't send it
+●0000000784●
+
+○0000000785○井上
+●0000000785●
+
+○0000000786○"That's a pretty classic fake picture. I don't know where you found that thing, but I suppose it's kinda interesting if you're not looking for anything too serious."
+●0000000786●
+
+○0000000787○井上
+●0000000787●
+
+○0000000788○"It won't make the big news though."
+●0000000788●
+
+○0000000789○I receive an average evaluation.
+●0000000789●
+
+○0000000790○■マッピー／既読■　ID:
+●0000000790●
+
+○0000000791○ (Z
+●0000000791●
+
+○0000000792○-
+●0000000792●
+
+○0000000793○■マッピー／コンプリート■
+●0000000793●
+
+○0000000794○瑚太朗
+●0000000794●
+
+○0000000795○"I should focus on investigating around here instead of sending her false scoops."
+●0000000795●
+
+○0000000797○■マッピー／既読■　ID:
+●0000000797●
+
+○0000000798○ (Z
+●0000000798●
+
+○0000000799○-
+●0000000799●
+
+○0000000800○■マッピー／コンプリート■
+●0000000800●
+
+○0000000801○瑚太朗
+●0000000801●
+
+○0000000802○"There's a pink artificial-looking poop lying on the ground, shaped like it's straight from a manga."
+●0000000802●
+
+○0000000803○瑚太朗
+●0000000803●
+
+○0000000804○"Chihaya, that thing looks like poop."
+●0000000804●
+
+○0000000805○ちはや
+●0000000805●
+
+○0000000806○"It looks like some sort of toy."
+●0000000806●
+
+○0000000808○瑚太朗
+●0000000808●
+
+○0000000809○"It does look artificial..."
+●0000000809●
+
+○0000000810○瑚太朗
+●0000000810●
+
+○0000000811○"Sizuru, there's poop lying on the ground. Use a stick to play with it for a bit."
+●0000000811●
+
+○0000000812○静流
+●0000000812●
+
+○0000000813○"......"
+●0000000813●
+
+○0000000814○瑚太朗
+●0000000814●
+
+○0000000815○"She's looking for a stick with a 'leave it to me' expression."
+●0000000815●
+
+○0000000817○静流
+●0000000817●
+
+○0000000818○*poke* *poke* *poke*
+●0000000818●
+
+○0000000819○静流
+●0000000819●
+
+○0000000820○"Yay."
+●0000000820●
+
+○0000000821○ルチア
+●0000000821●
+
+○0000000822○"What are you doing, Sizuru...?"
+●0000000822●
+
+○0000000823○静流
+●0000000823●
+
+○0000000824○"......"
+●0000000824●
+
+○0000000825○ルチア
+●0000000825●
+
+○0000000826○"E-Eek! D-Don't hold it out at me!!"
+●0000000826●
+
+○0000000827○ルチア
+●0000000827●
+
+○0000000828○"U-Uahh!! Throw it away!! Throw it away!!"
+●0000000828●
+
+○0000000829○瑚太朗
+●0000000829●
+
+○0000000830○"Those two really get along. I can't believe they've got the energy to play tag in the middle of the forest."
+●0000000830●
+
+○0000000832○瑚太朗
+●0000000832●
+
+○0000000833○"They're still playing."
+●0000000833●
+
+○0000000834○ルチア
+●0000000834●
+
+○0000000835○"W-Wait, this isn't real!"
+●0000000835●
+
+○0000000836○瑚太朗
+●0000000836●
+
+○0000000837○"It'd be the discovery of the century if we found a natural poop that looked like that."
+●0000000837●
+
+○0000000838○静流
+●0000000838●
+
+○0000000839○"Yay."
+●0000000839●
+
+○0000000840○ルチア
+●0000000840●
+
+○0000000841○"Tch! Throw that thing away!"
+●0000000841●
+
+○0000000843○*toss*
+●0000000843●
+
+○0000000844○朱音
+●0000000844●
+
+○0000000845○"......"
+●0000000845●
+
+○0000000846○瑚太朗
+●0000000846●
+
+○0000000847○"It landed on Akane's head..."
+●0000000847●
+
+○0000000848○朱音
+●0000000848●
+
+○0000000849○"......"
+●0000000849●
+
+○0000000850○瑚太朗
+●0000000850●
+
+○0000000851○"......"
+●0000000851●
+
+○0000000852○瑚太朗
+●0000000852●
+
+○0000000853○"Th-This must be a sign of good luck!"
+●0000000853●
+
+○0000000854○朱音
+●0000000854●
+
+○0000000855○"......"
+●0000000855●
+
+○0000000856○瑚太朗
+●0000000856●
+
+○0000000857○"Oh no, she's ready to snap..."
+●0000000857●
+
+○0000000858○瑚太朗
+●0000000858●
+
+○0000000859○"W-We need to pick up the pace, everyone!"
+●0000000859●
+
+○0000000861○瑚太朗
+●0000000861●
+
+○0000000862○"Akane still has that poop on her head. I wonder if she took a liking to it."
+●0000000862●
+
+○0000000863○瑚太朗
+●0000000863●
+
+○0000000864○"It suits you, Class Rep!"
+●0000000864●
+
+○0000000866○*THWACK*
+●0000000866●
+
+○0000000867○瑚太朗
+●0000000867●
+
+○0000000868○"...She threw it at me."
+●0000000868●
+
+○0000000870○■マッピー／既読■　ID:
+●0000000870●
+
+○0000000871○ (Z
+●0000000871●
+
+○0000000872○-
+●0000000872●
+
+○0000000873○■マッピー／コンプリート■
+●0000000873●
+
+○0000000874○瑚太朗
+●0000000874●
+
+○0000000875○"What? Who could have left a porn magazine in a place like this?"
+●0000000875●
+
+○0000000876○瑚太朗
+●0000000876●
+
+○0000000877○"This enigmatic perpetrator is certainly one of the biggest mysteries of Kazamatsuri."
+●0000000877●
+
+○0000000878○瑚太朗
+●0000000878●
+
+○0000000879○"......"
+●0000000879●
+
+○0000000880○瑚太朗
+●0000000880●
+
+○0000000881○"I give this a 3/10. Not good at all."
+●0000000881●
+
+○0000000882○ルチア
+●0000000882●
+
+○0000000883○"What did you find?"
+●0000000883●
+
+○0000000884○瑚太朗
+●0000000884●
+
+○0000000885○"Ah, it's just a piece of trash!"
+●0000000885●
+
+○0000000886○ルチア
+●0000000886●
+
+○0000000887○"I see. We better bring it back with us, then. I brought a garbage bag, so we can put it in that."
+●0000000887●
+
+○0000000888○瑚太朗
+●0000000888●
+
+○0000000889○"Huh?! You want to bring it with you?!"
+●0000000889●
+
+○0000000890○ルチア
+●0000000890●
+
+○0000000891○"It's garbage, right? That's just common sense!"
+●0000000891●
+
+○0000000892○瑚太朗
+●0000000892●
+
+○0000000893○"W-Well... Here, you can have it if you insist..."
+●0000000893●
+
+○0000000894○ルチア
+●0000000894●
+
+○0000000895○"......"
+●0000000895●
+
+○0000000896○瑚太朗
+●0000000896●
+
+○0000000897○"W-Wait! I just found it lying here! I don't want a low quality magazine like this for my collection anyway!"
+●0000000897●
+
+○0000000899○*THWAP!*
+●0000000899●
+
+○0000000900○瑚太朗
+●0000000900●
+
+○0000000901○"...This isn't fair."
+●0000000901●
+
+○0000000903○■マッピー／既読■　ID:
+●0000000903●
+
+○0000000904○ (Z
+●0000000904●
+
+○0000000905○-
+●0000000905●
+
+○0000000906○■マッピー／コンプリート■
+●0000000906●
+
+○0000000907○静流
+●0000000907●
+
+○0000000908○"......"
+●0000000908●
+
+○0000000910○H-Huh? I think I felt a weird presence.
+●0000000910●
+
+○0000000911○I purposely fall behind to check around.
+●0000000911●
+
+○0000000912○...How come Sizuru didn't feel it?
+●0000000912●
+
+○0000000913○瑚太朗
+●0000000913●
+
+○0000000914○"Ah, it's a Sukumon!"
+●0000000914●
+
+○0000000916○Found it.
+●0000000916●
+
+○0000000917○A grasshopper with horns.
+●0000000917●
+
+○0000000918○It's around fifteen centimeters in length.
+●0000000918●
+
+○0000000919○It's obviously different from the other insects in the area, too.
+●0000000919●
+
+○0000000920○子供
+●0000000920●
+
+○0000000921○"That's a Horned Grasshopper! The speed Sukumon!"
+●0000000921●
+
+○0000000922○This kid once again appears out of nowhere.
+●0000000922●
+
+○0000000923○子供
+●0000000923●
+
+○0000000924○"To catch Sukumon, you've either got to use the Hunting Gun or fight them!"
+●0000000924●
+
+○0000000925○瑚太朗
+●0000000925●
+
+○0000000926○"Sounds like a pain. I'm not sure I want it that much."
+●0000000926●
+
+○0000000928○子供
+●0000000928●
+
+○0000000929○"Hurry up or it'll escape!"
+●0000000929●
+
+○0000000930○瑚太朗
+●0000000930●
+
+○0000000931○"Yeah, whatever."
+●0000000931●
+
+○0000000933○I pull the trigger of the so-called Hunting Gun.
+●0000000933●
+
+○0000000934○I hit my target, but...
+●0000000934●
+
+○0000000935○*rrrip*
+●0000000935●
+
+○0000000936○The cord snaps when I try to pull it back.
+●0000000936●
+
+○0000000937○子供
+●0000000937●
+
+○0000000938○"Ah! I guess you can't catch low level Sukumon with a gun after all!"
+●0000000938●
+
+○0000000939○瑚太朗
+●0000000939●
+
+○0000000940○"...Can't I just catch them with my own hands?"
+●0000000940●
+
+○0000000942○子供
+●0000000942●
+
+○0000000943○"You can't just catch a Sukumon like that. I'll have you know that they transcend the limits of human reflexes by a wide―"
+●0000000943●
+
+○0000000944○瑚太朗
+●0000000944●
+
+○0000000945○"...Here, I got one."
+●0000000945●
+
+○0000000947○子供
+●0000000947●
+
+○0000000948○"WHAAAT?!"
+●0000000948●
+
+○0000000949○瑚太朗
+●0000000949●
+
+○0000000950○"They're fast, but it's not impossible if your eyes get used to it."
+●0000000950●
+
+○0000000952○The grasshopper sits calmly in my hands.
+●0000000952●
+
+○0000000953○It was running around like crazy when I was trying to catch it, but its spirit practically left its body the moment I got a hold of it.
+●0000000953●
+
+○0000000954○■友達■　ID:
+●0000000954●
+
+○0000000955○　NO:
+●0000000955●
+
+○0000000956○子供
+●0000000956●
+
+○0000000957○"Y-You're good, old man... Okay, put it in this monster cage."
+●0000000957●
+
+○0000000958○子供
+●0000000958●
+
+○0000000959○"Now you can call yourself a Sukumon breeder like the rest of us!"
+●0000000959●
+
+○0000000960○瑚太朗
+●0000000960●
+
+○0000000961○"Can I use it to do battles now?"
+●0000000961●
+
+○0000000963○子供
+●0000000963●
+
+○0000000964○"Yeah, there's lots of breeders in the forest today."
+●0000000964●
+
+○0000000965○子供
+●0000000965●
+
+○0000000966○"I even heard that Kazamatsuri's champion is here today, too."
+●0000000966●
+
+○0000000967○瑚太朗
+●0000000967●
+
+○0000000968○"You said there were legendary Sukumon or something?"
+●0000000968●
+
+○0000000970○子供
+●0000000970●
+
+○0000000971○"Yeah, but it'd be no use trying to fight them with your low level thing."
+●0000000971●
+
+○0000000972○スクモン使い
+●0000000972●
+
+○0000000973○"Oh, I found my first victim today."
+●0000000973●
+
+○0000000974○A middle-school-looking brat appears.
+●0000000974●
+
+○0000000975○子供
+●0000000975●
+
+○0000000976○"I know you! You're that bad guy who forces his Sukumon beyond their limits to win!"
+●0000000976●
+
+○0000000977○スクモン使い
+●0000000977●
+
+○0000000978○"Huh? I can use my Sukumon however I want!"
+●0000000978●
+
+○0000000979○子供
+●0000000979●
+
+○0000000980○"...I can't forgive jerks who don't treasure their Sukumon!"
+●0000000980●
+
+○0000000981○子供
+●0000000981●
+
+○0000000982○"It's time for battle!"
+●0000000982●
+
+○0000000983○And so the battle begins.
+●0000000983●
+
+○0000000984○スクモン使い
+●0000000984●
+
+○0000000985○"Stag! Scissor attack!"
+●0000000985●
+
+○0000000986○子供
+●0000000986●
+
+○0000000987○"Uaaahh! He got me!!"
+●0000000987●
+
+○0000000988○The kid's drone beetle got defeated by the other's giant stag beetle.
+●0000000988●
+
+○0000000989○子供
+●0000000989●
+
+○0000000990○"Khh... I can't believe I'd lose to scum like that!"
+●0000000990●
+
+○0000000991○スクモン使い
+●0000000991●
+
+○0000000992○"You should know your place, loser."
+●0000000992●
+
+○0000000993○The middle schooler pushes the kid.
+●0000000993●
+
+○0000000994○I catch him from behind before he falls to the ground.
+●0000000994●
+
+○0000000995○瑚太朗
+●0000000995●
+
+○0000000996○"...If you want to be violent, I'll take you on."
+●0000000996●
+
+○0000000998○子供
+●0000000998●
+
+○0000000999○"Old man! Don't be stupid!"
+●0000000999●
+
+○0000001000○スクモン使い
+●0000001000●
+
+○0000001001○"Hah. Fair enough! Regardless of if you're a high schooler or not, everyone's equal in this world!"
+●0000001001●
+
+○0000001002○瑚太朗
+●0000001002●
+
+○0000001003○"Go! Horny-Hopper!"
+●0000001003●
+
+○0000001005○...And so I won.
+●0000001005●
+
+○0000001006○I fought off all the underhanded tactics he threw at me, had my Sukumon power up multiple times through the bond of our friendship, had it return from the brink of defeat, and so on... but I'll omit those parts.
+●0000001006●
+
+○0000001007○You won the Sukumon battle!
+●0000001007●
+
+○0000001008○Horny-Hopper leveled up!
+●0000001008●
+
+○0000001009○スクモン使い
+●0000001009●
+
+○0000001010○"I-I lost... I won't do bad things again..."
+●0000001010●
+
+○0000001011○The brat shuffles away in shame.
+●0000001011●
+
+○0000001012○■友達■　ID:
+●0000001012●
+
+○0000001013○　NO:
+●0000001013●
+
+○0000001014○子供
+●0000001014●
+
+○0000001015○"You're pretty good, old man. No... Bro!"
+●0000001015●
+
+○0000001016○瑚太朗
+●0000001016●
+
+○0000001017○"It's about time you acknowledge my young age."
+●0000001017●
+
+○0000001019○子供
+●0000001019●
+
+○0000001020○"You might become a great Sukumon breeder in the future! See you around!"
+●0000001020●
+
+○0000001021○The Sukumon kid leaves with a saunter.
+●0000001021●
+
+○0000001022○瑚太朗
+●0000001022●
+
+○0000001023○"Oh crap, I fell behind. I hope they haven't gone too far."
+●0000001023●
+
+○0000001024○■マッピー／既読■　ID:
+●0000001024●
+
+○0000001025○ (Z
+●0000001025●
+
+○0000001026○-
+●0000001026●
+
+○0000001027○■マッピー／コンプリート■
+●0000001027●
+
+○0000001028○いなずまのシュン
+●0000001028●
+
+○0000001029○"Would you have a Sukumon battle with me, sir?"
+●0000001029●
+
+○0000001030○A Sukumon breeder appears.
+●0000001030●
+
+○0000001031○ちはや
+●0000001031●
+
+○0000001032○"Who is this?"
+●0000001032●
+
+○0000001033○瑚太朗
+●0000001033●
+
+○0000001034○"Ah, uh... No need to wait up for me."
+●0000001034●
+
+○0000001036○I don't want to involve the others in this.
+●0000001036●
+
+○0000001037○いなずまのシュン
+●0000001037●
+
+○0000001038○"So, will you fight me, sir?"
+●0000001038●
+
+○0000001039○瑚太朗
+●0000001039●
+
+○0000001040○"...Yeah, let's go."
+●0000001040●
+
+○0000001042○...
+●0000001042●
+
+○0000001043○B
+●0000001043●
+
+○0000001044○A
+●0000001044●
+
+○0000001045○TT
+●0000001045●
+
+○0000001046○L
+●0000001046●
+
+○0000001047○E
+●0000001047●
+
+○0000001048○...
+●0000001048●
+
+○0000001049○瑚太朗
+●0000001049●
+
+○0000001050○"...I won."
+●0000001050●
+
+○0000001052○いなずまのシュン
+●0000001052●
+
+○0000001053○"I lost...!!"
+●0000001053●
+
+○0000001054○いなずまのシュン
+●0000001054●
+
+○0000001055○"I can't believe my Buttersky could lose to such a low level Sukumon!!"
+●0000001055●
+
+○0000001056○いなずまのシュン
+●0000001056●
+
+○0000001057○"But a loss is a loss. You can have your prize."
+●0000001057●
+
+○0000001058○The kid hands a bunch of cash to me.
+●0000001058●
+
+○0000001059○瑚太朗
+●0000001059●
+
+○0000001060○"Like hell I'm taking that!! Why're you handing me cash like it's the most natural thing in the world?!"
+●0000001060●
+
+○0000001062○いなずまのシュン
+●0000001062●
+
+○0000001063○"...What are you talking about? Those are the Sukumon rules."
+●0000001063●
+
+○0000001064○瑚太朗
+●0000001064●
+
+○0000001065○"You mean we're playing for real money here?"
+●0000001065●
+
+○0000001067○That can't sit well with the authorities.
+●0000001067●
+
+○0000001068○瑚太朗
+●0000001068●
+
+○0000001069○"I'll be suspended from school if I take money from a grade schooler. No thanks."
+●0000001069●
+
+○0000001071○いなずまのシュン
+●0000001071●
+
+○0000001072○"What a righteous man!!"
+●0000001072●
+
+○0000001073○いなずまのシュン
+●0000001073●
+
+○0000001074○"I hope we'll have the chance to fight again!"
+●0000001074●
+
+○0000001075○He shakes my hand and prances into the forest.
+●0000001075●
+
+○0000001076○■友達■　ID:
+●0000001076●
+
+○0000001077○　NO:
+●0000001077●
+
+○0000001078○You won the Sukumon battle!
+●0000001078●
+
+○0000001079○Horny-Hopper leveled up!
+●0000001079●
+
+○0000001080○■マッピー／既読■　ID:
+●0000001080●
+
+○0000001081○ (Z
+●0000001081●
+
+○0000001082○-
+●0000001082●
+
+○0000001083○■マッピー／コンプリート■
+●0000001083●
+
+○0000001084○はやてのラン
+●0000001084●
+
+○0000001085○"Let's... fight Sukumon... Mister."
+●0000001085●
+
+○0000001086○A Sukumon breeder appears.
+●0000001086●
+
+○0000001087○But it's a preschooler.
+●0000001087●
+
+○0000001088○A mother with an overbearing smile is accompanying her.
+●0000001088●
+
+○0000001089○I tell everyone to continue on without me.
+●0000001089●
+
+○0000001090○I don't want to get them involved.
+●0000001090●
+
+○0000001091○瑚太朗
+●0000001091●
+
+○0000001092○(Sizuru might get addicted.)
+●0000001092●
+
+○0000001094○That probably wouldn't be good.
+●0000001094●
+
+○0000001095○瑚太朗
+●0000001095●
+
+○0000001096○"...Um, are you her mother?"
+●0000001096●
+
+○0000001098○母親
+●0000001098●
+
+○0000001099○"Yes."
+●0000001099●
+
+○0000001100○瑚太朗
+●0000001100●
+
+○0000001101○"Sukumon are all well and good, but are you sure it's a good idea to wander through a forest with a child? You might get attacked by a wild dog or something."
+●0000001101●
+
+○0000001103○母親
+●0000001103●
+
+○0000001104○"...Now that you mention it..."
+●0000001104●
+
+○0000001105○瑚太朗
+●0000001105●
+
+○0000001106○"I would recommend that you promptly relocate to a safer area."
+●0000001106●
+
+○0000001107○瑚太朗
+●0000001107●
+
+○0000001108○"We can have a battle then and there."
+●0000001108●
+
+○0000001110○母親
+●0000001110●
+
+○0000001111○"You're right. Thank you for the advice."
+●0000001111●
+
+○0000001112○The two leave the forest.
+●0000001112●
+
+○0000001113○■友達■　ID:
+●0000001113●
+
+○0000001114○　NO:
+●0000001114●
+
+○0000001115○You won the Sukumon battle!
+●0000001115●
+
+○0000001116○Horny-Hopper leveled up!
+●0000001116●
+
+○0000001117○瑚太朗
+●0000001117●
+
+○0000001118○"Why?!"
+●0000001118●
+
+○0000001120○子供
+●0000001120●
+
+○0000001121○"...That's impressive, Bro. You've found a way to win without even fighting."
+●0000001121●
+
+○0000001122○瑚太朗
+●0000001122●
+
+○0000001123○"Are you following me?"
+●0000001123●
+
+○0000001125○子供
+●0000001125●
+
+○0000001126○"N-No! It's not like I've got that much free time or anything!"
+●0000001126●
+
+○0000001127○子供
+●0000001127●
+
+○0000001128○"I'm just looking out for you since you're a beginner!"
+●0000001128●
+
+○0000001129○瑚太朗
+●0000001129●
+
+○0000001130○"...Whatever you say."
+●0000001130●
+
+○0000001132○子供
+●0000001132●
+
+○0000001133○"You've still only scratched the surface of the Sukumon world, okay?!"
+●0000001133●
+
+○0000001134○The kid runs away.
+●0000001134●
+
+○0000001135○瑚太朗
+●0000001135●
+
+○0000001136○"I dunno... It feels pretty shallow to me."
+●0000001136●
+
+○0000001138○■マッピー／既読■　ID:
+●0000001138●
+
+○0000001139○ (Z
+●0000001139●
+
+○0000001140○-
+●0000001140●
+
+○0000001141○■マッピー／コンプリート■
+●0000001141●
+
+○0000001142○げきりゅうのダイサク
+●0000001142●
+
+○0000001143○"Uooooohh!! Fight meh!"
+●0000001143●
+
+○0000001144○A Sukumon breeder appears.
+●0000001144●
+
+○0000001145○Everyone has the good sense to hurry on ahead.
+●0000001145●
+
+○0000001146○瑚太朗
+●0000001146●
+
+○0000001147○"...Fine."
+●0000001147●
+
+○0000001148○...
+●0000001148●
+
+○0000001149○B
+●0000001149●
+
+○0000001150○A
+●0000001150●
+
+○0000001151○TT
+●0000001151●
+
+○0000001152○L
+●0000001152●
+
+○0000001153○E
+●0000001153●
+
+○0000001154○...
+●0000001154●
+
+○0000001155○瑚太朗
+●0000001155●
+
+○0000001156○"...I won."
+●0000001156●
+
+○0000001158○げきりゅうのダイサク
+●0000001158●
+
+○0000001159○"I lost...!"
+●0000001159●
+
+○0000001160○げきりゅうのダイサク
+●0000001160●
+
+○0000001161○"Th' world o' battles be tough!"
+●0000001161●
+
+○0000001162○瑚太朗
+●0000001162●
+
+○0000001163○"Um, kid... Do you talk like that in school, too?"
+●0000001163●
+
+○0000001165○げきりゅうのダイサク
+●0000001165●
+
+○0000001166○"No, I speak normally in school."
+●0000001166●
+
+○0000001167○瑚太朗
+●0000001167●
+
+○0000001168○"......"
+●0000001168●
+
+○0000001170○げきりゅうのダイサク
+●0000001170●
+
+○0000001171○"It's important to have a unique personality here."
+●0000001171●
+
+○0000001172○瑚太朗
+●0000001172●
+
+○0000001173○"......"
+●0000001173●
+
+○0000001175○The kid takes some cash out of his pocket.
+●0000001175●
+
+○0000001176○げきりゅうのダイサク
+●0000001176●
+
+○0000001177○"Here. I don't have much, but..."
+●0000001177●
+
+○0000001178○瑚太朗
+●0000001178●
+
+○0000001179○"You can keep it."
+●0000001179●
+
+○0000001181○げきりゅうのダイサク
+●0000001181●
+
+○0000001182○"Seriously?! Thanks, Bro!! See ya!!"
+●0000001182●
+
+○0000001183○瑚太朗
+●0000001183●
+
+○0000001184○"...See you."
+●0000001184●
+
+○0000001185○■友達■　ID:
+●0000001185●
+
+○0000001186○　NO:
+●0000001186●
+
+○0000001188○You won the Sukumon battle!
+●0000001188●
+
+○0000001189○Horny-Hopper leveled up!
+●0000001189●
+
+○0000001190○■マッピー／既読■　ID:
+●0000001190●
+
+○0000001191○ (Z
+●0000001191●
+
+○0000001192○-
+●0000001192●
+
+○0000001193○■マッピー／コンプリート■
+●0000001193●
+
+○0000001194○As I make my way through the forest, I run into a good-looking kid.
+●0000001194●
+
+○0000001195○He has the air of a final boss about him.
+●0000001195●
+
+○0000001196○美少年
+●0000001196●
+
+○0000001197○"Heh heh heh. Do you believe you can defeat my Sukumon?"
+●0000001197●
+
+○0000001198○He's straight to the point, at least.
+●0000001198●
+
+○0000001199○By the way, the others pretended they didn't notice him and continued ahead without me.
+●0000001199●
+
+○0000001200○Sizuru seemed curious, but Class Rep pulled her away.
+●0000001200●
+
+○0000001201○...I suppose that's a natural reaction in these circumstances.
+●0000001201●
+
+○0000001202○瑚太朗
+●0000001202●
+
+○0000001203○"Who are you?"
+●0000001203●
+
+○0000001204○美少年
+●0000001204●
+
+○0000001205○"I am the champion."
+●0000001205●
+
+○0000001206○瑚太朗
+●0000001206●
+
+○0000001207○"Ah, I see."
+●0000001207●
+
+○0000001208○チャンピオン
+●0000001208●
+
+○0000001209○"You cannot become the Sukumon champion unless you defeat me."
+●0000001209●
+
+○0000001210○瑚太朗
+●0000001210●
+
+○0000001211○"Okay. Let's do it then, I guess."
+●0000001211●
+
+○0000001212○We fought.
+●0000001212●
+
+○0000001213○I lost.
+●0000001213●
+
+○0000001214○Horny-Hopper was forced to yield to the champion's Sukumon.
+●0000001214●
+
+○0000001215○His thing is a monster at least a few dozen centimeters in length.
+●0000001215●
+
+○0000001216○Suffering complete defeat, Horny-Hopper turns into motes of light and scatters into the air.
+●0000001216●
+
+○0000001217○チャンピオン
+●0000001217●
+
+○0000001218○"It seems my Kaiser Beetle proved to be victorious."
+●0000001218●
+
+○0000001219○瑚太朗
+●0000001219●
+
+○0000001220○"Yeah. GG."
+●0000001220●
+
+○0000001221○子供
+●0000001221●
+
+○0000001222○"Damn! Is this how it all ends?! DAAAAMNNN!!"
+●0000001222●
+
+○0000001223○瑚太朗
+●0000001223●
+
+○0000001224○"Just when did you get here?"
+●0000001224●
+
+○0000001225○瑚太朗
+●0000001225●
+
+○0000001226○"It's your fault for getting too caught up in this, kid."
+●0000001226●
+
+○0000001227○子供
+●0000001227●
+
+○0000001228○"We can't lose! Not after the Horny-Hopper's sacrifice!"
+●0000001228●
+
+○0000001229○瑚太朗
+●0000001229●
+
+○0000001230○"A loss is still a loss, right?"
+●0000001230●
+
+○0000001231○子供
+●0000001231●
+
+○0000001232○"...Yeah."
+●0000001232●
+
+○0000001233○瑚太朗
+●0000001233●
+
+○0000001234○"I don't have any other Sukumon, either."
+●0000001234●
+
+○0000001235○子供
+●0000001235●
+
+○0000001236○"...Yeah."
+●0000001236●
+
+○0000001237○The boy visibly deflates.
+●0000001237●
+
+○0000001238○瑚太朗
+●0000001238●
+
+○0000001239○"Anyway, I'm kinda busy, so I'll be on my way."
+●0000001239●
+
+○0000001240○子供
+●0000001240●
+
+○0000001241○"Ah, yeah... Bye bye."
+●0000001241●
+
+○0000001242○Yes! I finally managed to get out of this nonsense!
+●0000001242●
+
+○0000001243○Suddenly, it happens.
+●0000001243●
+
+○0000001244○My right arm begins shining.
+●0000001244●
+
+○0000001245○And HE appears.
+●0000001245●
+
+○0000001246○伝説のスクモン
+●0000001246●
+
+○0000001247○"Gar!"
+●0000001247●
+
+○0000001248○子供
+●0000001248●
+
+○0000001249○"Th-That's the legendary Sukumon, Gigasaurus!"
+●0000001249●
+
+○0000001250○■友達■　ID:
+●0000001250●
+
+○0000001251○　NO:
+●0000001251●
+
+○0000001252○瑚太朗
+●0000001252●
+
+○0000001253○"Oh yeah, I forgot I got this a while back."
+●0000001253●
+
+○0000001254○子供
+●0000001254●
+
+○0000001255○"We can do it! We can win with this on our side!"
+●0000001255●
+
+○0000001256○チャンピオン
+●0000001256●
+
+○0000001257○"Hm, I knew you wouldn't go down so easily."
+●0000001257●
+
+○0000001258○チャンピオン
+●0000001258●
+
+○0000001259○"But do you truly believe some old legend is enough to defeat my Kaiser?"
+●0000001259●
+
+○0000001260○A blood-boiling battle ensues.
+●0000001260●
+
+○0000001261○But the champion is strong, holding his own against a legend.
+●0000001261●
+
+○0000001262○子供
+●0000001262●
+
+○0000001263○"Kh... Are you telling me that not even a legendary Sukumon is enough to defeat him alone?!"
+●0000001263●
+
+○0000001264○いなずまのシュン
+●0000001264●
+
+○0000001265○"He's not alone."
+●0000001265●
+
+○0000001266○They appear out of nowhere.
+●0000001266●
+
+○0000001267○はやてのラン
+●0000001267●
+
+○0000001268○"If we unite...!"
+●0000001268●
+
+○0000001269○ランの母
+●0000001269●
+
+○0000001270○"Everyone's...!"
+●0000001270●
+
+○0000001271○げきりゅうのダイサク
+●0000001271●
+
+○0000001272○"Power...!"
+●0000001272●
+
+○0000001273○スクモン使い
+●0000001273●
+
+○0000001274○"We can win...!"
+●0000001274●
+
+○0000001275○知らない仲間
+●0000001275●
+
+○0000001276○"Against anyone...!"
+●0000001276●
+
+○0000001277○I end up winning by relying on numbers.
+●0000001277●
+
+○0000001278○チャンピオン
+●0000001278●
+
+○0000001279○"...I lost. You've won fair and square."
+●0000001279●
+
+○0000001280○瑚太朗
+●0000001280●
+
+○0000001281○"Ah... Is this one of those scenes where I'm supposed to give an uplifting speech?"
+●0000001281●
+
+○0000001282○瑚太朗
+●0000001282●
+
+○0000001283○"Okay, well... Treat things like the possibilities of people and gentleness and friendship with more importance, I guess."
+●0000001283●
+
+○0000001284○チャンピオン
+●0000001284●
+
+○0000001285○"Yes, I shall do that."
+●0000001285●
+
+○0000001286○■友達■　ID:
+●0000001286●
+
+○0000001287○　NO:
+●0000001287●
+
+○0000001288○The journey to become the Sukumon king has come to an end.
+●0000001288●
+
+○0000001289○I feel like I wasted my time.
+●0000001289●
+
+○0000001290○瑚太朗
+●0000001290●
+
+○0000001291○"...I'd like a reward after all this trouble, honestly."
+●0000001291●
+
+○0000001292○子供
+●0000001292●
+
+○0000001293○"There is one."
+●0000001293●
+
+○0000001294○瑚太朗
+●0000001294●
+
+○0000001295○"Is it something good?"
+●0000001295●
+
+○0000001296○The boy hesitates.
+●0000001296●
+
+○0000001297○Then, he takes off his cap.
+●0000001297●
+
+○0000001298○Long hair tumbles down his shoulders from underneath.
+●0000001298●
+
+○0000001299○子供
+●0000001299●
+
+○0000001300○"To tell you the truth, I was a girl all along. I used narrative tricks to hide my identity."
+●0000001300●
+
+○0000001301○瑚太朗
+●0000001301●
+
+○0000001302○"Huh...?"
+●0000001302●
+
+○0000001303○子供
+●0000001303●
+
+○0000001304○"I'm actually in lo―"
+●0000001304●
+
+○0000001305○瑚太朗
+●0000001305●
+
+○0000001306○"Bye."
+●0000001306●
+
+○0000001307○子供
+●0000001307●
+
+○0000001308○"Ah, wait!"
+●0000001308●
+
+○0000001309○I hurriedly shuffle away.
+●0000001309●
+
+○0000001310○■友達■　ID:
+●0000001310●
+
+○0000001311○　NO:
+●0000001311●
+
+○0000001312○瑚太朗
+●0000001312●
+
+○0000001313○"I already have enough weirdos in my life..."
+●0000001313●
+
+○0000001314○I sure did waste my time today.
+●0000001314●
+
+○0000001315○You've received the title of "Sukumon Champion"!
+●0000001315●
+
+○0000001316○■マッピー／既読■　ID:
+●0000001316●
+
+○0000001317○ (Z
+●0000001317●
+
+○0000001318○-
+●0000001318●
+
+○0000001319○■マッピー／コンプリート■
+●0000001319●
+
+○0000001320○Sukumon Champion: 
+●0000001320●
+
+○0000001321○dummy
+●0000001321●
+
+○0000001322○sys20_adv00
+●0000001322●
+
+○0000001323○kuro
+●0000001323●
+
+○0000001324○sys20_adv00
+●0000001324●
+
+○0000001325○bg014
+●0000001325●
+
+○0000001326○bgm035
+●0000001326●
+
+○0000001327○sys20_adv00
+●0000001327●
+
+○0000001328○cgm_ak13a
+●0000001328●
+
+○0000001329○cgm_lc11a
+●0000001329●
+
+○0000001330○sys20_adv00
+●0000001330●
+
+○0000001331○cgm_kt25a
+●0000001331●
+
+○0000001332○sys20_adv00
+●0000001332●
+
+○0000001333○cgm_ak31a
+●0000001333●
+
+○0000001334○sys20_adv00
+●0000001334●
+
+○0000001335○cgm_lc16ah
+●0000001335●
+
+○0000001336○sys20_adv00
+●0000001336●
+
+○0000001337○cgm_kt14a
+●0000001337●
+
+○0000001338○sys20_adv00
+●0000001338●
+
+○0000001339○cgm_ak23a
+●0000001339●
+
+○0000001340○sys20_adv00
+●0000001340●
+
+○0000001341○cgm_kt34a
+●0000001341●
+
+○0000001342○sys20_adv00
+●0000001342●
+
+○0000001343○sys20_adv00
+●0000001343●
+
+○0000001344○cgm_ak11ah
+●0000001344●
+
+○0000001345○sys20_adv00
+●0000001345●
+
+○0000001346○cgm_ch13a
+●0000001346●
+
+○0000001347○sys20_adv00
+●0000001347●
+
+○0000001348○cgm_kt25a
+●0000001348●
+
+○0000001349○sys20_adv00
+●0000001349●
+
+○0000001350○cgm_lc11ah
+●0000001350●
+
+○0000001351○sys20_adv00
+●0000001351●
+
+○0000001352○cgm_kt17a
+●0000001352●
+
+○0000001353○sys20_adv00
+●0000001353●
+
+○0000001354○cgm_kt18a
+●0000001354●
+
+○0000001355○sys20_adv00
+●0000001355●
+
+○0000001356○cgm_ak23a
+●0000001356●
+
+○0000001357○sys20_adv00
+●0000001357●
+
+○0000001358○cgm_ch10a
+●0000001358●
+
+○0000001359○sys20_adv00
+●0000001359●
+
+○0000001360○cgm_kt11a
+●0000001360●
+
+○0000001361○cgm_ch10a
+●0000001361●
+
+○0000001362○sys20_adv00
+●0000001362●
+
+○0000001363○cgm_kt11a
+●0000001363●
+
+○0000001364○cgm_ch12a
+●0000001364●
+
+○0000001365○sys20_adv00
+●0000001365●
+
+○0000001366○cgm_kt12a
+●0000001366●
+
+○0000001367○cgm_ch12a
+●0000001367●
+
+○0000001368○sys20_adv00
+●0000001368●
+
+○0000001369○cgm_sz10as
+●0000001369●
+
+○0000001370○sys20_adv00
+●0000001370●
+
+○0000001371○cgm_lc36a
+●0000001371●
+
+○0000001372○sys20_adv00
+●0000001372●
+
+○0000001373○cgm_sz10as
+●0000001373●
+
+○0000001374○sys20_adv00
+●0000001374●
+
+○0000001375○cgm_sz30ay
+●0000001375●
+
+○0000001376○sys20_adv00
+●0000001376●
+
+○0000001377○cgm_sz13as
+●0000001377●
+
+○0000001378○sys20_adv00
+●0000001378●
+
+○0000001379○cgm_sz10ah
+●0000001379●
+
+○0000001380○sys20_adv00
+●0000001380●
+
+○0000001381○cgm_kt25a
+●0000001381●
+
+○0000001382○sys20_adv00
+●0000001382●
+
+○0000001383○cgm_sz30ay
+●0000001383●
+
+○0000001384○sys20_adv00
+●0000001384●
+
+○0000001385○cgm_sz41a
+●0000001385●
+
+○0000001386○sys20_adv00
+●0000001386●
+
+○0000001387○cgm_sz12as
+●0000001387●
+
+○0000001388○sys20_adv00
+●0000001388●
+
+○0000001389○sys20_adv00
+●0000001389●
+
+○0000001390○kuro
+●0000001390●
+
+○0000001391○sys20_adv00
+●0000001391●
+
+○0000001392○bg014
+●0000001392●
+
+○0000001393○sys20_adv00
+●0000001393●
+
+○0000001394○cgm_kt16a
+●0000001394●
+
+○0000001395○sys20_adv00
+●0000001395●
+
+○0000001396○sys20_adv00
+●0000001396●
+
+○0000001397○cgm_kt11a
+●0000001397●
+
+○0000001398○sys20_adv00
+●0000001398●
+
+○0000001399○cgm_kt30a
+●0000001399●
+
+○0000001400○sys20_adv00
+●0000001400●
+
+○0000001401○sys20_adv00
+●0000001401●
+
+○0000001402○cgm_ch29a
+●0000001402●
+
+○0000001403○sys20_adv00
+●0000001403●
+
+○0000001404○cgm_ch13a
+●0000001404●
+
+○0000001405○sys20_adv00
+●0000001405●
+
+○0000001406○cgm_kt16a
+●0000001406●
+
+○0000001407○sys20_adv00
+●0000001407●
+
+○0000001408○cgm_ch10a
+●0000001408●
+
+○0000001409○sys20_adv00
+●0000001409●
+
+○0000001410○cgm_ch13a
+●0000001410●
+
+○0000001411○sys20_adv00
+●0000001411●
+
+○0000001412○sys20_adv00
+●0000001412●
+
+○0000001413○kuro
+●0000001413●
+
+○0000001414○sys20_adv00
+●0000001414●
+
+○0000001415○bg014
+●0000001415●
+
+○0000001416○sys20_adv00
+●0000001416●
+
+○0000001417○cgm_lc11ah
+●0000001417●
+
+○0000001418○sys20_adv00
+●0000001418●
+
+○0000001419○cgm_lc10a
+●0000001419●
+
+○0000001420○sys20_adv00
+●0000001420●
+
+○0000001421○cgm_kt11a
+●0000001421●
+
+○0000001422○sys20_adv00
+●0000001422●
+
+○0000001423○cgm_ch15a
+●0000001423●
+
+○0000001424○sys20_adv00
+●0000001424●
+
+○0000001425○cgm_ch12a
+●0000001425●
+
+○0000001426○sys20_adv00
+●0000001426●
+
+○0000001427○cgm_ch32ah
+●0000001427●
+
+○0000001428○sys20_adv00
+●0000001428●
+
+○0000001429○sys20_adv00
+●0000001429●
+
+○0000001430○cgm_ch13a
+●0000001430●
+
+○0000001431○sys20_adv00
+●0000001431●
+
+○0000001432○cgm_lc11ah
+●0000001432●
+
+○0000001433○sys20_adv00
+●0000001433●
+
+○0000001434○sys20_adv00
+●0000001434●
+
+○0000001435○cgm_lc36a
+●0000001435●
+
+○0000001436○sys20_adv00
+●0000001436●
+
+○0000001437○cgm_lc11ah
+●0000001437●
+
+○0000001438○sys20_adv00
+●0000001438●
+
+○0000001439○cgm_lc43a
+●0000001439●
+
+○0000001440○sys20_adv00
+●0000001440●
+
+○0000001441○cgm_lc11a
+●0000001441●
+
+○0000001442○sys20_adv00
+●0000001442●
+
+○0000001443○sys20_adv00
+●0000001443●
+
+○0000001444○cgm_lc10a
+●0000001444●
+
+○0000001445○sys20_adv00
+●0000001445●
+
+○0000001446○cgm_lc10ah
+●0000001446●
+
+○0000001447○sys20_adv00
+●0000001447●
+
+○0000001448○cgm_lc11ah
+●0000001448●
+
+○0000001449○sys20_adv00
+●0000001449●
+
+○0000001450○cgm_lc10ah
+●0000001450●
+
+○0000001451○sys20_adv00
+●0000001451●
+
+○0000001452○cgm_ch13a
+●0000001452●
+
+○0000001453○sys20_adv00
+●0000001453●
+
+○0000001454○cgm_lc11a
+●0000001454●
+
+○0000001455○sys20_adv00
+●0000001455●
+
+○0000001456○cgm_kt11a
+●0000001456●
+
+○0000001457○sys20_adv00
+●0000001457●
+
+○0000001458○cgm_kt12a
+●0000001458●
+
+○0000001459○sys20_adv00
+●0000001459●
+
+○0000001460○cgm_kt30a
+●0000001460●
+
+○0000001461○sys20_adv00
+●0000001461●
+
+○0000001462○sys20_adv00
+●0000001462●
+
+○0000001463○cgm_ak15a
+●0000001463●
+
+○0000001464○sys20_adv00
+●0000001464●
+
+○0000001465○cgm_kt16a
+●0000001465●
+
+○0000001466○sys20_adv00
+●0000001466●
+
+○0000001467○cgm_ak23a
+●0000001467●
+
+○0000001468○sys20_adv00
+●0000001468●
+
+○0000001469○cgm_ch10a
+●0000001469●
+
+○0000001470○sys20_adv00
+●0000001470●
+
+○0000001471○cgm_ch13a
+●0000001471●
+
+○0000001472○sys20_adv00
+●0000001472●
+
+○0000001473○cgm_kt30a
+●0000001473●
+
+○0000001474○sys20_adv00
+●0000001474●
+
+○0000001475○cgm_lc11a
+●0000001475●
+
+○0000001476○sys20_adv00
+●0000001476●
+
+○0000001477○cgm_lc10a
+●0000001477●
+
+○0000001478○sys20_adv00
+●0000001478●
+
+○0000001479○cgm_lc43a
+●0000001479●
+
+○0000001480○sys20_adv00
+●0000001480●
+
+○0000001481○sys20_adv00
+●0000001481●
+
+○0000001482○cgm_sz10as
+●0000001482●
+
+○0000001483○sys20_adv00
+●0000001483●
+
+○0000001484○cgm_ch33ah
+●0000001484●
+
+○0000001485○sys20_adv00
+●0000001485●
+
+○0000001486○cgm_kt25a
+●0000001486●
+
+○0000001487○sys20_adv00
+●0000001487●
+
+○0000001488○cgm_sz12a
+●0000001488●
+
+○0000001489○sys20_adv00
+●0000001489●
+
+○0000001490○cgm_sz10as
+●0000001490●
+
+○0000001491○sys20_adv00
+●0000001491●
+
+○0000001492○sys20_adv00
+●0000001492●
+
+○0000001493○cgm_sz10as
+●0000001493●
+
+○0000001494○sys20_adv00
+●0000001494●
+
+○0000001495○cgm_lc11a
+●0000001495●
+
+○0000001496○sys20_adv00
+●0000001496●
+
+○0000001497○cgm_ak23a
+●0000001497●
+
+○0000001498○sys20_adv00
+●0000001498●
+
+○0000001499○sys20_adv00
+●0000001499●
+
+○0000001500○cgm_kt16a
+●0000001500●
+
+○0000001501○sys20_adv00
+●0000001501●
+
+○0000001502○cgm_sz10as
+●0000001502●
+
+○0000001503○sys20_adv00
+●0000001503●
+
+○0000001504○cgm_sz10ah
+●0000001504●
+
+○0000001505○sys20_adv00
+●0000001505●
+
+○0000001506○cgm_sz40a
+●0000001506●
+
+○0000001507○sys20_adv00
+●0000001507●
+
+○0000001508○cgm_sz41a
+●0000001508●
+
+○0000001509○sys20_adv00
+●0000001509●
+
+○0000001510○cgm_sz10as
+●0000001510●
+
+○0000001511○sys20_adv00
+●0000001511●
+
+○0000001512○cgm_sz11a
+●0000001512●
+
+○0000001513○sys20_adv00
+●0000001513●
+
+○0000001514○sys20_adv00
+●0000001514●
+
+○0000001515○cgm_sz12a
+●0000001515●
+
+○0000001516○sys20_adv00
+●0000001516●
+
+○0000001517○sys20_adv00
+●0000001517●
+
+○0000001518○kuro
+●0000001518●
+
+○0000001519○sys20_adv00
+●0000001519●
+
+○0000001520○bg015
+●0000001520●
+
+○0000001521○sys20_adv00
+●0000001521●
+
+○0000001522○cgm_ak15a
+●0000001522●
+
+○0000001523○sys20_adv00
+●0000001523●
+
+○0000001524○cgm_ak13a
+●0000001524●
+
+○0000001525○sys20_adv00
+●0000001525●
+
+○0000001526○sys20_adv00
+●0000001526●
+
+○0000001527○cgm_ak13a
+●0000001527●
+
+○0000001528○sys20_adv00
+●0000001528●
+
+○0000001529○sys20_adv00
+●0000001529●
+
+○0000001530○cgm_ch22a
+●0000001530●
+
+○0000001531○sys20_adv00
+●0000001531●
+
+○0000001532○sys20_adv00
+●0000001532●
+
+○0000001533○cgm_kt11ay
+●0000001533●
+
+○0000001534○sys20_adv00
+●0000001534●
+
+○0000001535○cgm_lc11a
+●0000001535●
+
+○0000001536○sys20_adv00
+●0000001536●
+
+○0000001537○sys20_adv00
+●0000001537●
+
+○0000001538○cgm_ak21a
+●0000001538●
+
+○0000001539○sys20_adv00
+●0000001539●
+
+○0000001540○sys20_adv00
+●0000001540●
+
+○0000001541○cgm_ak21a
+●0000001541●
+
+○0000001542○sys20_adv00
+●0000001542●
+
+○0000001543○sys20_adv00
+●0000001543●
+
+○0000001544○cgm_lc11a
+●0000001544●
+
+○0000001545○sys20_adv00
+●0000001545●
+
+○0000001546○cgm_lc19a
+●0000001546●
+
+○0000001547○sys20_adv00
+●0000001547●
+
+○0000001548○cgm_kt16a
+●0000001548●
+
+○0000001549○sys20_adv00
+●0000001549●
+
+○0000001550○cgm_ch13a
+●0000001550●
+
+○0000001551○cgm_sz10as
+●0000001551●
+
+○0000001552○sys20_adv00
+●0000001552●
+
+○0000001553○sys20_adv00
+●0000001553●
+
+○0000001554○cgm_ch13ah
+●0000001554●
+
+○0000001555○sys20_adv00
+●0000001555●
+
+○0000001556○cgm_lc19a
+●0000001556●
+
+○0000001557○sys20_adv00
+●0000001557●
+
+○0000001558○cgm_kt16ay
+●0000001558●
+
+○0000001559○sys20_adv00
+●0000001559●
+
+○0000001560○cgm_kt31a
+●0000001560●
+
+○0000001561○sys20_adv00
+●0000001561●
+
+○0000001562○cgm_lc11a
+●0000001562●
+
+○0000001563○sys20_adv00
+●0000001563●
+
+○0000001564○sys20_adv00
+●0000001564●
+
+○0000001565○cgm_kt14a
+●0000001565●
+
+○0000001566○sys20_adv00
+●0000001566●
+
+○0000001567○sys20_adv00
+●0000001567●
+
+○0000001568○cgm_ak34a
+●0000001568●
+
+○0000001569○sys20_adv00
+●0000001569●
+
+○0000001570○cgm_ak13a
+●0000001570●
+
+○0000001571○sys20_adv00
+●0000001571●
+
+○0000001572○cgm_ak15ah
+●0000001572●
+
+○0000001573○sys20_adv00
+●0000001573●
+
+○0000001574○cgm_ak23a
+●0000001574●
+
+○0000001575○sys20_adv00
+●0000001575●
+
+○0000001576○sys20_adv00
+●0000001576●
+
+○0000001577○cgm_ak31a
+●0000001577●
+
+○0000001578○sys20_adv00
+●0000001578●
+
+○0000001579○cgm_ak13a
+●0000001579●
+
+○0000001580○sys20_adv00
+●0000001580●
+
+○0000001581○cgm_ak11ah
+●0000001581●
+
+○0000001582○sys20_adv00
+●0000001582●
+
+○0000001583○cgm_ak23a
+●0000001583●
+
+○0000001584○sys20_adv00
+●0000001584●
+
+○0000001585○cgm_ak13a
+●0000001585●
+
+○0000001586○sys20_adv00
+●0000001586●
+
+○0000001587○sys20_adv00
+●0000001587●
+
+○0000001588○cgm_ak11a
+●0000001588●
+
+○0000001589○sys20_adv00
+●0000001589●
+
+○0000001590○cgm_ak23ah
+●0000001590●
+
+○0000001591○sys20_adv00
+●0000001591●
+
+○0000001592○cgm_ak11a
+●0000001592●
+
+○0000001593○sys20_adv00
+●0000001593●
+
+○0000001594○sys00_sys00
+●0000001594●
+
+○0000001595○hita
+●0000001595●
+
+○0000001596○sys20_adv02
+●0000001596●
+
+○0000001597○sys20_adv00
+●0000001597●
+
+○0000001598○cgm_ak16a
+●0000001598●
+
+○0000001599○sys20_adv00
+●0000001599●
+
+○0000001600○cgm_ak22a
+●0000001600●
+
+○0000001601○sys20_adv00
+●0000001601●
+
+○0000001602○cgm_ak11a
+●0000001602●
+
+○0000001603○sys20_adv00
+●0000001603●
+
+○0000001604○cgm_ak23a
+●0000001604●
+
+○0000001605○sys20_adv00
+●0000001605●
+
+○0000001606○cgm_ak11a
+●0000001606●
+
+○0000001607○sys20_adv00
+●0000001607●
+
+○0000001608○sys20_adv00
+●0000001608●
+
+○0000001609○cgm_ak23a
+●0000001609●
+
+○0000001610○sys20_adv00
+●0000001610●
+
+○0000001611○cgm_ak15a
+●0000001611●
+
+○0000001612○sys20_adv00
+●0000001612●
+
+○0000001613○cgm_ak13a
+●0000001613●
+
+○0000001614○sys20_adv00
+●0000001614●
+
+○0000001615○cgm_ak23a
+●0000001615●
+
+○0000001616○sys20_adv00
+●0000001616●
+
+○0000001617○cgm_ak34a
+●0000001617●
+
+○0000001618○sys20_adv00
+●0000001618●
+
+○0000001619○sys20_adv00
+●0000001619●
+
+○0000001620○cgm_ak16a
+●0000001620●
+
+○0000001621○sys20_adv00
+●0000001621●
+
+○0000001622○cgm_ak23a
+●0000001622●
+
+○0000001623○sys20_adv00
+●0000001623●
+
+○0000001624○cgm_ak34a
+●0000001624●
+
+○0000001625○sys20_adv00
+●0000001625●
+
+○0000001626○cgm_ak11a
+●0000001626●
+
+○0000001627○sys20_adv00
+●0000001627●
+
+○0000001628○cgm_ak22a
+●0000001628●
+
+○0000001629○sys20_adv00
+●0000001629●
+
+○0000001630○cgm_ak11a
+●0000001630●
+
+○0000001631○sys20_adv00
+●0000001631●
+
+○0000001632○cgm_ak22a
+●0000001632●
+
+○0000001633○sys20_adv00
+●0000001633●
+
+○0000001634○cgm_ak11a
+●0000001634●
+
+○0000001635○sys20_adv00
+●0000001635●
+
+○0000001636○cgm_ak15a
+●0000001636●
+
+○0000001637○sys20_adv00
+●0000001637●
+
+○0000001638○cgm_ak23a
+●0000001638●
+
+○0000001639○sys20_adv00
+●0000001639●
+
+○0000001640○cgm_ak13a
+●0000001640●
+
+○0000001641○sys20_adv00
+●0000001641●
+
+○0000001642○cgm_ak11ah
+●0000001642●
+
+○0000001643○sys20_adv00
+●0000001643●
+
+○0000001644○cgm_ak13a
+●0000001644●
+
+○0000001645○sys20_adv00
+●0000001645●
+
+○0000001646○cgm_ak30a
+●0000001646●
+
+○0000001647○sys20_adv00
+●0000001647●
+
+○0000001648○cgm_ak33a
+●0000001648●
+
+○0000001649○sys20_adv00
+●0000001649●
+
+○0000001650○kuro
+●0000001650●
+
+○0000001651○sys20_adv00
+●0000001651●
+
+○0000001652○bg015
+●0000001652●
+
+○0000001653○sys20_adv00
+●0000001653●
+
+○0000001654○cgm_lc10a
+●0000001654●
+
+○0000001655○sys20_adv00
+●0000001655●
+
+○0000001656○cgm_ch13a
+●0000001656●
+
+○0000001657○sys20_adv00
+●0000001657●
+
+○0000001658○cgm_kt11a
+●0000001658●
+
+○0000001659○sys20_adv00
+●0000001659●
+
+○0000001660○cgm_ch34a
+●0000001660●
+
+○0000001661○sys20_adv00
+●0000001661●
+
+○0000001662○sys20_adv00
+●0000001662●
+
+○0000001663○cgm_kt16a
+●0000001663●
+
+○0000001664○sys20_adv00
+●0000001664●
+
+○0000001665○cgm_kt14a
+●0000001665●
+
+○0000001666○sys20_adv00
+●0000001666●
+
+○0000001667○cgm_lc44a
+●0000001667●
+
+○0000001668○sys20_adv00
+●0000001668●
+
+○0000001669○cgm_sz10as
+●0000001669●
+
+○0000001670○sys20_adv00
+●0000001670●
+
+○0000001671○cgm_kt18a
+●0000001671●
+
+○0000001672○sys20_adv00
+●0000001672●
+
+○0000001673○cgm_ch13a
+●0000001673●
+
+○0000001674○sys20_adv00
+●0000001674●
+
+○0000001675○sys20_adv03
+●0000001675●
+
+○0000001676○fcm_ko10a
+●0000001676●
+
+○0000001677○sys20_adv03
+●0000001677●
+
+○0000001678○fcm_kt10a
+●0000001678●
+
+○0000001679○sys20_adv03
+●0000001679●
+
+○0000001680○fcm_sz10a
+●0000001680●
+
+○0000001681○sys20_adv03
+●0000001681●
+
+○0000001682○fcm_ko10a
+●0000001682●
+
+○0000001683○sys20_adv03
+●0000001683●
+
+○0000001684○sys20_adv03
+●0000001684●
+
+○0000001685○fcm_ko10a
+●0000001685●
+
+○0000001686○sys20_adv03
+●0000001686●
+
+○0000001687○fcm_ch10a
+●0000001687●
+
+○0000001688○sys20_adv03
+●0000001688●
+
+○0000001689○sys20_adv03
+●0000001689●
+
+○0000001690○fcm_ko10a
+●0000001690●
+
+○0000001691○sys20_adv03
+●0000001691●
+
+○0000001692○sys20_adv03
+●0000001692●
+
+○0000001693○fcm_ko10a
+●0000001693●
+
+○0000001694○sys20_adv03
+●0000001694●
+
+○0000001695○sys20_adv03
+●0000001695●
+
+○0000001696○fcm_ko10a
+●0000001696●
+
+○0000001697○sys20_adv03
+●0000001697●
+
+○0000001698○fcm_kt10a
+●0000001698●
+
+○0000001699○sys20_adv03
+●0000001699●
+
+○0000001700○sys20_adv03
+●0000001700●
+
+○0000001701○fcm_ko10a
+●0000001701●
+
+○0000001702○sys20_adv03
+●0000001702●
+
+○0000001703○fcm_ch10a
+●0000001703●
+
+○0000001704○sys20_adv03
+●0000001704●
+
+○0000001705○fcm_ak10a
+●0000001705●
+
+○0000001706○sys20_adv03
+●0000001706●
+
+○0000001707○sys20_adv03
+●0000001707●
+
+○0000001708○fcm_ch10a
+●0000001708●
+
+○0000001709○sys20_adv03
+●0000001709●
+
+○0000001710○fcm_ko10a
+●0000001710●
+
+○0000001711○sys20_adv03
+●0000001711●
+
+○0000001712○fcm_ch10a
+●0000001712●
+
+○0000001713○sys20_adv03
+●0000001713●
+
+○0000001714○fcm_ko10a
+●0000001714●
+
+○0000001715○sys20_adv03
+●0000001715●
+
+○0000001716○sys20_adv03
+●0000001716●
+
+○0000001717○fcm_ko10a
+●0000001717●
+
+○0000001718○sys20_adv03
+●0000001718●
+
+○0000001719○sys20_adv03
+●0000001719●
+
+○0000001720○fcm_ko10a
+●0000001720●
+
+○0000001721○sys20_adv03
+●0000001721●
+
+○0000001722○fcm_ch10a
+●0000001722●
+
+○0000001723○sys20_adv03
+●0000001723●
+
+○0000001724○fcm_ko10a
+●0000001724●
+
+○0000001725○sys20_adv03
+●0000001725●
+
+○0000001726○fcm_ch10a
+●0000001726●
+
+○0000001727○sys20_adv03
+●0000001727●
+
+○0000001728○fcm_ko10a
+●0000001728●
+
+○0000001729○sys20_adv03
+●0000001729●
+
+○0000001730○fcm_ch10a
+●0000001730●
+
+○0000001731○sys20_adv03
+●0000001731●
+
+○0000001732○sys20_adv03
+●0000001732●
+
+○0000001733○fcm_ko10a
+●0000001733●
+
+○0000001734○sys20_adv03
+●0000001734●
+
+○0000001735○fcm_ch10a
+●0000001735●
+
+○0000001736○sys20_adv03
+●0000001736●
+
+○0000001737○fcm_sz10a
+●0000001737●
+
+○0000001738○sys20_adv03
+●0000001738●
+
+○0000001739○fcm_ko10a
+●0000001739●
+
+○0000001740○sys20_adv03
+●0000001740●
+
+○0000001741○fcm_sz10a
+●0000001741●
+
+○0000001742○sys20_adv03
+●0000001742●
+
+○0000001743○fcm_ak10a
+●0000001743●
+
+○0000001744○sys20_adv03
+●0000001744●
+
+○0000001745○sys20_adv03
+●0000001745●
+
+○0000001746○fcm_lc10a
+●0000001746●
+
+○0000001747○sys20_adv03
+●0000001747●
+
+○0000001748○fcm_ko10a
+●0000001748●
+
+○0000001749○sys20_adv03
+●0000001749●
+
+○0000001750○fcm_lc10a
+●0000001750●
+
+○0000001751○sys20_adv03
+●0000001751●
+
+○0000001752○fcm_ko10a
+●0000001752●
+
+○0000001753○sys20_adv03
+●0000001753●
+
+○0000001754○fcm_sz10a
+●0000001754●
+
+○0000001755○sys20_adv03
+●0000001755●
+
+○0000001756○fcm_ak10a
+●0000001756●
+
+○0000001757○sys20_adv03
+●0000001757●
+
+○0000001758○sys20_adv03
+●0000001758●
+
+○0000001759○fcm_ko10a
+●0000001759●
+
+○0000001760○sys20_adv03
+●0000001760●
+
+○0000001761○sys20_adv03
+●0000001761●
+
+○0000001762○fcm_kt10a
+●0000001762●
+
+○0000001763○sys20_adv03
+●0000001763●
+
+○0000001764○fcm_ko10a
+●0000001764●
+
+○0000001765○sys20_adv03
+●0000001765●
+
+○0000001766○sys20_adv03
+●0000001766●
+
+○0000001767○fcm_ko10a
+●0000001767●
+
+○0000001768○sys20_adv03
+●0000001768●
+
+○0000001769○sys20_adv03
+●0000001769●
+
+○0000001770○fcm_sz10a
+●0000001770●
+
+○0000001771○sys20_adv03
+●0000001771●
+
+○0000001772○fcm_ko10a
+●0000001772●
+
+○0000001773○sys20_adv03
+●0000001773●
+
+○0000001774○fcm_sz10a
+●0000001774●
+
+○0000001775○sys20_adv03
+●0000001775●
+
+○0000001776○fcm_ko10a
+●0000001776●
+
+○0000001777○sys20_adv03
+●0000001777●
+
+○0000001778○fcm_sz10a
+●0000001778●
+
+○0000001779○sys20_adv03
+●0000001779●
+
+○0000001780○fcm_lc10a
+●0000001780●
+
+○0000001781○sys20_adv03
+●0000001781●
+
+○0000001782○fcm_ko10a
+●0000001782●
+
+○0000001783○sys20_adv03
+●0000001783●
+
+○0000001784○sys20_adv03
+●0000001784●
+
+○0000001785○fcm_ko10a
+●0000001785●
+
+○0000001786○sys20_adv03
+●0000001786●
+
+○0000001787○sys10_mm02
+●0000001787●
+
+○0000001788○sys20_adv03
+●0000001788●
+
+○0000001789○fcm_ko10a
+●0000001789●
+
+○0000001790○sys20_adv03
+●0000001790●
+
+○0000001791○sys20_adv03
+●0000001791●
+
+○0000001792○fcm_ko10a
+●0000001792●
+
+○0000001793○sys20_adv03
+●0000001793●
+
+○0000001794○fcm_ch10a
+●0000001794●
+
+○0000001795○sys20_adv03
+●0000001795●
+
+○0000001796○sys20_adv03
+●0000001796●
+
+○0000001797○fcm_ko10a
+●0000001797●
+
+○0000001798○sys20_adv03
+●0000001798●
+
+○0000001799○fcm_sz10a
+●0000001799●
+
+○0000001800○sys20_adv03
+●0000001800●
+
+○0000001801○fcm_ko10a
+●0000001801●
+
+○0000001802○sys20_adv03
+●0000001802●
+
+○0000001803○sys20_adv03
+●0000001803●
+
+○0000001804○fcm_sz10a
+●0000001804●
+
+○0000001805○sys20_adv03
+●0000001805●
+
+○0000001806○fcm_lc10a
+●0000001806●
+
+○0000001807○sys20_adv03
+●0000001807●
+
+○0000001808○fcm_sz10a
+●0000001808●
+
+○0000001809○sys20_adv03
+●0000001809●
+
+○0000001810○fcm_lc10a
+●0000001810●
+
+○0000001811○sys20_adv03
+●0000001811●
+
+○0000001812○fcm_ko10a
+●0000001812●
+
+○0000001813○sys20_adv03
+●0000001813●
+
+○0000001814○sys20_adv03
+●0000001814●
+
+○0000001815○fcm_ko10a
+●0000001815●
+
+○0000001816○sys20_adv03
+●0000001816●
+
+○0000001817○fcm_lc10a
+●0000001817●
+
+○0000001818○sys20_adv03
+●0000001818●
+
+○0000001819○fcm_ko10a
+●0000001819●
+
+○0000001820○sys20_adv03
+●0000001820●
+
+○0000001821○fcm_sz10a
+●0000001821●
+
+○0000001822○sys20_adv03
+●0000001822●
+
+○0000001823○fcm_lc10a
+●0000001823●
+
+○0000001824○sys20_adv03
+●0000001824●
+
+○0000001825○sys20_adv03
+●0000001825●
+
+○0000001826○fcm_ak10a
+●0000001826●
+
+○0000001827○sys20_adv03
+●0000001827●
+
+○0000001828○fcm_ko10a
+●0000001828●
+
+○0000001829○sys20_adv03
+●0000001829●
+
+○0000001830○fcm_ak10a
+●0000001830●
+
+○0000001831○sys20_adv03
+●0000001831●
+
+○0000001832○fcm_ko10a
+●0000001832●
+
+○0000001833○sys20_adv03
+●0000001833●
+
+○0000001834○fcm_ak10a
+●0000001834●
+
+○0000001835○sys20_adv03
+●0000001835●
+
+○0000001836○fcm_ko10a
+●0000001836●
+
+○0000001837○sys20_adv03
+●0000001837●
+
+○0000001838○sys20_adv03
+●0000001838●
+
+○0000001839○fcm_ko10a
+●0000001839●
+
+○0000001840○sys20_adv03
+●0000001840●
+
+○0000001841○sys00_sys00
+●0000001841●
+
+○0000001842○hita
+●0000001842●
+
+○0000001843○sys20_adv02
+●0000001843●
+
+○0000001844○sys20_adv03
+●0000001844●
+
+○0000001845○fcm_ko10a
+●0000001845●
+
+○0000001846○sys20_adv03
+●0000001846●
+
+○0000001847○sys20_adv03
+●0000001847●
+
+○0000001848○fcm_ko10a
+●0000001848●
+
+○0000001849○sys20_adv03
+●0000001849●
+
+○0000001850○fcm_lc10a
+●0000001850●
+
+○0000001851○sys20_adv03
+●0000001851●
+
+○0000001852○fcm_ko10a
+●0000001852●
+
+○0000001853○sys20_adv03
+●0000001853●
+
+○0000001854○fcm_lc10a
+●0000001854●
+
+○0000001855○sys20_adv03
+●0000001855●
+
+○0000001856○fcm_ko10a
+●0000001856●
+
+○0000001857○sys20_adv03
+●0000001857●
+
+○0000001858○fcm_lc10a
+●0000001858●
+
+○0000001859○sys20_adv03
+●0000001859●
+
+○0000001860○fcm_ko10a
+●0000001860●
+
+○0000001861○sys20_adv03
+●0000001861●
+
+○0000001862○fcm_lc10a
+●0000001862●
+
+○0000001863○sys20_adv03
+●0000001863●
+
+○0000001864○fcm_ko10a
+●0000001864●
+
+○0000001865○sys20_adv03
+●0000001865●
+
+○0000001866○sys00_sys00
+●0000001866●
+
+○0000001867○kick
+●0000001867●
+
+○0000001868○sys20_adv02
+●0000001868●
+
+○0000001869○sys20_adv03
+●0000001869●
+
+○0000001870○fcm_ko10a
+●0000001870●
+
+○0000001871○sys20_adv03
+●0000001871●
+
+○0000001872○sys10_mm02
+●0000001872●
+
+○0000001873○sys20_adv03
+●0000001873●
+
+○0000001874○fcm_sz10a
+●0000001874●
+
+○0000001875○sys20_adv03
+●0000001875●
+
+○0000001876○sys20_adv03
+●0000001876●
+
+○0000001877○fcm_ko10a
+●0000001877●
+
+○0000001878○sys20_adv03
+●0000001878●
+
+○0000001879○sys20_adv03
+●0000001879●
+
+○0000001880○fcm_ko10a
+●0000001880●
+
+○0000001881○sys20_adv03
+●0000001881●
+
+○0000001882○sys20_adv03
+●0000001882●
+
+○0000001883○fcm_ko10a
+●0000001883●
+
+○0000001884○sys20_adv03
+●0000001884●
+
+○0000001885○sys20_adv03
+●0000001885●
+
+○0000001886○fcm_ko10a
+●0000001886●
+
+○0000001887○sys20_adv03
+●0000001887●
+
+○0000001888○sys20_adv03
+●0000001888●
+
+○0000001889○fcm_ko10a
+●0000001889●
+
+○0000001890○sys20_adv03
+●0000001890●
+
+○0000001891○sys20_adv03
+●0000001891●
+
+○0000001892○fcm_ko10a
+●0000001892●
+
+○0000001893○sys20_adv03
+●0000001893●
+
+○0000001894○sys10_mm02
+●0000001894●
+
+○0000001895○sys20_adv03
+●0000001895●
+
+○0000001896○fcm_ko10a
+●0000001896●
+
+○0000001897○sys20_adv03
+●0000001897●
+
+○0000001898○sys20_adv03
+●0000001898●
+
+○0000001899○fcm_ko10a
+●0000001899●
+
+○0000001900○sys20_adv03
+●0000001900●
+
+○0000001901○sys20_adv03
+●0000001901●
+
+○0000001902○fcm_ko10a
+●0000001902●
+
+○0000001903○sys20_adv03
+●0000001903●
+
+○0000001904○sys20_adv03
+●0000001904●
+
+○0000001905○fcm_ko10a
+●0000001905●
+
+○0000001906○sys20_adv03
+●0000001906●
+
+○0000001907○sys10_mm02
+●0000001907●
+
+○0000001908○sys20_adv03
+●0000001908●
+
+○0000001909○fcm_ko10a
+●0000001909●
+
+○0000001910○sys20_adv03
+●0000001910●
+
+○0000001911○sys20_adv03
+●0000001911●
+
+○0000001912○fcm_ch10a
+●0000001912●
+
+○0000001913○sys20_adv03
+●0000001913●
+
+○0000001914○fcm_ko10a
+●0000001914●
+
+○0000001915○sys20_adv03
+●0000001915●
+
+○0000001916○sys20_adv03
+●0000001916●
+
+○0000001917○fcm_ko10a
+●0000001917●
+
+○0000001918○sys20_adv03
+●0000001918●
+
+○0000001919○sys20_adv03
+●0000001919●
+
+○0000001920○fcm_ko10a
+●0000001920●
+
+○0000001921○sys20_adv03
+●0000001921●
+
+○0000001922○sys20_adv03
+●0000001922●
+
+○0000001923○fcm_ko10a
+●0000001923●
+
+○0000001924○sys20_adv03
+●0000001924●
+
+○0000001925○sys20_adv03
+●0000001925●
+
+○0000001926○fcm_ko10a
+●0000001926●
+
+○0000001927○sys20_adv03
+●0000001927●
+
+○0000001928○sys20_adv03
+●0000001928●
+
+○0000001929○fcm_ko10a
+●0000001929●
+
+○0000001930○sys20_adv03
+●0000001930●
+
+○0000001931○sys10_mm02
+●0000001931●
+
+○0000001932○sys20_adv03
+●0000001932●
+
+○0000001933○fcm_ko10a
+●0000001933●
+
+○0000001934○sys20_adv03
+●0000001934●
+
+○0000001935○sys20_adv03
+●0000001935●
+
+○0000001936○fcm_ko10a
+●0000001936●
+
+○0000001937○sys20_adv03
+●0000001937●
+
+○0000001938○sys20_adv03
+●0000001938●
+
+○0000001939○fcm_ko10a
+●0000001939●
+
+○0000001940○sys20_adv03
+●0000001940●
+
+○0000001941○sys20_adv03
+●0000001941●
+
+○0000001942○fcm_ko10a
+●0000001942●
+
+○0000001943○sys20_adv03
+●0000001943●
+
+○0000001944○sys10_mm02
+●0000001944●
+
+○0000001945○sys20_adv03
+●0000001945●
+
+○0000001946○fcm_ko10a
+●0000001946●
+
+○0000001947○sys20_adv03
+●0000001947●
+
+○0000001948○sys20_adv03
+●0000001948●
+
+○0000001949○fcm_ko10a
+●0000001949●
+
+○0000001950○sys20_adv03
+●0000001950●
+
+○0000001951○sys20_adv03
+●0000001951●
+
+○0000001952○fcm_ko10a
+●0000001952●
+
+○0000001953○sys20_adv03
+●0000001953●
+
+○0000001954○sys20_adv03
+●0000001954●
+
+○0000001955○fcm_ko10a
+●0000001955●
+
+○0000001956○sys20_adv03
+●0000001956●
+
+○0000001957○sys20_adv03
+●0000001957●
+
+○0000001958○fcm_ko10a
+●0000001958●
+
+○0000001959○sys20_adv03
+●0000001959●
+
+○0000001960○fcm_ko10a
+●0000001960●
+
+○0000001961○sys20_adv03
+●0000001961●
+
+○0000001962○sys20_adv03
+●0000001962●
+
+○0000001963○fcm_ko10a
+●0000001963●
+
+○0000001964○sys20_adv03
+●0000001964●
+
+○0000001965○sys20_adv03
+●0000001965●
+
+○0000001966○fcm_ko10a
+●0000001966●
+
+○0000001967○sys20_adv03
+●0000001967●
+
+○0000001968○sys20_adv03
+●0000001968●
+
+○0000001969○fcm_ko10a
+●0000001969●
+
+○0000001970○sys20_adv03
+●0000001970●
+
+○0000001971○sys20_adv03
+●0000001971●
+
+○0000001972○fcm_ko10a
+●0000001972●
+
+○0000001973○sys20_adv03
+●0000001973●
+
+○0000001974○sys20_adv03
+●0000001974●
+
+○0000001975○fcm_ko10a
+●0000001975●
+
+○0000001976○sys10_mm02
+●0000001976●
+
+○0000001977○sys20_adv03
+●0000001977●
+
+○0000001978○bgm031
+●0000001978●
+
+○0000001979○sys20_adv00
+●0000001979●
+
+○0000001980○fgmo02b
+●0000001980●
+
+○0000001981○sys00_sys00
+●0000001981●
+
+○0000001982○s1003_006
+●0000001982●
+
+○0000001983○sys10_mm02
+●0000001983●
+
+○0000001984○sys20_adv00
+●0000001984●
+
+○0000001985○bg014
+●0000001985●
+
+○0000001986○bgm042
+●0000001986●
+
+○0000001987○bgm045
+●0000001987●
+
+○0000001988○sys10_mm02
+●0000001988●
+
+○0000001989○sys10_mm02
+●0000001989●
+
+○0000001990○bgm035
+●0000001990●
+

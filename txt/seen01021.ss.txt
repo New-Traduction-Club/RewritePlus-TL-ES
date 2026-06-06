@@ -1,0 +1,4905 @@
+○0000000002○BS_DT_A
+●0000000002●
+
+○0000000003○Thursday, October 21st
+●0000000003●
+
+○0000000004○The bell signals the beginning of the class.
+●0000000004●
+
+○0000000005○I can hear the clatter of chairs all the way from the other classrooms as everyone stands up to greet the teacher.
+●0000000005●
+
+○0000000006○Ours alone remains silent, though.
+●0000000006●
+
+○0000000007○Huh? When's our teacher getting here?
+●0000000007●
+
+○0000000008○小鳥
+●0000000008●
+
+○0000000009○"I wonder what happened. It's not like her to be this late."
+●0000000009●
+
+○0000000010○瑚太朗
+●0000000010●
+
+○0000000011○"Absolutely unforgivable. I'll be bringing this up next time I'm late."
+●0000000011●
+
+○0000000012○小鳥
+●0000000012●
+
+○0000000013○"In that case, we should make sure she stays behind to make up for lost time."
+●0000000013●
+
+○0000000014○瑚太朗
+●0000000014●
+
+○0000000015○"No, uh... I'd much rather we stick to the normal schedule."
+●0000000015●
+
+○0000000016○It'd be even worse if I had to sacrifice my precious break time on top of being bored right now.
+●0000000016●
+
+○0000000017○Well, teachers are human, too. Nobody can avoid being late once or twice in their lives.
+●0000000017●
+
+○0000000018○I know from experience how hard it is to step into a deathly silent classroom.
+●0000000018●
+
+○0000000019○As such, it's the duty of good students to make it as lively as possible to minimize the teacher's anxiety later.
+●0000000019●
+
+○0000000020○As though hearing my thoughts, the entire class begins whispering, which soon makes way for casual break-like chatter.
+●0000000020●
+
+○0000000021○ルチア
+●0000000021●
+
+○0000000022○"Silence! Please study by yourselves while I go check the teacher's room!"
+●0000000022●
+
+○0000000023○Class Rep tries to silence us, but few students actually listen.
+●0000000023●
+
+○0000000024○She leaves the classroom with only that direction.
+●0000000024●
+
+○0000000025○(What should I do?)
+●0000000025●
+
+○0000000026○I definitely don't feel like studying by myself at a time like this.
+●0000000026●
+
+○0000000027○I could use this time for a peaceful afternoon nap.
+●0000000027●
+
+○0000000028○Or I could make the class even more lively to tease Class Rep when she comes back.
+●0000000028●
+
+○0000000029○Get some sleep while I can
+●0000000029●
+
+○0000000030○Have some good clean fun with Yoshino
+●0000000030●
+
+○0000000031○Goodnight.
+●0000000031●
+
+○0000000032○Zzzz.
+●0000000032●
+
+○0000000033○......
+●0000000033●
+
+○0000000034○小鳥
+●0000000034●
+
+○0000000035○"Oh, he's out cold."
+●0000000035●
+
+○0000000036○小鳥
+●0000000036●
+
+○0000000037○"I guess I can catch some shut-eye, too."
+●0000000037●
+
+○0000000038○ちはや
+●0000000038●
+
+○0000000039○"Is it really okay to sleep at a time like this?"
+●0000000039●
+
+○0000000040○ちはや
+●0000000040●
+
+○0000000041○"Well, I suppose it doesn't hurt anyone. I'll join in, too."
+●0000000041●
+
+○0000000042○瑚太朗
+●0000000042●
+
+○0000000043○"......"
+●0000000043●
+
+○0000000044○The class is already over by the time I wake up.
+●0000000044●
+
+○0000000045○-
+●0000000045●
+
+○0000000046○It's more fun to raise hell.
+●0000000046●
+
+○0000000047○How old am I, again?
+●0000000047●
+
+○0000000048○瑚太朗
+●0000000048●
+
+○0000000049○"Yoshino, let's have some fun."
+●0000000049●
+
+○0000000050○吉野
+●0000000050●
+
+○0000000051○"Shut up. The only thing I'll do with you is duel."
+●0000000051●
+
+○0000000052○Yoshino declines my offer outright.
+●0000000052●
+
+○0000000053○瑚太朗
+●0000000053●
+
+○0000000054○"It's kinda weird you don't leave class at times like this."
+●0000000054●
+
+○0000000055○吉野
+●0000000055●
+
+○0000000056○"Without the teacher to maintain order, this classroom turns into a lawless wilderness. This vociferous chaos is precisely the habitat of someone such as myself."
+●0000000056●
+
+○0000000057○瑚太朗
+●0000000057●
+
+○0000000058○"What kind of place is this wilderness in your mind? I kind of imagine cacti and wagons when you say it."
+●0000000058●
+
+○0000000059○吉野
+●0000000059●
+
+○0000000060○"A place where I can only trust myself; a concrete jungle that contains nothing but lions and hyenas."
+●0000000060●
+
+○0000000061○瑚太朗
+●0000000061●
+
+○0000000062○"Oh, I like carnivorous beasts. Speaking of which, isn't there one right over there?"
+●0000000062●
+
+○0000000063○吉野
+●0000000063●
+
+○0000000064○"What?! Wh-Where?!"
+●0000000064●
+
+○0000000065○I point at the corridor
+●0000000065●
+
+○0000000066○Through the open door, we spot a wild beast that's conquered this microcosm with its fangs and claws.
+●0000000066●
+
+○0000000067○Other classmates begin noticing, as well.
+●0000000067●
+
+○0000000068○小鳥
+●0000000068●
+
+○0000000069○"Is something wrong, Kotarou? ...Ah."
+●0000000069●
+
+○0000000070○瑚太朗
+●0000000070●
+
+○0000000071○"Here comes a relative of those lions and hyenas."
+●0000000071●
+
+○0000000072○ちはや
+●0000000072●
+
+○0000000073○"Right, all of them are in the cat family. I wonder if it wandered in here looking for food."
+●0000000073●
+
+○0000000074○I'm pretty sure hyenas aren't part of the cat family, but they're kin in the sense that they're also carnivorous beasts.
+●0000000074●
+
+○0000000075○Grrrrrrrr.
+●0000000075●
+
+○0000000076○小鳥
+●0000000076●
+
+○0000000077○"You want a wiener, little one? Here you go."
+●0000000077●
+
+○0000000078○ネコ科の猛獣
+●0000000078●
+
+○0000000079○"Meow!"
+●0000000079●
+
+○0000000080○The beast... or rather, the cat jumps toward the wiener Kotori threw its way.
+●0000000080●
+
+○0000000081○Noticing it, the girls in the class surround the cat, gushing over how cute it is.
+●0000000081●
+
+○0000000082○猫
+●0000000082●
+
+○0000000083○"Meow! Meow!"
+●0000000083●
+
+○0000000084○ちはや
+●0000000084●
+
+○0000000085○"That cat is quite strange. It's not scared of people at all."
+●0000000085●
+
+○0000000086○瑚太朗
+●0000000086●
+
+○0000000087○"As long as it's getting food, at least. Most of the cats in this area think of people as no more than easy food dispensers."
+●0000000087●
+
+○0000000088○小鳥
+●0000000088●
+
+○0000000089○"You could say we're in a symbiotic relationship."
+●0000000089●
+
+○0000000090○瑚太朗
+●0000000090●
+
+○0000000091○"It's more like commensalism. There's nothing humans gain from them."
+●0000000091●
+
+○0000000092○ちはや
+●0000000092●
+
+○0000000093○"We get cuteness and relaxation. Those are very important nutrients that only cats can provide."
+●0000000093●
+
+○0000000094○小鳥
+●0000000094●
+
+○0000000095○"Hey, come over here. Waah, what a clever critter. Pet, pet..."
+●0000000095●
+
+○0000000096○ちはや
+●0000000096●
+
+○0000000097○"It's incredible. It doesn't mind being touched by strangers at all. Come here, little kitty."
+●0000000097●
+
+○0000000098○Welcomed to the classroom, the cat helps itself to all sorts of treats from my peers' lunchboxes.
+●0000000098●
+
+○0000000099○It must've already consumed a whole day's worth of calories by now.
+●0000000099●
+
+○0000000100○Where'd it come from anyway? Hopefully, the teachers don't discover its secret route.
+●0000000100●
+
+○0000000101○小鳥
+●0000000101●
+
+○0000000102○"Huh? Where're you going? Full already?"
+●0000000102●
+
+○0000000103○ちはや
+●0000000103●
+
+○0000000104○"I imagine it is."
+●0000000104●
+
+○0000000105○吉野
+●0000000105●
+
+○0000000106○"Heh. It leaves as soon as it eats its fill. That's how a wild beast should be."
+●0000000106●
+
+○0000000107○ちはや
+●0000000107●
+
+○0000000108○"It's different from people! Cats are made out of gentleness!"
+●0000000108●
+
+○0000000109○瑚太朗
+●0000000109●
+
+○0000000110○"I wonder if that helps with headaches..."
+●0000000110●
+
+○0000000111○小鳥
+●0000000111●
+
+○0000000112○"There's something strange going on outside... Ah, look! There's another one in the corridor!"
+●0000000112●
+
+○0000000113○もう一匹の猫
+●0000000113●
+
+○0000000114○"Hsssss!"
+●0000000114●
+
+○0000000115○瑚太朗
+●0000000115●
+
+○0000000116○"Oh, this one definitely looks like a wild beast."
+●0000000116●
+
+○0000000117○It seems like two cats got inside the school today.
+●0000000117●
+
+○0000000118○This other one doesn't seem as friendly as the first, though.
+●0000000118●
+
+○0000000119○Ah, right. I met that one in the park before.
+●0000000119●
+
+○0000000120○The first cat seems to be urging it into the classroom.
+●0000000120●
+
+○0000000121○It's probably trying to communicate that there's free food inside.
+●0000000121●
+
+○0000000122○猫
+●0000000122●
+
+○0000000123○"Meow! Meow!"
+●0000000123●
+
+○0000000124○シャー猫
+●0000000124●
+
+○0000000125○"Hsssss!"
+●0000000125●
+
+○0000000126○ちはや
+●0000000126●
+
+○0000000127○"They don't seem to get along."
+●0000000127●
+
+○0000000128○小鳥
+●0000000128●
+
+○0000000129○"Hmm. It doesn't look like their conversation is going well."
+●0000000129●
+
+○0000000130○瑚太朗
+●0000000130●
+
+○0000000131○"It seems like the grumpy one doesn't like the idea of getting food from humans."
+●0000000131●
+
+○0000000132○吉野
+●0000000132●
+
+○0000000133○"Its pride doesn't allow it to beg for food."
+●0000000133●
+
+○0000000134○吉野
+●0000000134●
+
+○0000000135○"No matter how hungry it is, it's still a hunter at heart."
+●0000000135●
+
+○0000000136○ちはや
+●0000000136●
+
+○0000000137○"The angry one looks pretty thin, though. It should lighten up."
+●0000000137●
+
+○0000000138○瑚太朗
+●0000000138●
+
+○0000000139○"The hissing cat's not good at dealing with others. I feel an odd sense of kinship with it."
+●0000000139●
+
+○0000000140○小鳥
+●0000000140●
+
+○0000000141○"Men always favor pride over everything else. I can imagine what they're talking about."
+●0000000141●
+
+○0000000142○Hiss! Hiss!
+●0000000142●
+
+○0000000143○Meow! Meow! Meow!!
+●0000000143●
+
+○0000000144○I won't accept a pittance from humans!
+●0000000144●
+
+○0000000145○What are you saying?! Just how many days has it been since you last ate?!
+●0000000145●
+
+○0000000146○*GROWL*
+●0000000146●
+
+○0000000147○Look, even your stomach agrees with me! I'll give you my share, so eat already!
+●0000000147●
+
+○0000000148○I'll only eat what I hunt for myself! I'd rather die than put anything given to me in my mouth!
+●0000000148●
+
+○0000000149○瑚太朗
+●0000000149●
+
+○0000000150○"I'm pretty sure that's the gist of it. You'll never get through to these kind of characters with words alone."
+●0000000150●
+
+○0000000151○シャー猫
+●0000000151●
+
+○0000000152○"Fugyah?!"
+●0000000152●
+
+○0000000153○I clasp the grumpy cat and lift it up.
+●0000000153●
+
+○0000000154○小鳥
+●0000000154●
+
+○0000000155○"Ah! What are you planning to do with it?"
+●0000000155●
+
+○0000000156○瑚太朗
+●0000000156●
+
+○0000000157○"The voice in my head told me to become the villain and force those that can't be honest with themselves onto the right path."
+●0000000157●
+
+○0000000158○瑚太朗
+●0000000158●
+
+○0000000159○"Kotori, Chihaya, gather the wiener crumbs from the floor. We'll stuff the rebel with them, even if it requires drastic measures."
+●0000000159●
+
+○0000000160○ちはや
+●0000000160●
+
+○0000000161○"Ah, I see. Hey, look. This is delicious, so eat some..."
+●0000000161●
+
+○0000000162○小鳥
+●0000000162●
+
+○0000000163○"That one's almost expired, but it's still tasty."
+●0000000163●
+
+○0000000164○シャー猫
+●0000000164●
+
+○0000000165○"Hisss! Hiss!"
+●0000000165●
+
+○0000000166○瑚太朗
+●0000000166●
+
+○0000000167○"Ouch! Stop resisting! Shut up and eat it!"
+●0000000167●
+
+○0000000168○シャー猫
+●0000000168●
+
+○0000000169○"Hisssss! Hissss!"
+●0000000169●
+
+○0000000170○猫
+●0000000170●
+
+○0000000171○"Meow! Meow, meow!"
+●0000000171●
+
+○0000000172○Hissssss! Let me go! I refuse to put any of your suspicious feed into my mouth!
+●0000000172●
+
+○0000000173○Meow! Just eat it already! How long are you planning to cause trouble for everyone?!
+●0000000173●
+
+○0000000174○I force a piece of wiener into its mouth.
+●0000000174●
+
+○0000000175○Well?! Admit your mistake and eat!
+●0000000175●
+
+○0000000176○ちはや
+●0000000176●
+
+○0000000177○"H-How did it go...?"
+●0000000177●
+
+○0000000178○瑚太朗
+●0000000178●
+
+○0000000179○"...It seems to be eating."
+●0000000179●
+
+○0000000180○小鳥
+●0000000180●
+
+○0000000181○"Ahahaha, hurray!"
+●0000000181●
+
+○0000000182○Its violent resistance ceases completely.
+●0000000182●
+
+○0000000183○When I try feeding it again, it only feigns reluctance as it takes another bite.
+●0000000183●
+
+○0000000184○Witnessing that, the other cat finally calms down, too.
+●0000000184●
+
+○0000000185○It must've been quite hungry. It wolfs down everything I hand it.
+●0000000185●
+
+○0000000186○This bastard actually looks pretty cute once it stops its hissing.
+●0000000186●
+
+○0000000187○瑚太朗
+●0000000187●
+
+○0000000188○"Hmph, you little troublemaker. Kotori, I'll leave this one to you. Feed it so it stays full for a while."
+●0000000188●
+
+○0000000189○小鳥
+●0000000189●
+
+○0000000190○"Okay. There's a lot more where that came from, you two."
+●0000000190●
+
+○0000000191○The other classmates surround the cats.
+●0000000191●
+
+○0000000192○They all take turns holding the grumpy cat in their hands and feeding it the contents of their lunchboxes.
+●0000000192●
+
+○0000000193○Endearing animals nurture loving hearts. This really is a fantastic class.
+●0000000193●
+
+○0000000194○This feels a lot more valuable than the trigonometric functions we had to study earlier.
+●0000000194●
+
+○0000000195○小鳥
+●0000000195●
+
+○0000000196○"They're so cute. Chii, try holding them. They're so soft and warm～"
+●0000000196●
+
+○0000000197○ちはや
+●0000000197●
+
+○0000000198○"I-I'm okay. I don't really... W-Wah..."
+●0000000198●
+
+○0000000199○The image of conceding to the cuteness must have triggered her tsundere instincts.
+●0000000199●
+
+○0000000200○However, her earnest wish to hold one is written on her face, which leads Kotori to forcefully push the hissing cat into her hands.
+●0000000200●
+
+○0000000201○And once that softness presses against your chest, it's too late to fight back.
+●0000000201●
+
+○0000000202○ちはや
+●0000000202●
+
+○0000000203○"Phwahh... I-It's so soft..."
+●0000000203●
+
+○0000000204○シャー猫
+●0000000204●
+
+○0000000205○"......"
+●0000000205●
+
+○0000000206○The dishonest pair seems to hit it off right away.
+●0000000206●
+
+○0000000207○It'd be nice if Chihaya learned something from the grumpy cat's example.
+●0000000207●
+
+○0000000208○ちはや
+●0000000208●
+
+○0000000209○"Here. Snuggle, snuggle..."
+●0000000209●
+
+○0000000210○シャー猫
+●0000000210●
+
+○0000000211○"......"
+●0000000211●
+
+○0000000212○Wait, just how far has their friendship advanced in this short period of time?!
+●0000000212●
+
+○0000000213○瑚太朗
+●0000000213●
+
+○0000000214○"You tamed that violent cat in a matter of seconds..."
+●0000000214●
+
+○0000000215○小鳥
+●0000000215●
+
+○0000000216○"Are you good with animals, Chii?"
+●0000000216●
+
+○0000000217○ちはや
+●0000000217●
+
+○0000000218○"I don't know. I'm just acting like I usually do."
+●0000000218●
+
+○0000000219○ルチア
+●0000000219●
+
+○0000000220○"Huh?! What is going on here?! Have you all forgotten we're in the middle of class?!"
+●0000000220●
+
+○0000000221○瑚太朗
+●0000000221●
+
+○0000000222○"Class Rep, it's terrible. Two beasts have breached the perimeter, and everyone's in a panic!"
+●0000000222●
+
+○0000000223○ルチア
+●0000000223●
+
+○0000000224○"B-Beasts, you said?!"
+●0000000224●
+
+○0000000225○瑚太朗
+●0000000225●
+
+○0000000226○"Yeah, and they're ravenous. Look, they've already devoured..."
+●0000000226●
+
+○0000000227○...our lunchboxes.
+●0000000227●
+
+○0000000228○Class Rep's face contorts in terror for a split second, but she quickly catches on and delivers a thump to my head.
+●0000000228●
+
+○0000000229○ルチア
+●0000000229●
+
+○0000000230○"Don't joke like that. I almost believed you."
+●0000000230●
+
+○0000000231○瑚太朗
+●0000000231●
+
+○0000000232○"Would you have fought them with your white fists of justice if it were true?"
+●0000000232●
+
+○0000000233○ルチア
+●0000000233●
+
+○0000000234○"That, too, is part of the class representative's duties."
+●0000000234●
+
+○0000000235○瑚太朗
+●0000000235●
+
+○0000000236○"...I'd recommend focusing on evacuation efforts, unless you carry a tranquilizer gun around."
+●0000000236●
+
+○0000000237○小鳥
+●0000000237●
+
+○0000000238○"Oh, Class Rep. Have you learned what's become of our dear teacher?"
+●0000000238●
+
+○0000000239○ルチア
+●0000000239●
+
+○0000000240○"She'll be late due to a personal matter. Until then, we were ordered to focus on self-study."
+●0000000240●
+
+○0000000241○ルチア
+●0000000241●
+
+○0000000242○"Therefore, everyone return to your seats and open your textbooks! We're in the middle of class!"
+●0000000242●
+
+○0000000243○ちはや
+●0000000243●
+
+○0000000244○"Huh? But just look at how cute they are! You can give us some time to play with them!"
+●0000000244●
+
+○0000000245○ルチア
+●0000000245●
+
+○0000000246○"Cute or not, they're not allowed in school! Ohtori, Kanbe, please release those cats at the door."
+●0000000246●
+
+○0000000247○ちはや
+●0000000247●
+
+○0000000248○"Just a little bit more!"
+●0000000248●
+
+○0000000249○ルチア
+●0000000249●
+
+○0000000250○"You already played with them the entire time I was away!"
+●0000000250●
+
+○0000000251○ちはや
+●0000000251●
+
+○0000000252○"I just got to hold it now, though!"
+●0000000252●
+
+○0000000253○Chihaya didn't want to at first, but it doesn't seem like she's planning on releasing it now.
+●0000000253●
+
+○0000000254○瑚太朗
+●0000000254●
+
+○0000000255○"You should try holding it too, Class Rep. Cats apparently provide you with unique nutrients you can't get anywhere else."
+●0000000255●
+
+○0000000256○ルチア
+●0000000256●
+
+○0000000257○"That's the first time I'm hearing that."
+●0000000257●
+
+○0000000258○瑚太朗
+●0000000258●
+
+○0000000259○"I think they'd be particularly beneficial to a tense person like yourself, Class Rep. Just take my word and give it a chance."
+●0000000259●
+
+○0000000260○ルチア
+●0000000260●
+
+○0000000261○"I-I'm fine! I don't like animals! Keep them away from me...!"
+●0000000261●
+
+○0000000262○小鳥
+●0000000262●
+
+○0000000263○"Huh? You don't like cats?"
+●0000000263●
+
+○0000000264○ルチア
+●0000000264●
+
+○0000000265○"Not just cats. I'm just not good with animals. They're all dirty."
+●0000000265●
+
+○0000000266○ちはや
+●0000000266●
+
+○0000000267○"Mh... Dirty? Isn't that going a little bit too far? How can you call something this cute dirty?!"
+●0000000267●
+
+○0000000268○瑚太朗
+●0000000268●
+
+○0000000269○"Heh, it seems that our Class Rep is another one of those that aren't honest with themselves."
+●0000000269●
+
+○0000000270○瑚太朗
+●0000000270●
+
+○0000000271○"You'll understand once you give it a shot. Your body won't be able to resist once I'm through with you, heh heh heh."
+●0000000271●
+
+○0000000272○This girl is just the same as Chihaya. Her mouth says one thing, but on the inside...!
+●0000000272●
+
+○0000000273○Class Rep, prepare to be purified to death with the power of cats!
+●0000000273●
+
+○0000000274○ちはや
+●0000000274●
+
+○0000000275○"Here, you'll understand once you hold it yourself."
+●0000000275●
+
+○0000000276○ちはや
+●0000000276●
+
+○0000000277○"It's small and fluffy, but also soft and warm..."
+●0000000277●
+
+○0000000278○シャー猫
+●0000000278●
+
+○0000000279○"...Hisssss."
+●0000000279●
+
+○0000000280○The grumpy cat and the self-proclaimed animal hater ― the dishonest pair comes into close proximity.
+●0000000280●
+
+○0000000281○Chihaya slowly extends the cat toward Class Rep's chest.
+●0000000281●
+
+○0000000282○Huh, cats really do stretch like rubber bands when you hold them like that.
+●0000000282●
+
+○0000000283○Forced into an awkward position, the sour cat's expression seems to say that this isn't its true form.
+●0000000283●
+
+○0000000284○I never knew they could even make facial expressions.
+●0000000284●
+
+○0000000285○シャー猫
+●0000000285●
+
+○0000000286○"Hisssss..."
+●0000000286●
+
+○0000000287○ルチア
+●0000000287●
+
+○0000000288○"Uh... Wah..."
+●0000000288●
+
+○0000000289○It seems like Class Rep is slowly being entranced by the spell. Her fingertips are shaking.
+●0000000289●
+
+○0000000290○Perhaps cats really do possess something that no other being has.
+●0000000290●
+
+○0000000291○Maybe we could stop all of the fighting in the world if we managed to extract and commercialize it.
+●0000000291●
+
+○0000000292○But at that moment...
+●0000000292●
+
+○0000000293○シャー猫
+●0000000293●
+
+○0000000294○"Hiiissssghghhhh!"
+●0000000294●
+
+○0000000295○小鳥
+●0000000295●
+
+○0000000296○"Ah!"
+●0000000296●
+
+○0000000297○It's so sudden that I don't even catch what happens.
+●0000000297●
+
+○0000000298○The grumpy cat darts out of the classroom like a bullet, its partner chasing after it.
+●0000000298●
+
+○0000000299○Only my speechless classmates remain.
+●0000000299●
+
+○0000000300○And Chihaya, lying on the ground on her behind after Class Rep shoved her away.
+●0000000300●
+
+○0000000301○ルチア
+●0000000301●
+
+○0000000302○"......"
+●0000000302●
+
+○0000000303○ちはや
+●0000000303●
+
+○0000000304○"...Huh? ...What's gotten into you all of a sudden?!"
+●0000000304●
+
+○0000000305○小鳥
+●0000000305●
+
+○0000000306○"Ch-Chii! Are you okay?"
+●0000000306●
+
+○0000000307○ちはや
+●0000000307●
+
+○0000000308○"I'm okay, but what about the cat?! She hit it! It finally got attached to us, and now it's scared again! What was that about?!"
+●0000000308●
+
+○0000000309○The rest of the classmates quickly take Chihaya's side.
+●0000000309●
+
+○0000000310○It seems like Class Rep isn't just feigning her dislike of animals. Her behavior still kind of crossed the line, though.
+●0000000310●
+
+○0000000311○I know how quick she comes to blows with others more than anyone, but it usually ends with a comedic punchline. She knows the right place and time for it.
+●0000000311●
+
+○0000000312○However, it's quite clear she overreacted this time.
+●0000000312●
+
+○0000000313○The relaxed atmosphere created by the cats has totally dissipated.
+●0000000313●
+
+○0000000314○ちはや
+●0000000314●
+
+○0000000315○"If you were that against it, you should've said so! You didn't need to push me! That's too rough!"
+●0000000315●
+
+○0000000316○ルチア
+●0000000316●
+
+○0000000317○"I told you I didn't want to from the start! You're the one who tried to force it into my hands!"
+●0000000317●
+
+○0000000318○ちはや
+●0000000318●
+
+○0000000319○"You still didn't need to push us!"
+●0000000319●
+
+○0000000320○ちはや
+●0000000320●
+
+○0000000321○"We only just managed to get through to it! I thought we finally became friends!"
+●0000000321●
+
+○0000000322○ちはや
+●0000000322●
+
+○0000000323○"It won't trust humans after what you've done to it! I'm sure it'll live the rest of its life in fear because of you!"
+●0000000323●
+
+○0000000324○小鳥
+●0000000324●
+
+○0000000325○"I think you're going a bit too far, Chii... Class Rep did say she didn't like animals."
+●0000000325●
+
+○0000000326○小鳥
+●0000000326●
+
+○0000000327○"We still tried to force it on her, though. I think we're at fault here."
+●0000000327●
+
+○0000000328○瑚太朗
+●0000000328●
+
+○0000000329○"...Yeah, everyone's free to like cats or not. It's a matter of opinion."
+●0000000329●
+
+○0000000330○瑚太朗
+●0000000330●
+
+○0000000331○"It just so happened that Class Rep isn't a fan. That's all. Right, Class Rep?"
+●0000000331●
+
+○0000000332○ルチア
+●0000000332●
+
+○0000000333○"......"
+●0000000333●
+
+○0000000334○Class Rep is staring at the ground, her face beet red.
+●0000000334●
+
+○0000000335○Judging by how she's biting her lip, she's fighting something inside of herself. It's like she's enduring being put into an unfair position.
+●0000000335●
+
+○0000000336○...I understand how she feels. She can't stand animals, but we tried forcing one on her anyway.
+●0000000336●
+
+○0000000337○Unable to handle it, she simply forced it away from herself.
+●0000000337●
+
+○0000000338○However, she miscalculated her strength and sent Chihaya to the floor, which resulted in the cat running away. That, and this awkward atmosphere.
+●0000000338●
+
+○0000000339○From her perspective, we're the ones at fault.
+●0000000339●
+
+○0000000340○Given those circumstances, I can't blame her for having trouble accepting the entire class suddenly turning on her.
+●0000000340●
+
+○0000000341○小鳥
+●0000000341●
+
+○0000000342○"You really don't like animals, do you, Class Rep? But why...? They're so cute."
+●0000000342●
+
+○0000000343○ルチア
+●0000000343●
+
+○0000000344○"They're dirty! I don't want to touch them!"
+●0000000344●
+
+○0000000345○ちはや
+●0000000345●
+
+○0000000346○"You keep repeating that over and over! How exactly are they dirty?!"
+●0000000346●
+
+○0000000347○ちはや
+●0000000347●
+
+○0000000348○"Humans are just as dirty as them!"
+●0000000348●
+
+○0000000349○ルチア
+●0000000349●
+
+○0000000350○"I don't care if it's humans or animals! You're all the same! I don't want to touch either!"
+●0000000350●
+
+○0000000351○...Hey now.
+●0000000351●
+
+○0000000352○Her emotions are probably running wild, but that's definitely going a bit too far.
+●0000000352●
+
+○0000000353○*whisper* *whisper* *whisper*
+●0000000353●
+
+○0000000354○The warm and relaxed atmosphere of a bit ago is now a distant memory.
+●0000000354●
+
+○0000000355○Everyone's whispering.
+●0000000355●
+
+○0000000356○"...Right. Class Rep's a clean freak, isn't she?"
+●0000000356●
+
+○0000000357○"But calling all of us dirty is going a bit too far, right?"
+●0000000357●
+
+○0000000358○"She's been like that since she enrolled. I heard this happened before."
+●0000000358●
+
+○0000000359○*whisper* *whisper* *whisper*
+●0000000359●
+
+○0000000360○教師
+●0000000360●
+
+○0000000361○"Hey! What's going on here?! I told everyone to study by themselves! Return to your seats at once!"
+●0000000361●
+
+○0000000362○After all that, the teacher ends up being the one to tear through the awkward atmosphere.
+●0000000362●
+
+○0000000363○Everyone returns to their seats and continues class as usual.
+●0000000363●
+
+○0000000364○吉野
+●0000000364●
+
+○0000000365○"Hmph. It's because you stick your nose in other people's business. Class Rep said she hated animals from the start."
+●0000000365●
+
+○0000000366○瑚太朗
+●0000000366●
+
+○0000000367○"That's true, but..."
+●0000000367●
+
+○0000000368○吉野
+●0000000368●
+
+○0000000369○"You're free to like or hate cats, just as you're free to think humans are dirty if that floats your boat."
+●0000000369●
+
+○0000000370○吉野
+●0000000370●
+
+○0000000371○"It's not your place to tell other people what to do or what to think."
+●0000000371●
+
+○0000000372○瑚太朗
+●0000000372●
+
+○0000000373○"...I guess so."
+●0000000373●
+
+○0000000374○Yoshino is probably right.
+●0000000374●
+
+○0000000375○Chihaya and I were probably in the wrong for trying to force Class Rep to do something she didn't want.
+●0000000375●
+
+○0000000376○However, almost everyone in the class seemed to blame Class Rep for being unable to accept the cat anyway.
+●0000000376●
+
+○0000000377○瑚太朗
+●0000000377●
+
+○0000000378○"...I wonder if I did something bad."
+●0000000378●
+
+○0000000379○吉野
+●0000000379●
+
+○0000000380○"You finally understand. That's what you get for being a busybody."
+●0000000380●
+
+○0000000381○Yoshino doesn't seem to care much one way or the other.
+●0000000381●
+
+○0000000382○And before I realize it, the classroom has returned to normal. It's like the cat incident never happened.
+●0000000382●
+
+○0000000383○...Maybe I was worried for nothing. It was just a little disagreement of aesthetic sensibilities, after all.
+●0000000383●
+
+○0000000384○I shake my head, casting away my silly thoughts and instead focusing on pretending like I'm taking notes, as usual.
+●0000000384●
+
+○0000000385○女の声
+●0000000385●
+
+○0000000386○"Ekaterina!"
+●0000000386●
+
+○0000000387○瑚太朗
+●0000000387●
+
+○0000000388○"Hm?"
+●0000000388●
+
+○0000000389○I hear a voice from the corridor.
+●0000000389●
+
+○0000000390○A regal-looking woman dressed like an aristocrat appears in the doorway.
+●0000000390●
+
+○0000000391○貴婦人
+●0000000391●
+
+○0000000392○"Ah...! I was looking for you, Ekaterina!"
+●0000000392●
+
+○0000000393○The woman rushes to the cat and scoops it into her arms.
+●0000000393●
+
+○0000000394○小鳥＿不要
+●0000000394●
+
+○0000000395○"......"
+●0000000395●
+
+○0000000396○瑚太朗
+●0000000396●
+
+○0000000397○"......"
+●0000000397●
+
+○0000000398○It's probably a pretty touching reunion, but the suddenness of it all has left us totally speechless.
+●0000000398●
+
+○0000000399○Meanwhile, the other cat flees into the corridor.
+●0000000399●
+
+○0000000400○ちはや
+●0000000400●
+
+○0000000401○"...What was that?"
+●0000000401●
+
+○0000000402○咲夜
+●0000000402●
+
+○0000000403○"You all have my sincerest apologies for causing a scene."
+●0000000403●
+
+○0000000404○A man's face peeks through the window.
+●0000000404●
+
+○0000000405○瑚太朗
+●0000000405●
+
+○0000000406○"Ugh, it's him."
+●0000000406●
+
+○0000000407○ちはや
+●0000000407●
+
+○0000000408○"Did you bring that woman here, Sakuya?"
+●0000000408●
+
+○0000000409○咲夜
+●0000000409●
+
+○0000000410○"Yes. I found her wandering around town, so I asked what the problem was."
+●0000000410●
+
+○0000000411○咲夜
+●0000000411●
+
+○0000000412○"After going through my contacts, I learned that a group of cats was spotted heading in the direction of your classroom."
+●0000000412●
+
+○0000000413○瑚太朗
+●0000000413●
+
+○0000000414○"Wait. What kind of contacts do you have?"
+●0000000414●
+
+○0000000415○Who'd even know that a bunch of cats was wandering into our school?
+●0000000415●
+
+○0000000416○貴婦人
+●0000000416●
+
+○0000000417○"Thank you for taking care of Ekaterina for me. I won't forget your kindness."
+●0000000417●
+
+○0000000418○咲夜
+●0000000418●
+
+○0000000419○"You're welcome. It was the least I could do."
+●0000000419●
+
+○0000000420○小鳥
+●0000000420●
+
+○0000000421○"I can feel the presence of a gentleman in the vicinity."
+●0000000421●
+
+○0000000422○咲夜
+●0000000422●
+
+○0000000423○"Well then, Matarou."
+●0000000423●
+
+○0000000424○瑚太朗
+●0000000424●
+
+○0000000425○"It's Kotarou."
+●0000000425●
+
+○0000000426○咲夜
+●0000000426●
+
+○0000000427○"I apologize for inconveniencing you, but could you please show this person to the exit?"
+●0000000427●
+
+○0000000428○瑚太朗
+●0000000428●
+
+○0000000429○"Huh? Why can't you do it?"
+●0000000429●
+
+○0000000430○ちはや
+●0000000430●
+
+○0000000431○"There might still be cats in the corridor."
+●0000000431●
+
+○0000000432○貴婦人
+●0000000432●
+
+○0000000433○"Oh, you don't need to go through all that trouble. I can manage on my own."
+●0000000433●
+
+○0000000434○咲夜
+●0000000434●
+
+○0000000435○"I see. In that case, take care."
+●0000000435●
+
+○0000000436○貴婦人
+●0000000436●
+
+○0000000437○"Thank you again."
+●0000000437●
+
+○0000000438○The regal-looking lady leaves.
+●0000000438●
+
+○0000000439○瑚太朗
+●0000000439●
+
+○0000000440○"......"
+●0000000440●
+
+○0000000441○小鳥
+●0000000441●
+
+○0000000442○"That was like a scene from a movie."
+●0000000442●
+
+○0000000443○ルチア
+●0000000443●
+
+○0000000444○"Wh-What is going on here?!"
+●0000000444●
+
+○0000000445○Class Rep finally returns.
+●0000000445●
+
+○0000000446○ちはや
+●0000000446●
+
+○0000000447○"Sakuya, it seems you're attracting attention. Please go elsewhere."
+●0000000447●
+
+○0000000448○咲夜
+●0000000448●
+
+○0000000449○"Oh, my apologies. I completely lost track of myself. A bad of habit of mine. I'll make sure not to repeat this mistake."
+●0000000449●
+
+○0000000450○ルチア
+●0000000450●
+
+○0000000451○"Who are you?"
+●0000000451●
+
+○0000000452○咲夜
+●0000000452●
+
+○0000000453○"Ah, you must be Lady Chihaya's classmate. I am her brother."
+●0000000453●
+
+○0000000454○ルチア
+●0000000454●
+
+○0000000455○"Oh... I didn't know Ohtori had an older brother."
+●0000000455●
+
+○0000000456○咲夜
+●0000000456●
+
+○0000000457○"I found a person looking for a cat and brought her here."
+●0000000457●
+
+○0000000458○ルチア
+●0000000458●
+
+○0000000459○"I see. That must have been quite an adventure."
+●0000000459●
+
+○0000000460○ルチア
+●0000000460●
+
+○0000000461○"However, we're in the middle of class right now. I would appreciate if you could refrain from encouraging a commotion."
+●0000000461●
+
+○0000000462○咲夜
+●0000000462●
+
+○0000000463○"...My sinceret apologies. It looks I truly ended up being a bother.
+●0000000463●
+
+○0000000464○咲夜
+●0000000464●
+
+○0000000465○"I will show myself out immediately."
+●0000000465●
+
+○0000000466○He leaves through the window.
+●0000000466●
+
+○0000000467○ルチア
+●0000000467●
+
+○0000000468○"...Just who is that man?"
+●0000000468●
+
+○0000000469○瑚太朗
+●0000000469●
+
+○0000000470○"I'd say he's the most mysterious member of our cast so far."
+●0000000470●
+
+○0000000471○ちはや
+●0000000471●
+
+○0000000472○"He's nothing special!"
+●0000000472●
+
+○0000000473○ルチア
+●0000000473●
+
+○0000000474○"Ohtori. I understand he's your brother, but you shouldn't invite him here during class. I have to question your common sense."
+●0000000474●
+
+○0000000475○ちはや
+●0000000475●
+
+○0000000476○"Huh? How is that my fault? He had a good reason for coming here!"
+●0000000476●
+
+○0000000477○瑚太朗
+●0000000477●
+
+○0000000478○"Okay, I think that's enough, you two."
+●0000000478●
+
+○0000000479○ルチア
+●0000000479●
+
+○0000000480○"......"
+●0000000480●
+
+○0000000481○ちはや
+●0000000481●
+
+○0000000482○"......"
+●0000000482●
+
+○0000000483○The two glare at each other.
+●0000000483●
+
+○0000000484○Akane looks like she has nothing to do during lunch break.
+●0000000484●
+
+○0000000485○朱音
+●0000000485●
+
+○0000000486○"Tennouji."
+●0000000486●
+
+○0000000487○瑚太朗
+●0000000487●
+
+○0000000488○"Yes."
+●0000000488●
+
+○0000000489○朱音
+●0000000489●
+
+○0000000490○"I'm bored. Bring me a jester."
+●0000000490●
+
+○0000000491○瑚太朗
+●0000000491●
+
+○0000000492○"......"
+●0000000492●
+
+○0000000493○The only way to stop her insults is to produce results.
+●0000000493●
+
+○0000000494○瑚太朗
+●0000000494●
+
+○0000000495○"Please... Let there be something real this time!"
+●0000000495●
+
+○0000000496○I head into town to look for more leads after school.
+●0000000496●
+
+○0000000497○瑚太朗
+●0000000497●
+
+○0000000498○(It'd be nice if I could find one or two lying on the side of the road.)
+●0000000498●
+
+○0000000499○I end up wandering into an unfamiliar place while lost in thought.
+●0000000499●
+
+○0000000500○Food stands line the streets.
+●0000000500●
+
+○0000000501○瑚太朗
+●0000000501●
+
+○0000000502○(Ah, maybe that ramen place operates around this area, too.)
+●0000000502●
+
+○0000000503○The stand has wheels, so it should be possible to move it around town.
+●0000000503●
+
+○0000000504○I check around, but it doesn't seem to be in the area today.
+●0000000504●
+
+○0000000505○Now that I think about it, the customers back then were a pretty odd bunch.
+●0000000505●
+
+○0000000506○It might be possible to turn them into a scoop.
+●0000000506●
+
+○0000000507○They said some odd stuff.
+●0000000507●
+
+○0000000508○Like how cryptids existed and whatnot.
+●0000000508●
+
+○0000000509○They suddenly got really intense, so they left quite the impression.
+●0000000509●
+
+○0000000510○Maybe I could get more information out of them.
+●0000000510●
+
+○0000000511○That said, I have no way to contact them.
+●0000000511●
+
+○0000000512○瑚太朗
+●0000000512●
+
+○0000000513○(How can I find those guys...)
+●0000000513●
+
+○0000000514○I suppose I have no choice but to wander around and hope I run into them.
+●0000000514●
+
+○0000000515○瑚太朗
+●0000000515●
+
+○0000000516○"Is this it...?"
+●0000000516●
+
+○0000000517○I find a fancy building on the corner of the street.
+●0000000517●
+
+○0000000518○An antique shop built in a European style, but modest enough not to clash with the overall architecture of the area.
+●0000000518●
+
+○0000000519○I step inside.
+●0000000519●
+
+○0000000520○瑚太朗
+●0000000520●
+
+○0000000521○"......"
+●0000000521●
+
+○0000000522○The exquisite interior overwhelms me for a moment.
+●0000000522●
+
+○0000000523○The atmosphere is certainly fitting for a place that deals in antiques.
+●0000000523●
+
+○0000000524○It looks like a rich person's study from an old movie... just ten times bigger.
+●0000000524●
+
+○0000000525○The thick, expensive-looking carpet by the entrance is throwing me for a loop, too. Walking on it with my dirty shoes doesn't really feel right.
+●0000000525●
+
+○0000000526○Due to the small amount of merchandise, the interior manages to not feel crowded.
+●0000000526●
+
+○0000000527○They probably focus on quality over quantity.
+●0000000527●
+
+○0000000528○An old couple passes me as they leave the store.
+●0000000528●
+
+○0000000529○This definitely isn't a place for a high schooler.
+●0000000529●
+
+○0000000530○江坂
+●0000000530●
+
+○0000000531○"Welcome."
+●0000000531●
+
+○0000000532○瑚太朗
+●0000000532●
+
+○0000000533○"Ah."
+●0000000533●
+
+○0000000534○江坂
+●0000000534●
+
+○0000000535○"Oh... I remember you."
+●0000000535●
+
+○0000000536○瑚太朗
+●0000000536●
+
+○0000000537○"...Hello."
+●0000000537●
+
+○0000000538○江坂
+●0000000538●
+
+○0000000539○"......"
+●0000000539●
+
+○0000000540○He gives me a scrutinizing look.
+●0000000540●
+
+○0000000541○We fall silent for a few moments.
+●0000000541●
+
+○0000000542○江坂
+●0000000542●
+
+○0000000543○"...Hm."
+●0000000543●
+
+○0000000544○江坂
+●0000000544●
+
+○0000000545○"Should I assume this is a coincidence?"
+●0000000545●
+
+○0000000546○瑚太朗
+●0000000546●
+
+○0000000547○"No, I was looking for you."
+●0000000547●
+
+○0000000548○江坂
+●0000000548●
+
+○0000000549○"I don't remember giving you my card."
+●0000000549●
+
+○0000000550○瑚太朗
+●0000000550●
+
+○0000000551○"I used my connections and charisma to find you."
+●0000000551●
+
+○0000000552○江坂
+●0000000552●
+
+○0000000553○"I see."
+●0000000553●
+
+○0000000554○He seems to relax a little.
+●0000000554●
+
+○0000000555○江坂
+●0000000555●
+
+○0000000556○"I'm glad to have a young guest."
+●0000000556●
+
+○0000000557○江坂
+●0000000557●
+
+○0000000558○"Welcome to the Forest, young one."
+●0000000558●
+
+○0000000559○瑚太朗
+●0000000559●
+
+○0000000560○"I'm glad to be here."
+●0000000560●
+
+○0000000561○江坂
+●0000000561●
+
+○0000000562○"I'm Esaka, the owner of this modest establishment."
+●0000000562●
+
+○0000000563○He extends his hand.
+●0000000563●
+
+○0000000564○I take it.
+●0000000564●
+
+○0000000565○瑚太朗
+●0000000565●
+
+○0000000566○(Uh... I don't feel very comfortable here...)
+●0000000566●
+
+○0000000567○He isn't crushing my hand or anything, but...
+●0000000567●
+
+○0000000568○...I can tell he has a monstrous grip.
+●0000000568●
+
+○0000000569○It feels like I'm shaking hands with a car crusher.
+●0000000569●
+
+○0000000570○I'm not that weak myself, but I can't hold a candle to this guy.
+●0000000570●
+
+○0000000571○瑚太朗
+●0000000571●
+
+○0000000572○"I'm Tennouji Kotarou, second year at Kazamatsuri Academy."
+●0000000572●
+
+○0000000573○江坂
+●0000000573●
+
+○0000000574○"Oh... That school..."
+●0000000574●
+
+○0000000575○瑚太朗
+●0000000575●
+
+○0000000576○"You know it?"
+●0000000576●
+
+○0000000577○江坂
+●0000000577●
+
+○0000000578○"To tell the truth, I attend there as well. I'm a freshman, though, so that would make me your underclassman."
+●0000000578●
+
+○0000000579○瑚太朗
+●0000000579●
+
+○0000000580○"...Excuse me?"
+●0000000580●
+
+○0000000581○I must have misheard him.
+●0000000581●
+
+○0000000582○His tone didn't sound like a joke, though.
+●0000000582●
+
+○0000000583○Not to mention telling a joke now doesn't really make sense.
+●0000000583●
+
+○0000000584○As I blankly stare at him, Esaka's features suddenly contort into those of a demon.
+●0000000584●
+
+○0000000585○江坂
+●0000000585●
+
+○0000000586○"WHYYYYYYYYYY?!"
+●0000000586●
+
+○0000000587○I recoil, crashing into the wall behind me.
+●0000000587●
+
+○0000000588○For a moment, the pressure is so intense that I feel like he's about to kill me.
+●0000000588●
+
+○0000000589○But Esaka continues as though nothing had happened.
+●0000000589●
+
+○0000000590○江坂
+●0000000590●
+
+○0000000591○"Are you looking to buy something?"
+●0000000591●
+
+○0000000592○瑚太朗
+●0000000592●
+
+○0000000593○"N-No... I'm just... investigating..."
+●0000000593●
+
+○0000000594○江坂
+●0000000594●
+
+○0000000595○"I see."
+●0000000595●
+
+○0000000596○江坂
+●0000000596●
+
+○0000000597○"Step on in, if you're not in a hurry. We can talk over a cup of tea."
+●0000000597●
+
+○0000000598○The gentleman guides me to an expensive-looking table.
+●0000000598●
+
+○0000000599○瑚太朗
+●0000000599●
+
+○0000000600○(A-Am I safe?)
+●0000000600●
+
+○0000000601○Is that thing for sale? It looks like I'd have to save up for a lifetime to afford it.
+●0000000601●
+
+○0000000602○I timidly lower myself onto the chair and face Mr. Esaka.
+●0000000602●
+
+○0000000603○江坂
+●0000000603●
+
+○0000000604○"Do you drink black tea?"
+●0000000604●
+
+○0000000605○瑚太朗
+●0000000605●
+
+○0000000606○"I'm not too picky when it comes to whatever is put in front of me."
+●0000000606●
+
+○0000000607○江坂
+●0000000607●
+
+○0000000608○"That's quite nice. A good soldier always makes sure to fill his stomach whenever he has the chance."
+●0000000608●
+
+○0000000609○江坂
+●0000000609●
+
+○0000000610○"Hey there, make the usual."
+●0000000610●
+
+○0000000611○We eventually receive a tray with two cups of tea and some snacks.
+●0000000611●
+
+○0000000612○Mr. Esaka sits calmly in his seat.
+●0000000612●
+
+○0000000613○瑚太朗
+●0000000613●
+
+○0000000614○(I guess he really has returned to normal...)
+●0000000614●
+
+○0000000615○What on earth WAS that?
+●0000000615●
+
+○0000000616○I take a sip of tea as I think.
+●0000000616●
+
+○0000000617○瑚太朗
+●0000000617●
+
+○0000000618○"This is delicious!"
+●0000000618●
+
+○0000000619○江坂
+●0000000619●
+
+○0000000620○"I'm glad to hear that."
+●0000000620●
+
+○0000000621○瑚太朗
+●0000000621●
+
+○0000000622○"I never gave tea much thought, but this is fantastic!"
+●0000000622●
+
+○0000000623○瑚太朗
+●0000000623●
+
+○0000000624○"I could drink a whole bottle of this."
+●0000000624●
+
+○0000000625○江坂
+●0000000625●
+
+○0000000626○"That's very good."
+●0000000626●
+
+○0000000627○瑚太朗
+●0000000627●
+
+○0000000628○"These cookies are great, too."
+●0000000628●
+
+○0000000629○瑚太朗
+●0000000629●
+
+○0000000630○"They're so good that I feel like they're draining my ability to think clearly."
+●0000000630●
+
+○0000000631○江坂
+●0000000631●
+
+○0000000632○"Same here."
+●0000000632●
+
+○0000000633○江坂
+●0000000633●
+
+○0000000634○"I believe delicious food has the power to return humans to their most primitive state."
+●0000000634●
+
+○0000000635○瑚太朗
+●0000000635●
+
+○0000000636○"My friends keep scolding me for always stuffing my face full whenever I find something I really like."
+●0000000636●
+
+○0000000637○江坂
+●0000000637●
+
+○0000000638○"Same here."
+●0000000638●
+
+○0000000639○江坂
+●0000000639●
+
+○0000000640○"I believe delicious food has the power to return humans to their most primitive squirrel."
+●0000000640●
+
+○0000000641○I end up feasting for a bit.
+●0000000641●
+
+○0000000642○江坂
+●0000000642●
+
+○0000000643○"Do you like pork buns?"
+●0000000643●
+
+○0000000644○瑚太朗
+●0000000644●
+
+○0000000645○"I'd go as far as to say pork buns love me."
+●0000000645●
+
+○0000000646○江坂
+●0000000646●
+
+○0000000647○"That's a good reaction. Most natural for a young man. Hey, more of the usual!"
+●0000000647●
+
+○0000000648○He calls to the back of the shop again.
+●0000000648●
+
+○0000000649○Moments later, we receive two paper boxes filled with pork buns.
+●0000000649●
+
+○0000000650○A cloud of steam escapes as I open the lids.
+●0000000650●
+
+○0000000651○瑚太朗
+●0000000651●
+
+○0000000652○"These look way better than what you can get at the convenience store!"
+●0000000652●
+
+○0000000653○江坂
+●0000000653●
+
+○0000000654○"There's a Chinese restaurant nearby that we order from. I'm a huge fan."
+●0000000654●
+
+○0000000655○They're more generously sized than the ones at the convenience store, too.
+●0000000655●
+
+○0000000656○江坂
+●0000000656●
+
+○0000000657○"Well then, let's eat."
+●0000000657●
+
+○0000000658○瑚太朗
+●0000000658●
+
+○0000000659○"Thanks for the treat."
+●0000000659●
+
+○0000000660○There's only one way to eat a meat bun.
+●0000000660●
+
+○0000000661○...And that's opening your mouth as wide as you can and taking hearty bites.
+●0000000661●
+
+○0000000662○瑚太朗
+●0000000662●
+
+○0000000663○"Th-This is...!"
+●0000000663●
+
+○0000000664○The insides of the bun are pleasantly hot.
+●0000000664●
+
+○0000000665○It's like their flavor is aiming right for my brain.
+●0000000665●
+
+○0000000666○My primordial hunter instincts kick in, and I can't help but continue consuming my spoils.
+●0000000666●
+
+○0000000667○......
+●0000000667●
+
+○0000000668○瑚太朗
+●0000000668●
+
+○0000000669○"Huh?!"
+●0000000669●
+
+○0000000670○When I come to, the bun is nowhere to be found.
+●0000000670●
+
+○0000000671○瑚太朗
+●0000000671●
+
+○0000000672○"I... blanked out..."
+●0000000672●
+
+○0000000673○江坂
+●0000000673●
+
+○0000000674○"That happens a lot with these."
+●0000000674●
+
+○0000000675○瑚太朗
+●0000000675●
+
+○0000000676○"It does?"
+●0000000676●
+
+○0000000677○江坂
+●0000000677●
+
+○0000000678○"To tell you the truth, these pork buns are filled with memory-altering substances."
+●0000000678●
+
+○0000000679○瑚太朗
+●0000000679●
+
+○0000000680○"...Oh."
+●0000000680●
+
+○0000000681○江坂
+●0000000681●
+
+○0000000682○"WHYYYYYYYYYY?!"
+●0000000682●
+
+○0000000683○I jump out of my seat and hide behind the furniture.
+●0000000683●
+
+○0000000684○瑚太朗
+●0000000684●
+
+○0000000685○"...Um."
+●0000000685●
+
+○0000000686○江坂
+●0000000686●
+
+○0000000687○"Are you full?"
+●0000000687●
+
+○0000000688○He asks me a question as if his previous outburst hadn't happened.
+●0000000688●
+
+○0000000689○瑚太朗
+●0000000689●
+
+○0000000690○(...What is up with this guy?)
+●0000000690●
+
+○0000000691○I have no idea what's going on.
+●0000000691●
+
+○0000000692○Is the generation gap making it hard to understand his outbursts, or what?
+●0000000692●
+
+○0000000693○瑚太朗
+●0000000693●
+
+○0000000694○"...Did the pork bun actually have drugs in it?"
+●0000000694●
+
+○0000000695○江坂
+●0000000695●
+
+○0000000696○"Of course not."
+●0000000696●
+
+○0000000697○瑚太朗
+●0000000697●
+
+○0000000698○"...???"
+●0000000698●
+
+○0000000699○江坂
+●0000000699●
+
+○0000000700○"So as I was asking, are you full?"
+●0000000700●
+
+○0000000701○瑚太朗
+●0000000701●
+
+○0000000702○"No, uh... I think I could eat a whole lot more."
+●0000000702●
+
+○0000000703○江坂
+●0000000703●
+
+○0000000704○"That's no problem. Hey, the usual!"
+●0000000704●
+
+○0000000705○Next, we receive a plate of ham sandwiches.
+●0000000705●
+
+○0000000706○瑚太朗
+●0000000706●
+
+○0000000707○(This is weird, but at least I'm getting free food.)
+●0000000707●
+
+○0000000708○Is this what paradise is like?
+●0000000708●
+
+○0000000709○I once again begin losing myself to the sensual pleasures.
+●0000000709●
+
+○0000000710○瑚太朗
+●0000000710●
+
+○0000000711○"These don't look like simple sandwiches, either."
+●0000000711●
+
+○0000000712○江坂
+●0000000712●
+
+○0000000713○"They are indeed quite different from your usual chef's special meat, mayonnaise, pork, and lettuce sandwiches with salt and spices."
+●0000000713●
+
+○0000000714○瑚太朗
+●0000000714●
+
+○0000000715○"...I'm impressed you know that."
+●0000000715●
+
+○0000000716○That's exactly what they sell in convenience stores.
+●0000000716●
+
+○0000000717○江坂
+●0000000717●
+
+○0000000718○"I tried one the other day."
+●0000000718●
+
+○0000000719○瑚太朗
+●0000000719●
+
+○0000000720○"You don't look like the type to eat convenience store food."
+●0000000720●
+
+○0000000721○江坂
+●0000000721●
+
+○0000000722○"I'd even eat shoes if the situation called for it."
+●0000000722●
+
+○0000000723○江坂
+●0000000723●
+
+○0000000724○"That's what it means to be a professional."
+●0000000724●
+
+○0000000725○瑚太朗
+●0000000725●
+
+○0000000726○"...So how did you like the convenience store sandwich?"
+●0000000726●
+
+○0000000727○江坂
+●0000000727●
+
+○0000000728○"It wasn't terrible, but... it was underwhelming. What we've got here is completely different."
+●0000000728●
+
+○0000000729○江坂
+●0000000729●
+
+○0000000730○"It's something I order from a nearby western restaurant."
+●0000000730●
+
+○0000000731○瑚太朗
+●0000000731●
+
+○0000000732○"They look like normal sandwiches, at least."
+●0000000732●
+
+○0000000733○江坂
+●0000000733●
+
+○0000000734○"You'll understand the difference once you try them."
+●0000000734●
+
+○0000000735○瑚太朗
+●0000000735●
+
+○0000000736○"I guess I'll help myself then."
+●0000000736●
+
+○0000000738○江坂
+●0000000738●
+
+○0000000739○"How is it?"
+●0000000739●
+
+○0000000740○瑚太朗
+●0000000740●
+
+○0000000741○"Deliciousss..."
+●0000000741●
+
+○0000000742○江坂
+●0000000742●
+
+○0000000743○"I see, I see."
+●0000000743●
+
+○0000000744○瑚太朗
+●0000000744●
+
+○0000000745○"I always thought warm sandwiches were an absurd concept, but this..."
+●0000000745●
+
+○0000000746○I wolf it down, forgetting everything else around me.
+●0000000746●
+
+○0000000747○Only after stuffing my face full do I remember the distant concept of manners.
+●0000000747●
+
+○0000000748○Darn, I was being pretty rude.
+●0000000748●
+
+○0000000749○I hurriedly raise my face.
+●0000000749●
+
+○0000000751○江坂
+●0000000751●
+
+○0000000752○"Mgh. How is it?"
+●0000000752●
+
+○0000000753○瑚太朗
+●0000000753●
+
+○0000000754○"......"
+●0000000754●
+
+○0000000755○The old man looks like a squirrel.
+●0000000755●
+
+○0000000756○Not to mention he's holding a sandwich in each of his hands like a little kid.
+●0000000756●
+
+○0000000757○Guess I don't need to worry about manners here.
+●0000000757●
+
+○0000000758○瑚太朗
+●0000000758●
+
+○0000000759○(I just need to hope he isn't clinically insane or something.)
+●0000000759●
+
+○0000000760○I'll ignore the next time he starts shouting, if it happens again.
+●0000000760●
+
+○0000000761○Munch, munch...
+●0000000761●
+
+○0000000762○(Ah... This is so good...)
+●0000000762●
+
+○0000000763○Delicious.
+●0000000763●
+
+○0000000764○I feel my brain melting.
+●0000000764●
+
+○0000000765○What was I even doing up until now?
+●0000000765●
+
+○0000000766○What was I born for? What did I live for?
+●0000000766●
+
+○0000000767○What was the meaning of my life?
+●0000000767●
+
+○0000000768○Questions quickly appear and fade in my mind.
+●0000000768●
+
+○0000000769○瑚太朗
+●0000000769●
+
+○0000000770○"It was delicious."
+●0000000770●
+
+○0000000771○江坂
+●0000000771●
+
+○0000000772○"I'm very glad you liked it."
+●0000000772●
+
+○0000000773○I'm definitely full now.
+●0000000773●
+
+○0000000774○(I might not need dinner tonight.)
+●0000000774●
+
+○0000000775○瑚太朗
+●0000000775●
+
+○0000000776○"I'm sorry for treating your place like a restaurant."
+●0000000776●
+
+○0000000777○江坂
+●0000000777●
+
+○0000000778○"Don't worry about it."
+●0000000778●
+
+○0000000779○江坂
+●0000000779●
+
+○0000000780○"So what are you looking for exactly, Tennouji? Oh, let me guess... Is it true love?"
+●0000000780●
+
+○0000000781○瑚太朗
+●0000000781●
+
+○0000000782○"Are you selling love in this shop?"
+●0000000782●
+
+○0000000783○江坂
+●0000000783●
+
+○0000000784○"Of course. We got our hands on a certain artifact relevant to that topic the other day. It's carved from the heartwood of a Lebanon cedar, also known as a tree of God ― a genuine piece of love."
+●0000000784●
+
+○0000000785○江坂
+●0000000785●
+
+○0000000786○"WHYYYYYYYYYY?! THAT MAKES NO SENSE!!!!"
+●0000000786●
+
+○0000000787○江坂
+●0000000787●
+
+○0000000788○"HOW WOULD YOU GET LOVE OUT OF A GODDAMN TREE?!?!"
+●0000000788●
+
+○0000000789○瑚太朗
+●0000000789●
+
+○0000000790○"...Okay."
+●0000000790●
+
+○0000000791○瑚太朗
+●0000000791●
+
+○0000000792○"I wanted to ask about something you mentioned the other day."
+●0000000792●
+
+○0000000793○江坂
+●0000000793●
+
+○0000000794○"I'll hear you out. Go ahead."
+●0000000794●
+
+○0000000795○Mr. Esaka, regaining his composure, urges me to continue.
+●0000000795●
+
+○0000000796○I give him a rough explanation of everything up until now.
+●0000000796●
+
+○0000000797○瑚太朗
+●0000000797●
+
+○0000000798○"Anyway, you mentioned familiars, I believe."
+●0000000798●
+
+○0000000799○江坂
+●0000000799●
+
+○0000000800○"...What?"
+●0000000800●
+
+○0000000801○瑚太朗
+●0000000801●
+
+○0000000802○"Huh?"
+●0000000802●
+
+○0000000803○江坂
+●0000000803●
+
+○0000000804○"Say that again."
+●0000000804●
+
+○0000000805○瑚太朗
+●0000000805●
+
+○0000000806○"You mentioned something about... familiars... I think."
+●0000000806●
+
+○0000000807○江坂
+●0000000807●
+
+○0000000808○"In video games?"
+●0000000808●
+
+○0000000809○瑚太朗
+●0000000809●
+
+○0000000810○"Besides that..."
+●0000000810●
+
+○0000000811○江坂
+●0000000811●
+
+○0000000812○"Familiars... in the real world...?"
+●0000000812●
+
+○0000000813○瑚太朗
+●0000000813●
+
+○0000000814○"Well, if that's not what you want to call them, then how about unidentified mysterious animals?"
+●0000000814●
+
+○0000000815○瑚太朗
+●0000000815●
+
+○0000000816○"They're commonly called UMAs or cryptids these days."
+●0000000816●
+
+○0000000817○江坂
+●0000000817●
+
+○0000000818○"Are you talking about creatures like Nessie and Bigfoot?"
+●0000000818●
+
+○0000000819○瑚太朗
+●0000000819●
+
+○0000000820○"There's a bunch of rumors about them in Kazamatsuri."
+●0000000820●
+
+○0000000821○瑚太朗
+●0000000821●
+
+○0000000822○"It's quite unusual for one place to have that many sightings."
+●0000000822●
+
+○0000000823○江坂
+●0000000823●
+
+○0000000824○"Is that so? I never knew."
+●0000000824●
+
+○0000000825○瑚太朗
+●0000000825●
+
+○0000000826○"Yeah. I thought you'd know more, since you've been in this town for a while."
+●0000000826●
+
+○0000000827○江坂
+●0000000827●
+
+○0000000828○"I'm sorry, but it doesn't seem like I'll be able to help you."
+●0000000828●
+
+○0000000829○瑚太朗
+●0000000829●
+
+○0000000830○"I see..."
+●0000000830●
+
+○0000000831○江坂
+●0000000831●
+
+○0000000832○"I know lots of stories about people getting attacked by boars, but that's about it."
+●0000000832●
+
+○0000000833○江坂
+●0000000833●
+
+○0000000834○"Perhaps the current rumors are in part related to that."
+●0000000834●
+
+○0000000835○瑚太朗
+●0000000835●
+
+○0000000836○"Ahh, you're crushing my dreams."
+●0000000836●
+
+○0000000837○江坂
+●0000000837●
+
+○0000000838○"Are mysterious animals the only thing you're investigating?"
+●0000000838●
+
+○0000000839○瑚太朗
+●0000000839●
+
+○0000000840○"No, I'm curious about everything."
+●0000000840●
+
+○0000000841○瑚太朗
+●0000000841●
+
+○0000000842○"Cryptids, supernatural phenomena, superpowers, UFOs... Anything that's outside the norm is fine for me."
+●0000000842●
+
+○0000000843○江坂
+●0000000843●
+
+○0000000844○"Then how about this."
+●0000000844●
+
+○0000000845○He hands me a bundle of papers.
+●0000000845●
+
+○0000000846○It looks like a professional investigation.
+●0000000846●
+
+○0000000847○It details an underground tunnel discovered under Kazamatsuri that could have belonged to an ancient ruin.
+●0000000847●
+
+○0000000848○瑚太朗
+●0000000848●
+
+○0000000849○"Why do you have something like this?"
+●0000000849●
+
+○0000000850○That looks like something only a full-fledged archaeologist would carry around.
+●0000000850●
+
+○0000000851○江坂
+●0000000851●
+
+○0000000852○"It's the research notes of a scientist friend of mine."
+●0000000852●
+
+○0000000853○江坂
+●0000000853●
+
+○0000000854○"He said those might be ruins that belonged to an ancient royal line."
+●0000000854●
+
+○0000000855○江坂
+●0000000855●
+
+○0000000856○"In the end, after dating the artifacts, it was concluded that they might not be as historically valuable as initially thought, so the investigation was dropped."
+●0000000856●
+
+○0000000857○江坂
+●0000000857●
+
+○0000000858○"With the amount of money they lost on this, mentioning these ruins became a taboo in his university."
+●0000000858●
+
+○0000000859○瑚太朗
+●0000000859●
+
+○0000000860○"In other words, it was all a dud?"
+●0000000860●
+
+○0000000861○江坂
+●0000000861●
+
+○0000000862○"Well, they discovered a soft drink bottle there, but..."
+●0000000862●
+
+○0000000863○瑚太朗
+●0000000863●
+
+○0000000864○"......"
+●0000000864●
+
+○0000000865○That sounds like a dud all right.
+●0000000865●
+
+○0000000866○Investigating underground tunnels sounds like fun, but I feel like that'll only end with Class Rep laughing at me again.
+●0000000866●
+
+○0000000867○瑚太朗
+●0000000867●
+
+○0000000868○(But wait...)
+●0000000868●
+
+○0000000869○Something is bothering me about this investigation.
+●0000000869●
+
+○0000000870○The structures in these photos look obviously man-made. They're not natural in any way.
+●0000000870●
+
+○0000000871○...Why would a place like that exist to begin with? Why would anyone create a tunnel network under our town?
+●0000000871●
+
+○0000000872○I feel like we can discover something interesting if we investigate seriously.
+●0000000872●
+
+○0000000873○That said, it doesn't sound like something the Occult Research Society can handle in its current state.
+●0000000873●
+
+○0000000874○瑚太朗
+●0000000874●
+
+○0000000875○"I'm sorry. That's a great lead, but I feel it's a bit too big for us right now."
+●0000000875●
+
+○0000000876○瑚太朗
+●0000000876●
+
+○0000000877○"We've only started, so we're severely lacking in experience."
+●0000000877●
+
+○0000000878○江坂
+●0000000878●
+
+○0000000879○"Ah, I suppose it's a kind of a high-level dungeon out of the blue for you, so I understand. In that case... Hey!"
+●0000000879●
+
+○0000000880○He calls his secretary.
+●0000000880●
+
+○0000000881○江坂
+●0000000881●
+
+○0000000882○"This is from a time when I worked in security in this town."
+●0000000882●
+
+○0000000883○江坂
+●0000000883●
+
+○0000000884○"Kazamatsuri's history is full of mysteries. This is one of the items that was found in the underground area below."
+●0000000884●
+
+○0000000885○Mr. Esaka places a clay figurine on the table.
+●0000000885●
+
+○0000000886○瑚太朗
+●0000000886●
+
+○0000000887○"This is..."
+●0000000887●
+
+○0000000888○A so-called haniwa.
+●0000000888●
+
+○0000000889○I've seen them modeled after people and horses, but...
+●0000000889●
+
+○0000000890○瑚太朗
+●0000000890●
+
+○0000000891○"...A dinosaur?"
+●0000000891●
+
+○0000000892○It looks like a Tyrannosaurus rex.
+●0000000892●
+
+○0000000893○江坂
+●0000000893●
+
+○0000000894○"A lot of areas around these parts have dragon-related names, so it might be related."
+●0000000894●
+
+○0000000895○Right... We have some districts that use dragon symbols in their names.
+●0000000895●
+
+○0000000896○瑚太朗
+●0000000896●
+
+○0000000897○"The Legend of Ryuujin."
+●0000000897●
+
+○0000000898○江坂
+●0000000898●
+
+○0000000899○"I'm skeptical about how true that is, but it sounds like an interesting story. Don't you agree?"
+●0000000899●
+
+○0000000900○瑚太朗
+●0000000900●
+
+○0000000901○"It definitely does."
+●0000000901●
+
+○0000000902○No boy in his prime could resist a story like that.
+●0000000902●
+
+○0000000903○瑚太朗
+●0000000903●
+
+○0000000904○"It still sounds complicated, though. It's against the law to enter abandoned ruins without permission."
+●0000000904●
+
+○0000000905○瑚太朗
+●0000000905●
+
+○0000000906○"And I don't even know who we should ask to get started."
+●0000000906●
+
+○0000000907○江坂
+●0000000907●
+
+○0000000908○"Don't worry. The entrance to these ruins is within my private property."
+●0000000908●
+
+○0000000909○江坂
+●0000000909●
+
+○0000000910○"If you're interested, I can give you permission myself."
+●0000000910●
+
+○0000000911○瑚太朗
+●0000000911●
+
+○0000000912○"It's in the town?"
+●0000000912●
+
+○0000000913○Well, that sounds safe and relatively legal.
+●0000000913●
+
+○0000000914○A light-hearted excursion that doesn't come with lots of needless trouble.
+●0000000914●
+
+○0000000915○瑚太朗
+●0000000915●
+
+○0000000916○"I'll take it!"
+●0000000916●
+
+○0000000917○You've received Clue "T-Rex lived in 2nd century AD!!"
+●0000000917●
+
+○0000000918○江坂
+●0000000918●
+
+○0000000919○"I'm glad that made you happy."
+●0000000919●
+
+○0000000920○瑚太朗
+●0000000920●
+
+○0000000921○"This is awesome."
+●0000000921●
+
+○0000000922○江坂
+●0000000922●
+
+○0000000923○"Indeed, indeed."
+●0000000923●
+
+○0000000924○Mr. Esaka nods with a satisfied smile.
+●0000000924●
+
+○0000000925○江坂
+●0000000925●
+
+○0000000926○"Tennouji, this is my card. Use this number to contact me."
+●0000000926●
+
+○0000000927○瑚太朗
+●0000000927●
+
+○0000000928○"Ah, thanks. Business cards are so cool."
+●0000000928●
+
+○0000000929○Written on the pearl-white card is...
+●0000000929●
+
+○0000000930○"I don't want to see your ugly mug ever again, Esaka Sougen."
+●0000000930●
+
+○0000000931○瑚太朗
+●0000000931●
+
+○0000000932○"......"
+●0000000932●
+
+○0000000933○瑚太朗
+●0000000933●
+
+○0000000934○(...WHAT THE HELL IS THIS?!)
+●0000000934●
+
+○0000000935○I don't get it.
+●0000000935●
+
+○0000000936○That's written in the name space.
+●0000000936●
+
+○0000000937○That's not his middle name or title... right?
+●0000000937●
+
+○0000000938○Like Alexander the Great or something.
+●0000000938●
+
+○0000000939○On top of that, there's a small caricature of Mr. Esaka slipping on a banana peel in the corner of the card.
+●0000000939●
+
+○0000000940○Small letters spell out "yikes" above him.
+●0000000940●
+
+○0000000941○This looks like a scene from a century-old manga.
+●0000000941●
+
+○0000000942○(Should I ask about it? Or should I keep it to myself?)
+●0000000942●
+
+○0000000943○I feel it's better to stay silent. I don't want him to freak out again.
+●0000000943●
+
+○0000000944○江坂
+●0000000944●
+
+○0000000945○"Is something the matter?"
+●0000000945●
+
+○0000000946○瑚太朗
+●0000000946●
+
+○0000000947○"No, uh..."
+●0000000947●
+
+○0000000948○瑚太朗
+●0000000948●
+
+○0000000949○"That's a very nice business card... Haha... I hope I'll be able to get one half as cool when I grow up..."
+●0000000949●
+
+○0000000950○江坂
+●0000000950●
+
+○0000000951○"I see, I see."
+●0000000951●
+
+○0000000952○江坂
+●0000000952●
+
+○0000000953○"I sell those cards for five million yen apiece. I hope you've brought cash with you today."
+●0000000953●
+
+○0000000954○江坂
+●0000000954●
+
+○0000000955○"WHYYYYYYYYYY?! THAT MAKES NO SENSE!!"
+●0000000955●
+
+○0000000956○江坂
+●0000000956●
+
+○0000000957○"Who'd pay that much for a scrap of PAPERRRRRR!!"
+●0000000957●
+
+○0000000958○江坂
+●0000000958●
+
+○0000000959○"What kind of business can you run when people need to pay for your CAAARD!!"
+●0000000959●
+
+○0000000960○瑚太朗
+●0000000960●
+
+○0000000961○"Thank you very much."
+●0000000961●
+
+○0000000962○You've received Clue "Ruins of an ancient civilization under Kazamatsuri?! The mystery of the golden kingdom swallowed by the ages!"
+●0000000962●
+
+○0000000963○You've become friends with Esaka Sougen!
+●0000000963●
+
+○0000000964○■友達■　ID:
+●0000000964●
+
+○0000000965○　NO:
+●0000000965●
+
+○0000000966○瑚太朗
+●0000000966●
+
+○0000000967○"My amigo!"
+●0000000967●
+
+○0000000968○I read over the papers that Mr. Esaka gave me that evening.
+●0000000968●
+
+○0000000969○瑚太朗
+●0000000969●
+
+○0000000970○"Hmm."
+●0000000970●
+
+○0000000971○An underground ruin.
+●0000000971●
+
+○0000000972○I never knew such a thing existed underneath Kazamatsuri.
+●0000000972●
+
+○0000000973○But they found soda bottles there.
+●0000000973●
+
+○0000000974○It sounds pretty dumb...
+●0000000974●
+
+○0000000975○瑚太朗
+●0000000975●
+
+○0000000976○(...Dumb enough to be suspicious.)
+●0000000976●
+
+○0000000977○If the ORS continues trucking on without issues...
+●0000000977●
+
+○0000000978○瑚太朗
+●0000000978●
+
+○0000000979○(...It might be a good idea to dedicate weekends to more serious investigations.)
+●0000000979●
+
+○0000000980○I'll hold onto this lead for now.
+●0000000980●
+
+○0000000981○First, we have to level up on something easier.
+●0000000981●
+
+○0000000982○瑚太朗
+●0000000982●
+
+○0000000983○"It'd be nice if these good clues kept coming my way."
+●0000000983●
+
+○0000000984○I want our club activities to feel more meaningful. Besides, it's good practice for my part-time job.
+●0000000984●
+
+○0000000985○dummy
+●0000000985●
+
+○0000000986○sys30_cl00
+●0000000986●
+
+○0000000987○sys20_adv00
+●0000000987●
+
+○0000000988○kuro
+●0000000988●
+
+○0000000989○sys20_adv00
+●0000000989●
+
+○0000000990○bg002
+●0000000990●
+
+○0000000991○bgm035
+●0000000991●
+
+○0000000992○sys00_sys00
+●0000000992●
+
+○0000000993○chime
+●0000000993●
+
+○0000000994○sys20_adv00
+●0000000994●
+
+○0000000995○cgm_kt16
+●0000000995●
+
+○0000000996○sys20_adv00
+●0000000996●
+
+○0000000997○cgm_kt14
+●0000000997●
+
+○0000000998○sys20_adv00
+●0000000998●
+
+○0000000999○sys20_adv00
+●0000000999●
+
+○0000001000○cgm_lc14
+●0000001000●
+
+○0000001001○sys20_adv00
+●0000001001●
+
+○0000001002○sys20_adv00
+●0000001002●
+
+○0000001003○kuro
+●0000001003●
+
+○0000001004○sys20_adv00
+●0000001004●
+
+○0000001005○bg002
+●0000001005●
+
+○0000001006○sys20_adv00
+●0000001006●
+
+○0000001007○cgm_ys17
+●0000001007●
+
+○0000001008○sys20_adv00
+●0000001008●
+
+○0000001009○cgm_ys12
+●0000001009●
+
+○0000001010○sys20_adv00
+●0000001010●
+
+○0000001011○cgm_ys15
+●0000001011●
+
+○0000001012○sys20_adv00
+●0000001012●
+
+○0000001013○cgm_ys13
+●0000001013●
+
+○0000001014○sys20_adv00
+●0000001014●
+
+○0000001015○sys20_adv00
+●0000001015●
+
+○0000001016○cgm_kt16
+●0000001016●
+
+○0000001017○sys20_adv00
+●0000001017●
+
+○0000001018○cgm_kt16
+●0000001018●
+
+○0000001019○cgm_ch10
+●0000001019●
+
+○0000001020○sys20_adv00
+●0000001020●
+
+○0000001021○cgm_kt11
+●0000001021●
+
+○0000001022○cgm_ch10
+●0000001022●
+
+○0000001023○sys00_sys00
+●0000001023●
+
+○0000001024○s1021_001
+●0000001024●
+
+○0000001025○sys20_adv00
+●0000001025●
+
+○0000001026○sys00_sys00
+●0000001026●
+
+○0000001027○s1021_002
+●0000001027●
+
+○0000001028○sys20_adv00
+●0000001028●
+
+○0000001029○cgm_kt11
+●0000001029●
+
+○0000001030○cgm_ch11
+●0000001030●
+
+○0000001031○sys20_adv00
+●0000001031●
+
+○0000001032○cgm_kt14
+●0000001032●
+
+○0000001033○cgm_ch11
+●0000001033●
+
+○0000001034○sys20_adv00
+●0000001034●
+
+○0000001035○cgm_kt14
+●0000001035●
+
+○0000001036○cgm_ch12
+●0000001036●
+
+○0000001037○sys20_adv00
+●0000001037●
+
+○0000001038○cgm_kt11
+●0000001038●
+
+○0000001039○cgm_ch12
+●0000001039●
+
+○0000001040○sys20_adv00
+●0000001040●
+
+○0000001041○cgm_kt11
+●0000001041●
+
+○0000001042○cgm_ch10
+●0000001042●
+
+○0000001043○sys20_adv00
+●0000001043●
+
+○0000001044○sys20_adv00
+●0000001044●
+
+○0000001045○cgm_kt16
+●0000001045●
+
+○0000001046○cgm_ch29
+●0000001046●
+
+○0000001047○sys20_adv00
+●0000001047●
+
+○0000001048○cgm_kt16
+●0000001048●
+
+○0000001049○cgm_ch13
+●0000001049●
+
+○0000001050○sys20_adv00
+●0000001050●
+
+○0000001051○cgm_ys10
+●0000001051●
+
+○0000001052○sys20_adv00
+●0000001052●
+
+○0000001053○cgm_ch16
+●0000001053●
+
+○0000001054○sys20_adv00
+●0000001054●
+
+○0000001055○cgm_kt16
+●0000001055●
+
+○0000001056○sys20_adv00
+●0000001056●
+
+○0000001057○sys00_sys00
+●0000001057●
+
+○0000001058○s1021_003
+●0000001058●
+
+○0000001059○sys00_sys00
+●0000001059●
+
+○0000001060○s1021_004
+●0000001060●
+
+○0000001061○sys00_sys00
+●0000001061●
+
+○0000001062○s1021_005
+●0000001062●
+
+○0000001063○sys20_adv00
+●0000001063●
+
+○0000001064○cgm_ch13
+●0000001064●
+
+○0000001065○sys20_adv00
+●0000001065●
+
+○0000001066○cgm_kt16
+●0000001066●
+
+○0000001067○cgm_ch13
+●0000001067●
+
+○0000001068○sys20_adv00
+●0000001068●
+
+○0000001069○cgm_ys17
+●0000001069●
+
+○0000001070○sys20_adv00
+●0000001070●
+
+○0000001071○cgm_ch29
+●0000001071●
+
+○0000001072○sys20_adv00
+●0000001072●
+
+○0000001073○cgm_kt14
+●0000001073●
+
+○0000001074○sys20_adv00
+●0000001074●
+
+○0000001075○sys00_sys00
+●0000001075●
+
+○0000001076○s1021_006
+●0000001076●
+
+○0000001077○sys20_adv00
+●0000001077●
+
+○0000001078○cgm_kt25h
+●0000001078●
+
+○0000001079○sys20_adv00
+●0000001079●
+
+○0000001080○sys20_adv00
+●0000001080●
+
+○0000001081○cgm_ch10
+●0000001081●
+
+○0000001082○sys20_adv00
+●0000001082●
+
+○0000001083○cgm_kt11y
+●0000001083●
+
+○0000001084○sys20_adv00
+●0000001084●
+
+○0000001085○sys00_sys00
+●0000001085●
+
+○0000001086○s1021_007
+●0000001086●
+
+○0000001087○sys00_sys00
+●0000001087●
+
+○0000001088○s1021_008
+●0000001088●
+
+○0000001089○sys00_sys00
+●0000001089●
+
+○0000001090○s1021_009
+●0000001090●
+
+○0000001091○sys20_adv00
+●0000001091●
+
+○0000001092○cgm_ch29
+●0000001092●
+
+○0000001093○sys20_adv00
+●0000001093●
+
+○0000001094○cgm_kt11
+●0000001094●
+
+○0000001095○sys20_adv00
+●0000001095●
+
+○0000001096○sys20_adv00
+●0000001096●
+
+○0000001097○cgm_kt10
+●0000001097●
+
+○0000001098○sys20_adv00
+●0000001098●
+
+○0000001099○sys20_adv00
+●0000001099●
+
+○0000001100○cgm_kt11
+●0000001100●
+
+○0000001101○cgm_ch29
+●0000001101●
+
+○0000001102○sys20_adv00
+●0000001102●
+
+○0000001103○cgm_kt11
+●0000001103●
+
+○0000001104○cgm_ch24
+●0000001104●
+
+○0000001105○sys20_adv00
+●0000001105●
+
+○0000001106○cgm_ch12
+●0000001106●
+
+○0000001107○sys20_adv00
+●0000001107●
+
+○0000001108○sys20_adv00
+●0000001108●
+
+○0000001109○cgm_ch11
+●0000001109●
+
+○0000001110○sys20_adv00
+●0000001110●
+
+○0000001111○sys20_adv00
+●0000001111●
+
+○0000001112○cgm_kt18
+●0000001112●
+
+○0000001113○cgm_ch10
+●0000001113●
+
+○0000001114○sys20_adv00
+●0000001114●
+
+○0000001115○cgm_kt18
+●0000001115●
+
+○0000001116○cgm_ch13
+●0000001116●
+
+○0000001117○sys20_adv00
+●0000001117●
+
+○0000001118○cgm_lc36
+●0000001118●
+
+○0000001119○sys20_adv00
+●0000001119●
+
+○0000001120○cgm_lc20k
+●0000001120●
+
+○0000001121○sys20_adv00
+●0000001121●
+
+○0000001122○sys20_adv00
+●0000001122●
+
+○0000001123○cgm_lc43
+●0000001123●
+
+○0000001124○sys20_adv00
+●0000001124●
+
+○0000001125○cgm_lc12
+●0000001125●
+
+○0000001126○sys20_adv00
+●0000001126●
+
+○0000001127○cgm_kt16
+●0000001127●
+
+○0000001128○sys20_adv00
+●0000001128●
+
+○0000001129○cgm_lc12
+●0000001129●
+
+○0000001130○sys20_adv00
+●0000001130●
+
+○0000001131○cgm_lc14
+●0000001131●
+
+○0000001132○sys20_adv00
+●0000001132●
+
+○0000001133○cgm_ch22
+●0000001133●
+
+○0000001134○sys20_adv00
+●0000001134●
+
+○0000001135○cgm_lc12
+●0000001135●
+
+○0000001136○sys20_adv00
+●0000001136●
+
+○0000001137○cgm_ch13
+●0000001137●
+
+○0000001138○sys20_adv00
+●0000001138●
+
+○0000001139○cgm_ch13
+●0000001139●
+
+○0000001140○cgm_lc14
+●0000001140●
+
+○0000001141○sys20_adv00
+●0000001141●
+
+○0000001142○cgm_ch13h
+●0000001142●
+
+○0000001143○cgm_lc14
+●0000001143●
+
+○0000001144○sys20_adv00
+●0000001144●
+
+○0000001145○sys20_adv00
+●0000001145●
+
+○0000001146○cgm_lc37
+●0000001146●
+
+○0000001147○sys20_adv00
+●0000001147●
+
+○0000001148○cgm_lc36k
+●0000001148●
+
+○0000001149○sys20_adv00
+●0000001149●
+
+○0000001150○cgm_kt16
+●0000001150●
+
+○0000001151○sys20_adv00
+●0000001151●
+
+○0000001152○cgm_lc12
+●0000001152●
+
+○0000001153○sys20_adv00
+●0000001153●
+
+○0000001154○cgm_ch15
+●0000001154●
+
+○0000001155○sys20_adv00
+●0000001155●
+
+○0000001156○sys20_adv00
+●0000001156●
+
+○0000001157○cgm_ch11
+●0000001157●
+
+○0000001158○sys20_adv00
+●0000001158●
+
+○0000001159○cgm_ch12
+●0000001159●
+
+○0000001160○sys20_adv00
+●0000001160●
+
+○0000001161○sys00_sys00
+●0000001161●
+
+○0000001162○s1021_012
+●0000001162●
+
+○0000001163○sys20_adv00
+●0000001163●
+
+○0000001164○cgm_ch10
+●0000001164●
+
+○0000001165○sys20_adv00
+●0000001165●
+
+○0000001166○sys00_sys00
+●0000001166●
+
+○0000001167○s1021_013
+●0000001167●
+
+○0000001168○sys20_adv00
+●0000001168●
+
+○0000001169○cgm_lc36
+●0000001169●
+
+○0000001170○sys20_adv00
+●0000001170●
+
+○0000001171○sys00_sys00
+●0000001171●
+
+○0000001172○hita
+●0000001172●
+
+○0000001173○sys00_sys00
+●0000001173●
+
+○0000001174○s1021_014
+●0000001174●
+
+○0000001175○sys20_adv00
+●0000001175●
+
+○0000001176○cgm_kt26
+●0000001176●
+
+○0000001177○sys20_adv00
+●0000001177●
+
+○0000001178○sys20_adv00
+●0000001178●
+
+○0000001179○cgm_lc22
+●0000001179●
+
+○0000001180○bgm011
+●0000001180●
+
+○0000001181○sys20_adv00
+●0000001181●
+
+○0000001182○cgm_ch19
+●0000001182●
+
+○0000001183○sys20_adv00
+●0000001183●
+
+○0000001184○cgm_kt26
+●0000001184●
+
+○0000001185○sys20_adv00
+●0000001185●
+
+○0000001186○cgm_ch15
+●0000001186●
+
+○0000001187○sys20_adv00
+●0000001187●
+
+○0000001188○sys20_adv00
+●0000001188●
+
+○0000001189○cgm_ch19
+●0000001189●
+
+○0000001190○sys20_adv00
+●0000001190●
+
+○0000001191○cgm_lc12k
+●0000001191●
+
+○0000001192○sys20_adv00
+●0000001192●
+
+○0000001193○cgm_ch15
+●0000001193●
+
+○0000001194○sys20_adv00
+●0000001194●
+
+○0000001195○cgm_ch19
+●0000001195●
+
+○0000001196○sys20_adv00
+●0000001196●
+
+○0000001197○cgm_kt26
+●0000001197●
+
+○0000001198○sys20_adv00
+●0000001198●
+
+○0000001199○cgm_kt13
+●0000001199●
+
+○0000001200○sys20_adv00
+●0000001200●
+
+○0000001201○sys20_adv00
+●0000001201●
+
+○0000001202○cgm_lc28h
+●0000001202●
+
+○0000001203○sys20_adv00
+●0000001203●
+
+○0000001204○sys20_adv00
+●0000001204●
+
+○0000001205○cgm_kt14
+●0000001205●
+
+○0000001206○sys20_adv00
+●0000001206●
+
+○0000001207○cgm_lc37
+●0000001207●
+
+○0000001208○sys20_adv00
+●0000001208●
+
+○0000001209○cgm_ch15
+●0000001209●
+
+○0000001210○sys20_adv00
+●0000001210●
+
+○0000001211○cgm_ch19
+●0000001211●
+
+○0000001212○sys20_adv00
+●0000001212●
+
+○0000001213○cgm_lc12
+●0000001213●
+
+○0000001214○sys20_adv00
+●0000001214●
+
+○0000001215○sys20_adv00
+●0000001215●
+
+○0000001216○cgm_ys17
+●0000001216●
+
+○0000001217○sys20_adv00
+●0000001217●
+
+○0000001218○cgm_ys10
+●0000001218●
+
+○0000001219○sys20_adv00
+●0000001219●
+
+○0000001220○cgm_ys17
+●0000001220●
+
+○0000001221○sys20_adv00
+●0000001221●
+
+○0000001222○sys20_adv00
+●0000001222●
+
+○0000001223○cgm_ys10
+●0000001223●
+
+○0000001224○sys20_adv00
+●0000001224●
+
+○0000001225○bgm028
+●0000001225●
+
+○0000001226○sys20_adv00
+●0000001226●
+
+○0000001227○cgm_kt25
+●0000001227●
+
+○0000001228○sys20_adv00
+●0000001228●
+
+○0000001229○sys20_adv00
+●0000001229●
+
+○0000001230○cgm_ch13h
+●0000001230●
+
+○0000001231○bgm002
+●0000001231●
+
+○0000001232○sys20_adv00
+●0000001232●
+
+○0000001233○cgm_sk15h
+●0000001233●
+
+○0000001234○sys20_adv00
+●0000001234●
+
+○0000001235○cgm_sk10
+●0000001235●
+
+○0000001236○cgm_ch29
+●0000001236●
+
+○0000001237○sys20_adv00
+●0000001237●
+
+○0000001238○cgm_sk11
+●0000001238●
+
+○0000001239○cgm_ch29
+●0000001239●
+
+○0000001240○sys20_adv00
+●0000001240●
+
+○0000001241○cgm_sk25t
+●0000001241●
+
+○0000001242○cgm_ch29
+●0000001242●
+
+○0000001243○sys20_adv00
+●0000001243●
+
+○0000001244○sys20_adv00
+●0000001244●
+
+○0000001245○cgm_sk15
+●0000001245●
+
+○0000001246○sys20_adv00
+●0000001246●
+
+○0000001247○cgm_kt25
+●0000001247●
+
+○0000001248○sys20_adv00
+●0000001248●
+
+○0000001249○cgm_sk31
+●0000001249●
+
+○0000001250○sys20_adv00
+●0000001250●
+
+○0000001251○cgm_sk10
+●0000001251●
+
+○0000001252○sys20_adv00
+●0000001252●
+
+○0000001253○cgm_ch13
+●0000001253●
+
+○0000001254○sys20_adv00
+●0000001254●
+
+○0000001255○sys20_adv00
+●0000001255●
+
+○0000001256○cgm_sk10
+●0000001256●
+
+○0000001257○sys20_adv00
+●0000001257●
+
+○0000001258○sys20_adv00
+●0000001258●
+
+○0000001259○cgm_kt25
+●0000001259●
+
+○0000001260○sys20_adv00
+●0000001260●
+
+○0000001261○cgm_lc20
+●0000001261●
+
+○0000001262○sys20_adv00
+●0000001262●
+
+○0000001263○cgm_sk10
+●0000001263●
+
+○0000001264○cgm_ch13
+●0000001264●
+
+○0000001265○sys20_adv00
+●0000001265●
+
+○0000001266○cgm_sk15t
+●0000001266●
+
+○0000001267○cgm_ch13
+●0000001267●
+
+○0000001268○sys20_adv00
+●0000001268●
+
+○0000001269○cgm_sk15t
+●0000001269●
+
+○0000001270○cgm_lc11
+●0000001270●
+
+○0000001271○sys20_adv00
+●0000001271●
+
+○0000001272○cgm_sk11
+●0000001272●
+
+○0000001273○cgm_lc11
+●0000001273●
+
+○0000001274○sys20_adv00
+●0000001274●
+
+○0000001275○cgm_sk11
+●0000001275●
+
+○0000001276○cgm_lc26
+●0000001276●
+
+○0000001277○sys20_adv00
+●0000001277●
+
+○0000001278○cgm_sk10
+●0000001278●
+
+○0000001279○cgm_lc26
+●0000001279●
+
+○0000001280○sys20_adv00
+●0000001280●
+
+○0000001281○cgm_sk11
+●0000001281●
+
+○0000001282○cgm_lc10
+●0000001282●
+
+○0000001283○sys20_adv00
+●0000001283●
+
+○0000001284○cgm_sk11
+●0000001284●
+
+○0000001285○cgm_lc11
+●0000001285●
+
+○0000001286○sys20_adv00
+●0000001286●
+
+○0000001287○cgm_sk22h
+●0000001287●
+
+○0000001288○cgm_lc26
+●0000001288●
+
+○0000001289○sys20_adv00
+●0000001289●
+
+○0000001290○cgm_sk10
+●0000001290●
+
+○0000001291○sys20_adv00
+●0000001291●
+
+○0000001292○sys20_adv00
+●0000001292●
+
+○0000001293○cgm_lc26
+●0000001293●
+
+○0000001294○sys20_adv00
+●0000001294●
+
+○0000001295○cgm_ch13
+●0000001295●
+
+○0000001296○sys20_adv00
+●0000001296●
+
+○0000001297○cgm_ch13
+●0000001297●
+
+○0000001298○cgm_lc11
+●0000001298●
+
+○0000001299○sys20_adv00
+●0000001299●
+
+○0000001300○cgm_ch15
+●0000001300●
+
+○0000001301○cgm_lc11
+●0000001301●
+
+○0000001302○sys20_adv00
+●0000001302●
+
+○0000001303○cgm_ch15
+●0000001303●
+
+○0000001304○cgm_lc43
+●0000001304●
+
+○0000001305○sys20_adv00
+●0000001305●
+
+○0000001306○kuro
+●0000001306●
+
+○0000001307○sys20_adv00
+●0000001307●
+
+○0000001308○bg004
+●0000001308●
+
+○0000001309○bgm007
+●0000001309●
+
+○0000001310○sys20_adv00
+●0000001310●
+
+○0000001311○cgm_ak11
+●0000001311●
+
+○0000001312○sys20_adv00
+●0000001312●
+
+○0000001313○cgm_ak23
+●0000001313●
+
+○0000001314○sys20_adv00
+●0000001314●
+
+○0000001315○seen01310
+●0000001315●
+
+○0000001316○sys20_adv00
+●0000001316●
+
+○0000001317○kuro
+●0000001317●
+
+○0000001318○sys20_adv00
+●0000001318●
+
+○0000001319○bg011y
+●0000001319●
+
+○0000001320○bgm035
+●0000001320●
+
+○0000001321○sys20_adv00
+●0000001321●
+
+○0000001322○kuro
+●0000001322●
+
+○0000001323○sys20_adv00
+●0000001323●
+
+○0000001324○bg013y
+●0000001324●
+
+○0000001325○sys40_mp40
+●0000001325●
+
+○0000001326○sys20_adv00
+●0000001326●
+
+○0000001327○kuro
+●0000001327●
+
+○0000001328○sys20_adv00
+●0000001328●
+
+○0000001329○bg011y
+●0000001329●
+
+○0000001330○sys20_adv00
+●0000001330●
+
+○0000001331○kuro
+●0000001331●
+
+○0000001332○sys20_adv00
+●0000001332●
+
+○0000001333○bg040y
+●0000001333●
+
+○0000001334○bgm035
+●0000001334●
+
+○0000001335○sys20_adv00
+●0000001335●
+
+○0000001336○cgm_es10
+●0000001336●
+
+○0000001337○sys20_adv00
+●0000001337●
+
+○0000001338○cgm_es11
+●0000001338●
+
+○0000001339○sys20_adv00
+●0000001339●
+
+○0000001340○cgm_es14
+●0000001340●
+
+○0000001341○sys20_adv00
+●0000001341●
+
+○0000001342○cgm_es13
+●0000001342●
+
+○0000001343○sys20_adv00
+●0000001343●
+
+○0000001344○cgm_es11
+●0000001344●
+
+○0000001345○sys20_adv00
+●0000001345●
+
+○0000001346○cgm_es14
+●0000001346●
+
+○0000001347○sys20_adv00
+●0000001347●
+
+○0000001348○cgm_es13
+●0000001348●
+
+○0000001349○sys20_adv00
+●0000001349●
+
+○0000001350○cgm_es10
+●0000001350●
+
+○0000001351○sys20_adv00
+●0000001351●
+
+○0000001352○cgm_es12
+●0000001352●
+
+○0000001353○sys20_adv00
+●0000001353●
+
+○0000001354○cgm_es10
+●0000001354●
+
+○0000001355○sys20_adv00
+●0000001355●
+
+○0000001356○sys20_adv00
+●0000001356●
+
+○0000001357○cgm_es10
+●0000001357●
+
+○0000001358○sys20_adv00
+●0000001358●
+
+○0000001359○cgm_es12
+●0000001359●
+
+○0000001360○cgm_es18
+●0000001360●
+
+○0000001361○sys00_sys00
+●0000001361●
+
+○0000001362○kaminari2
+●0000001362●
+
+○0000001363○sys20_adv02
+●0000001363●
+
+○0000001364○sys20_adv00
+●0000001364●
+
+○0000001365○cgm_es18_id010
+●0000001365●
+
+○0000001366○sys20_adv00
+●0000001366●
+
+○0000001367○cgm_es18_id011
+●0000001367●
+
+○0000001368○sys20_adv00
+●0000001368●
+
+○0000001369○sys20_adv00
+●0000001369●
+
+○0000001370○sys20_adv00
+●0000001370●
+
+○0000001371○sys20_adv00
+●0000001371●
+
+○0000001372○sys20_adv00
+●0000001372●
+
+○0000001373○sys20_adv00
+●0000001373●
+
+○0000001374○sys20_adv00
+●0000001374●
+
+○0000001375○sys20_adv00
+●0000001375●
+
+○0000001376○sys20_adv00
+●0000001376●
+
+○0000001377○cgm_es18
+●0000001377●
+
+○0000001378○sys20_adv02
+●0000001378●
+
+○0000001379○sys20_adv00
+●0000001379●
+
+○0000001380○sys20_adv00
+●0000001380●
+
+○0000001381○cgm_es10
+●0000001381●
+
+○0000001382○sys20_adv00
+●0000001382●
+
+○0000001383○cgm_es12
+●0000001383●
+
+○0000001384○sys20_adv00
+●0000001384●
+
+○0000001385○cgm_es10
+●0000001385●
+
+○0000001386○sys20_adv00
+●0000001386●
+
+○0000001387○sys20_adv00
+●0000001387●
+
+○0000001388○cgm_es10
+●0000001388●
+
+○0000001389○sys20_adv00
+●0000001389●
+
+○0000001390○cgm_es12
+●0000001390●
+
+○0000001391○sys20_adv00
+●0000001391●
+
+○0000001392○cgm_es14
+●0000001392●
+
+○0000001393○sys20_adv00
+●0000001393●
+
+○0000001394○sys20_adv00
+●0000001394●
+
+○0000001395○cgm_es12
+●0000001395●
+
+○0000001396○sys20_adv00
+●0000001396●
+
+○0000001397○cgm_es10
+●0000001397●
+
+○0000001398○sys20_adv00
+●0000001398●
+
+○0000001399○cgm_es12
+●0000001399●
+
+○0000001400○sys20_adv00
+●0000001400●
+
+○0000001401○cgm_es14
+●0000001401●
+
+○0000001402○sys20_adv00
+●0000001402●
+
+○0000001403○cgm_es12
+●0000001403●
+
+○0000001404○sys20_adv00
+●0000001404●
+
+○0000001405○cgm_es14
+●0000001405●
+
+○0000001406○sys20_adv00
+●0000001406●
+
+○0000001407○sys20_adv00
+●0000001407●
+
+○0000001408○cgm_es10
+●0000001408●
+
+○0000001409○sys20_adv00
+●0000001409●
+
+○0000001410○cgm_es12
+●0000001410●
+
+○0000001411○sys20_adv00
+●0000001411●
+
+○0000001412○sys20_adv00
+●0000001412●
+
+○0000001413○cgm_es12
+●0000001413●
+
+○0000001414○sys20_adv00
+●0000001414●
+
+○0000001415○cgm_es10
+●0000001415●
+
+○0000001416○sys20_adv00
+●0000001416●
+
+○0000001417○sys20_adv00
+●0000001417●
+
+○0000001418○siro
+●0000001418●
+
+○0000001419○sys20_adv00
+●0000001419●
+
+○0000001420○bg040y
+●0000001420●
+
+○0000001421○sys20_adv00
+●0000001421●
+
+○0000001422○cgm_es12
+●0000001422●
+
+○0000001423○sys20_adv00
+●0000001423●
+
+○0000001424○cgm_es14
+●0000001424●
+
+○0000001425○sys00_sys00
+●0000001425●
+
+○0000001426○kaminari2
+●0000001426●
+
+○0000001427○sys20_adv02
+●0000001427●
+
+○0000001428○sys20_adv00
+●0000001428●
+
+○0000001429○cgm_es18_id010
+●0000001429●
+
+○0000001430○sys20_adv00
+●0000001430●
+
+○0000001431○cgm_es18_id011
+●0000001431●
+
+○0000001432○sys20_adv00
+●0000001432●
+
+○0000001433○sys20_adv00
+●0000001433●
+
+○0000001434○sys20_adv00
+●0000001434●
+
+○0000001435○sys20_adv00
+●0000001435●
+
+○0000001436○sys20_adv00
+●0000001436●
+
+○0000001437○sys20_adv00
+●0000001437●
+
+○0000001438○sys20_adv00
+●0000001438●
+
+○0000001439○sys20_adv00
+●0000001439●
+
+○0000001440○sys20_adv00
+●0000001440●
+
+○0000001441○cgm_es18
+●0000001441●
+
+○0000001442○sys20_adv02
+●0000001442●
+
+○0000001443○sys20_adv00
+●0000001443●
+
+○0000001444○sys20_adv00
+●0000001444●
+
+○0000001445○cgm_es10
+●0000001445●
+
+○0000001446○sys20_adv00
+●0000001446●
+
+○0000001447○sys20_adv00
+●0000001447●
+
+○0000001448○cgm_es11
+●0000001448●
+
+○0000001449○sys20_adv00
+●0000001449●
+
+○0000001450○cgm_es10
+●0000001450●
+
+○0000001451○sys20_adv00
+●0000001451●
+
+○0000001452○cgm_es12
+●0000001452●
+
+○0000001453○sys20_adv00
+●0000001453●
+
+○0000001454○fgsb03a
+●0000001454●
+
+○0000001455○sys20_adv00
+●0000001455●
+
+○0000001456○siro
+●0000001456●
+
+○0000001457○sys20_adv00
+●0000001457●
+
+○0000001458○fgsb03b
+●0000001458●
+
+○0000001459○sys20_adv00
+●0000001459●
+
+○0000001460○siro
+●0000001460●
+
+○0000001461○sys20_adv00
+●0000001461●
+
+○0000001462○kuro
+●0000001462●
+
+○0000001463○sys20_adv00
+●0000001463●
+
+○0000001464○bg040y
+●0000001464●
+
+○0000001465○sys20_adv00
+●0000001465●
+
+○0000001466○cgm_es10
+●0000001466●
+
+○0000001467○sys20_adv00
+●0000001467●
+
+○0000001468○cgm_es12
+●0000001468●
+
+○0000001469○sys20_adv00
+●0000001469●
+
+○0000001470○cgm_es11
+●0000001470●
+
+○0000001471○sys20_adv00
+●0000001471●
+
+○0000001472○cgm_es14
+●0000001472●
+
+○0000001473○sys00_sys00
+●0000001473●
+
+○0000001474○kaminari2
+●0000001474●
+
+○0000001475○sys20_adv02
+●0000001475●
+
+○0000001476○sys20_adv00
+●0000001476●
+
+○0000001477○cgm_es18_id010
+●0000001477●
+
+○0000001478○sys20_adv00
+●0000001478●
+
+○0000001479○cgm_es18_id011
+●0000001479●
+
+○0000001480○sys20_adv00
+●0000001480●
+
+○0000001481○sys20_adv00
+●0000001481●
+
+○0000001482○sys20_adv00
+●0000001482●
+
+○0000001483○sys20_adv00
+●0000001483●
+
+○0000001484○sys20_adv00
+●0000001484●
+
+○0000001485○sys20_adv00
+●0000001485●
+
+○0000001486○sys20_adv00
+●0000001486●
+
+○0000001487○sys20_adv00
+●0000001487●
+
+○0000001488○sys20_adv00
+●0000001488●
+
+○0000001489○cgm_es18
+●0000001489●
+
+○0000001490○sys20_adv02
+●0000001490●
+
+○0000001491○sys20_adv00
+●0000001491●
+
+○0000001492○cgm_es17
+●0000001492●
+
+○0000001493○sys00_sys00
+●0000001493●
+
+○0000001494○kaminari2
+●0000001494●
+
+○0000001495○sys20_adv02
+●0000001495●
+
+○0000001496○sys20_adv00
+●0000001496●
+
+○0000001497○cgm_es18_id010
+●0000001497●
+
+○0000001498○sys20_adv00
+●0000001498●
+
+○0000001499○cgm_es18_id011
+●0000001499●
+
+○0000001500○sys20_adv00
+●0000001500●
+
+○0000001501○sys20_adv00
+●0000001501●
+
+○0000001502○sys20_adv00
+●0000001502●
+
+○0000001503○sys20_adv00
+●0000001503●
+
+○0000001504○sys20_adv00
+●0000001504●
+
+○0000001505○sys20_adv00
+●0000001505●
+
+○0000001506○sys20_adv00
+●0000001506●
+
+○0000001507○sys20_adv00
+●0000001507●
+
+○0000001508○sys20_adv00
+●0000001508●
+
+○0000001509○cgm_es18
+●0000001509●
+
+○0000001510○sys20_adv02
+●0000001510●
+
+○0000001511○sys20_adv00
+●0000001511●
+
+○0000001512○sys20_adv00
+●0000001512●
+
+○0000001513○cgm_es10
+●0000001513●
+
+○0000001514○sys20_adv00
+●0000001514●
+
+○0000001515○sys20_adv00
+●0000001515●
+
+○0000001516○cgm_es11
+●0000001516●
+
+○0000001517○sys20_adv00
+●0000001517●
+
+○0000001518○cgm_es13
+●0000001518●
+
+○0000001519○sys20_adv00
+●0000001519●
+
+○0000001520○cgm_es10
+●0000001520●
+
+○0000001521○sys20_adv00
+●0000001521●
+
+○0000001522○cgm_es14
+●0000001522●
+
+○0000001523○sys20_adv00
+●0000001523●
+
+○0000001524○cgm_es13
+●0000001524●
+
+○0000001525○sys20_adv00
+●0000001525●
+
+○0000001526○cgm_es11
+●0000001526●
+
+○0000001527○sys20_adv00
+●0000001527●
+
+○0000001528○cgm_es19
+●0000001528●
+
+○0000001529○sys20_adv00
+●0000001529●
+
+○0000001530○cgm_es11
+●0000001530●
+
+○0000001531○sys20_adv00
+●0000001531●
+
+○0000001532○cgm_es13
+●0000001532●
+
+○0000001533○sys20_adv00
+●0000001533●
+
+○0000001534○cgm_es10
+●0000001534●
+
+○0000001535○sys20_adv00
+●0000001535●
+
+○0000001536○sys20_adv00
+●0000001536●
+
+○0000001537○cgm_es10
+●0000001537●
+
+○0000001538○sys20_adv00
+●0000001538●
+
+○0000001539○cgm_es13
+●0000001539●
+
+○0000001540○sys20_adv00
+●0000001540●
+
+○0000001541○cgm_es14
+●0000001541●
+
+○0000001542○sys20_adv00
+●0000001542●
+
+○0000001543○sys20_adv00
+●0000001543●
+
+○0000001544○cgm_es10
+●0000001544●
+
+○0000001545○sys20_adv00
+●0000001545●
+
+○0000001546○cgm_es13
+●0000001546●
+
+○0000001547○sys20_adv00
+●0000001547●
+
+○0000001548○sys20_adv00
+●0000001548●
+
+○0000001549○cgm_es10
+●0000001549●
+
+○0000001550○sys20_adv00
+●0000001550●
+
+○0000001551○cgm_es12
+●0000001551●
+
+○0000001552○sys20_adv00
+●0000001552●
+
+○0000001553○sys20_adv00
+●0000001553●
+
+○0000001554○cgm_es10
+●0000001554●
+
+○0000001555○sys20_adv00
+●0000001555●
+
+○0000001556○cgm_es12
+●0000001556●
+
+○0000001557○sys20_adv00
+●0000001557●
+
+○0000001558○cgm_es10
+●0000001558●
+
+○0000001559○sys20_adv00
+●0000001559●
+
+○0000001560○cgm_es12
+●0000001560●
+
+○0000001561○sys20_adv00
+●0000001561●
+
+○0000001562○cgm_es10
+●0000001562●
+
+○0000001563○sys20_adv00
+●0000001563●
+
+○0000001564○sys20_adv00
+●0000001564●
+
+○0000001565○cgm_es11
+●0000001565●
+
+○0000001566○sys20_adv00
+●0000001566●
+
+○0000001567○cgm_es10
+●0000001567●
+
+○0000001568○sys20_adv00
+●0000001568●
+
+○0000001569○cgm_es12
+●0000001569●
+
+○0000001570○sys00_sys00
+●0000001570●
+
+○0000001571○kaminari2
+●0000001571●
+
+○0000001572○sys20_adv02
+●0000001572●
+
+○0000001573○sys20_adv00
+●0000001573●
+
+○0000001574○cgm_es18_id010
+●0000001574●
+
+○0000001575○sys20_adv00
+●0000001575●
+
+○0000001576○cgm_es18_id011
+●0000001576●
+
+○0000001577○sys20_adv00
+●0000001577●
+
+○0000001578○sys20_adv00
+●0000001578●
+
+○0000001579○sys20_adv00
+●0000001579●
+
+○0000001580○sys20_adv00
+●0000001580●
+
+○0000001581○sys20_adv00
+●0000001581●
+
+○0000001582○sys20_adv00
+●0000001582●
+
+○0000001583○sys20_adv00
+●0000001583●
+
+○0000001584○sys20_adv00
+●0000001584●
+
+○0000001585○sys20_adv00
+●0000001585●
+
+○0000001586○cgm_es18
+●0000001586●
+
+○0000001587○sys20_adv02
+●0000001587●
+
+○0000001588○sys20_adv00
+●0000001588●
+
+○0000001589○cgm_es13
+●0000001589●
+
+○0000001590○sys00_sys00
+●0000001590●
+
+○0000001591○kaminari2
+●0000001591●
+
+○0000001592○sys20_adv02
+●0000001592●
+
+○0000001593○sys20_adv00
+●0000001593●
+
+○0000001594○cgm_es18_id010
+●0000001594●
+
+○0000001595○sys20_adv00
+●0000001595●
+
+○0000001596○cgm_es18_id011
+●0000001596●
+
+○0000001597○sys20_adv00
+●0000001597●
+
+○0000001598○sys20_adv00
+●0000001598●
+
+○0000001599○sys20_adv00
+●0000001599●
+
+○0000001600○sys20_adv00
+●0000001600●
+
+○0000001601○sys20_adv00
+●0000001601●
+
+○0000001602○sys20_adv00
+●0000001602●
+
+○0000001603○sys20_adv00
+●0000001603●
+
+○0000001604○sys20_adv00
+●0000001604●
+
+○0000001605○sys20_adv00
+●0000001605●
+
+○0000001606○cgm_es18
+●0000001606●
+
+○0000001607○sys20_adv02
+●0000001607●
+
+○0000001608○sys20_adv00
+●0000001608●
+
+○0000001609○cgm_es13
+●0000001609●
+
+○0000001610○sys00_sys00
+●0000001610●
+
+○0000001611○kaminari2
+●0000001611●
+
+○0000001612○sys20_adv02
+●0000001612●
+
+○0000001613○sys20_adv00
+●0000001613●
+
+○0000001614○cgm_es18_id010
+●0000001614●
+
+○0000001615○sys20_adv00
+●0000001615●
+
+○0000001616○cgm_es18_id011
+●0000001616●
+
+○0000001617○sys20_adv00
+●0000001617●
+
+○0000001618○sys20_adv00
+●0000001618●
+
+○0000001619○sys20_adv00
+●0000001619●
+
+○0000001620○sys20_adv00
+●0000001620●
+
+○0000001621○sys20_adv00
+●0000001621●
+
+○0000001622○sys20_adv00
+●0000001622●
+
+○0000001623○sys20_adv00
+●0000001623●
+
+○0000001624○sys20_adv00
+●0000001624●
+
+○0000001625○sys20_adv00
+●0000001625●
+
+○0000001626○cgm_es18
+●0000001626●
+
+○0000001627○sys20_adv02
+●0000001627●
+
+○0000001628○sys20_adv00
+●0000001628●
+
+○0000001629○sys10_mm02
+●0000001629●
+
+○0000001630○sys20_adv00
+●0000001630●
+
+○0000001631○kuro
+●0000001631●
+
+○0000001632○sys20_adv00
+●0000001632●
+
+○0000001633○bg001n1
+●0000001633●
+
+○0000001634○bgm004
+●0000001634●
+
+○0000001635○sys20_adv00
+●0000001635●
+
+○0000001636○kuro
+●0000001636●
+
+○0000001637○sys00_sys00
+●0000001637●
+
+○0000001638○seen01022
+●0000001638●
+

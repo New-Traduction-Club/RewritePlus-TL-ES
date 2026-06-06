@@ -1,0 +1,90 @@
+○0000000000○Kotarou
+●0000000000●
+
+○0000000001○Some time afterwards...
+●0000000001●
+
+○0000000002○...everyone has vanished.
+●0000000002●
+
+○0000000003○Akane. Chihaya.
+●0000000003●
+
+○0000000004○Sizuru. Lucia.
+●0000000004●
+
+○0000000005○Can you believe it?
+●0000000005●
+
+○0000000006○Even Kotori has disappeared.
+●0000000006●
+
+○0000000007○The Harvest Festival arrived, but my spirits are still low.
+●0000000007●
+
+○0000000008○I remain in the classroom all alone, my heart whimpering in pain.
+●0000000008●
+
+○0000000009○Suddenly, I hear a song from somewhere.
+●0000000009●
+
+○0000000010○I'm pretty sure this is my first time hearing it, but it feels oddly nostalgic.
+●0000000010●
+
+○0000000011○瑚太朗
+●0000000011●
+
+○0000000012○(Who's singing that?)
+●0000000012●
+
+○0000000013○Drowsiness envelops me.
+●0000000013●
+
+○0000000014○The song contains no words or instruments, but it still has an odd air of serenity about it.
+●0000000014●
+
+○0000000015○During my last moments of consciousness, I see a vision of a mother stroking the head of a child.
+●0000000015●
+
+○0000000016○And then... I... We...
+●0000000016●
+
+○0000000017○dummy
+●0000000017●
+
+○0000000018○sys20_adv00
+●0000000018●
+
+○0000000019○kuro
+●0000000019●
+
+○0000000020○bgm010
+●0000000020●
+
+○0000000021○sys20_adv00
+●0000000021●
+
+○0000000022○kuro
+●0000000022●
+
+○0000000023○sys20_adv00
+●0000000023●
+
+○0000000024○bg002
+●0000000024●
+
+○0000000025○sys20_adv00
+●0000000025●
+
+○0000000026○siro
+●0000000026●
+
+○0000000027○sys10_mm02
+●0000000027●
+
+○0000000028○sys20_adv00
+●0000000028●
+
+○0000000029○kuro
+●0000000029●
+

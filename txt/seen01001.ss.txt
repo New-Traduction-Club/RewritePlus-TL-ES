@@ -1,0 +1,282 @@
+○0000000000○吉野＿体験版
+●0000000000●
+
+○0000000001○"That's it. I can't take this anymore..."
+●0000000001●
+
+○0000000002○Yoshino Haruhiko―the only delinquent in our class―gives me a deadly stare.
+●0000000002●
+
+○0000000003○吉野＿体験版
+●0000000003●
+
+○0000000004○"Tennouji, it's time to duel!"
+●0000000004●
+
+○0000000005○瑚太朗＿体験版
+●0000000005●
+
+○0000000006○"Sorry, but I'm not really into card games..."
+●0000000006●
+
+○0000000007○吉野＿体験版
+●0000000007●
+
+○0000000008○"No! With our fists!"
+●0000000008●
+
+○0000000009○He seems like he's serious.
+●0000000009●
+
+○0000000010○Yoshino might look like the lone wolf type, but he's pretty levelheaded... most of the time.
+●0000000010●
+
+○0000000011○Because of that, few people know he has a penchant for the kind of embarrassing lines you only hear in comic books and video games these days.
+●0000000011●
+
+○0000000012○And in this moment, for whatever reason, he's staring at me as though we're sworn enemies.
+●0000000012●
+
+○0000000013○I'd been trying to avoid letting things get this far for a while, but it seems like all my efforts have been for naught.
+●0000000013●
+
+○0000000014○Up until now, I made sure to amicably talk to him every lunch break and then follow him to the toilet and stare at him until he finished. I've also never forgotten to express our camaraderie by laughing every time he opens his mouth.
+●0000000014●
+
+○0000000015○There was never even a hint that he'd respond with a sudden outburst of unreasonable anger.
+●0000000015●
+
+○0000000016○Yet here he is, staring daggers at me like I killed his pet dog.
+●0000000016●
+
+○0000000017○瑚太朗＿体験版
+●0000000017●
+
+○0000000018○"It's a shame. I never thought there'd come a day when I'd have to fight such a dear friend."
+●0000000018●
+
+○0000000019○吉野＿体験版
+●0000000019●
+
+○0000000020○"You're not my goddamn friend! And after today, I'm gonna make sure you never forget it!"
+●0000000020●
+
+○0000000021○瑚太朗＿体験版
+●0000000021●
+
+○0000000022○"It sounds like you really are serious."
+●0000000022●
+
+○0000000023○瑚太朗＿体験版
+●0000000023●
+
+○0000000024○"...All right. I'll take you on."
+●0000000024●
+
+○0000000025○吉野＿体験版
+●0000000025●
+
+○0000000026○"Meet me behind the gym after school. That's where I'll be sending you to meet your maker."
+●0000000026●
+
+○0000000027○瑚太朗＿体験版
+●0000000027●
+
+○0000000028○"Okay... But first, there's something you should know."
+●0000000028●
+
+○0000000029○The intense energy emanating from Yoshino is slowly awakening my rebellious side, which has long been trapped in slumber.
+●0000000029●
+
+○0000000030○吉野＿体験版
+●0000000030●
+
+○0000000031○"What?"
+●0000000031●
+
+○0000000032○瑚太朗＿体験版
+●0000000032●
+
+○0000000033○"I won't go down easily."
+●0000000033●
+
+○0000000034○吉野＿体験版
+●0000000034●
+
+○0000000035○"All the better. I can't wait to see you whimper... like the pathetic dog you are."
+●0000000035●
+
+○0000000036○吉野＿体験版
+●0000000036●
+
+○0000000037○"...Be there after school. Don't you dare forget it."
+●0000000037●
+
+○0000000038○瑚太朗＿体験版
+●0000000038●
+
+○0000000039○"I won't."
+●0000000039●
+
+○0000000040○It is, after all, a passionate promise I made with that mad hound; one that foretells an epic battle that will be sung of for generations to come.
+●0000000040●
+
+○0000000041○I forget all about it by the time school ends, though, and head straight home.
+●0000000041●
+
+○0000000042○I'm not exactly what you'd call an attentive person, you know.
+●0000000042●
+
+○0000000043○瑚太朗＿体験版
+●0000000043●
+
+○0000000044○"Uhahahahaha!"
+●0000000044●
+
+○0000000045○I spend the evening watching TV.
+●0000000045●
+
+○0000000046○瑚太朗＿体験版
+●0000000046●
+
+○0000000047○"Wahahahaha!"
+●0000000047●
+
+○0000000048○The next day is a Saturday, so I spend it hanging around downtown.
+●0000000048●
+
+○0000000049○It's only when night falls that I remember my encounter with Yoshino.
+●0000000049●
+
+○0000000050○But it's far too late for regrets.
+●0000000050●
+
+○0000000051○I'll just apologize to Yoshino later. Right now, it's time for bed.
+●0000000051●
+
+○0000000052○Hmm. Maybe that's what he finds so disagreeable about me.
+●0000000052●
+
+○0000000054○dummy
+●0000000054●
+
+○0000000055○bgm034
+●0000000055●
+
+○0000000056○sys20_adv00
+●0000000056●
+
+○0000000057○bg003
+●0000000057●
+
+○0000000058○sys20_adv00
+●0000000058●
+
+○0000000059○cgm_ys15
+●0000000059●
+
+○0000000060○sys20_adv00
+●0000000060●
+
+○0000000061○cgm_ys19
+●0000000061●
+
+○0000000062○sys20_adv00
+●0000000062●
+
+○0000000063○cgm_ys20
+●0000000063●
+
+○0000000064○sys20_adv00
+●0000000064●
+
+○0000000065○cgm_ys19
+●0000000065●
+
+○0000000066○sys20_adv00
+●0000000066●
+
+○0000000067○cgm_ys20
+●0000000067●
+
+○0000000068○sys20_adv00
+●0000000068●
+
+○0000000069○cgm_ys17
+●0000000069●
+
+○0000000070○sys20_adv00
+●0000000070●
+
+○0000000071○cgm_ys10
+●0000000071●
+
+○0000000072○sys20_adv00
+●0000000072●
+
+○0000000073○cgm_ys12
+●0000000073●
+
+○0000000074○sys20_adv00
+●0000000074●
+
+○0000000075○cgm_ys19
+●0000000075●
+
+○0000000076○sys20_adv00
+●0000000076●
+
+○0000000077○sys20_adv00
+●0000000077●
+
+○0000000078○kuro
+●0000000078●
+
+○0000000079○sys20_adv00
+●0000000079●
+
+○0000000080○bg001n1
+●0000000080●
+
+○0000000081○bgm013
+●0000000081●
+
+○0000000082○sys20_adv00
+●0000000082●
+
+○0000000083○kuro
+●0000000083●
+
+○0000000084○sys20_adv00
+●0000000084●
+
+○0000000085○bg011
+●0000000085●
+
+○0000000086○sys20_adv00
+●0000000086●
+
+○0000000087○kuro
+●0000000087●
+
+○0000000088○sys20_adv00
+●0000000088●
+
+○0000000089○bg001n1
+●0000000089●
+
+○0000000090○sys00_sys00
+●0000000090●
+
+○0000000091○sys20_adv00
+●0000000091●
+
+○0000000092○kuro
+●0000000092●
+
+○0000000093○ny_mv_tree01
+●0000000093●
+
+○0000000094○seen01003
+●0000000094●
+

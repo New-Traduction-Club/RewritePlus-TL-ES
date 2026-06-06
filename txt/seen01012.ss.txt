@@ -1,0 +1,282 @@
+○0000000002○BS_DT_A
+●0000000002●
+
+○0000000003○Tuesday, October 12th
+●0000000003●
+
+○0000000004○瑚太朗＿体験版
+●0000000004●
+
+○0000000005○"......"
+●0000000005●
+
+○0000000006○I wake up.
+●0000000006●
+
+○0000000007○The beginning of another hard day.
+●0000000007●
+
+○0000000008○The first thing I do when I reach the classroom is my usual morning routine.
+●0000000008●
+
+○0000000009○瑚太朗＿体験版
+●0000000009●
+
+○0000000010○"Yo, Ohtori. I've been thinking about this since the other day, but if you named a movie 'You'll Die if You See Naples', that'd make a pretty big impact, wouldn't it?"
+●0000000010●
+
+○0000000011○鳳＿体験版
+●0000000011●
+
+○0000000012○"Were you thinking about that all weekend...?"
+●0000000012●
+
+○0000000013○瑚太朗＿体験版
+●0000000013●
+
+○0000000014○"What do you think? You'll Die if You See Naples!"
+●0000000014●
+
+○0000000015○鳳＿体験版
+●0000000015●
+
+○0000000016○"Well... it does have an impact."
+●0000000016●
+
+○0000000017○瑚太朗＿体験版
+●0000000017●
+
+○0000000018○"It makes you wonder why, right? Like, is there a Naples virus or something?"
+●0000000018●
+
+○0000000019○鳳＿体験版
+●0000000019●
+
+○0000000020○"Or maybe a Naples syndrome?"
+●0000000020●
+
+○0000000021○瑚太朗＿体験版
+●0000000021●
+
+○0000000022○"I see. A syndrome that makes you want to see Naples, but you die if you actually give in to it. That could be a cool movie."
+●0000000022●
+
+○0000000023○瑚太朗＿体験版
+●0000000023●
+
+○0000000024○"......"
+●0000000024●
+
+○0000000025○鳳＿体験版
+●0000000025●
+
+○0000000026○"Wh-What's wrong?! Why are you crying?!"
+●0000000026●
+
+○0000000027○瑚太朗＿体験版
+●0000000027●
+
+○0000000028○"I just imagined how it'd feel if you wanted to return to your beautiful hometown of Naples, but you were cursed to die if you did."
+●0000000028●
+
+○0000000029○瑚太朗＿体験版
+●0000000029●
+
+○0000000030○"That assaulted my tear glands almost as strongly as The Green Mile."
+●0000000030●
+
+○0000000031○鳳＿体験版
+●0000000031●
+
+○0000000032○"Well... That does sound like a tear-jerker, but..."
+●0000000032●
+
+○0000000033○I finally reach my seat.
+●0000000033●
+
+○0000000034○The long-awaited exam day has arrived.
+●0000000034●
+
+○0000000035○The atmosphere in the class is different from usual.
+●0000000035●
+
+○0000000036○Most of my classmates are already at their seats, their textbooks open as they attempt to review the relevant subjects one last time.
+●0000000036●
+
+○0000000037○Not one of them talks outside of just saying hello.
+●0000000037●
+
+○0000000038○Well, a few are discussing and explaining potential test problems, but that's about it.
+●0000000038●
+
+○0000000039○You can cut the tension with a knife.
+●0000000039●
+
+○0000000040○瑚太朗＿体験版
+●0000000040●
+
+○0000000041○"Ugh..."
+●0000000041●
+
+○0000000042○I open my textbook as well, hoping to use the last few minutes to learn anything at all.
+●0000000042●
+
+○0000000043○But I have a hard time concentrating due to my lack of sleep.
+●0000000043●
+
+○0000000044○瑚太朗＿体験版
+●0000000044●
+
+○0000000045○(Saying I came unprepared would be an understatement.)
+●0000000045●
+
+○0000000046○(I might as well start prepping for the make-up exams already.)
+●0000000046●
+
+○0000000047○The real question is how many of them I'll be able to avoid.
+●0000000047●
+
+○0000000048○The exams are going to be on three subjects.
+●0000000048●
+
+○0000000049○I managed to review for two of them last night by sacrificing most of my sleep.
+●0000000049●
+
+○0000000050○And also by giving up on one subject entirely.
+●0000000050●
+
+○0000000051○I simply didn't have enough time, though it was entirely my own fault.
+●0000000051●
+
+○0000000052○小鳥＿体験版
+●0000000052●
+
+○0000000053○"...Good morning."
+●0000000053●
+
+○0000000054○Kotori, overwhelmed by the classroom's atmosphere, hunches her shoulders and silently continues to her seat.
+●0000000054●
+
+○0000000055○It doesn't look like she's in a conversational mood.
+●0000000055●
+
+○0000000056○瑚太朗＿体験版
+●0000000056●
+
+○0000000057○"Uhh..."
+●0000000057●
+
+○0000000058○Not like I have the leeway to joke around with her in the present situation.
+●0000000058●
+
+○0000000059○担任＿体験版
+●0000000059●
+
+○0000000060○"Good morning, everyone. It's time to close your textbooks."
+●0000000060●
+
+○0000000061○A collective wail reverberates across the classroom's walls as the homeroom teacher walks in, signaling the start of the first exam.
+●0000000061●
+
+○0000000062○I have nowhere to run.
+●0000000062●
+
+○0000000063○dummy
+●0000000063●
+
+○0000000064○sys30_cl00
+●0000000064●
+
+○0000000065○sys20_adv00
+●0000000065●
+
+○0000000066○bg001
+●0000000066●
+
+○0000000067○bgm001
+●0000000067●
+
+○0000000068○sys20_adv00
+●0000000068●
+
+○0000000069○kuro
+●0000000069●
+
+○0000000070○sys20_adv00
+●0000000070●
+
+○0000000071○bg002
+●0000000071●
+
+○0000000072○bgm006
+●0000000072●
+
+○0000000073○sys20_adv00
+●0000000073●
+
+○0000000074○cgm_ch13
+●0000000074●
+
+○0000000075○sys20_adv00
+●0000000075●
+
+○0000000076○cgm_ch18
+●0000000076●
+
+○0000000077○sys20_adv00
+●0000000077●
+
+○0000000078○cgm_ch13
+●0000000078●
+
+○0000000079○sys20_adv00
+●0000000079●
+
+○0000000080○cgm_ch17
+●0000000080●
+
+○0000000081○sys20_adv00
+●0000000081●
+
+○0000000082○cgm_ch13
+●0000000082●
+
+○0000000083○sys20_adv00
+●0000000083●
+
+○0000000084○bgm002
+●0000000084●
+
+○0000000085○sys20_adv00
+●0000000085●
+
+○0000000086○kuro
+●0000000086●
+
+○0000000087○sys20_adv00
+●0000000087●
+
+○0000000088○bg002
+●0000000088●
+
+○0000000089○sys20_adv00
+●0000000089●
+
+○0000000090○cgm_kt26
+●0000000090●
+
+○0000000091○sys20_adv00
+●0000000091●
+
+○0000000092○sys20_adv00
+●0000000092●
+
+○0000000093○kuro
+●0000000093●
+
+○0000000094○sys00_sys00
+●0000000094●
+
+○0000000095○seen01013
+●0000000095●
+

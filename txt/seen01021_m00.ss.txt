@@ -1,0 +1,4557 @@
+○0000000000○瑚太朗
+●0000000000●
+
+○0000000001○"Um, have you seen any drunk people around here?"
+●0000000001●
+
+○0000000003○通行人
+●0000000003●
+
+○0000000004○"Huh? I did back when it was cherry blossom season, but..."
+●0000000004●
+
+○0000000005○通行人
+●0000000005●
+
+○0000000006○"Now that I think about it, I did notice a group of middle-aged men having parties here lately."
+●0000000006●
+
+○0000000007○瑚太朗
+●0000000007●
+
+○0000000008○"Ah, I'm sure those are the ones I'm looking for. Do you know where I can find them?"
+●0000000008●
+
+○0000000010○通行人
+●0000000010●
+
+○0000000011○"Hmm... I can't say that I do. Sorry."
+●0000000011●
+
+○0000000012○瑚太朗
+●0000000012●
+
+○0000000013○"It's okay. At least I learned they were in the area."
+●0000000013●
+
+○0000000015○So they really are from around here.
+●0000000015●
+
+○0000000016○(I should investigate a bit more.)
+●0000000016●
+
+○0000000017○■マッピー／既読■　ID:
+●0000000017●
+
+○0000000018○ (Z
+●0000000018●
+
+○0000000019○-
+●0000000019●
+
+○0000000020○■マッピー／コンプリート■
+●0000000020●
+
+○0000000021○通行人
+●0000000021●
+
+○0000000022○"Oh, are you from this town, sweetie?"
+●0000000022●
+
+○0000000023○The woman addresses me before I have a chance to open my mouth.
+●0000000023●
+
+○0000000024○瑚太朗
+●0000000024●
+
+○0000000025○"Yes, I am."
+●0000000025●
+
+○0000000027○通行人
+●0000000027●
+
+○0000000028○"I've heard there's a big organization fighting for environmental protection in this town. Are you familiar with it?"
+●0000000028●
+
+○0000000029○瑚太朗
+●0000000029●
+
+○0000000030○"Our entire town is kinda like that."
+●0000000030●
+
+○0000000032○通行人
+●0000000032●
+
+○0000000033○"Hmm... What were they called again...?"
+●0000000033●
+
+○0000000034○通行人
+●0000000034●
+
+○0000000035○"I've heard that almost everyone in this town is affiliated with it in one way or the other. Is that true?"
+●0000000035●
+
+○0000000036○瑚太朗
+●0000000036●
+
+○0000000037○"I don't really think it goes that far."
+●0000000037●
+
+○0000000039○通行人
+●0000000039●
+
+○0000000040○"How about your parents? What do they do?"
+●0000000040●
+
+○0000000041○瑚太朗
+●0000000041●
+
+○0000000042○"My parents are scientists."
+●0000000042●
+
+○0000000044○通行人
+●0000000044●
+
+○0000000045○"Scientists? What kind?"
+●0000000045●
+
+○0000000046○瑚太朗
+●0000000046●
+
+○0000000047○"I don't know the details myself..."
+●0000000047●
+
+○0000000048○瑚太朗
+●0000000048●
+
+○0000000049○"Ah, but they're both mathematicians, so I'm not sure if their work is related to the environment."
+●0000000049●
+
+○0000000051○通行人
+●0000000051●
+
+○0000000052○"Mathematics is the foundation of every science, environmental included."
+●0000000052●
+
+○0000000053○瑚太朗
+●0000000053●
+
+○0000000054○"...If you say so."
+●0000000054●
+
+○0000000056○...Suddenly, I remember.
+●0000000056●
+
+○0000000057○My parents used to attend some sort of meetings for an environmental organization in the past.
+●0000000057●
+
+○0000000058○通行人
+●0000000058●
+
+○0000000059○"Mathematicians can switch to any field."
+●0000000059●
+
+○0000000060○通行人
+●0000000060●
+
+○0000000061○"What field are you parents working in right now?"
+●0000000061●
+
+○0000000062○瑚太朗
+●0000000062●
+
+○0000000063○"...I'm not sure."
+●0000000063●
+
+○0000000065○Not that I have trust issues or anything, but I feel like I should be careful with what I tell her.
+●0000000065●
+
+○0000000066○I have a bad feeling.
+●0000000066●
+
+○0000000067○通行人
+●0000000067●
+
+○0000000068○"Could you maybe introduce us?"
+●0000000068●
+
+○0000000069○瑚太朗
+●0000000069●
+
+○0000000070○"I'm sorry... I'm not really on speaking terms with them right now."
+●0000000070●
+
+○0000000072○通行人
+●0000000072●
+
+○0000000073○"Oh? Is this adolescence talking?"
+●0000000073●
+
+○0000000074○瑚太朗
+●0000000074●
+
+○0000000075○"I guess so."
+●0000000075●
+
+○0000000077○通行人
+●0000000077●
+
+○0000000078○"Too bad."
+●0000000078●
+
+○0000000079○瑚太朗
+●0000000079●
+
+○0000000080○"Can I go now?"
+●0000000080●
+
+○0000000082○通行人
+●0000000082●
+
+○0000000083○"Of course. I'm sorry for holding you up."
+●0000000083●
+
+○0000000084○通行人
+●0000000084●
+
+○0000000085○"Hey, you over there! Can I have a moment of your time?"
+●0000000085●
+
+○0000000086○She moves on to someone else.
+●0000000086●
+
+○0000000087○Does she belong to some newspaper?
+●0000000087●
+
+○0000000088○It feels like she's investigating the town.
+●0000000088●
+
+○0000000089○Only speaking to children is a bit strange, though.
+●0000000089●
+
+○0000000090○瑚太朗
+●0000000090●
+
+○0000000091○(Ah... It's probably because we're not as cautious as adults.)
+●0000000091●
+
+○0000000093○The moment I realize that, my feelings of uneasiness multiply.
+●0000000093●
+
+○0000000094○瑚太朗
+●0000000094●
+
+○0000000095○(H-Hm... I wonder if she's some kind of spy or something.)
+●0000000095●
+
+○0000000097○I don't want to get involved, so I hurry away.
+●0000000097●
+
+○0000000098○■マッピー／既読■　ID:
+●0000000098●
+
+○0000000099○ (Z
+●0000000099●
+
+○0000000100○-
+●0000000100●
+
+○0000000101○■マッピー／コンプリート■
+●0000000101●
+
+○0000000102○瑚太朗
+●0000000102●
+
+○0000000103○"......"
+●0000000103●
+
+○0000000104○I spot Yoshino helping an old lady across the street.
+●0000000104●
+
+○0000000105○吉野
+●0000000105●
+
+○0000000106○"Hold onto my back, grandma."
+●0000000106●
+
+○0000000107○老婆
+●0000000107●
+
+○0000000108○"Thank you."
+●0000000108●
+
+○0000000109○吉野
+●0000000109●
+
+○0000000110○"...Don't misunderstand. You were in my way standing over there."
+●0000000110●
+
+○0000000111○老婆
+●0000000111●
+
+○0000000112○"Yes, I understand very well."
+●0000000112●
+
+○0000000113○吉野
+●0000000113●
+
+○0000000114○"This street doesn't have a traffic light."
+●0000000114●
+
+○0000000115○吉野
+●0000000115●
+
+○0000000116○"The government could easily set it up if it cared a little. Such a pain."
+●0000000116●
+
+○0000000117○老婆
+●0000000117●
+
+○0000000118○"It might not have a traffic light, but it has kind-hearted young men."
+●0000000118●
+
+○0000000119○吉野
+●0000000119●
+
+○0000000120○"...You really think so? I have yet to meet one."
+●0000000120●
+
+○0000000121○老婆
+●0000000121●
+
+○0000000122○"Thank you very much."
+●0000000122●
+
+○0000000123○Yoshino saves the old lady.
+●0000000123●
+
+○0000000124○老婆
+●0000000124●
+
+○0000000125○"What should I do for you in return?"
+●0000000125●
+
+○0000000126○吉野
+●0000000126●
+
+○0000000127○"I did it for myself. You've got nothing to thank me for."
+●0000000127●
+
+○0000000128○老婆
+●0000000128●
+
+○0000000129○"Old people sometimes can't help but want to stick something like this in the younger generation's pockets."
+●0000000129●
+
+○0000000130○吉野
+●0000000130●
+
+○0000000131○"Huh? Stop joking around."
+●0000000131●
+
+○0000000132○Yoshino has received 500 yen!
+●0000000132●
+
+○0000000133○吉野
+●0000000133●
+
+○0000000134○"...Tch. I didn't do it for a reward."
+●0000000134●
+
+○0000000135○老婆
+●0000000135●
+
+○0000000136○"Thank you. I really appreciate your help."
+●0000000136●
+
+○0000000137○The old lady walks off.
+●0000000137●
+
+○0000000138○吉野
+●0000000138●
+
+○0000000139○"...Hmph."
+●0000000139●
+
+○0000000140○瑚太朗
+●0000000140●
+
+○0000000141○"Good job."
+●0000000141●
+
+○0000000142○吉野
+●0000000142●
+
+○0000000143○"Guohh?!"
+●0000000143●
+
+○0000000144○Yoshino jumps away like some kind of wild animal.
+●0000000144●
+
+○0000000145○*ROLL* *ROLL* *ROLL*
+●0000000145●
+
+○0000000146○After rolling across the ground like a seasoned gunman, he springs to his feet in a boxing stance.
+●0000000146●
+
+○0000000147○吉野
+●0000000147●
+
+○0000000148○"Tennouji! What are you doing here?!"
+●0000000148●
+
+○0000000149○瑚太朗
+●0000000149●
+
+○0000000150○"Hey, you did something good."
+●0000000150●
+
+○0000000151○吉野
+●0000000151●
+
+○0000000152○"...You saw?"
+●0000000152●
+
+○0000000153○吉野
+●0000000153●
+
+○0000000154○"No, you didn't! Admit it!"
+●0000000154●
+
+○0000000155○He fixes me with a piercing glare.
+●0000000155●
+
+○0000000156○It looks like he wants to tell me something, but I'm not sure what.
+●0000000156●
+
+○0000000157○瑚太朗
+●0000000157●
+
+○0000000158○"What are you talking about? I saw everything clear as day."
+●0000000158●
+
+○0000000159○瑚太朗
+●0000000159●
+
+○0000000160○"Guhuhu... Old lady, hold onto my back."
+●0000000160●
+
+○0000000161○I do my best impression.
+●0000000161●
+
+○0000000162○吉野
+●0000000162●
+
+○0000000163○"Eyes!"
+●0000000163●
+
+○0000000164○He goes after my eyes.
+●0000000164●
+
+○0000000165○瑚太朗
+●0000000165●
+
+○0000000166○"Whoa! Are you insane?!"
+●0000000166●
+
+○0000000167○吉野
+●0000000167●
+
+○0000000168○"I didn't laugh like that!"
+●0000000168●
+
+○0000000169○瑚太朗
+●0000000169●
+
+○0000000170○"Ah, the laugh was mine. It wasn't part of the act."
+●0000000170●
+
+○0000000171○吉野
+●0000000171●
+
+○0000000172○"Don't mock me!"
+●0000000172●
+
+○0000000173○瑚太朗
+●0000000173●
+
+○0000000174○"Don't be so modest. You did a good thing."
+●0000000174●
+
+○0000000175○吉野
+●0000000175●
+
+○0000000176○"Do you even know what the word modest means?"
+●0000000176●
+
+○0000000177○瑚太朗
+●0000000177●
+
+○0000000178○"You act like an unruly badass, but it turns out you're actually a good guy, Yoshino!"
+●0000000178●
+
+○0000000179○吉野
+●0000000179●
+
+○0000000180○"...Ghh!"
+●0000000180●
+
+○0000000181○He clutches his chest, seemingly in pain.
+●0000000181●
+
+○0000000182○瑚太朗
+●0000000182●
+
+○0000000183○"What's wrong? Are you ill?"
+●0000000183●
+
+○0000000184○吉野
+●0000000184●
+
+○0000000185○"You're good, Tennouji... I never expected you to go for a psychological attack..."
+●0000000185●
+
+○0000000186○瑚太朗
+●0000000186●
+
+○0000000187○"You mean this is a symptom of your mental disorder?"
+●0000000187●
+
+○0000000188○吉野
+●0000000188●
+
+○0000000189○"No!!"
+●0000000189●
+
+○0000000190○吉野
+●0000000190●
+
+○0000000191○"We live... in different worlds!"
+●0000000191●
+
+○0000000192○瑚太朗
+●0000000192●
+
+○0000000193○"Hmm... Different worlds, you say..."
+●0000000193●
+
+○0000000194○吉野
+●0000000194●
+
+○0000000195○"Listen. I'm not... a good person, okay?!"
+●0000000195●
+
+○0000000196○It feels like he's screaming from the bottom of his soul.
+●0000000196●
+
+○0000000197○瑚太朗
+●0000000197●
+
+○0000000198○"I never would've expected that wandering around and looking for people would lead me to witness you doing such a good deed."
+●0000000198●
+
+○0000000199○吉野
+●0000000199●
+
+○0000000200○"So you actually have a reason to be here?"
+●0000000200●
+
+○0000000201○瑚太朗
+●0000000201●
+
+○0000000202○"Yeah. Think you might know them?"
+●0000000202●
+
+○0000000203○吉野
+●0000000203●
+
+○0000000204○"No. Even if I did, I wouldn't tell you."
+●0000000204●
+
+○0000000205○瑚太朗
+●0000000205●
+
+○0000000206○"I'm looking for a bunch of guys that drink around these parts."
+●0000000206●
+
+○0000000207○吉野
+●0000000207●
+
+○0000000208○"...Huh? What are you even talking about?"
+●0000000208●
+
+○0000000209○瑚太朗
+●0000000209●
+
+○0000000210○"I'm talking about a bunch of unemployed adults in their prime that know how to throw a party."
+●0000000210●
+
+○0000000211○吉野
+●0000000211●
+
+○0000000212○"They sound like outlaws."
+●0000000212●
+
+○0000000213○吉野
+●0000000213●
+
+○0000000214○"What kind of leather jackets did they wear?"
+●0000000214●
+
+○0000000215○瑚太朗
+●0000000215●
+
+○0000000216○"...What do you mean?"
+●0000000216●
+
+○0000000217○He's talking like all outlaws wear leather jackets or something.
+●0000000217●
+
+○0000000218○吉野
+●0000000218●
+
+○0000000219○"You didn't know?"
+●0000000219●
+
+○0000000220○吉野
+●0000000220●
+
+○0000000221○"All outlaws wear leather jackets."
+●0000000221●
+
+○0000000222○瑚太朗
+●0000000222●
+
+○0000000223○"......"
+●0000000223●
+
+○0000000224○吉野
+●0000000224●
+
+○0000000225○"After all, you can't wear a suit once you stray from the path of mundanity."
+●0000000225●
+
+○0000000226○吉野
+●0000000226●
+
+○0000000227○"That's the law of the street!"
+●0000000227●
+
+○0000000228○吉野
+●0000000228●
+
+○0000000229○"You're no longer capable of being white collared... You're supposed to shun that color forever!"
+●0000000229●
+
+○0000000230○吉野
+●0000000230●
+
+○0000000231○"The true men of the wilderness can never turn back, which is why they've got no choice but to stick to their leather jackets!"
+●0000000231●
+
+○0000000232○吉野
+●0000000232●
+
+○0000000233○"And they're damn expensive! Even I still wear my brother's old one!"
+●0000000233●
+
+○0000000234○瑚太朗
+●0000000234●
+
+○0000000235○"I didn't know you had a brother."
+●0000000235●
+
+○0000000236○吉野
+●0000000236●
+
+○0000000237○"He's a sheep that has long lost its fangs."
+●0000000237●
+
+○0000000238○He practically spits out his response.
+●0000000238●
+
+○0000000239○瑚太朗
+●0000000239●
+
+○0000000240○"Uh, I don't think sheep have fangs to begin with. You should go with a wolf that has lost its fangs or something."
+●0000000240●
+
+○0000000241○吉野
+●0000000241●
+
+○0000000242○"......"
+●0000000242●
+
+○0000000243○吉野
+●0000000243●
+
+○0000000244○"...Anyway, the point is that he doesn't have fangs anymore."
+●0000000244●
+
+○0000000245○瑚太朗
+●0000000245●
+
+○0000000246○"So you're wearing a leather jacket from someone with no fangs?"
+●0000000246●
+
+○0000000247○吉野
+●0000000247●
+
+○0000000248○"He had fangs in the past."
+●0000000248●
+
+○0000000249○瑚太朗
+●0000000249●
+
+○0000000250○"What'd they look like?"
+●0000000250●
+
+○0000000251○吉野
+●0000000251●
+
+○0000000252○"Bro spent his entire youth fighting the system."
+●0000000252●
+
+○0000000253○瑚太朗
+●0000000253●
+
+○0000000254○"Um, sorry about all the questions, but what do you mean by the 'system'?"
+●0000000254●
+
+○0000000255○吉野
+●0000000255●
+
+○0000000256○"School."
+●0000000256●
+
+○0000000257○瑚太朗
+●0000000257●
+
+○0000000258○"......"
+●0000000258●
+
+○0000000259○吉野
+●0000000259●
+
+○0000000260○"And teachers."
+●0000000260●
+
+○0000000261○瑚太朗
+●0000000261●
+
+○0000000262○"You sure he wasn't just an average delinquent?"
+●0000000262●
+
+○0000000263○吉野
+●0000000263●
+
+○0000000264○"What?!"
+●0000000264●
+
+○0000000265○Another piercing glare.
+●0000000265●
+
+○0000000266○瑚太朗
+●0000000266●
+
+○0000000267○"...Please go on."
+●0000000267●
+
+○0000000268○吉野
+●0000000268●
+
+○0000000269○"He was a wolf up until his second year of high school."
+●0000000269●
+
+○0000000270○吉野
+●0000000270●
+
+○0000000271○"I can guarantee that myself. He fought against the ice age that had frozen everyone's hearts."
+●0000000271●
+
+○0000000272○吉野
+●0000000272●
+
+○0000000273○"But he changed once he advanced to his third year."
+●0000000273●
+
+○0000000274○吉野
+●0000000274●
+
+○0000000275○"...He began studying for exams! Goddammit!"
+●0000000275●
+
+○0000000276○瑚太朗
+●0000000276●
+
+○0000000277○"That's a respectable decision! Just how much of a dumbass are you?"
+●0000000277●
+
+○0000000278○吉野
+●0000000278●
+
+○0000000279○"I'm not gonna stand and listen to you calling me names!"
+●0000000279●
+
+○0000000280○瑚太朗
+●0000000280●
+
+○0000000281○"So what became of your brother in the end?"
+●0000000281●
+
+○0000000282○吉野
+●0000000282●
+
+○0000000283○"He had to study an extra year, but he got into a university."
+●0000000283●
+
+○0000000284○吉野
+●0000000284●
+
+○0000000285○"Then he began dressing like these fools you see on the street, joined a restaurant research club, and began chasing after women!"
+●0000000285●
+
+○0000000286○吉野
+●0000000286●
+
+○0000000287○"And ultimately... when graduation grew near, he started looking for a job!"
+●0000000287●
+
+○0000000288○吉野
+●0000000288●
+
+○0000000289○"He tarnished his proud silver blood and let his soul sink into the humdrum of uniformity."
+●0000000289●
+
+○0000000290○瑚太朗
+●0000000290●
+
+○0000000291○"I didn't get that last part. Could you translate it into proper human speech?"
+●0000000291●
+
+○0000000292○吉野
+●0000000292●
+
+○0000000293○"...He found a job, married, and had a kid."
+●0000000293●
+
+○0000000294○瑚太朗
+●0000000294●
+
+○0000000295○"That sounds awesome."
+●0000000295●
+
+○0000000296○瑚太朗
+●0000000296●
+
+○0000000297○"That kind of ordinary happiness might be best, you know."
+●0000000297●
+
+○0000000298○吉野
+●0000000298●
+
+○0000000299○"...Hmph. It's not my style."
+●0000000299●
+
+○0000000300○吉野
+●0000000300●
+
+○0000000301○"I'm off."
+●0000000301●
+
+○0000000302○I call out to Yoshino one more time before he can walk off.
+●0000000302●
+
+○0000000303○瑚太朗
+●0000000303●
+
+○0000000304○"Hey! Aren't you gonna help me look for those people?"
+●0000000304●
+
+○0000000305○瑚太朗
+●0000000305●
+
+○0000000306○"I'll buy a you a drink if you do."
+●0000000306●
+
+○0000000307○吉野
+●0000000307●
+
+○0000000308○"I refuse. I don't want anything to do with you or anyone else."
+●0000000308●
+
+○0000000309○吉野
+●0000000309●
+
+○0000000310○"Besides, there's no way to look for them if you don't even know what kind of leather jackets they wear."
+●0000000310●
+
+○0000000311○瑚太朗
+●0000000311●
+
+○0000000312○"I'm pretty sure not a single one of them wore a jacket like that..."
+●0000000312●
+
+○0000000313○吉野
+●0000000313●
+
+○0000000314○"Huh? Then they aren't outlaws!"
+●0000000314●
+
+○0000000315○吉野
+●0000000315●
+
+○0000000316○"There's only one kind of person that spends every day drinking without wearing a leather jacket, and that's..."
+●0000000316●
+
+○0000000317○吉野
+●0000000317●
+
+○0000000318○"A VIP."
+●0000000318●
+
+○0000000319○瑚太朗
+●0000000319●
+
+○0000000320○"You impress me sometimes. I'm not even kidding."
+●0000000320●
+
+○0000000321○吉野
+●0000000321●
+
+○0000000322○"...Flatter me all you want, but I still won't help you."
+●0000000322●
+
+○0000000323○吉野
+●0000000323●
+
+○0000000324○"That said, I'll let you off easy for today."
+●0000000324●
+
+○0000000325○He walks away with confident steps.
+●0000000325●
+
+○0000000326○Now I'll never be able to hold back my laughter when I see anyone wearing a leather jacket, thanks to him.
+●0000000326●
+
+○0000000327○■マッピー／既読■　ID:
+●0000000327●
+
+○0000000328○ (Z
+●0000000328●
+
+○0000000329○-
+●0000000329●
+
+○0000000330○■マッピー／コンプリート■
+●0000000330●
+
+○0000000331○I see a guy in a leather jacket.
+●0000000331●
+
+○0000000332○Light stubble covering his chin, he looks like he's in his late twenties. A novice old man, in short.
+●0000000332●
+
+○0000000333○瑚太朗
+●0000000333●
+
+○0000000334○"Pfft!"
+●0000000334●
+
+○0000000335○Crap. I couldn't hold it back.
+●0000000335●
+
+○0000000336○Our eyes meet.
+●0000000336●
+
+○0000000337○The novice old man in a leather jacket draws near.
+●0000000337●
+
+○0000000338○...And seizes me by the collar.
+●0000000338●
+
+○0000000339○革ジャン
+●0000000339●
+
+○0000000340○"Did you just laugh at me?"
+●0000000340●
+
+○0000000341○瑚太朗
+●0000000341●
+
+○0000000342○"I'm sorry, but you misunderstood."
+●0000000342●
+
+○0000000343○革ジャン
+●0000000343●
+
+○0000000344○"You mocking me? Huh?!"
+●0000000344●
+
+○0000000345○瑚太朗
+●0000000345●
+
+○0000000346○"I'm not. I just remembered something funny."
+●0000000346●
+
+○0000000347○革ジャン
+●0000000347●
+
+○0000000348○"Don't lie, you little shit!"
+●0000000348●
+
+○0000000349○革ジャン
+●0000000349●
+
+○0000000350○"What did you remember?"
+●0000000350●
+
+○0000000351○Tell the truth
+●0000000351●
+
+○0000000352○Lie
+●0000000352●
+
+○0000000353○瑚太朗
+●0000000353●
+
+○0000000354○"I've got this friend, Yoshino. I just remembered something funny he said."
+●0000000354●
+
+○0000000355○革ジャン
+●0000000355●
+
+○0000000356○"You said Yoshino?"
+●0000000356●
+
+○0000000357○革ジャン
+●0000000357●
+
+○0000000358○"What school are you from, kid?"
+●0000000358●
+
+○0000000359○瑚太朗
+●0000000359●
+
+○0000000360○"Huh? Kazamatsuri."
+●0000000360●
+
+○0000000361○革ジャン
+●0000000361●
+
+○0000000362○"Kazamatsuri?! You wouldn't be talking about Yoshino Haruhiko, would you?!"
+●0000000362●
+
+○0000000363○瑚太朗
+●0000000363●
+
+○0000000364○"Huh? You know him?"
+●0000000364●
+
+○0000000365○革ジャン
+●0000000365●
+
+○0000000366○"Idiot! You're talking about the King! That's Mr. Yoshino to us!"
+●0000000366●
+
+○0000000367○瑚太朗
+●0000000367●
+
+○0000000368○"...The King?"
+●0000000368●
+
+○0000000369○革ジャン
+●0000000369●
+
+○0000000370○"The ruler of these parts."
+●0000000370●
+
+○0000000371○革ジャン
+●0000000371●
+
+○0000000372○"He's the legendary outlaw that brought the ten commandments of power to this lawless slum."
+●0000000372●
+
+○0000000373○瑚太朗
+●0000000373●
+
+○0000000374○"Hold on. What part of this area is a slum?"
+●0000000374●
+
+○0000000375○革ジャン
+●0000000375●
+
+○0000000376○"This place turns into a slum at nightfall. It's a paradise for kids looking for real action. You didn't know that?"
+●0000000376●
+
+○0000000377○...Seriously? I don't buy it.
+●0000000377●
+
+○0000000378○瑚太朗
+●0000000378●
+
+○0000000379○"Well, I'm just a good kid passing by."
+●0000000379●
+
+○0000000380○革ジャン
+●0000000380●
+
+○0000000381○"Mr. Yoshino descended on this area back when it was ruled solely by illegal drugs and violence, and he turned it into a kennel for his wolves with the power of his fists alone."
+●0000000381●
+
+○0000000382○革ジャン
+●0000000382●
+
+○0000000383○"He subjugated ten groups that used to lord over this area with their scummy tricks and scams."
+●0000000383●
+
+○0000000384○革ジャン
+●0000000384●
+
+○0000000385○"This is where the ten commandments of power started. The crooks that Mr. Yoshino crushed came to be known as that."
+●0000000385●
+
+○0000000386○瑚太朗
+●0000000386●
+
+○0000000387○"...Seriously?"
+●0000000387●
+
+○0000000388○革ジャン
+●0000000388●
+
+○0000000389○"Of course, you idiot! As if I would ever lie about the King!"
+●0000000389●
+
+○0000000390○Just when did Yoshino have time for all of this stuff?
+●0000000390●
+
+○0000000391○革ジャン
+●0000000391●
+
+○0000000392○"That said, despite all of his achievements, I've never seen him with anyone else. He's always alone."
+●0000000392●
+
+○0000000393○革ジャン
+●0000000393●
+
+○0000000394○"Do you know why? That's just how wolves are! How awesome is that?!"
+●0000000394●
+
+○0000000395○瑚太朗
+●0000000395●
+
+○0000000396○"You sure you guys aren't just playacting delinquents here?"
+●0000000396●
+
+○0000000397○革ジャン
+●0000000397●
+
+○0000000398○"Wh...?! What'd you just say, you fool?!"
+●0000000398●
+
+○0000000399○革ジャン
+●0000000399●
+
+○0000000400○"Who are you to Mr. Yoshino anyway?! His flunky?!"
+●0000000400●
+
+○0000000401○瑚太朗
+●0000000401●
+
+○0000000402○"What? I'm not clunky."
+●0000000402●
+
+○0000000403○革ジャン
+●0000000403●
+
+○0000000404○"I said flunky! I was asking about your relationship with him!"
+●0000000404●
+
+○0000000405○瑚太朗
+●0000000405●
+
+○0000000406○"No, uh... We're just buddies. There's nothing else between us."
+●0000000406●
+
+○0000000407○革ジャン
+●0000000407●
+
+○0000000408○"Huh?"
+●0000000408●
+
+○0000000409○瑚太朗
+●0000000409●
+
+○0000000410○"We fight sometimes, but that's just because we know we can trust each other to always have our backs."
+●0000000410●
+
+○0000000411○革ジャン
+●0000000411●
+
+○0000000412○"No way! You're the King's... friend?!"
+●0000000412●
+
+○0000000413○革ジャン
+●0000000413●
+
+○0000000414○"Whew... It's a weekday, but I feel like I'm trippin' already."
+●0000000414●
+
+○0000000415○瑚太朗
+●0000000415●
+
+○0000000416○"Um..."
+●0000000416●
+
+○0000000417○革ジャン
+●0000000417●
+
+○0000000418○"Forgive my manners, cool boy."
+●0000000418●
+
+○0000000419○He suddenly changes his attitude completely.
+●0000000419●
+
+○0000000420○革ジャン
+●0000000420●
+
+○0000000421○"I apologize for touching your collar. I lost myself in the moment."
+●0000000421●
+
+○0000000422○革ジャン
+●0000000422●
+
+○0000000423○"Oh shit! I wrinkled your shirt!!"
+●0000000423●
+
+○0000000424○瑚太朗
+●0000000424●
+
+○0000000425○"That's okay... I'm more curious about your change in attitude."
+●0000000425●
+
+○0000000426○革ジャン
+●0000000426●
+
+○0000000427○"If you're a friend of the King, you're one of the wolves! You're the coolest dweeb to pass through these parts!"
+●0000000427●
+
+○0000000428○瑚太朗
+●0000000428●
+
+○0000000429○"D-Dweeb?"
+●0000000429●
+
+○0000000430○革ジャン
+●0000000430●
+
+○0000000431○"We'll make sure you feel comfortable here."
+●0000000431●
+
+○0000000432○Yoshino seems to have made a name for himself in the weirdest of places.
+●0000000432●
+
+○0000000433○瑚太朗
+●0000000433●
+
+○0000000434○"He can be pretty lame at times, you know."
+●0000000434●
+
+○0000000435○革ジャン
+●0000000435●
+
+○0000000436○"Whew... You sure have a lot of guts, dweeb boy."
+●0000000436●
+
+○0000000437○革ジャン
+●0000000437●
+
+○0000000438○"If some average mutt so much as tried to mutter that, I'd be breaking their skull right about now."
+●0000000438●
+
+○0000000439○瑚太朗
+●0000000439●
+
+○0000000440○"Mutt? What's with you guys and your love for canines? Well, whatever..."
+●0000000440●
+
+○0000000441○I'm sick of pointing out things that don't make sense.
+●0000000441●
+
+○0000000442○革ジャン
+●0000000442●
+
+○0000000443○"You can always trust us wolves to help you when in need."
+●0000000443●
+
+○0000000444○瑚太朗
+●0000000444●
+
+○0000000445○"Huh? For real?"
+●0000000445●
+
+○0000000446○革ジャン
+●0000000446●
+
+○0000000447○"You've got my word. Our hierarchy is decided by the soul!"
+●0000000447●
+
+○0000000448○革ジャン
+●0000000448●
+
+○0000000449○"Our pride matters little in front of a companion of the King!"
+●0000000449●
+
+○0000000450○I can barely believe this development, but I'm not gonna complain.
+●0000000450●
+
+○0000000451○Maybe I can ask them to help with my search?
+●0000000451●
+
+○0000000452○瑚太朗
+●0000000452●
+
+○0000000453○"I'm looking for someone."
+●0000000453●
+
+○0000000454○革ジャン
+●0000000454●
+
+○0000000455○"All right! What kind of suicidal sucker is he? Or she?"
+●0000000455●
+
+○0000000456○瑚太朗
+●0000000456●
+
+○0000000457○"No, uh... I'm looking for an old man, actually."
+●0000000457●
+
+○0000000458○I tell him all I know.
+●0000000458●
+
+○0000000459○革ジャン
+●0000000459●
+
+○0000000460○"I see. That's pretty vague."
+●0000000460●
+
+○0000000461○革ジャン
+●0000000461●
+
+○0000000462○"I believe this calls for the wolf pack."
+●0000000462●
+
+○0000000463○瑚太朗
+●0000000463●
+
+○0000000464○"You guys are working as a team, then."
+●0000000464●
+
+○0000000465○革ジャン
+●0000000465●
+
+○0000000466○"Wolves don't flock together, but we cooperate in times of need. Just you wait. I'll find your guy, even if he's hiding in someone's asshole."
+●0000000466●
+
+○0000000467○The leather-jacket-wearing novice old man makes a few calls.
+●0000000467●
+
+○0000000468○革ジャン
+●0000000468●
+
+○0000000469○"...That should be enough. Now it's just a matter of time."
+●0000000469●
+
+○0000000470○瑚太朗
+●0000000470●
+
+○0000000471○"Thanks for going out of your way for a kid like me."
+●0000000471●
+
+○0000000472○革ジャン
+●0000000472●
+
+○0000000473○"No sweat, man. Besides, you're older than me."
+●0000000473●
+
+○0000000474○瑚太朗
+●0000000474●
+
+○0000000475○"...What?"
+●0000000475●
+
+○0000000476○革ジャン
+●0000000476●
+
+○0000000477○"I'm a freshman in high school, so if you're the same age as the King, I should be a year younger than you."
+●0000000477●
+
+○0000000478○瑚太朗
+●0000000478●
+
+○0000000479○"Huh?!"
+●0000000479●
+
+○0000000480○He's younger than me?!
+●0000000480●
+
+○0000000481○That's the biggest surprise I've had all day.
+●0000000481●
+
+○0000000482○Damn, and I was cowering like some kind of idiot, too!
+●0000000482●
+
+○0000000483○革ジャン
+●0000000483●
+
+○0000000484○"What's wrong, Brother? What's with the scary face?"
+●0000000484●
+
+○0000000485○瑚太朗
+●0000000485●
+
+○0000000486○"How long do you think it'll take? I don't have all day."
+●0000000486●
+
+○0000000487○革ジャン
+●0000000487●
+
+○0000000488○"...Your attitude kinda changed just now."
+●0000000488●
+
+○0000000489○瑚太朗
+●0000000489●
+
+○0000000490○"I'm a firm believer in the old-fashioned age hierarchy."
+●0000000490●
+
+○0000000491○革ジャン
+●0000000491●
+
+○0000000492○"Huh?"
+●0000000492●
+
+○0000000493○瑚太朗
+●0000000493●
+
+○0000000494○"I'm of the belief that I can say and do anything to those younger than myself."
+●0000000494●
+
+○0000000495○革ジャン
+●0000000495●
+
+○0000000496○"...That's, uh, pretty wild in itself."
+●0000000496●
+
+○0000000497○瑚太朗
+●0000000497●
+
+○0000000498○"It feels almost new in this modern age, don't you agree?"
+●0000000498●
+
+○0000000499○瑚太朗
+●0000000499●
+
+○0000000500○"So how long will it take?"
+●0000000500●
+
+○0000000501○革ジャン
+●0000000501●
+
+○0000000502○"I mean, I'm not really sure."
+●0000000502●
+
+○0000000503○瑚太朗
+●0000000503●
+
+○0000000504○"All right. I'll continue looking around on my own for the time being. Contact me if you find him."
+●0000000504●
+
+○0000000505○革ジャン
+●0000000505●
+
+○0000000506○"Ah, here... This is my phone number."
+●0000000506●
+
+○0000000507○We exchange phone numbers.
+●0000000507●
+
+○0000000508○瑚太朗
+●0000000508●
+
+○0000000509○"The name's Tennouji, Monarch of Common Sense."
+●0000000509●
+
+○0000000510○革ジャン
+●0000000510●
+
+○0000000511○"You can call me Winter Fang!"
+●0000000511●
+
+○0000000512○瑚太朗
+●0000000512●
+
+○0000000513○"I'm 100% certain that's not your real name, but I'm too tired to ask."
+●0000000513●
+
+○0000000514○■友達■　ID:
+●0000000514●
+
+○0000000515○　NO:
+●0000000515●
+
+○0000000516○You've become friends with Winter Fang!
+●0000000516●
+
+○0000000517○You've added one person to your email address list.
+●0000000517●
+
+○0000000518○■マッピー／既読■　ID:
+●0000000518●
+
+○0000000519○ (Z
+●0000000519●
+
+○0000000520○-
+●0000000520●
+
+○0000000521○■マッピー／コンプリート■
+●0000000521●
+
+○0000000522○瑚太朗
+●0000000522●
+
+○0000000523○"No, uh... I just remembered this stand-up comedy routine..."
+●0000000523●
+
+○0000000524○革ジャン
+●0000000524●
+
+○0000000525○"Is that right?"
+●0000000525●
+
+○0000000526○革ジャン
+●0000000526●
+
+○0000000527○"I'm a big fan of stand-up comedy too, kid."
+●0000000527●
+
+○0000000528○革ジャン
+●0000000528●
+
+○0000000529○"But you should be careful about laughing in someone's face. It's easy to misunderstand... especially in a place like this."
+●0000000529●
+
+○0000000530○瑚太朗
+●0000000530●
+
+○0000000531○"I've learned my lesson. I'm truly sorry."
+●0000000531●
+
+○0000000532○I manage to somehow fool him.
+●0000000532●
+
+○0000000533○革ジャン
+●0000000533●
+
+○0000000534○"So what's your business in our slum, city boy?"
+●0000000534●
+
+○0000000535○瑚太朗
+●0000000535●
+
+○0000000536○"Slum...? No, uh... I'm looking for someone."
+●0000000536●
+
+○0000000537○I give him the details.
+●0000000537●
+
+○0000000538○革ジャン
+●0000000538●
+
+○0000000539○"A drunk? There's hundreds of them around here."
+●0000000539●
+
+○0000000540○革ジャン
+●0000000540●
+
+○0000000541○"Well, I guess you should start with the more peaceful areas."
+●0000000541●
+
+○0000000542○He tells me a few places that I'd likely find him.
+●0000000542●
+
+○0000000543○■マッピー／既読■　ID:
+●0000000543●
+
+○0000000544○ (Z
+●0000000544●
+
+○0000000545○-
+●0000000545●
+
+○0000000546○■マッピー／コンプリート■
+●0000000546●
+
+○0000000547○My phone rings.
+●0000000547●
+
+○0000000548○瑚太朗
+●0000000548●
+
+○0000000549○"Hello."
+●0000000549●
+
+○0000000550○冬牙
+●0000000550●
+
+○0000000551○"It's me, Winter Fang."
+●0000000551●
+
+○0000000552○瑚太朗
+●0000000552●
+
+○0000000553○"Who? Do I know you?"
+●0000000553●
+
+○0000000554○冬牙
+●0000000554●
+
+○0000000555○"I'm pretty sure I introduced myself... Um, the guy in the leather jacket? Ring any bells?"
+●0000000555●
+
+○0000000556○瑚太朗
+●0000000556●
+
+○0000000557○"Ah, it's you."
+●0000000557●
+
+○0000000558○冬牙
+●0000000558●
+
+○0000000559○"I had my comrades look for your drunk."
+●0000000559●
+
+○0000000560○瑚太朗
+●0000000560●
+
+○0000000561○"Wow, your elf pack sounds pretty convenient."
+●0000000561●
+
+○0000000562○冬牙
+●0000000562●
+
+○0000000563○"Yeah, it sure is... It's wolf pack, though. It's like, you know, when wolves hunt..."
+●0000000563●
+
+○0000000564○冬牙
+●0000000564●
+
+○0000000565○"Anyway, we found 124 people that matched your description."
+●0000000565●
+
+○0000000566○瑚太朗
+●0000000566●
+
+○0000000567○"Are you kidding me?"
+●0000000567●
+
+○0000000568○瑚太朗
+●0000000568●
+
+○0000000569○"That said, it's incredible you went through that many at such short notice. I guess this golf pack of yours is no joke."
+●0000000569●
+
+○0000000570○冬牙
+●0000000570●
+
+○0000000571○"All right, cool dweeb boy. You can make fun of us all you want, but please use the correct name when you do it, at least. It's wolf pack."
+●0000000571●
+
+○0000000572○冬牙
+●0000000572●
+
+○0000000573○"This is our forte. Wolves have a good sense of smell."
+●0000000573●
+
+○0000000574○冬牙
+●0000000574●
+
+○0000000575○"Anyway, I realized that was too many people, so I narrowed it down to five."
+●0000000575●
+
+○0000000576○冬牙
+●0000000576●
+
+○0000000577○"Perhaps your drunk is one of them."
+●0000000577●
+
+○0000000578○瑚太朗
+●0000000578●
+
+○0000000579○"That sounds good."
+●0000000579●
+
+○0000000580○瑚太朗
+●0000000580●
+
+○0000000581○"You did well, PaRappa. I appreciate your efforts."
+●0000000581●
+
+○0000000582○冬牙
+●0000000582●
+
+○0000000583○"My name's not PaRappa..."
+●0000000583●
+
+○0000000584○冬牙
+●0000000584●
+
+○0000000585○"Anyway, contact us again if it turns out to be a dud."
+●0000000585●
+
+○0000000586○瑚太朗
+●0000000586●
+
+○0000000587○"Thanks."
+●0000000587●
+
+○0000000588○I receive an email from Winter Fang with the details of his investigation.
+●0000000588●
+
+○0000000589○(Let's move on.)
+●0000000589●
+
+○0000000590○■マッピー／既読■　ID:
+●0000000590●
+
+○0000000591○ (Z
+●0000000591●
+
+○0000000592○-
+●0000000592●
+
+○0000000593○■マッピー／コンプリート■
+●0000000593●
+
+○0000000594○The leather-jacket-wearing novice old man told me to go here.
+●0000000594●
+
+○0000000595○■マッピー／既読■　ID:
+●0000000595●
+
+○0000000596○ (Z
+●0000000596●
+
+○0000000597○-
+●0000000597●
+
+○0000000598○■マッピー／コンプリート■
+●0000000598●
+
+○0000000599○瑚太朗
+●0000000599●
+
+○0000000600○"Excuse me, can I have a moment of your time?"
+●0000000600●
+
+○0000000602○通行人
+●0000000602●
+
+○0000000603○"No."
+●0000000603●
+
+○0000000604○The passerby walks off.
+●0000000604●
+
+○0000000605○瑚太朗
+●0000000605●
+
+○0000000606○"Huh?"
+●0000000606●
+
+○0000000608○That wasn't very friendly.
+●0000000608●
+
+○0000000609○瑚太朗
+●0000000609●
+
+○0000000610○"...How mean!"
+●0000000610●
+
+○0000000612○People just aren't what they used to be in this town anymore.
+●0000000612●
+
+○0000000613○■マッピー／既読■　ID:
+●0000000613●
+
+○0000000614○ (Z
+●0000000614●
+
+○0000000615○-
+●0000000615●
+
+○0000000616○■マッピー／コンプリート■
+●0000000616●
+
+○0000000617○瑚太朗
+●0000000617●
+
+○0000000618○"Excuse me, I'm looking for a bunch of drunks in the area."
+●0000000618●
+
+○0000000620○通行人
+●0000000620●
+
+○0000000621○"I'm sorry, but can you ask someone else? I'm busy right now."
+●0000000621●
+
+○0000000622○He's investigating the area with a bunch of maps and other papers in his hands.
+●0000000622●
+
+○0000000623○通行人
+●0000000623●
+
+○0000000624○"I've got to prepare this place for the Harvest Festival. I'm sorry."
+●0000000624●
+
+○0000000625○瑚太朗
+●0000000625●
+
+○0000000626○"It's okay. I'm sorry for bothering you at a bad time."
+●0000000626●
+
+○0000000628○Everyone in town gets busy when the Harvest Festival is approaching.
+●0000000628●
+
+○0000000629○■マッピー／既読■　ID:
+●0000000629●
+
+○0000000630○ (Z
+●0000000630●
+
+○0000000631○-
+●0000000631●
+
+○0000000632○■マッピー／コンプリート■
+●0000000632●
+
+○0000000633○瑚太朗
+●0000000633●
+
+○0000000634○"Excuse me. Can I ask a question?"
+●0000000634●
+
+○0000000636○通行人
+●0000000636●
+
+○0000000637○"Certainly. Ask whatever you wish."
+●0000000637●
+
+○0000000638○I run into an intelligent-looking gentleman.
+●0000000638●
+
+○0000000639○瑚太朗
+●0000000639●
+
+○0000000640○"Have you seen any drunks around here? One of them is a gentleman just like yourself."
+●0000000640●
+
+○0000000642○通行人
+●0000000642●
+
+○0000000643○"...I have not."
+●0000000643●
+
+○0000000644○通行人
+●0000000644●
+
+○0000000645○"But I know of him."
+●0000000645●
+
+○0000000646○瑚太朗
+●0000000646●
+
+○0000000647○"Really? Who is he?"
+●0000000647●
+
+○0000000649○通行人
+●0000000649●
+
+○0000000650○"Well, it's... me."
+●0000000650●
+
+○0000000651○瑚太朗
+●0000000651●
+
+○0000000652○"......"
+●0000000652●
+
+○0000000653○瑚太朗
+●0000000653●
+
+○0000000654○"You don't look drunk to me."
+●0000000654●
+
+○0000000656○通行人
+●0000000656●
+
+○0000000657○"I may not look like it, but I am."
+●0000000657●
+
+○0000000658○瑚太朗
+●0000000658●
+
+○0000000659○"Your face isn't flushed at all."
+●0000000659●
+
+○0000000661○通行人
+●0000000661●
+
+○0000000662○"My face doesn't change, and neither does my attitude, but I drink every day."
+●0000000662●
+
+○0000000663○瑚太朗
+●0000000663●
+
+○0000000664○"I guess a gentleman is a gentleman even if he's drunk."
+●0000000664●
+
+○0000000666○通行人
+●0000000666●
+
+○0000000667○"Indeed. I'm a professor at a university here in town."
+●0000000667●
+
+○0000000668○瑚太朗
+●0000000668●
+
+○0000000669○"You do have the presence of one."
+●0000000669●
+
+○0000000671○通行人
+●0000000671●
+
+○0000000672○"True gentlemen break down their alcohol the same way they solve mathematical equations."
+●0000000672●
+
+○0000000673○瑚太朗
+●0000000673●
+
+○0000000674○"Awesome."
+●0000000674●
+
+○0000000676○通行人
+●0000000676●
+
+○0000000677○"That said, I'm still drunk."
+●0000000677●
+
+○0000000678○通行人
+●0000000678●
+
+○0000000679○"...Which is why I shall take my clothes off now."
+●0000000679●
+
+○0000000680○瑚太朗
+●0000000680●
+
+○0000000681○"Excuse me?"
+●0000000681●
+
+○0000000683○The gentleman begins undressing.
+●0000000683●
+
+○0000000684○瑚太朗
+●0000000684●
+
+○0000000685○"Please stop!"
+●0000000685●
+
+○0000000687○通行人
+●0000000687●
+
+○0000000688○"It's only when you undress that you become truly human."
+●0000000688●
+
+○0000000689○瑚太朗
+●0000000689●
+
+○0000000690○"I think humans are human enough with their clothes on!!"
+●0000000690●
+
+○0000000692○He won't stop.
+●0000000692●
+
+○0000000693○通行人
+●0000000693●
+
+○0000000694○"It is not like wearing clothes has any effect on your intelligence. In which case, what is the point of clothes, anyway?"
+●0000000694●
+
+○0000000695○瑚太朗
+●0000000695●
+
+○0000000696○"I think there's a very good point! Stop it!"
+●0000000696●
+
+○0000000698○通行人
+●0000000698●
+
+○0000000699○"What is it now? Are you denying my right to exist in my most natural state?"
+●0000000699●
+
+○0000000700○通行人
+●0000000700●
+
+○0000000701○"This is a grave offense to my civilized behavior!"
+●0000000701●
+
+○0000000702○瑚太朗
+●0000000702●
+
+○0000000703○"S-Someone...! Help me!"
+●0000000703●
+
+○0000000705○It turns into a big incident.
+●0000000705●
+
+○0000000706○The police show up and ask me questions.
+●0000000706●
+
+○0000000707○瑚太朗
+●0000000707●
+
+○0000000708○"...I'm so tired."
+●0000000708●
+
+○0000000710○■マッピー／既読■　ID:
+●0000000710●
+
+○0000000711○ (Z
+●0000000711●
+
+○0000000712○-
+●0000000712●
+
+○0000000713○■マッピー／コンプリート■
+●0000000713●
+
+○0000000714○ワルＡ
+●0000000714●
+
+○0000000715○"Hello, there! I'm a punk! I take you for a rich boy from Kazamatsuri!"
+●0000000715●
+
+○0000000716○ワルＢ
+●0000000716●
+
+○0000000717○"Huhh? For real?! What are ya doing there, boy?"
+●0000000717●
+
+○0000000718○I'm surrounded by a group of punks.
+●0000000718●
+
+○0000000719○Of course, it's my first time seeing them.
+●0000000719●
+
+○0000000720○瑚太朗
+●0000000720●
+
+○0000000721○"...I'm looking for someone."
+●0000000721●
+
+○0000000723○ワルＡ
+●0000000723●
+
+○0000000724○"Gyahaha. Ya heard that?"
+●0000000724●
+
+○0000000725○ワルＢ
+●0000000725●
+
+○0000000726○"Huh? Huh? Whatcha say?!"
+●0000000726●
+
+○0000000727○They seem to be having fun.
+●0000000727●
+
+○0000000728○瑚太朗
+●0000000728●
+
+○0000000729○"I'm looking for someone."
+●0000000729●
+
+○0000000731○ワルＡ
+●0000000731●
+
+○0000000732○"I-I-I'm l-l-looking f-f-for s-s-someone!"
+●0000000732●
+
+○0000000733○ワルＢ
+●0000000733●
+
+○0000000734○"Gyahaha, you sound just like 'im!"
+●0000000734●
+
+○0000000735○瑚太朗
+●0000000735●
+
+○0000000736○"I'm looking for a certain group of middle-aged men that supposedly drink around this area. Have you guys seen them?"
+●0000000736●
+
+○0000000738○Their faces change in an instant.
+●0000000738●
+
+○0000000739○ワルＡ
+●0000000739●
+
+○0000000740○"Huh? What'd you just call us?"
+●0000000740●
+
+○0000000741○ワルＢ
+●0000000741●
+
+○0000000742○"How dare ya act so casual with your elders? Ya wanna get punched?"
+●0000000742●
+
+○0000000743○瑚太朗
+●0000000743●
+
+○0000000744○"...Elders? How old are you?"
+●0000000744●
+
+○0000000746○ワルＡ
+●0000000746●
+
+○0000000747○"How old are we?! Welll...!"
+●0000000747●
+
+○0000000748○He closes in on me, sticking his face out at a lower angle like punks typically do.
+●0000000748●
+
+○0000000749○His twisted lips slowly part.
+●0000000749●
+
+○0000000750○ワルＡ
+●0000000750●
+
+○0000000751○"...A thousand years old."
+●0000000751●
+
+○0000000752○瑚太朗
+●0000000752●
+
+○0000000753○"......"
+●0000000753●
+
+○0000000755○ワルＢ
+●0000000755●
+
+○0000000756○"Gyahaha, ya don't meet someone like that every day, boy!"
+●0000000756●
+
+○0000000757○ワルＡ
+●0000000757●
+
+○0000000758○"The honor will cost you five thousand yen, li'l ATM. Pay up."
+●0000000758●
+
+○0000000759○ワルＢ
+●0000000759●
+
+○0000000760○"Here it comes! The pay up scam! Too bad, rich boy! Yer not getting away now!"
+●0000000760●
+
+○0000000761○ワルＡ
+●0000000761●
+
+○0000000762○"I won't punch you too hard if you cough up the cash right away."
+●0000000762●
+
+○0000000763○ワルＡ
+●0000000763●
+
+○0000000764○"Gyahaha, but yer still gonna punch him either way. Poor kid."
+●0000000764●
+
+○0000000765○ワルＢ
+●0000000765●
+
+○0000000766○"Time to teach ya a thing or two about the outside world, rich boy."
+●0000000766●
+
+○0000000767○瑚太朗
+●0000000767●
+
+○0000000768○"......"
+●0000000768●
+
+○0000000770○瑚太朗
+●0000000770●
+
+○0000000771○"How'd you like the taste of the outside world? Huh?"
+●0000000771●
+
+○0000000773○ワルＡ
+●0000000773●
+
+○0000000774○"...It wash delishioush." (frontal sinus fracture)
+●0000000774●
+
+○0000000775○ワルＢ
+●0000000775●
+
+○0000000776○"...It wash a vhery vhaluable experienshe." (front tooth loss)
+●0000000776●
+
+○0000000778○This isn't violence. We just did a little boxing practice.
+●0000000778●
+
+○0000000779○I feel no hesitation punching assholes like these.
+●0000000779●
+
+○0000000780○瑚太朗
+●0000000780●
+
+○0000000781○"Anyway, I'll ask again."
+●0000000781●
+
+○0000000782○瑚太朗
+●0000000782●
+
+○0000000783○"Do you know any drunks that hang around this area?"
+●0000000783●
+
+○0000000785○Both of them shake their heads.
+●0000000785●
+
+○0000000786○瑚太朗
+●0000000786●
+
+○0000000787○"...Figures."
+●0000000787●
+
+○0000000788○瑚太朗
+●0000000788●
+
+○0000000789○"Anyway, from now on, you'll call yourselves 'bunks' instead of 'punks'. Got it?"
+●0000000789●
+
+○0000000791○ワルＡ
+●0000000791●
+
+○0000000792○"...Yes."
+●0000000792●
+
+○0000000793○ワルＢ
+●0000000793●
+
+○0000000794○"...Yeah."
+●0000000794●
+
+○0000000795○瑚太朗
+●0000000795●
+
+○0000000796○"You're a part of those losers who go to the fighting shrine Punk Quijote at midnight, right?"
+●0000000796●
+
+○0000000798○ワルＡ
+●0000000798●
+
+○0000000799○"...We do."
+●0000000799●
+
+○0000000800○ワルＢ
+●0000000800●
+
+○0000000801○"...Yeah, we do."
+●0000000801●
+
+○0000000802○瑚太朗
+●0000000802●
+
+○0000000803○"Okay. Don't lay a finger on anyone from our school ever again."
+●0000000803●
+
+○0000000805○I did a good thing.
+●0000000805●
+
+○0000000806○But I didn't learn anything.
+●0000000806●
+
+○0000000807○■マッピー／既読■　ID:
+●0000000807●
+
+○0000000808○ (Z
+●0000000808●
+
+○0000000809○-
+●0000000809●
+
+○0000000810○■マッピー／コンプリート■
+●0000000810●
+
+○0000000811○通行人
+●0000000811●
+
+○0000000812○"Drunks? Yeah, I know. I see them here from time to time."
+●0000000812●
+
+○0000000813○瑚太朗
+●0000000813●
+
+○0000000814○"I'm looking for them."
+●0000000814●
+
+○0000000816○通行人
+●0000000816●
+
+○0000000817○"I only know them by sight."
+●0000000817●
+
+○0000000818○Nothing again.
+●0000000818●
+
+○0000000819○通行人
+●0000000819●
+
+○0000000820○"I'm sorry for being no help. I'll give you this in exchange."
+●0000000820●
+
+○0000000821○You've received lead "Monster in the Forest?! The Legend of a Wooden Man!"
+●0000000821●
+
+○0000000822○瑚太朗
+●0000000822●
+
+○0000000823○"Th-Thanks..."
+●0000000823●
+
+○0000000825○■マッピー／既読■　ID:
+●0000000825●
+
+○0000000826○ (Z
+●0000000826●
+
+○0000000827○-
+●0000000827●
+
+○0000000828○■マッピー／コンプリート■
+●0000000828●
+
+○0000000829○瑚太朗
+●0000000829●
+
+○0000000830○(Right, Kotori asked me to plant those seeds.)
+●0000000830●
+
+○0000000831○瑚太朗
+●0000000831●
+
+○0000000832○"I can feel green waves emanating from this building."
+●0000000832●
+
+○0000000833○瑚太朗
+●0000000833●
+
+○0000000834○"It's locked, though. Guess I'll have to climb the wall."
+●0000000834●
+
+○0000000835○瑚太朗
+●0000000835●
+
+○0000000836○"I've got no idea why I'm so into this, but I can't leave a job half-finished."
+●0000000836●
+
+○0000000838○......
+●0000000838●
+
+○0000000839○瑚太朗
+●0000000839●
+
+○0000000840○"Phew."
+●0000000840●
+
+○0000000842○I plant the seeds on the roof.
+●0000000842●
+
+○0000000843○■マッピー／既読■　ID:
+●0000000843●
+
+○0000000844○ (Z
+●0000000844●
+
+○0000000845○-
+●0000000845●
+
+○0000000846○■マッピー／コンプリート■
+●0000000846●
+
+○0000000847○I find a girl in gothic lolita attire.
+●0000000847●
+
+○0000000848○She's sipping alcohol from a tin flask.
+●0000000848●
+
+○0000000849○Her drinking has an odd air of melancholy for someone her age.
+●0000000849●
+
+○0000000850○瑚太朗
+●0000000850●
+
+○0000000851○"Um, underage drinking is..."
+●0000000851●
+
+○0000000853○ゴスロリ
+●0000000853●
+
+○0000000854○"...I'm sorry, boy, but I'm twenty-nine. Even if I don't look it."
+●0000000854●
+
+○0000000855○瑚太朗
+●0000000855●
+
+○0000000856○"Y-You really don't!"
+●0000000856●
+
+○0000000858○She looks fourteen at most.
+●0000000858●
+
+○0000000859○No, wait. Now that I have a better look, I can see traces of makeup on her face.
+●0000000859●
+
+○0000000860○ゴスロリ
+●0000000860●
+
+○0000000861○"That's a nice thing to say to a lady. Why'd you start talking to me anyway? Could it be that you're trying to pick me up?"
+●0000000861●
+
+○0000000862○瑚太朗
+●0000000862●
+
+○0000000863○"No, uh... I'm looking for someone."
+●0000000863●
+
+○0000000865○ゴスロリ
+●0000000865●
+
+○0000000866○"Oh. Pft. But hey, take a seat anyway. I'll help you out if you listen to my story."
+●0000000866●
+
+○0000000867○瑚太朗
+●0000000867●
+
+○0000000868○"Okay..."
+●0000000868●
+
+○0000000870○ゴスロリ
+●0000000870●
+
+○0000000871○"I was thinking on giving up on being a gothic lolita. I mean, I'm not that young anymore."
+●0000000871●
+
+○0000000872○ゴスロリ
+●0000000872●
+
+○0000000873○"I started out when I was thirteen. I'd grown tired of my dull life and was looking for something to add flavor to it."
+●0000000873●
+
+○0000000874○ゴスロリ
+●0000000874●
+
+○0000000875○"The moment I uploaded a few pics of myself on the Internet, a bunch of people started following my blog."
+●0000000875●
+
+○0000000876○Her confession continues for a long, long time.
+●0000000876●
+
+○0000000877○ゴスロリ
+●0000000877●
+
+○0000000878○"But now, it's pretty much just the old crowd that's still hanging around on my boards, not to mention most of them got married at this point. It doesn't feel like they worship me like they used to."
+●0000000878●
+
+○0000000879○ゴスロリ
+●0000000879●
+
+○0000000880○"It's like... we're almost friends at this point or something... and there's nothing wrong with that, but then what's the point of me being a gothic lolita anymore, right...?"
+●0000000880●
+
+○0000000881○ゴスロリ
+●0000000881●
+
+○0000000882○"I started thinking about that lately... And my picture albums aren't selling like they used to..."
+●0000000882●
+
+○0000000883○ゴスロリ
+●0000000883●
+
+○0000000884○"Then, I realized I cannot wear my gothic lolita clothes without putting in extra effort anymore, either. Still, how do I change my lifestyle at this point, right? Anyway, that's where I'm at right now."
+●0000000884●
+
+○0000000885○She's been talking for about an hour now.
+●0000000885●
+
+○0000000886○瑚太朗
+●0000000886●
+
+○0000000887○"...I-I see. It sounds complicated."
+●0000000887●
+
+○0000000889○ゴスロリ
+●0000000889●
+
+○0000000890○"What do you think I should do, boy? Should I continue being a gothic lolita?"
+●0000000890●
+
+○0000000891○瑚太朗
+●0000000891●
+
+○0000000892○"I believe you know the answer to that better than anyone."
+●0000000892●
+
+○0000000894○ゴスロリ
+●0000000894●
+
+○0000000895○"What do you mean?"
+●0000000895●
+
+○0000000896○瑚太朗
+●0000000896●
+
+○0000000897○"I think you should wear clothes that don't make you want to take up drinking."
+●0000000897●
+
+○0000000899○ゴスロリ
+●0000000899●
+
+○0000000900○"Drinking?"
+●0000000900●
+
+○0000000901○瑚太朗
+●0000000901●
+
+○0000000902○"You should try all sorts of clothes and see what works best for you."
+●0000000902●
+
+○0000000904○The gothic lolita sinks into thought for a few moments before nodding.
+●0000000904●
+
+○0000000905○ゴスロリ
+●0000000905●
+
+○0000000906○"...I see. Thanks for your help."
+●0000000906●
+
+○0000000907○瑚太朗
+●0000000907●
+
+○0000000908○"Good luck."
+●0000000908●
+
+○0000000910○ゴスロリ
+●0000000910●
+
+○0000000911○"Yeah, I'm gonna be all right, don't you worry. Thanks."
+●0000000911●
+
+○0000000912○瑚太朗
+●0000000912●
+
+○0000000913○"I'll be cheering for you, Ms. Gothic Lolita."
+●0000000913●
+
+○0000000915○ゴッスリさん
+●0000000915●
+
+○0000000916○"I'm glad I finally got the chance to let that out. Right, I promised to give you information in return."
+●0000000916●
+
+○0000000917○ゴッスリさん
+●0000000917●
+
+○0000000918○"This area's basically a drunkard mecca, so there's many groups that drink here on a daily basis."
+●0000000918●
+
+○0000000919○ゴッスリさん
+●0000000919●
+
+○0000000920○"However, I suspect I know who you're talking about if they're all middle-aged. I don't know them that well, but one of their members runs a shop in the area."
+●0000000920●
+
+○0000000921○ゴッスリさん
+●0000000921●
+
+○0000000922○"It's over there. Try checking it out."
+●0000000922●
+
+○0000000923○瑚太朗
+●0000000923●
+
+○0000000924○"Great! Thank you very much!"
+●0000000924●
+
+○0000000926○You've obtained the location of Antique Shop "Forest"!
+●0000000926●
+
+○0000000927○■友達■　ID:
+●0000000927●
+
+○0000000928○　NO:
+●0000000928●
+
+○0000000929○■マッピー／既読■　ID:
+●0000000929●
+
+○0000000930○ (Z
+●0000000930●
+
+○0000000931○-
+●0000000931●
+
+○0000000932○■マッピー／コンプリート■
+●0000000932●
+
+○0000000933○I find a drunk, as per my information.
+●0000000933●
+
+○0000000934○瑚太朗
+●0000000934●
+
+○0000000935○"Are you a drunk?"
+●0000000935●
+
+○0000000937○ヨッパ
+●0000000937●
+
+○0000000938○"Ayeee."
+●0000000938●
+
+○0000000939○It's not anyone I know.
+●0000000939●
+
+○0000000940○I might as well use the opportunity to ask some questions, though.
+●0000000940●
+
+○0000000941○瑚太朗
+●0000000941●
+
+○0000000942○"I have information that a group of middle-aged men organizes drinking parties around this area."
+●0000000942●
+
+○0000000944○ヨッパ
+●0000000944●
+
+○0000000945○"I'm not drunkzzz!"
+●0000000945●
+
+○0000000946○瑚太朗
+●0000000946●
+
+○0000000947○"...Thank you."
+●0000000947●
+
+○0000000949○Don't think I'll be getting anything out of this guy, so I'll take my leave.
+●0000000949●
+
+○0000000950○■マッピー／既読■　ID:
+●0000000950●
+
+○0000000951○ (Z
+●0000000951●
+
+○0000000952○-
+●0000000952●
+
+○0000000953○■マッピー／コンプリート■
+●0000000953●
+
+○0000000954○I find a drunk, as per my information.
+●0000000954●
+
+○0000000955○瑚太朗
+●0000000955●
+
+○0000000956○"Are you drunk?"
+●0000000956●
+
+○0000000958○若きヨッパ
+●0000000958●
+
+○0000000959○"Alcohol drinkzh me!"
+●0000000959●
+
+○0000000960○It doesn't take long to tell this one is a lost cause.
+●0000000960●
+
+○0000000961○瑚太朗
+●0000000961●
+
+○0000000962○"I have information that a group of middle-aged men organizes drinking parties around this area."
+●0000000962●
+
+○0000000964○若きヨッパ
+●0000000964●
+
+○0000000965○"To tell the truzh, I've been drinkingzh nooooonstopz since last nightz."
+●0000000965●
+
+○0000000966○瑚太朗
+●0000000966●
+
+○0000000967○"...That sounds dangerous."
+●0000000967●
+
+○0000000969○He has a bottle of sake in one hand.
+●0000000969●
+
+○0000000970○He might actually have been drunk for hours now.
+●0000000970●
+
+○0000000971○瑚太朗
+●0000000971●
+
+○0000000972○"You might develop an addiction."
+●0000000972●
+
+○0000000974○若きヨッパ
+●0000000974●
+
+○0000000975○"It givezh me something to writezh for my blogz, so it's okey-dokey!"
+●0000000975●
+
+○0000000976○若きヨッパ
+●0000000976●
+
+○0000000977○"Aren't I amazingzh, not giving a single thought for tomorrowz!"
+●0000000977●
+
+○0000000978○瑚太朗
+●0000000978●
+
+○0000000979○"It stops sounding cool once you say it out loud, though."
+●0000000979●
+
+○0000000981○若きヨッパ
+●0000000981●
+
+○0000000982○"I livezh in the moment. I've got no time to wastez on protecting and whatnotz. I justz attack and take everythingz, perpetually on the ofeensivez."
+●0000000982●
+
+○0000000983○His pension insurance book falls out of his pocket.
+●0000000983●
+
+○0000000984○若きヨッパ
+●0000000984●
+
+○0000000985○"Ah, no! My mini bank that letz me sleep at nightz!"
+●0000000985●
+
+○0000000986○The young drunk snatches the book off the ground so fast that it's almost like he's sober.
+●0000000986●
+
+○0000000987○瑚太朗
+●0000000987●
+
+○0000000988○"You're already working on your pension fund, you fraud!"
+●0000000988●
+
+○0000000989○瑚太朗
+●0000000989●
+
+○0000000990○"What the hell was all that 'I live in the moment' bullcrap about?!"
+●0000000990●
+
+○0000000992○若きヨッパ
+●0000000992●
+
+○0000000993○"...Khuaaaah!"
+●0000000993●
+
+○0000000994○What a loser. I totally wasted my time on this guy.
+●0000000994●
+
+○0000000995○I take my leave.
+●0000000995●
+
+○0000000996○■マッピー／既読■　ID:
+●0000000996●
+
+○0000000997○ (Z
+●0000000997●
+
+○0000000998○-
+●0000000998●
+
+○0000000999○■マッピー／コンプリート■
+●0000000999●
+
+○0000001000○I find a drunk, as per my information.
+●0000001000●
+
+○0000001001○But he's surrounded by a bunch of teenagers.
+●0000001001●
+
+○0000001002○瑚太朗
+●0000001002●
+
+○0000001003○"What's going on here?"
+●0000001003●
+
+○0000001005○若者
+●0000001005●
+
+○0000001006○"Don't you know?! It's a charismatic live performance!"
+●0000001006●
+
+○0000001007○瑚太朗
+●0000001007●
+
+○0000001008○"What, a barbershop quartet?"
+●0000001008●
+
+○0000001010○若者
+●0000001010●
+
+○0000001011○"Wow... Haven't heard that in a while."
+●0000001011●
+
+○0000001012○瑚太朗
+●0000001012●
+
+○0000001013○"I don't follow the trends."
+●0000001013●
+
+○0000001015○若者
+●0000001015●
+
+○0000001016○"Drunks are all the rage right now!!"
+●0000001016●
+
+○0000001017○瑚太朗
+●0000001017●
+
+○0000001018○"I have a hard time believing that."
+●0000001018●
+
+○0000001020○若者
+●0000001020●
+
+○0000001021○"You don't understand anything! Everyone's here to take photos of our idol!"
+●0000001021●
+
+○0000001022○瑚太朗
+●0000001022●
+
+○0000001023○"Is he really that impressive of a drunk?"
+●0000001023●
+
+○0000001025○若者
+●0000001025●
+
+○0000001026○"He's a ragged-looking homeless guy in his fifties."
+●0000001026●
+
+○0000001027○瑚太朗
+●0000001027●
+
+○0000001028○"Sounds like someone you could find at any major train station at night."
+●0000001028●
+
+○0000001030○若者
+●0000001030●
+
+○0000001031○"Fool! That's what makes it perfect! Aw, crap! He's starting!!"
+●0000001031●
+
+○0000001032○若者
+●0000001032●
+
+○0000001033○"I'm not missing his guerilla heavy drinking performance again!"
+●0000001033●
+
+○0000001034○The guy dives into the crowd, readying his phone.
+●0000001034●
+
+○0000001035○若者
+●0000001035●
+
+○0000001036○"DRINK!!"
+●0000001036●
+
+○0000001037○若者
+●0000001037●
+
+○0000001038○"Look here!"
+●0000001038●
+
+○0000001039○若者
+●0000001039●
+
+○0000001040○"Yeah! He looked at me! He gave me a look!!"
+●0000001040●
+
+○0000001041○若者
+●0000001041●
+
+○0000001042○"Breathe your alcoholic breath!!"
+●0000001042●
+
+○0000001043○若者
+●0000001043●
+
+○0000001044○"Reverse! Reverse!"
+●0000001044●
+
+○0000001045○係員
+●0000001045●
+
+○0000001046○"Back down! Touching isn't allowed! Don't touch the professional drunk, please!"
+●0000001046●
+
+○0000001047○若者
+●0000001047●
+
+○0000001048○"He's drinking! He's drinking the alcohol I brought!!"
+●0000001048●
+
+○0000001049○瑚太朗
+●0000001049●
+
+○0000001050○"......"
+●0000001050●
+
+○0000001052○I'm either really behind the times, or all of these people are crazy.
+●0000001052●
+
+○0000001053○I can't see the guy's face from where I'm standing, but I highly doubt he's the person I'm looking for.
+●0000001053●
+
+○0000001054○I take my leave.
+●0000001054●
+
+○0000001055○■マッピー／既読■　ID:
+●0000001055●
+
+○0000001056○ (Z
+●0000001056●
+
+○0000001057○-
+●0000001057●
+
+○0000001058○■マッピー／コンプリート■
+●0000001058●
+
+○0000001059○I find a drunk, as per my information.
+●0000001059●
+
+○0000001060○Wait, no... Something's weird.
+●0000001060●
+
+○0000001061○A sharp-looking businessman with black glasses is sitting on a bench by the road.
+●0000001061●
+
+○0000001062○瑚太朗
+●0000001062●
+
+○0000001063○(Is he a drunk...?)
+●0000001063●
+
+○0000001065○No matter how I look at him, he seems sober.
+●0000001065●
+
+○0000001066○Noticing me staring, the man directs his gaze at me.
+●0000001066●
+
+○0000001067○サラリーマン
+●0000001067●
+
+○0000001068○"Is there anything I can help you with?"
+●0000001068●
+
+○0000001069○瑚太朗
+●0000001069●
+
+○0000001070○"Umm... Are you a drunk?"
+●0000001070●
+
+○0000001072○サラリーマン
+●0000001072●
+
+○0000001073○"Nonsense!"
+●0000001073●
+
+○0000001074○瑚太朗
+●0000001074●
+
+○0000001075○"R-Right... You're in the middle of work and all..."
+●0000001075●
+
+○0000001077○サラリーマン
+●0000001077●
+
+○0000001078○"Don't underestimate the difficulty of making the rounds."
+●0000001078●
+
+○0000001079○I decide to use the opportunity to gather some information.
+●0000001079●
+
+○0000001080○瑚太朗
+●0000001080●
+
+○0000001081○"I have information that a group of middle-aged men organizes drinking parties around this area."
+●0000001081●
+
+○0000001083○サラリーマン
+●0000001083●
+
+○0000001084○"Just a moment!"
+●0000001084●
+
+○0000001085○The businessman-looking fellow pulls out a whiskey bottle from his bag and takes a few hearty gulps.
+●0000001085●
+
+○0000001086○瑚太朗
+●0000001086●
+
+○0000001087○"I... thought you were working."
+●0000001087●
+
+○0000001089○サラリーマン
+●0000001089●
+
+○0000001090○"REFRESHHHED!"
+●0000001090●
+
+○0000001091○瑚太朗
+●0000001091●
+
+○0000001092○"...My apologies."
+●0000001092●
+
+○0000001094○He ends up drinking the entire bottle.
+●0000001094●
+
+○0000001095○The businessman takes out a can of sake from his bag and begins gulping it down, too.
+●0000001095●
+
+○0000001096○That's... quite an awe-inspiring sight.
+●0000001096●
+
+○0000001097○瑚太朗
+●0000001097●
+
+○0000001098○"...Was it good?"
+●0000001098●
+
+○0000001100○サラリーマン
+●0000001100●
+
+○0000001101○"Excellent!"
+●0000001101●
+
+○0000001102○It seems like you can get away with anything while doing the rounds.
+●0000001102●
+
+○0000001103○I make a mental note to write it down as one of my career choices.
+●0000001103●
+
+○0000001104○■マッピー／既読■　ID:
+●0000001104●
+
+○0000001105○ (Z
+●0000001105●
+
+○0000001106○-
+●0000001106●
+
+○0000001107○■マッピー／コンプリート■
+●0000001107●
+
+○0000001108○風祭の生徒
+●0000001108●
+
+○0000001109○"Hey, you!"
+●0000001109●
+
+○0000001110○瑚太朗
+●0000001110●
+
+○0000001111○"Huh? You're from our school? What are you doing here?"
+●0000001111●
+
+○0000001113○風祭の生徒
+●0000001113●
+
+○0000001114○"You were speaking to a short girl in gothic lolita clothes just now, right?"
+●0000001114●
+
+○0000001115○瑚太朗
+●0000001115●
+
+○0000001116○"Ah, Ms. Gothic Lolita."
+●0000001116●
+
+○0000001118○風祭の生徒
+●0000001118●
+
+○0000001119○"To tell you the truth... I'm in love with her..."
+●0000001119●
+
+○0000001120○瑚太朗
+●0000001120●
+
+○0000001121○"Seriously? Ignoring her clothes, she's leading a pretty lazy, decadent life from the sound of it."
+●0000001121●
+
+○0000001123○風祭の生徒
+●0000001123●
+
+○0000001124○"That contrast is what stole my heart!"
+●0000001124●
+
+○0000001125○瑚太朗
+●0000001125●
+
+○0000001126○"You live in a different world from me."
+●0000001126●
+
+○0000001128○風祭の生徒
+●0000001128●
+
+○0000001129○"Can you tell me about her?"
+●0000001129●
+
+○0000001130○...I tell him everything I've heard.
+●0000001130●
+
+○0000001131○風祭の生徒
+●0000001131●
+
+○0000001132○"I see..."
+●0000001132●
+
+○0000001133○瑚太朗
+●0000001133●
+
+○0000001134○"Your beloved gothic lolita might stop being a gothic lolita soon."
+●0000001134●
+
+○0000001136○風祭の生徒
+●0000001136●
+
+○0000001137○"I don't care! She's herself, no matter how she looks!"
+●0000001137●
+
+○0000001138○瑚太朗
+●0000001138●
+
+○0000001139○"I see. Well, good luck."
+●0000001139●
+
+○0000001141○風祭の生徒
+●0000001141●
+
+○0000001142○"Thanks. You're from the Occult Research Society, right? I'll give you a lead as thanks."
+●0000001142●
+
+○0000001143○You've received Clue "I've got superpowers AND I can see ghosts"!
+●0000001143●
+
+○0000001144○瑚太朗
+●0000001144●
+
+○0000001145○"Thanks!"
+●0000001145●
+
+○0000001147○■マッピー／既読■　ID:
+●0000001147●
+
+○0000001148○ (Z
+●0000001148●
+
+○0000001149○-
+●0000001149●
+
+○0000001150○■マッピー／コンプリート■
+●0000001150●
+
+○0000001151○瑚太朗
+●0000001151●
+
+○0000001152○(Right. Kotori asked me to plant those seeds.)
+●0000001152●
+
+○0000001153○瑚太朗
+●0000001153●
+
+○0000001154○"Let's try this building."
+●0000001154●
+
+○0000001156○Inside, I find a bar full of shady characters.
+●0000001156●
+
+○0000001157○Their hyena-sharp eyes pierce me simultaneously.
+●0000001157●
+
+○0000001158○男
+●0000001158●
+
+○0000001159○"Who the hell are you?!"
+●0000001159●
+
+○0000001160○瑚太朗
+●0000001160●
+
+○0000001161○"Begone. I'm taking over this turf to plant some seeds."
+●0000001161●
+
+○0000001163○I answer in the most nihilistic way I can muster.
+●0000001163●
+
+○0000001164○男
+●0000001164●
+
+○0000001165○"What'd you just say, brat?! Get him!!"
+●0000001165●
+
+○0000001166○It escalates into an epic battle.
+●0000001166●
+
+○0000001167○And...
+●0000001167●
+
+○0000001168○瑚太朗
+●0000001168●
+
+○0000001169○"Hmph. Time to plant."
+●0000001169●
+
+○0000001171○I plant the seeds in the soil inside.
+●0000001171●
+
+○0000001172○■マッピー／既読■　ID:
+●0000001172●
+
+○0000001173○ (Z
+●0000001173●
+
+○0000001174○-
+●0000001174●
+
+○0000001175○■マッピー／コンプリート■
+●0000001175●
+
+○0000001176○瑚太朗
+●0000001176●
+
+○0000001177○(Right. Kotori asked me to plant those seeds.)
+●0000001177●
+
+○0000001178○瑚太朗
+●0000001178●
+
+○0000001179○(I can put some in that gap between these buildings...)
+●0000001179●
+
+○0000001181○I slip inside.
+●0000001181●
+
+○0000001182○Can they even grow in a murky place like that?
+●0000001182●
+
+○0000001183○瑚太朗
+●0000001183●
+
+○0000001184○"Ah."
+●0000001184●
+
+○0000001186○I find a small area that's illuminated by light reflected from the surrounding windows. Quite a divine sight indeed.
+●0000001186●
+
+○0000001187○瑚太朗
+●0000001187●
+
+○0000001188○"It's like a secret temple in the middle of the city..."
+●0000001188●
+
+○0000001190○I plant the seeds in the soil there.
+●0000001190●
+
+○0000001191○They'll grow into some holy plants for sure.
+●0000001191●
+
+○0000001192○■マッピー／既読■　ID:
+●0000001192●
+
+○0000001193○ (Z
+●0000001193●
+
+○0000001194○-
+●0000001194●
+
+○0000001195○■マッピー／コンプリート■
+●0000001195●
+
+○0000001196○dummy
+●0000001196●
+
+○0000001197○sys20_adv03
+●0000001197●
+
+○0000001198○fcm_ko10a
+●0000001198●
+
+○0000001199○sys20_adv03
+●0000001199●
+
+○0000001200○sys20_adv03
+●0000001200●
+
+○0000001201○fcm_ko10a
+●0000001201●
+
+○0000001202○sys20_adv03
+●0000001202●
+
+○0000001203○sys20_adv03
+●0000001203●
+
+○0000001204○fcm_ko10a
+●0000001204●
+
+○0000001205○sys20_adv03
+●0000001205●
+
+○0000001206○sys20_adv03
+●0000001206●
+
+○0000001207○fcm_ko10a
+●0000001207●
+
+○0000001208○sys20_adv03
+●0000001208●
+
+○0000001209○sys20_adv03
+●0000001209●
+
+○0000001210○fcm_ko10a
+●0000001210●
+
+○0000001211○sys20_adv03
+●0000001211●
+
+○0000001212○sys20_adv03
+●0000001212●
+
+○0000001213○fcm_ko10a
+●0000001213●
+
+○0000001214○sys20_adv03
+●0000001214●
+
+○0000001215○sys20_adv03
+●0000001215●
+
+○0000001216○fcm_ko10a
+●0000001216●
+
+○0000001217○sys20_adv03
+●0000001217●
+
+○0000001218○sys20_adv03
+●0000001218●
+
+○0000001219○fcm_ko10a
+●0000001219●
+
+○0000001220○sys20_adv03
+●0000001220●
+
+○0000001221○sys20_adv03
+●0000001221●
+
+○0000001222○fcm_ko10a
+●0000001222●
+
+○0000001223○sys20_adv03
+●0000001223●
+
+○0000001224○sys20_adv03
+●0000001224●
+
+○0000001225○fcm_ko10a
+●0000001225●
+
+○0000001226○sys20_adv03
+●0000001226●
+
+○0000001227○sys20_adv03
+●0000001227●
+
+○0000001228○fcm_ko10a
+●0000001228●
+
+○0000001229○sys20_adv03
+●0000001229●
+
+○0000001230○sys20_adv03
+●0000001230●
+
+○0000001231○fcm_ko10a
+●0000001231●
+
+○0000001232○sys20_adv03
+●0000001232●
+
+○0000001233○sys20_adv03
+●0000001233●
+
+○0000001234○fcm_ko10a
+●0000001234●
+
+○0000001235○sys20_adv03
+●0000001235●
+
+○0000001236○sys20_adv03
+●0000001236●
+
+○0000001237○fcm_ko10a
+●0000001237●
+
+○0000001238○sys20_adv03
+●0000001238●
+
+○0000001239○sys20_adv03
+●0000001239●
+
+○0000001240○fcm_ko10a
+●0000001240●
+
+○0000001241○sys20_adv03
+●0000001241●
+
+○0000001242○sys20_adv00
+●0000001242●
+
+○0000001243○cgm_ys10
+●0000001243●
+
+○0000001244○sys20_adv00
+●0000001244●
+
+○0000001245○cgm_ys17
+●0000001245●
+
+○0000001246○sys20_adv00
+●0000001246●
+
+○0000001247○cgm_ys10
+●0000001247●
+
+○0000001248○sys20_adv00
+●0000001248●
+
+○0000001249○cgm_ys19
+●0000001249●
+
+○0000001250○sys20_adv00
+●0000001250●
+
+○0000001251○cgm_ys12
+●0000001251●
+
+○0000001252○sys20_adv00
+●0000001252●
+
+○0000001253○sys20_adv00
+●0000001253●
+
+○0000001254○cgm_ys10
+●0000001254●
+
+○0000001255○sys20_adv00
+●0000001255●
+
+○0000001256○cgm_ys21
+●0000001256●
+
+○0000001257○sys20_adv00
+●0000001257●
+
+○0000001258○sys20_adv00
+●0000001258●
+
+○0000001259○cgm_ys15
+●0000001259●
+
+○0000001260○sys20_adv00
+●0000001260●
+
+○0000001261○sys20_adv00
+●0000001261●
+
+○0000001262○cgm_ys10
+●0000001262●
+
+○0000001263○sys20_adv00
+●0000001263●
+
+○0000001264○cgm_ys13
+●0000001264●
+
+○0000001265○sys20_adv00
+●0000001265●
+
+○0000001266○sys20_adv00
+●0000001266●
+
+○0000001267○cgm_ys20
+●0000001267●
+
+○0000001268○sys20_adv00
+●0000001268●
+
+○0000001269○cgm_ys21
+●0000001269●
+
+○0000001270○sys20_adv00
+●0000001270●
+
+○0000001271○cgm_ys19
+●0000001271●
+
+○0000001272○sys20_adv00
+●0000001272●
+
+○0000001273○cgm_ys20
+●0000001273●
+
+○0000001274○sys20_adv02
+●0000001274●
+
+○0000001275○sys00_sys00
+●0000001275●
+
+○0000001276○byun
+●0000001276●
+
+○0000001277○sys20_adv00
+●0000001277●
+
+○0000001278○cgm_ys16
+●0000001278●
+
+○0000001279○sys20_adv00
+●0000001279●
+
+○0000001280○cgm_ys20
+●0000001280●
+
+○0000001281○sys20_adv00
+●0000001281●
+
+○0000001282○cgm_ys21
+●0000001282●
+
+○0000001283○sys20_adv00
+●0000001283●
+
+○0000001284○cgm_ys14
+●0000001284●
+
+○0000001285○sys20_adv00
+●0000001285●
+
+○0000001286○cgm_ys15
+●0000001286●
+
+○0000001287○sys20_adv00
+●0000001287●
+
+○0000001288○cgm_ys16
+●0000001288●
+
+○0000001289○sys20_adv00
+●0000001289●
+
+○0000001290○cgm_ys14
+●0000001290●
+
+○0000001291○sys20_adv00
+●0000001291●
+
+○0000001292○cgm_ys20
+●0000001292●
+
+○0000001293○sys20_adv00
+●0000001293●
+
+○0000001294○sys20_adv00
+●0000001294●
+
+○0000001295○cgm_ys10
+●0000001295●
+
+○0000001296○sys20_adv00
+●0000001296●
+
+○0000001297○cgm_ys17
+●0000001297●
+
+○0000001298○sys20_adv00
+●0000001298●
+
+○0000001299○cgm_ys21
+●0000001299●
+
+○0000001300○sys20_adv00
+●0000001300●
+
+○0000001301○cgm_ys17
+●0000001301●
+
+○0000001302○sys20_adv00
+●0000001302●
+
+○0000001303○cgm_ys10
+●0000001303●
+
+○0000001304○sys20_adv00
+●0000001304●
+
+○0000001305○cgm_ys15
+●0000001305●
+
+○0000001306○sys20_adv00
+●0000001306●
+
+○0000001307○cgm_ys11
+●0000001307●
+
+○0000001308○sys20_adv00
+●0000001308●
+
+○0000001309○cgm_ys17
+●0000001309●
+
+○0000001310○sys20_adv00
+●0000001310●
+
+○0000001311○cgm_ys15
+●0000001311●
+
+○0000001312○sys20_adv00
+●0000001312●
+
+○0000001313○cgm_ys19
+●0000001313●
+
+○0000001314○sys20_adv00
+●0000001314●
+
+○0000001315○cgm_ys17
+●0000001315●
+
+○0000001316○sys20_adv00
+●0000001316●
+
+○0000001317○cgm_ys14
+●0000001317●
+
+○0000001318○sys20_adv00
+●0000001318●
+
+○0000001319○cgm_ys18
+●0000001319●
+
+○0000001320○sys20_adv00
+●0000001320●
+
+○0000001321○cgm_ys10
+●0000001321●
+
+○0000001322○sys20_adv00
+●0000001322●
+
+○0000001323○cgm_ys19
+●0000001323●
+
+○0000001324○sys20_adv00
+●0000001324●
+
+○0000001325○cgm_ys15
+●0000001325●
+
+○0000001326○sys20_adv00
+●0000001326●
+
+○0000001327○cgm_ys10
+●0000001327●
+
+○0000001328○sys20_adv00
+●0000001328●
+
+○0000001329○cgm_ys17
+●0000001329●
+
+○0000001330○sys20_adv00
+●0000001330●
+
+○0000001331○cgm_ys19
+●0000001331●
+
+○0000001332○sys20_adv00
+●0000001332●
+
+○0000001333○cgm_ys10
+●0000001333●
+
+○0000001334○sys20_adv00
+●0000001334●
+
+○0000001335○cgm_ys17
+●0000001335●
+
+○0000001336○sys20_adv00
+●0000001336●
+
+○0000001337○cgm_ys14
+●0000001337●
+
+○0000001338○sys20_adv00
+●0000001338●
+
+○0000001339○cgm_ys20
+●0000001339●
+
+○0000001340○sys20_adv00
+●0000001340●
+
+○0000001341○cgm_ys16
+●0000001341●
+
+○0000001342○sys20_adv00
+●0000001342●
+
+○0000001343○cgm_ys10
+●0000001343●
+
+○0000001344○sys20_adv00
+●0000001344●
+
+○0000001345○cgm_ys14
+●0000001345●
+
+○0000001346○sys20_adv00
+●0000001346●
+
+○0000001347○cgm_ys15
+●0000001347●
+
+○0000001348○sys20_adv00
+●0000001348●
+
+○0000001349○cgm_ys21
+●0000001349●
+
+○0000001350○sys20_adv00
+●0000001350●
+
+○0000001351○cgm_ys17
+●0000001351●
+
+○0000001352○sys20_adv00
+●0000001352●
+
+○0000001353○cgm_ys10
+●0000001353●
+
+○0000001354○sys20_adv00
+●0000001354●
+
+○0000001355○sys20_adv00
+●0000001355●
+
+○0000001356○cgm_ys10
+●0000001356●
+
+○0000001357○sys20_adv00
+●0000001357●
+
+○0000001358○cgm_ys17
+●0000001358●
+
+○0000001359○sys20_adv00
+●0000001359●
+
+○0000001360○cgm_ys21
+●0000001360●
+
+○0000001361○sys20_adv00
+●0000001361●
+
+○0000001362○cgm_ys15
+●0000001362●
+
+○0000001363○sys20_adv00
+●0000001363●
+
+○0000001364○cgm_ys10
+●0000001364●
+
+○0000001365○sys20_adv00
+●0000001365●
+
+○0000001366○cgm_ys12
+●0000001366●
+
+○0000001367○sys20_adv00
+●0000001367●
+
+○0000001368○cgm_ys11
+●0000001368●
+
+○0000001369○sys20_adv00
+●0000001369●
+
+○0000001370○sys10_mm02
+●0000001370●
+
+○0000001371○sys20_adv03
+●0000001371●
+
+○0000001372○fcm_ko10a
+●0000001372●
+
+○0000001373○sys20_adv03
+●0000001373●
+
+○0000001374○sys20_adv03
+●0000001374●
+
+○0000001375○fcm_ko10a
+●0000001375●
+
+○0000001376○sys20_adv03
+●0000001376●
+
+○0000001377○sys20_adv03
+●0000001377●
+
+○0000001378○fcm_ko10a
+●0000001378●
+
+○0000001379○sys20_adv03
+●0000001379●
+
+○0000001380○sys20_adv03
+●0000001380●
+
+○0000001381○fcm_ko10a
+●0000001381●
+
+○0000001382○sys20_adv03
+●0000001382●
+
+○0000001383○sys20_adv03
+●0000001383●
+
+○0000001384○fcm_ko10a
+●0000001384●
+
+○0000001385○sys20_adv03
+●0000001385●
+
+○0000001386○sys20_adv03
+●0000001386●
+
+○0000001387○fcm_ko10a
+●0000001387●
+
+○0000001388○sys20_adv03
+●0000001388●
+
+○0000001389○sys20_adv03
+●0000001389●
+
+○0000001390○fcm_ko10a
+●0000001390●
+
+○0000001391○sys20_adv03
+●0000001391●
+
+○0000001392○sys20_adv03
+●0000001392●
+
+○0000001393○fcm_ko10a
+●0000001393●
+
+○0000001394○sys20_adv03
+●0000001394●
+
+○0000001395○sys20_adv03
+●0000001395●
+
+○0000001396○fcm_ko10a
+●0000001396●
+
+○0000001397○sys20_adv03
+●0000001397●
+
+○0000001398○sys20_adv03
+●0000001398●
+
+○0000001399○fcm_ko10a
+●0000001399●
+
+○0000001400○sys20_adv03
+●0000001400●
+
+○0000001401○sys20_adv03
+●0000001401●
+
+○0000001402○fcm_ko10a
+●0000001402●
+
+○0000001403○sys20_adv03
+●0000001403●
+
+○0000001404○sys20_adv03
+●0000001404●
+
+○0000001405○fcm_ko10a
+●0000001405●
+
+○0000001406○sys20_adv03
+●0000001406●
+
+○0000001407○sys20_adv03
+●0000001407●
+
+○0000001408○fcm_ko10a
+●0000001408●
+
+○0000001409○sys20_adv03
+●0000001409●
+
+○0000001410○sys20_adv03
+●0000001410●
+
+○0000001411○fcm_ko10a
+●0000001411●
+
+○0000001412○sys20_adv03
+●0000001412●
+
+○0000001413○sys20_adv03
+●0000001413●
+
+○0000001414○fcm_ko10a
+●0000001414●
+
+○0000001415○sys20_adv03
+●0000001415●
+
+○0000001416○sys20_adv03
+●0000001416●
+
+○0000001417○fcm_ko10a
+●0000001417●
+
+○0000001418○sys20_adv03
+●0000001418●
+
+○0000001419○sys20_adv03
+●0000001419●
+
+○0000001420○fcm_ko10a
+●0000001420●
+
+○0000001421○sys20_adv03
+●0000001421●
+
+○0000001422○sys20_adv03
+●0000001422●
+
+○0000001423○fcm_ko10a
+●0000001423●
+
+○0000001424○sys20_adv03
+●0000001424●
+
+○0000001425○sys20_adv03
+●0000001425●
+
+○0000001426○fcm_ko10a
+●0000001426●
+
+○0000001427○sys20_adv03
+●0000001427●
+
+○0000001428○sys20_adv03
+●0000001428●
+
+○0000001429○fcm_ko10a
+●0000001429●
+
+○0000001430○sys20_adv03
+●0000001430●
+
+○0000001431○sys20_adv03
+●0000001431●
+
+○0000001432○fcm_ko10a
+●0000001432●
+
+○0000001433○sys20_adv03
+●0000001433●
+
+○0000001434○sys20_adv03
+●0000001434●
+
+○0000001435○fcm_ko10a
+●0000001435●
+
+○0000001436○sys20_adv03
+●0000001436●
+
+○0000001437○sys20_adv03
+●0000001437●
+
+○0000001438○fcm_ko10a
+●0000001438●
+
+○0000001439○sys20_adv03
+●0000001439●
+
+○0000001440○sys20_adv03
+●0000001440●
+
+○0000001441○fcm_ko10a
+●0000001441●
+
+○0000001442○sys20_adv03
+●0000001442●
+
+○0000001443○sys20_adv03
+●0000001443●
+
+○0000001444○fcm_ko10a
+●0000001444●
+
+○0000001445○sys20_adv03
+●0000001445●
+
+○0000001446○sys20_adv03
+●0000001446●
+
+○0000001447○fcm_ko10a
+●0000001447●
+
+○0000001448○sys20_adv03
+●0000001448●
+
+○0000001449○sys20_adv03
+●0000001449●
+
+○0000001450○sys20_adv03
+●0000001450●
+
+○0000001451○fcm_ko10a
+●0000001451●
+
+○0000001452○sys20_adv03
+●0000001452●
+
+○0000001453○sys20_adv03
+●0000001453●
+
+○0000001454○fcm_ko10a
+●0000001454●
+
+○0000001455○sys20_adv03
+●0000001455●
+
+○0000001456○sys20_adv03
+●0000001456●
+
+○0000001457○fcm_ko10a
+●0000001457●
+
+○0000001458○sys20_adv03
+●0000001458●
+
+○0000001459○sys20_adv03
+●0000001459●
+
+○0000001460○fcm_ko10a
+●0000001460●
+
+○0000001461○sys20_adv03
+●0000001461●
+
+○0000001462○sys20_adv03
+●0000001462●
+
+○0000001463○fcm_ko10a
+●0000001463●
+
+○0000001464○sys20_adv03
+●0000001464●
+
+○0000001465○sys20_adv03
+●0000001465●
+
+○0000001466○fcm_ko10a
+●0000001466●
+
+○0000001467○sys20_adv03
+●0000001467●
+
+○0000001468○sys20_adv03
+●0000001468●
+
+○0000001469○fcm_ko10a
+●0000001469●
+
+○0000001470○sys20_adv03
+●0000001470●
+
+○0000001471○sys20_adv03
+●0000001471●
+
+○0000001472○fcm_ko10a
+●0000001472●
+
+○0000001473○sys20_adv03
+●0000001473●
+
+○0000001474○sys20_adv03
+●0000001474●
+
+○0000001475○fcm_ko10a
+●0000001475●
+
+○0000001476○sys20_adv03
+●0000001476●
+
+○0000001477○sys20_adv03
+●0000001477●
+
+○0000001478○fcm_ko10a
+●0000001478●
+
+○0000001479○sys20_adv03
+●0000001479●
+
+○0000001480○sys20_adv03
+●0000001480●
+
+○0000001481○fcm_ko10a
+●0000001481●
+
+○0000001482○sys20_adv03
+●0000001482●
+
+○0000001483○sys20_adv03
+●0000001483●
+
+○0000001484○fcm_ko10a
+●0000001484●
+
+○0000001485○sys20_adv03
+●0000001485●
+
+○0000001486○sys20_adv03
+●0000001486●
+
+○0000001487○fcm_ko10a
+●0000001487●
+
+○0000001488○sys20_adv03
+●0000001488●
+
+○0000001489○sys20_adv03
+●0000001489●
+
+○0000001490○fcm_ko10a
+●0000001490●
+
+○0000001491○sys20_adv03
+●0000001491●
+
+○0000001492○sys20_adv03
+●0000001492●
+
+○0000001493○fcm_ko10a
+●0000001493●
+
+○0000001494○sys20_adv03
+●0000001494●
+
+○0000001495○sys20_adv03
+●0000001495●
+
+○0000001496○fcm_ko10a
+●0000001496●
+
+○0000001497○sys20_adv03
+●0000001497●
+
+○0000001498○sys20_adv03
+●0000001498●
+
+○0000001499○fcm_ko10a
+●0000001499●
+
+○0000001500○sys20_adv03
+●0000001500●
+
+○0000001501○sys20_adv03
+●0000001501●
+
+○0000001502○fcm_ko10a
+●0000001502●
+
+○0000001503○sys20_adv03
+●0000001503●
+
+○0000001504○sys20_adv03
+●0000001504●
+
+○0000001505○fcm_ko10a
+●0000001505●
+
+○0000001506○sys20_adv03
+●0000001506●
+
+○0000001507○sys10_mm02
+●0000001507●
+
+○0000001508○sys20_adv03
+●0000001508●
+
+○0000001509○fcm_ko10a
+●0000001509●
+
+○0000001510○sys20_adv03
+●0000001510●
+
+○0000001511○sys20_adv03
+●0000001511●
+
+○0000001512○fcm_ko10a
+●0000001512●
+
+○0000001513○sys20_adv03
+●0000001513●
+
+○0000001514○sys20_adv03
+●0000001514●
+
+○0000001515○fcm_ko10a
+●0000001515●
+
+○0000001516○sys20_adv03
+●0000001516●
+
+○0000001517○sys20_adv03
+●0000001517●
+
+○0000001518○fcm_ko10a
+●0000001518●
+
+○0000001519○sys20_adv03
+●0000001519●
+
+○0000001520○sys20_adv03
+●0000001520●
+
+○0000001521○fcm_ko10a
+●0000001521●
+
+○0000001522○sys20_adv03
+●0000001522●
+
+○0000001523○sys20_adv03
+●0000001523●
+
+○0000001524○fcm_ko10a
+●0000001524●
+
+○0000001525○sys20_adv03
+●0000001525●
+
+○0000001526○sys20_adv03
+●0000001526●
+
+○0000001527○fcm_ko10a
+●0000001527●
+
+○0000001528○sys20_adv03
+●0000001528●
+
+○0000001529○sys20_adv03
+●0000001529●
+
+○0000001530○fcm_ko10a
+●0000001530●
+
+○0000001531○sys20_adv03
+●0000001531●
+
+○0000001532○sys20_adv03
+●0000001532●
+
+○0000001533○fcm_ko10a
+●0000001533●
+
+○0000001534○sys20_adv03
+●0000001534●
+
+○0000001535○sys20_adv03
+●0000001535●
+
+○0000001536○fcm_ko10a
+●0000001536●
+
+○0000001537○sys20_adv03
+●0000001537●
+
+○0000001538○sys20_adv03
+●0000001538●
+
+○0000001539○fcm_ko10a
+●0000001539●
+
+○0000001540○sys20_adv03
+●0000001540●
+
+○0000001541○sys20_adv03
+●0000001541●
+
+○0000001542○fcm_ko10a
+●0000001542●
+
+○0000001543○sys20_adv03
+●0000001543●
+
+○0000001544○sys20_adv03
+●0000001544●
+
+○0000001545○fcm_ko10a
+●0000001545●
+
+○0000001546○sys20_adv03
+●0000001546●
+
+○0000001547○sys20_adv03
+●0000001547●
+
+○0000001548○fcm_ko10a
+●0000001548●
+
+○0000001549○sys20_adv03
+●0000001549●
+
+○0000001550○sys20_adv03
+●0000001550●
+
+○0000001551○fcm_ko10a
+●0000001551●
+
+○0000001552○sys20_adv03
+●0000001552●
+
+○0000001553○sys20_adv03
+●0000001553●
+
+○0000001554○fcm_ko10a
+●0000001554●
+
+○0000001555○sys20_adv03
+●0000001555●
+
+○0000001556○sys20_adv03
+●0000001556●
+
+○0000001557○fcm_ko10a
+●0000001557●
+
+○0000001558○sys20_adv03
+●0000001558●
+
+○0000001559○sys20_adv03
+●0000001559●
+
+○0000001560○fcm_ko10a
+●0000001560●
+
+○0000001561○sys20_adv03
+●0000001561●
+
+○0000001562○sys20_adv03
+●0000001562●
+
+○0000001563○fcm_ko10a
+●0000001563●
+
+○0000001564○sys20_adv03
+●0000001564●
+
+○0000001565○sys20_adv03
+●0000001565●
+
+○0000001566○fcm_ko10a
+●0000001566●
+
+○0000001567○sys20_adv03
+●0000001567●
+
+○0000001568○sys20_adv03
+●0000001568●
+
+○0000001569○fcm_ko10a
+●0000001569●
+
+○0000001570○sys20_adv03
+●0000001570●
+
+○0000001571○sys20_adv03
+●0000001571●
+
+○0000001572○fcm_ko10a
+●0000001572●
+
+○0000001573○sys20_adv03
+●0000001573●
+
+○0000001574○sys20_adv03
+●0000001574●
+
+○0000001575○fcm_ko10a
+●0000001575●
+
+○0000001576○sys20_adv03
+●0000001576●
+
+○0000001577○sys20_adv03
+●0000001577●
+
+○0000001578○fcm_ko10a
+●0000001578●
+
+○0000001579○sys20_adv03
+●0000001579●
+
+○0000001580○sys20_adv03
+●0000001580●
+
+○0000001581○fcm_ko10a
+●0000001581●
+
+○0000001582○sys20_adv03
+●0000001582●
+
+○0000001583○sys20_adv03
+●0000001583●
+
+○0000001584○fcm_ko10a
+●0000001584●
+
+○0000001585○sys20_adv03
+●0000001585●
+
+○0000001586○sys20_adv03
+●0000001586●
+
+○0000001587○fcm_ko10a
+●0000001587●
+
+○0000001588○sys20_adv03
+●0000001588●
+
+○0000001589○sys20_adv03
+●0000001589●
+
+○0000001590○fcm_ko10a
+●0000001590●
+
+○0000001591○sys20_adv03
+●0000001591●
+
+○0000001592○sys20_adv03
+●0000001592●
+
+○0000001593○fcm_ko10a
+●0000001593●
+
+○0000001594○sys20_adv03
+●0000001594●
+
+○0000001595○sys20_adv03
+●0000001595●
+
+○0000001596○fcm_ko10a
+●0000001596●
+
+○0000001597○sys20_adv03
+●0000001597●
+
+○0000001598○sys20_adv03
+●0000001598●
+
+○0000001599○fcm_ko10a
+●0000001599●
+
+○0000001600○sys20_adv03
+●0000001600●
+
+○0000001601○sys20_adv03
+●0000001601●
+
+○0000001602○fcm_ko10a
+●0000001602●
+
+○0000001603○sys20_adv03
+●0000001603●
+
+○0000001604○sys20_adv03
+●0000001604●
+
+○0000001605○fcm_ko10a
+●0000001605●
+
+○0000001606○sys20_adv03
+●0000001606●
+
+○0000001607○sys20_adv03
+●0000001607●
+
+○0000001608○fcm_ko10a
+●0000001608●
+
+○0000001609○sys20_adv03
+●0000001609●
+
+○0000001610○sys20_adv03
+●0000001610●
+
+○0000001611○fcm_ko10a
+●0000001611●
+
+○0000001612○sys20_adv03
+●0000001612●
+
+○0000001613○sys20_adv03
+●0000001613●
+
+○0000001614○fcm_ko10a
+●0000001614●
+
+○0000001615○sys20_adv03
+●0000001615●
+
